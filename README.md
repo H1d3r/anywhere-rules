@@ -2,6 +2,10 @@
 
 Anywhere 可订阅规则库。仓库会通过 GitHub Actions 自动拉取上游规则，转换成 Anywhere Routing Rule Set 的 `.arrs` 文本格式。
 
+## 关于 Anywhere
+
+[Anywhere](https://github.com/NodePassProject/Anywhere) 一款完全基于 Swift 开发的原生零依赖代理客户端。无 Electron，无 WebView，非 sing-box 壳程序。从底层实现纯协议封装。支持 vless、trojan、hysteria、shadowsocks、http 等多种主流协议。同时兼顾稳定与性能。
+
 ## 目录
 
 - `rules/common/`：常用规则集，适合大多数用户直接订阅。
