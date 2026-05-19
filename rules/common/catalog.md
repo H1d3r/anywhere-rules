@@ -5,7 +5,7 @@
 | Name | Rules | Skipped | Description | File |
 | --- | ---: | ---: | --- | --- |
 | Reject | 6204 | 2 | 广告、恶意站点和跟踪拦截基础集合 | [common/Reject.arrs](./Reject.arrs) |
-| Ads_SukkaW | 115343 | 18 | SukkaW 广告拦截集合 | [common/Ads_SukkaW.arrs](./Ads_SukkaW.arrs) |
+| Ads_SukkaW | 115179 | 18 | SukkaW 广告拦截集合 | [common/Ads_SukkaW.arrs](./Ads_SukkaW.arrs) |
 | Ads_AWAvenue | 905 | 0 | 秋风广告规则 AWAvenue | [common/Ads_AWAvenue.arrs](./Ads_AWAvenue.arrs) |
 | AI | 49 | 1 | 常见 AI 服务 | [common/AI.arrs](./AI.arrs) |
 | Proxy | 1555 | 2 | 常用代理域名集合 | [common/Proxy.arrs](./Proxy.arrs) |

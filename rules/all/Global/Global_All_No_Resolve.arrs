@@ -3,9 +3,9 @@
 # SOURCE: https://github.com/blackmatrix7/ios_rule_script/blob/master/rule/Surge/Global/Global_All_No_Resolve.list
 # GENERATED-FOR: Anywhere Routing Rule Set
 # NOTE: DOMAIN rules are mapped to Anywhere domain suffix rules.
-# RULES: 34272
+# RULES: 34293
 # SKIPPED: 47
-# UPSTREAM-UPDATED: 2026-05-18 02:24:03
+# UPSTREAM-UPDATED: 2026-05-20 02:39:01
 # SKIPPED-TYPES: PROCESS-NAME=1, USER-AGENT=46
 
 name = Global
@@ -503,6 +503,7 @@ name = Global
 2, 55dndn.com
 2, 567321.online
 2, 568xe.com
+2, 573.jp
 2, 58avgo.com
 2, 592r.com
 2, 59mvmv.com
@@ -14212,6 +14213,7 @@ name = Global
 2, keytransparency.foo
 2, keytransparency.org
 2, kfs.io
+2, kgisystems.com
 2, kgslb.com
 2, kgv.ac.uk
 2, khanacademy.org
@@ -14315,6 +14317,7 @@ name = Global
 2, kissjav.li
 2, kitakyushubank.co.jp
 2, kitts.ac.uk
+2, kiwi.jp
 2, kiwibrowser.com
 2, kiyobank.co.jp
 2, kk.stream
@@ -14354,6 +14357,19 @@ name = Global
 2, kompoz2.com
 2, konachan.net
 2, konachan.wjcodes.com
+2, konami-igaming.online
+2, konami.co.jp
+2, konami.com
+2, konami.net
+2, konami.org
+2, konamicrossmedia.com
+2, konamigaming.com
+2, konamigaming.net
+2, konamigaming.online
+2, konamionline.com
+2, konamiopen.jp
+2, konamisportsclub.jp
+2, konamistyle.jp
 2, kopfhorergunstigshop.com
 2, korbit.co.kr
 2, koreanpornmovie.com
@@ -20598,6 +20614,8 @@ name = Global
 2, researchkit.tv
 2, researchscotland.ac.uk
 2, researchwales.ac.uk
+2, resella.jp
+2, resellablue.com
 2, resilient-decarbonised-energy-cdt.ac.uk
 2, resilient-decarbonised-energy-dtc.ac.uk
 2, resl.ac.uk
@@ -27377,6 +27395,7 @@ name = Global
 2, ysx-mm.com
 2, yuenuge113.xyz
 2, yuenuge18.cc
+2, yugioh-card.com
 2, yunlaopo.cc
 2, yunlaopo.com
 2, yunlaopo.net
@@ -32387,6 +32406,7 @@ name = Global
 2, siddharthasintent.org
 2, sidelinesnews.com
 2, sidelinessportseatery.com
+2, sider.ai
 2, sierrafriendsoftibet.org
 2, signal.org
 2, sijihuisuo.club
@@ -34073,6 +34093,7 @@ name = Global
 2, zhanbin.net
 2, zhangboli.net
 2, zhangtianliang.com
+2, zhangzhehan.net
 2, zhanlve.org
 2, zhenghui.org
 2, zhenlibu.info

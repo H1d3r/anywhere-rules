@@ -3,9 +3,9 @@
 # SOURCE: https://github.com/blackmatrix7/ios_rule_script/blob/master/rule/Surge/ChinaTest/ChinaTest_All.list
 # GENERATED-FOR: Anywhere Routing Rule Set
 # NOTE: DOMAIN rules are mapped to Anywhere domain suffix rules.
-# RULES: 113585
+# RULES: 113571
 # SKIPPED: 31
-# UPSTREAM-UPDATED: 2026-05-18 02:24:44
+# UPSTREAM-UPDATED: 2026-05-20 02:39:42
 # SKIPPED-TYPES: USER-AGENT=31
 
 name = ChinaTest
@@ -4106,7 +4106,6 @@ name = ChinaTest
 2, 025tffs.com
 2, 025tongfeng.com
 2, 025tuanjian.com
-2, 025tuopan.com
 2, 025xl.com
 2, 025zp.com
 2, 0264032a252fcf53.com
@@ -4638,7 +4637,6 @@ name = ChinaTest
 2, 0771cyts.com
 2, 0771rc.com
 2, 0772fang.com
-2, 0772gcw.com
 2, 0772job.com
 2, 07743988888.com
 2, 07752267777.com
@@ -7638,7 +7636,6 @@ name = ChinaTest
 2, 3527.net
 2, 353233.com
 2, 35335.com
-2, 3536.com
 2, 35463.org
 2, 354d7967c11032.beer
 2, 3551.com
@@ -17890,7 +17887,6 @@ name = ChinaTest
 2, bakaxl.com
 2, bakbitionb.com
 2, bakclass.com
-2, bakerdavid.shop
 2, bakingerp.com
 2, baklib.com
 2, bakpower.com
@@ -18141,7 +18137,6 @@ name = ChinaTest
 2, baoji-marathon.com
 2, baoji3g.com
 2, baojia.com
-2, baojiagaiye.com
 2, baojian.com
 2, baojiazhijia.com
 2, baojiegy.com
@@ -22949,7 +22944,6 @@ name = ChinaTest
 2, cctv-caijing.com
 2, cctv-peiyin.com
 2, cctv-star.com
-2, cctv0002.com
 2, cctv13cctv13.com
 2, cctv18.com
 2, cctv4g.com
@@ -23333,6 +23327,7 @@ name = ChinaTest
 2, cdt-md.com
 2, cdt-re.com
 2, cdtcxh.org
+2, cdthunder.com
 2, cdtianda.com
 2, cdtkdw.com
 2, cdtlev.com
@@ -25953,7 +25948,6 @@ name = ChinaTest
 2, chuangyejia.com
 2, chuangyetv.com
 2, chuangyijisu.com
-2, chuangyimao.com
 2, chuangyiqifu.com
 2, chuangyisai.com
 2, chuangyiwh.com
@@ -27121,7 +27115,6 @@ name = ChinaTest
 2, cncsen.com
 2, cncsj.net
 2, cncsparetools.com
-2, cnctg.net
 2, cnction.com
 2, cnctrip.com
 2, cncwkj.com
@@ -28891,7 +28884,6 @@ name = ChinaTest
 2, cqstgxy.com
 2, cqstjt.com
 2, cqstjzx.com
-2, cqstudents.com
 2, cqsuoqi.com
 2, cqswah.com
 2, cqswjjx.com
@@ -30611,7 +30603,6 @@ name = ChinaTest
 2, dajiazhongyi.com
 2, dajiazulin.com
 2, dajibacdn.com
-2, dajibapass.com
 2, dajilin.com
 2, dajinan.com
 2, dajingdiao.com
@@ -31873,6 +31864,7 @@ name = ChinaTest
 2, dfzxvip.com
 2, dfzyxy.net
 2, dg-360lhx.com
+2, dg-dn.com
 2, dg-dns.com
 2, dg-dx.com
 2, dg-hanxin.com
@@ -35636,7 +35628,6 @@ name = ChinaTest
 2, en.tm
 2, en51.com
 2, en5static.com
-2, en8848.com
 2, en998.com
 2, enacdn.biz
 2, enacdn.info
@@ -36543,7 +36534,6 @@ name = ChinaTest
 2, eyou.net
 2, eyoubaidu.com
 2, eyoucms.com
-2, eyouct.com
 2, eyoungindustry.com
 2, eyourbusiness.com
 2, eyouwx.com
@@ -40581,6 +40571,7 @@ name = ChinaTest
 2, geedu.com
 2, geeetech.com
 2, geeeu.com
+2, geeflex.com
 2, geehy.com
 2, geejing.com
 2, geek-docs.com
@@ -44998,7 +44989,6 @@ name = ChinaTest
 2, gxzwhw.com
 2, gxzwjt.com
 2, gxzwxx.com
-2, gxzxgl.com
 2, gxzxht.com
 2, gxzxmy.net
 2, gxzxrh.com
@@ -52577,6 +52567,7 @@ name = ChinaTest
 2, i5p.com
 2, i5sto.com
 2, i5tea.com
+2, i5zhen.com
 2, i66wan.com
 2, i6879.com
 2, i72.com
@@ -55222,7 +55213,6 @@ name = ChinaTest
 2, iyouxun.com
 2, iyruan.com
 2, iysj.com
-2, iytc.net
 2, iytcdn.com
 2, iyuan.ltd
 2, iyuanpei.cc
@@ -57270,6 +57260,7 @@ name = ChinaTest
 2, jiupaicom.com
 2, jiupainews.com
 2, jiupaipay.com
+2, jiuphone.com
 2, jiuq.com
 2, jiuqianwan.group
 2, jiuqianwanjituan.com
@@ -62701,7 +62692,6 @@ name = ChinaTest
 2, lc1001.com
 2, lc123.net
 2, lc1618.com
-2, lc442.com
 2, lc787.com
 2, lcang.com
 2, lcatgame.com
@@ -67365,7 +67355,6 @@ name = ChinaTest
 2, meetxian.com
 2, meetyoumuseum.com
 2, meetzoom.net
-2, meexx.xyz
 2, mefcl.com
 2, mefenglife.com
 2, mefenlife.com
@@ -70964,7 +70953,6 @@ name = ChinaTest
 2, newcger.com
 2, newchainbase.com
 2, newchieve.com
-2, newchinabeach.org
 2, newchinalife.com
 2, newcitygz.com
 2, newclasses.org
@@ -72228,7 +72216,6 @@ name = ChinaTest
 2, nnnntv.com
 2, nnnuo.com
 2, nnpckj.com
-2, nnpma.com
 2, nnpml.com
 2, nnpnzx.com
 2, nnpp.vip
@@ -72993,7 +72980,6 @@ name = ChinaTest
 2, oafocus.net
 2, oahelp.com
 2, oahelp.net
-2, oaimai.com
 2, oait360.com
 2, oak-amc.com
 2, oaloft.com
@@ -77730,7 +77716,6 @@ name = ChinaTest
 2, qmxphoto.com
 2, qmxrmt.com
 2, qmxyc.com
-2, qmyc.ltd
 2, qmyq.com
 2, qmyyl.com
 2, qmz5.com
@@ -77981,6 +77966,7 @@ name = ChinaTest
 2, qrmanhua.com
 2, qrobot.com
 2, qrprt.com
+2, qrstuvwxyzab.com
 2, qrtest.com
 2, qrtz.co
 2, qrx.cc
@@ -79770,7 +79756,6 @@ name = ChinaTest
 2, ritaomeng.com
 2, ritarpower.com
 2, rivalsa.net
-2, riveralydia.shop
 2, rivergame.net
 2, riverinepm.com
 2, riverlimittech.net
@@ -90775,7 +90760,6 @@ name = ChinaTest
 2, threetong.com
 2, threewater.net
 2, thrive-chemicals.com
-2, throughyourlens.org
 2, thrrip.space
 2, ths8.com
 2, thsj.com
@@ -94134,7 +94118,6 @@ name = ChinaTest
 2, urlsecajog.com
 2, uroandrologyseries.com
 2, urocancer.org
-2, urology.wiki
 2, urongda.com
 2, urovo.com
 2, urovoworld.com
@@ -97150,6 +97133,7 @@ name = ChinaTest
 2, wetestlab.net
 2, wetherm.com
 2, weti.me
+2, wetimetech.com
 2, weton.net
 2, wetools.com
 2, wetools.pro
@@ -97788,7 +97772,6 @@ name = ChinaTest
 2, willsemi.com
 2, willsfitness.net
 2, willwin91.com
-2, wiloon.com
 2, wimetro.com
 2, wimiar.com
 2, win-haoxiang-win.com
@@ -97968,7 +97951,6 @@ name = ChinaTest
 2, wisdri.com
 2, wise-iot.com
 2, wise99.com
-2, wiseah.com
 2, wiseasy.com
 2, wisebond.net
 2, wisecity.net
@@ -98017,6 +97999,7 @@ name = ChinaTest
 2, witintech.com
 2, witkeyschool.com
 2, witmart.net
+2, witmem.com
 2, witnew.net
 2, witontek.com
 2, witrn.com
@@ -101327,6 +101310,7 @@ name = ChinaTest
 2, xinda-bio.com
 2, xindachem.com
 2, xindalawyer.com
+2, xindao6.com
 2, xindaohang123.com
 2, xindasulian.com
 2, xinde.org
@@ -103733,6 +103717,7 @@ name = ChinaTest
 2, xyyao.com
 2, xyyb.net
 2, xyybs.com
+2, xyydedge.com
 2, xyydnode.com
 2, xyyh.xyz
 2, xyyjxxjsyxgs.com
@@ -104178,6 +104163,7 @@ name = ChinaTest
 2, yanjinews.com
 2, yanjiubaogao.com
 2, yanjiuchubanshe.com
+2, yanjiwangluo.com
 2, yanjob.com
 2, yanjun7858.com
 2, yanjunbo.com
@@ -106283,6 +106269,7 @@ name = ChinaTest
 2, ymxinxi.com
 2, ymxlass.com
 2, ymyun.com
+2, ymyw.net
 2, ymyxsw.com
 2, ymzer.com
 2, ymzsl.com
@@ -107857,7 +107844,6 @@ name = ChinaTest
 2, yunface.com
 2, yunfalv.com
 2, yunfan.com
-2, yunfan0739.com
 2, yunfanka.com
 2, yunfanyouxi.com
 2, yunfei89.com
