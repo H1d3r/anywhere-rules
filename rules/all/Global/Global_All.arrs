@@ -3,9 +3,9 @@
 # SOURCE: https://github.com/blackmatrix7/ios_rule_script/blob/master/rule/Surge/Global/Global_All.list
 # GENERATED-FOR: Anywhere Routing Rule Set
 # NOTE: DOMAIN rules are mapped to Anywhere domain suffix rules.
-# RULES: 34293
+# RULES: 34304
 # SKIPPED: 47
-# UPSTREAM-UPDATED: 2026-05-20 02:39:01
+# UPSTREAM-UPDATED: 2026-05-22 02:40:00
 # SKIPPED-TYPES: PROCESS-NAME=1, USER-AGENT=46
 
 name = Global
@@ -1436,6 +1436,7 @@ name = Global
 2, alexa.com
 2, alexanderlondoncollege.ac.uk
 2, alexanderstreet.com
+2, alfa.me
 2, alfabank.oavdo.amc
 2, alfabank.ru
 2, alfabank.st
@@ -8844,7 +8845,6 @@ name = Global
 2, f6.ru
 2, f6.security
 2, f6988.com
-2, f95zone.to
 2, fa.gov.tw
 2, faacebok.com
 2, faacebook.com
@@ -12060,7 +12060,6 @@ name = Global
 2, hpcodewarsbcn.com
 2, hpcomputers.com
 2, hpcomputerservices.com
-2, hpconnected.com
 2, hpconnected.net
 2, hpconnected.org
 2, hpconnected.us
@@ -16647,9 +16646,11 @@ name = Global
 2, moxing.news
 2, moystoys.com
 2, mozgcp.net
+2, mozilla.ai
 2, mozilla.com
 2, mozilla.community
 2, mozilla.net
+2, mozillafoundation.org
 2, mp.world
 2, mpa-mpp.ac.uk
 2, mpa-uk.ac.uk
@@ -17007,6 +17008,7 @@ name = Global
 2, myyoungmomisnude.com
 2, myyoungwifeisnude.com
 2, mzed.com
+2, mzl.la
 2, n15zev3w.shop
 2, n26.com
 2, n3ro.lol
@@ -23236,6 +23238,7 @@ name = Global
 2, taose.in
 2, tapb.ac.uk
 2, tapestry.ac.uk
+2, tapnow.ai
 2, taptotokyo.com
 2, taqunuhai.vip
 2, taradinhos.com
@@ -23296,6 +23299,8 @@ name = Global
 2, teachmyass.com
 2, teamneedforspeed.com
 2, teamskeet.com
+2, teamspeak-services.com
+2, teamspeak.com
 2, teamviewer.us
 2, teamwork.ac.uk
 2, tean.ac.uk
@@ -29323,6 +29328,7 @@ name = Global
 2, f-droid.org
 2, f2pool.com
 2, f8.com
+2, f95zone.to
 2, fabric.io
 2, faceless.me
 2, facesofnyfw.com
@@ -29657,6 +29663,7 @@ name = Global
 2, fzlm.net
 2, g-area.org
 2, g-queen.com
+2, g.ai
 2, g.co
 2, g.kfd.me
 2, g0v.social
@@ -30762,6 +30769,7 @@ name = Global
 2, lematin.ch
 2, lemonde.fr
 2, lenwhite.com
+2, leonardo.ai
 2, lerosua.org
 2, lesoir.be
 2, lester850.info
@@ -32089,6 +32097,7 @@ name = Global
 2, ranxiang.com
 2, ranyunfei.com
 2, rapbull.net
+2, raphael.app
 2, rapidgator.net
 2, rapidmoviez.com
 2, rapidvpn.com
@@ -32216,6 +32225,7 @@ name = Global
 2, rtycminnesota.org
 2, ruanyifeng.com
 2, rukor.org
+2, rule34.us
 2, rule34.xxx
 2, rule34video.com
 2, rumble.com
@@ -32547,6 +32557,7 @@ name = Global
 2, sosad.fun
 2, sosreader.com
 2, sostibet.org
+2, sotwe.com
 2, sou-tong.org
 2, soubory.com
 2, soul-plus.net

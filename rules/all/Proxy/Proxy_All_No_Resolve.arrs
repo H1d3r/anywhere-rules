@@ -3,9 +3,9 @@
 # SOURCE: https://github.com/blackmatrix7/ios_rule_script/blob/master/rule/Surge/Proxy/Proxy_All_No_Resolve.list
 # GENERATED-FOR: Anywhere Routing Rule Set
 # NOTE: DOMAIN rules are mapped to Anywhere domain suffix rules.
-# RULES: 6769
+# RULES: 6775
 # SKIPPED: 8
-# UPSTREAM-UPDATED: 2026-05-20 02:39:23
+# UPSTREAM-UPDATED: 2026-05-22 02:40:21
 # SKIPPED-TYPES: USER-AGENT=8
 
 name = Proxy
@@ -1791,6 +1791,7 @@ name = Proxy
 2, f-droid.org
 2, f2pool.com
 2, f8.com
+2, f95zone.to
 2, fabric.io
 2, faceless.me
 2, facesofnyfw.com
@@ -2129,6 +2130,7 @@ name = Proxy
 2, fzlm.net
 2, g-area.org
 2, g-queen.com
+2, g.ai
 2, g.co
 2, g.kfd.me
 2, g0v.social
@@ -3240,6 +3242,7 @@ name = Proxy
 2, lematin.ch
 2, lemonde.fr
 2, lenwhite.com
+2, leonardo.ai
 2, lerosua.org
 2, lesoir.be
 2, lester850.info
@@ -4573,6 +4576,7 @@ name = Proxy
 2, ranxiang.com
 2, ranyunfei.com
 2, rapbull.net
+2, raphael.app
 2, rapidgator.net
 2, rapidmoviez.com
 2, rapidvpn.com
@@ -4700,6 +4704,7 @@ name = Proxy
 2, rtycminnesota.org
 2, ruanyifeng.com
 2, rukor.org
+2, rule34.us
 2, rule34.xxx
 2, rule34video.com
 2, rumble.com
@@ -5034,6 +5039,7 @@ name = Proxy
 2, sosad.fun
 2, sosreader.com
 2, sostibet.org
+2, sotwe.com
 2, sou-tong.org
 2, soubory.com
 2, soul-plus.net

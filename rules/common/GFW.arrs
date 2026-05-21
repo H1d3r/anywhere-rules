@@ -1,7 +1,7 @@
 # NAME: GFW
 # GENERATED-FOR: Anywhere Routing Rule Set
 # DESCRIPTION: GFW 域名列表
-# RULES: 4236
+# RULES: 4242
 # SKIPPED: 0
 # SOURCES:
 # - https://raw.githubusercontent.com/Loyalsoldier/v2ray-rules-dat/release/gfw.txt
@@ -1161,6 +1161,7 @@ name = GFW
 2, f-droid.org
 2, f2pool.com
 2, f8.com
+2, f95zone.to
 2, facebook.com
 2, facebook.de
 2, facebook.design
@@ -1348,6 +1349,7 @@ name = GFW
 2, fxnetworks.com
 2, g-area.org
 2, g-queen.com
+2, g.ai
 2, g.co
 2, g0v.social
 2, g6hentai.com
@@ -2199,6 +2201,7 @@ name = GFW
 2, lematin.ch
 2, lemonde.fr
 2, lenwhite.com
+2, leonardo.ai
 2, lesoir.be
 2, letscorp.net
 2, lexica.art
@@ -2963,6 +2966,7 @@ name = GFW
 2, raizoji.or.jp
 2, rakuten.co.jp
 2, ramcity.com.au
+2, raphael.app
 2, rapidmoviez.com
 2, rapidvpn.com
 2, rarbgprx.org
@@ -3042,6 +3046,7 @@ name = GFW
 2, rti.tw
 2, rtm.tnt-ea.com
 2, rts.ch
+2, rule34.us
 2, rule34.xxx
 2, rule34video.com
 2, rumble.com
@@ -3220,6 +3225,7 @@ name = GFW
 2, sos.org
 2, sosad.fun
 2, sosreader.com
+2, sotwe.com
 2, soubory.com
 2, soulcaliburhentai.net
 2, soundcloud.com
