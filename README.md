@@ -29,6 +29,12 @@ https://raw.githubusercontent.com/<owner>/<repo>/<branch>/rules/all/Apple/Apple.
 
 在 Anywhere 中填入对应 `.arrs` 链接即可。
 
+## MITM规则
+
+实验性功能，不保证效果，仅供学习交流。
+
+将后缀为`.amrs`的文件导入到mitm规则中，同时将`DomainReject.arrs`加入规则集选择`Reject`
+
 ## 自动更新
 
 `.github/workflows/update-rules.yml` 每天 04:18（Asia/Shanghai）运行一次，也支持手动触发。更新流程：
