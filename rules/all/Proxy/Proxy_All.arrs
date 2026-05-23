@@ -3,9 +3,9 @@
 # SOURCE: https://github.com/blackmatrix7/ios_rule_script/blob/master/rule/Surge/Proxy/Proxy_All.list
 # GENERATED-FOR: Anywhere Routing Rule Set
 # NOTE: DOMAIN rules are mapped to Anywhere domain suffix rules.
-# RULES: 6775
+# RULES: 6778
 # SKIPPED: 8
-# UPSTREAM-UPDATED: 2026-05-22 02:40:21
+# UPSTREAM-UPDATED: 2026-05-24 02:23:41
 # SKIPPED-TYPES: USER-AGENT=8
 
 name = Proxy
@@ -79,6 +79,7 @@ name = Proxy
 2, 228.net.tw
 2, 233abc.com
 2, 233v2.com
+2, 24hbook.com
 2, 24hrs.ca
 2, 24smile.org
 2, 25u.com
@@ -3444,6 +3445,7 @@ name = Proxy
 2, marxist.com
 2, marxist.net
 2, marxists.org
+2, mas.to
 2, mash.to
 2, mashable.com
 2, maskedip.com
@@ -3827,6 +3829,7 @@ name = Proxy
 2, ned.org
 2, nekoslovakia.net
 2, neo-miracle.com
+2, neodb.social
 2, neoforged.net
 2, neowin.net
 2, nephobox.com

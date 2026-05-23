@@ -3,9 +3,9 @@
 # SOURCE: https://github.com/blackmatrix7/ios_rule_script/blob/master/rule/Surge/Global/Global_All_No_Resolve.list
 # GENERATED-FOR: Anywhere Routing Rule Set
 # NOTE: DOMAIN rules are mapped to Anywhere domain suffix rules.
-# RULES: 34304
+# RULES: 34307
 # SKIPPED: 47
-# UPSTREAM-UPDATED: 2026-05-22 02:40:00
+# UPSTREAM-UPDATED: 2026-05-24 02:23:20
 # SKIPPED-TYPES: PROCESS-NAME=1, USER-AGENT=46
 
 name = Global
@@ -27649,6 +27649,7 @@ name = Global
 2, 228.net.tw
 2, 233abc.com
 2, 233v2.com
+2, 24hbook.com
 2, 24hrs.ca
 2, 24smile.org
 2, 25u.com
@@ -30969,6 +30970,7 @@ name = Global
 2, marxist.com
 2, marxist.net
 2, marxists.org
+2, mas.to
 2, mash.to
 2, mashable.com
 2, maskedip.com
@@ -31351,6 +31353,7 @@ name = Global
 2, ned.org
 2, nekoslovakia.net
 2, neo-miracle.com
+2, neodb.social
 2, neoforged.net
 2, neowin.net
 2, nephobox.com

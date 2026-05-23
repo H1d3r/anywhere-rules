@@ -1,7 +1,7 @@
 # NAME: GFW
 # GENERATED-FOR: Anywhere Routing Rule Set
 # DESCRIPTION: GFW 域名列表
-# RULES: 4242
+# RULES: 4245
 # SKIPPED: 0
 # SOURCES:
 # - https://raw.githubusercontent.com/Loyalsoldier/v2ray-rules-dat/release/gfw.txt
@@ -34,6 +34,7 @@ name = GFW
 2, 2047.one
 2, 2049bbs.xyz
 2, 233abc.com
+2, 24hbook.com
 2, 24hrs.ca
 2, 32red.com
 2, 36rain.com
@@ -2309,6 +2310,7 @@ name = GFW
 2, martsangkagyuofficial.org
 2, marxist.net
 2, marxists.org
+2, mas.to
 2, mash.to
 2, mastodon.cloud
 2, mastodon.host
@@ -2516,6 +2518,7 @@ name = GFW
 2, ndi.org
 2, nekoslovakia.net
 2, neo-miracle.com
+2, neodb.social
 2, neowin.net
 2, nephobox.com
 2, netalert.me
