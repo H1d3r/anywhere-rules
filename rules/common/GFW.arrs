@@ -1,7 +1,7 @@
 # NAME: GFW
 # GENERATED-FOR: Anywhere Routing Rule Set
 # DESCRIPTION: GFW 域名列表
-# RULES: 4246
+# RULES: 4247
 # SKIPPED: 0
 # SOURCES:
 # - https://raw.githubusercontent.com/Loyalsoldier/v2ray-rules-dat/release/gfw.txt
@@ -1028,6 +1028,7 @@ name = GFW
 2, douchi.space
 2, dougscripts.com
 2, doujincafe.com
+2, dowjones.io
 2, download.dappcdn.com
 2, dpool.top
 2, dpp.org.tw
