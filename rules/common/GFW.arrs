@@ -1,7 +1,7 @@
 # NAME: GFW
 # GENERATED-FOR: Anywhere Routing Rule Set
 # DESCRIPTION: GFW 域名列表
-# RULES: 4247
+# RULES: 4251
 # SKIPPED: 0
 # SOURCES:
 # - https://raw.githubusercontent.com/Loyalsoldier/v2ray-rules-dat/release/gfw.txt
@@ -268,6 +268,7 @@ name = GFW
 2, artstation.com
 2, arvanstorage.ir
 2, arweave.org
+2, as.mr
 2, asacp.org
 2, asiaharvest.org
 2, asianage.com
@@ -332,6 +333,7 @@ name = GFW
 2, bangdream.space
 2, bangkokpost.com
 2, bangumi.moe
+2, bangumi.tv
 2, bangyoulater.com
 2, bankmobilevibe.com
 2, bannedbook.org
@@ -387,6 +389,7 @@ name = GFW
 2, betvictor.com
 2, bfnn.org
 2, bfsh.hk
+2, bgm.tv
 2, bgme.me
 2, bgvpn.com
 2, biblesforamerica.org
@@ -705,6 +708,7 @@ name = GFW
 2, chenshan20042005.wordpress.com
 2, cherrysave.com
 2, chhongbi.org
+2, chii.in
 2, china-mmm.net
 2, china-review.com.ua
 2, china-week.com
@@ -806,7 +810,6 @@ name = GFW
 2, cn.uptodown.com
 2, cna.com.tw
 2, cnbbnews.wordpress.com
-2, cnbc.com
 2, cnbeta.com.tw
 2, cnd.org
 2, cnnews.chosun.com
@@ -1383,6 +1386,7 @@ name = GFW
 2, geek-art.net
 2, gekikame.com
 2, gelbooru.com
+2, gencraft.com
 2, generated.photos
 2, genius.com
 2, geph.io
@@ -1797,6 +1801,7 @@ name = GFW
 2, hicairo.com
 2, hiccears.com
 2, hidden-advent.org
+2, hiddify.com
 2, hide.me
 2, hideipvpn.com
 2, hideman.net
@@ -3208,7 +3213,6 @@ name = GFW
 2, socks-proxy.net
 2, sockslist.net
 2, socrec.org
-2, softether-download.com
 2, softether.co.jp
 2, softether.org
 2, softfamous.com
@@ -3786,6 +3790,7 @@ name = GFW
 2, vatn.org
 2, vcf-online.org
 2, vcfbuilder.org
+2, veed.io
 2, vegas.williamhill.com
 2, vegasred.com
 2, venetianmacao.com
@@ -4154,7 +4159,6 @@ name = GFW
 2, yfsp.tv
 2, yhcw.net
 2, yibaochina.com
-2, yidio.com
 2, yigeni.com
 2, yipub.com
 2, yizhihongxing.com
