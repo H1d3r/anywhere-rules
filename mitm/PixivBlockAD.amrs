@@ -1,0 +1,8 @@
+# Pixiv 去广告 - Anywhere MITM RuleSet
+
+name = Pixiv去广告
+hostname = oauth.secure.pixiv.net
+
+0, 2, ^/auth/token(?:\?|$), accept-encoding
+0, 1, ^/auth/token(?:\?|$), accept-encoding, identity
+1, 4, ^/auth/token(?:\?|$), ZnVuY3Rpb24gcHJvY2VzcyhjdHgpIHsKICBpZiAoY3R4LnBoYXNlICE9PSAicmVzcG9uc2UiIHx8ICFjdHguYm9keSkgcmV0dXJuOwogIHZhciBib2R5ID0gY3R4LmJvZHk7CiAgYm9keSA9IEFueXdoZXJlLmpzb24ucmVwbGFjZShib2R5LCAiJC5yZXNwb25zZS51c2VyLmlzX3ByZW1pdW0iLCB0cnVlKTsKICBib2R5ID0gQW55d2hlcmUuanNvbi5yZXBsYWNlKGJvZHksICIkLnVzZXIuaXNfcHJlbWl1bSIsIHRydWUpOwogIGN0eC5ib2R5ID0gYm9keTsKICBBbnl3aGVyZS5kb25lKCk7Cn0=

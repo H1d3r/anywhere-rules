@@ -1,7 +1,7 @@
 # Spotify 解锁/去广告 - Anywhere MITM RuleSet
 
 name = Spotify解锁
-hostname = spclient.wg.spotify.com, spotify.com
+hostname = spclient.wg.spotify.com, spclient.spotify.com, spotify.com
 
 0, 2, ^/user-customization-service/v1/customize(?:\?|$), if-none-match
 0, 2, ^/(?:bootstrap/v1/bootstrap|user-customization-service/v1/customize)(?:\?|$), accept-encoding
