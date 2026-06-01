@@ -1,7 +1,7 @@
 # NAME: CDN
 # GENERATED-FOR: Anywhere Routing Rule Set
 # DESCRIPTION: SukkaW CDN 直连辅助
-# RULES: 4507
+# RULES: 4508
 # SKIPPED: 58
 # SKIPPED-TYPES: DOMAIN-WILDCARD=58
 # SOURCES:
@@ -1695,6 +1695,7 @@ name = CDN
 2, myspacecdn.com
 2, r2cdn.myshopline.com
 2, myshopapps.com
+2, cdn.myopenpass.com
 2, cdn.myfutanari.com
 2, myfilebase.com
 2, msftstatic.com

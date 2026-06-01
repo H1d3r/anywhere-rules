@@ -3,9 +3,9 @@
 # SOURCE: https://github.com/blackmatrix7/ios_rule_script/blob/master/rule/Surge/Global/Global_All.list
 # GENERATED-FOR: Anywhere Routing Rule Set
 # NOTE: DOMAIN rules are mapped to Anywhere domain suffix rules.
-# RULES: 34348
+# RULES: 34350
 # SKIPPED: 47
-# UPSTREAM-UPDATED: 2026-06-01 02:26:45
+# UPSTREAM-UPDATED: 2026-06-02 03:41:15
 # SKIPPED-TYPES: PROCESS-NAME=1, USER-AGENT=46
 
 name = Global
@@ -16248,7 +16248,6 @@ name = Global
 2, minim.ac.uk
 2, minimarkham.ca
 2, minimarkham.com
-2, minimax.io
 2, minimoncton.ca
 2, minimoncton.com
 2, minimontrealcentre.ca
@@ -26420,8 +26419,11 @@ name = Global
 2, xhamster2.com
 2, xhamster3.com
 2, xhamsterlive.com
+2, xhnews.live
 2, xhot.pro
+2, xhpingcdn.com
 2, xhpjc6-cdn-settings.appsflyersdk.com
+2, xhreal5.com
 2, xhub.tv
 2, xiangrikui-app.com
 2, xianir.xyz

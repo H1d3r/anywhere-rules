@@ -1,6 +1,6 @@
 {
   "total_files": 38,
-  "total_rules": 191763,
+  "total_rules": 191845,
   "total_skipped": 141,
   "files": [
     {
@@ -25,7 +25,7 @@
       "name": "Ads_SukkaW",
       "description": "SukkaW 广告拦截集合",
       "output_path": "common/Ads_SukkaW.arrs",
-      "rule_count": 114859,
+      "rule_count": 114940,
       "skipped_count": 18,
       "unsupported_types": {
         "DOMAIN-WILDCARD": 15,
@@ -465,7 +465,7 @@
       "name": "CDN",
       "description": "SukkaW CDN 直连辅助",
       "output_path": "common/CDN.arrs",
-      "rule_count": 4507,
+      "rule_count": 4508,
       "skipped_count": 58,
       "unsupported_types": {
         "DOMAIN-WILDCARD": 58
