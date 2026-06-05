@@ -1,0 +1,28 @@
+# Weibo 域名 Reject - Anywhere Routing RuleSet
+
+name = Weibo Reject
+2, biz.weibo.com
+2, bootpreload.uve.weibo.com
+2, fastimage.uve.weibo.com
+2, adimg.vue.weibo.com
+2, zymo.mps.weibo.com
+2, weibomingzi.com
+2, sdkapp.uve.weibo.com
+2, promote.biz.weibo.cn
+2, gw5.push.mcp.weibo.cn
+2, gw6.push.mcp.weibo.cn
+2, game.weibo.cn
+2, adimg.uve.weibo.com
+2, game.weibo.com
+2, alitui.weibo.com
+2, dp.im.weibo.cn
+2, biz.weibo.com.cn
+2, click.uve.weibo.com
+2, wax.weibo.com
+2, wbapp.uve.weibo.com
+2, widget.weibo.com
+2, dsp.edm.weibo.cn
+2, tui.weibo.com
+2, ad.weibo.com
+2, datacollection.uve.weibo.com
+2, adpinpai.video.weibocdn.com

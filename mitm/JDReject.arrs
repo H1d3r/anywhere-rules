@@ -1,0 +1,17 @@
+# JD 域名 Reject - Anywhere Routing RuleSet
+
+name = JD Reject
+2, jzt.jd.com
+2, img-x.jd.com
+2, du.jd.com
+2, c-nfa.jd.com
+2, cm.jd.com
+2, jddebug.com
+2, policy.jd.com
+2, kepler.jd.com
+2, bdsp.x.jd.com
+2, keplerapi.jd.com
+2, mapi.m.jd.com
+2, ad.3.cn
+2, jd.c-ptsp.com.cn
+2, dns.jd.com

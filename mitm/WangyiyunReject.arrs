@@ -1,0 +1,8 @@
+# NetEaseCloudMusic 域名 Reject - Anywhere Routing RuleSet
+
+name = NetEaseCloudMusic Reject
+2, iadmusicmat.music.126.net
+2, iadmat.nosdn.127.net
+2, iadmatapk.nosdn.127.net
+2, httpdns.n.netease.com
+2, httpdns.music.163.com

@@ -1,0 +1,12 @@
+# Ximalaya 域名 Reject - Anywhere Routing RuleSet
+
+name = Ximalaya Reject
+2, adsehera.ximalaya.com
+2, adse.wsa.ximalaya.com
+2, adbehavior.ximalaya.com
+2, adbehavior.wsa.ximalaya.com
+2, ad.ximalaya.com
+2, adse.ximalaya.com
+2, adse-v2.ximalaya.com
+2, open.ximalaya.com
+2, upos-app.ximalaya.com

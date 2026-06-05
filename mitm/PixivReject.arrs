@@ -1,0 +1,5 @@
+# Pixiv 域名 Reject - Anywhere Routing RuleSet
+
+name = Pixiv Reject
+2, ads-pixiv.net
+2, pixiv.org

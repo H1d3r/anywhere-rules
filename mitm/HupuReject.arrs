@@ -1,0 +1,8 @@
+# Hupu 域名 Reject - Anywhere Routing RuleSet
+
+name = Hupu Reject
+2, adx.hupu.com
+2, adx-api.hupu.com
+2, goblin.hupu.com
+2, orz.hupu.com
+2, cc.dace.hupu.com

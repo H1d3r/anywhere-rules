@@ -1,0 +1,7 @@
+# Xiaohongshu 域名 Reject - Anywhere Routing RuleSet
+
+name = Xiaohongshu Reject
+2, ads-img-qc.xhscdn.com
+2, ads-video-al.xhscdn.com
+2, ads-video-qc.xhscdn.com
+2, t-ads.xiaohongshu.com

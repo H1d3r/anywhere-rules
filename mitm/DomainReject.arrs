@@ -1,12 +1,21 @@
+# 模块域名 Reject 汇总 - Anywhere Routing RuleSet
+
+name = 模块域名Reject
+
+# Bilibili
 2, api.biliapi.com
 2, app.biliapi.com
 2, api.biliapi.net
 2, app.biliapi.net
 2, chat.bilibili.com
+
+# Xiaohongshu
 2, ads-img-qc.xhscdn.com
 2, ads-video-al.xhscdn.com
 2, ads-video-qc.xhscdn.com
 2, t-ads.xiaohongshu.com
+
+# Weibo
 2, biz.weibo.com
 2, bootpreload.uve.weibo.com
 2, fastimage.uve.weibo.com
@@ -32,12 +41,18 @@
 2, ad.weibo.com
 2, datacollection.uve.weibo.com
 2, adpinpai.video.weibocdn.com
+
+# Bank
 2, adv.ccb.com
+
+# Hupu
 2, adx.hupu.com
 2, adx-api.hupu.com
 2, goblin.hupu.com
 2, orz.hupu.com
 2, cc.dace.hupu.com
+
+# JD
 2, jzt.jd.com
 2, img-x.jd.com
 2, du.jd.com
@@ -52,8 +67,30 @@
 2, ad.3.cn
 2, jd.c-ptsp.com.cn
 2, dns.jd.com
+
+# NetEaseCloudMusic
 2, iadmusicmat.music.126.net
 2, iadmat.nosdn.127.net
 2, iadmatapk.nosdn.127.net
 2, httpdns.n.netease.com
 2, httpdns.music.163.com
+
+# Pixiv
+2, ads-pixiv.net
+2, pixiv.org
+
+# Ximalaya
+2, adsehera.ximalaya.com
+2, adse.wsa.ximalaya.com
+2, adbehavior.ximalaya.com
+2, adbehavior.wsa.ximalaya.com
+2, ad.ximalaya.com
+2, adse.ximalaya.com
+2, adse-v2.ximalaya.com
+2, open.ximalaya.com
+2, upos-app.ximalaya.com
+
+# iRingo WeatherKit
+2, weather-analytics-events.apple.com
+2, tthr.apple.com
+2, tether.edge.apple

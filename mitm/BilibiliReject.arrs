@@ -1,0 +1,8 @@
+# Bilibili 域名 Reject - Anywhere Routing RuleSet
+
+name = Bilibili Reject
+2, api.biliapi.com
+2, app.biliapi.com
+2, api.biliapi.net
+2, app.biliapi.net
+2, chat.bilibili.com
