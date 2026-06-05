@@ -1,7 +1,7 @@
 # NAME: CDN
 # GENERATED-FOR: Anywhere Routing Rule Set
 # DESCRIPTION: SukkaW CDN 直连辅助
-# RULES: 4509
+# RULES: 4510
 # SKIPPED: 58
 # SKIPPED-TYPES: DOMAIN-WILDCARD=58
 # SOURCES:
@@ -2346,6 +2346,7 @@ name = CDN
 2, cdn.leandata.com
 2, ldstatic.com
 2, lbpicpic.com
+2, ph.langfuse.com
 2, kirafile.com
 2, img.kbhgames.com
 2, cdn.jwplayer.com

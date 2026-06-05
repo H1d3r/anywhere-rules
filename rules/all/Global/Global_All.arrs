@@ -3,9 +3,9 @@
 # SOURCE: https://github.com/blackmatrix7/ios_rule_script/blob/master/rule/Surge/Global/Global_All.list
 # GENERATED-FOR: Anywhere Routing Rule Set
 # NOTE: DOMAIN rules are mapped to Anywhere domain suffix rules.
-# RULES: 34353
+# RULES: 34526
 # SKIPPED: 47
-# UPSTREAM-UPDATED: 2026-06-04 03:19:46
+# UPSTREAM-UPDATED: 2026-06-06 02:41:44
 # SKIPPED-TYPES: PROCESS-NAME=1, USER-AGENT=46
 
 name = Global
@@ -60,7 +60,6 @@ name = Global
 2, lgelectronics.122.2o7.net
 2, linkedin.sc.omtrdc.net
 2, live-patreon-marketing.pantheonsite.io
-2, mdn.mozillademos.org
 2, medone-education.thieme.com
 2, muse.jhu.edu
 2, nationalaustraliaban.tt.omtrdc.net
@@ -266,6 +265,7 @@ name = Global
 2, 18tube.xxx
 2, 18ww.life
 2, 18yiren.tv
+2, 1917live.red
 2, 191porn.com
 2, 1992qq.xyz
 2, 1994group.ac.uk
@@ -300,6 +300,7 @@ name = Global
 2, 1passwordusercontent.com
 2, 1passwordusercontent.eu
 2, 1pornlist.com
+2, 1prime.ru
 2, 1thek.com
 2, 1to1computing.com.au
 2, 1to1conference.com.au
@@ -849,6 +850,7 @@ name = Global
 2, actofunion.ac.uk
 2, actris.ac.uk
 2, actual.ac.uk
+2, actualidad-rt.com
 2, acu.ac.uk
 2, ad69.com
 2, ada.ac.uk
@@ -1173,6 +1175,7 @@ name = Global
 2, ahentaitv.com
 2, ahessc.ac.uk
 2, ahgtm.ac.uk
+2, ahilesva.info
 2, ahlxs-me.buzz
 2, ahlxsdh.sbs
 2, ahmia.fi
@@ -1518,6 +1521,8 @@ name = Global
 2, alliancembs.ac.uk
 2, alliancesages.com
 2, allinternal.com
+2, allizom.net
+2, allizom.org
 2, alljapanesepass.com
 2, allmomsex.com
 2, allnations.ac.uk
@@ -2320,6 +2325,7 @@ name = Global
 2, aquinas.ac.uk
 2, ar.hao123.com
 2, arabianchicks.com
+2, arabicrt.ru
 2, arabidopsis.org
 2, arabnek.com
 2, arabxn.com
@@ -2349,6 +2355,7 @@ name = Global
 2, arcom.ac.uk
 2, arcraiders.com
 2, arctic.ac.uk
+2, arctic.ru
 2, arden.ac.uk
 2, ardencampus.ac.uk
 2, ardencollege.ac.uk
@@ -2390,6 +2397,9 @@ name = Global
 2, artcamjewelsmith.com
 2, artcampro.com
 2, artdesignhull.ac.uk
+2, artel.watch
+2, arteldoc.com
+2, arteldoc.tv
 2, artifact.ac.uk
 2, artixlinux.org
 2, artnudegalleries.com
@@ -2448,6 +2458,7 @@ name = Global
 2, asianfreeporn.net
 2, asiangfvideos.com
 2, asiangirlsnextdoor.com
+2, asiangooglenetwork.com
 2, asianphd.com
 2, asianporn.rest
 2, asianporn.sexy
@@ -2948,6 +2959,7 @@ name = Global
 2, b-ok.global
 2, b-ok.org
 2, b2c-digest.ru
+2, b37mrtl.ru
 2, b3boos.com
 2, b6b33.com
 2, b6fc.ac.uk
@@ -3017,6 +3029,8 @@ name = Global
 2, ballbustingtube.com
 2, balletwest.ac.uk
 2, baltimorebmw.com
+2, baltnews.com
+2, baltnews.lt
 2, bam.ac.uk
 2, bams.ac.uk
 2, bamtoki.com
@@ -3054,6 +3068,7 @@ name = Global
 2, bannedbook.net
 2, bannedbook.org
 2, baraero.com
+2, baranky.com
 2, barefootnetworks.com
 2, barelist.com
 2, bareporno.com
@@ -4502,7 +4517,9 @@ name = Global
 2, boobsrealm.com
 2, boodigo.com
 2, boodigogo.com
+2, book-catalog.ru
 2, book18.org
+2, book1917.live
 2, book4you.org
 2, bookbrainz.org
 2, bookclubcorner.com
@@ -5066,6 +5083,7 @@ name = Global
 2, calgoncarbon.com
 2, calgonit.com
 2, calibre-ebook.com
+2, calicolabs.com
 2, callabitch.org
 2, callbackkiller.com
 2, callersbane.com
@@ -6780,6 +6798,10 @@ name = Global
 2, ddi.ac.uk
 2, dditsadn.com
 2, de-montfort.ac.uk
+2, de-rt.com
+2, de-rt.org
+2, de-rtnews.com
+2, de-rtnews.net
 2, de1lib.org
 2, deadspacegame.com
 2, deafandcreative.ac.uk
@@ -7028,6 +7050,9 @@ name = Global
 2, derbyshire.ac.uk
 2, deribit.com
 2, derpibooru.org
+2, dert.online
+2, dert.site
+2, dert.tech
 2, derweb.ac.uk
 2, derwen.ac.uk
 2, derwencollege.ac.uk
@@ -7055,6 +7080,7 @@ name = Global
 2, destinationbim.com
 2, detaliczny.com
 2, detentiongirls.com
+2, detodosparatodos.org
 2, dettol-prize.com
 2, dettol.at
 2, dettol.be
@@ -7102,7 +7128,6 @@ name = Global
 2, devcon.org
 2, developebp.ac.uk
 2, developer-advisor.com
-2, developer.allizom.org
 2, developria.com
 2, deviantclip.com
 2, device-manager.us
@@ -7283,6 +7308,7 @@ name = Global
 2, discountporn.club
 2, discover.ac.uk
 2, discovereconomics.ac.uk
+2, discovershiretoko.org
 2, discovery.ac.uk
 2, discoveryinvestigations.ac.uk
 2, discoveryplus.com
@@ -7657,6 +7683,7 @@ name = Global
 2, drmario-world.com
 2, drnastran.com
 2, drns.ac.uk
+2, drobbox.pro
 2, dropbox-dns.com
 2, dropbox.com
 2, dropbox.tech
@@ -8168,6 +8195,7 @@ name = Global
 2, eclipse.ac.uk
 2, eclipse.org
 2, eclw.ac.uk
+2, ecmascript.org
 2, ecn.ac.uk
 2, ecoforme.jp
 2, economicfutures.ac.uk
@@ -8635,6 +8663,7 @@ name = Global
 2, erpe.ac.uk
 2, err.sh
 2, ertk.net
+2, es-rt.com
 2, es-visiontimes.com
 2, esala.ac.uk
 2, esbeatsbydrebuy.com
@@ -8703,6 +8732,12 @@ name = Global
 2, esrcmanchesterfest.ac.uk
 2, esrcsocietytoday.ac.uk
 2, esri.com
+2, esrt.online
+2, esrt.press
+2, esrt.site
+2, esrt.space
+2, esrt.tech
+2, esrt.website
 2, essex.ac.uk
 2, essexacl.ac.uk
 2, estudio360.com.co
@@ -8823,6 +8858,7 @@ name = Global
 2, expresswifi.com
 2, exs8fkw0.xyz
 2, ext-twitch.tv
+2, extendfirefox.com
 2, extensions4revit.com
 2, extensionworkshop.com
 2, extraasian.com
@@ -9505,6 +9541,8 @@ name = Global
 2, firech.at
 2, fireemblemawakening.com
 2, fireflyresearch.ac.uk
+2, firefox.hu
+2, firefoxtweetmachine.com
 2, firefoxusercontent.com
 2, fireservicecollege.ac.uk
 2, fireside.fm
@@ -9744,6 +9782,8 @@ name = Global
 2, foxhq.com
 2, foxinc.com
 2, foxkansas.com
+2, foxkeh.com
+2, foxkeh.jp
 2, foxla.com
 2, foxla.tv
 2, foxlexington.com
@@ -9877,6 +9917,7 @@ name = Global
 2, freeadultgames.tv
 2, freeanimalporn.net
 2, freearabsexx.com
+2, freeassange.tech
 2, freeav.tv
 2, freeb.com
 2, freebasics.com
@@ -9890,6 +9931,8 @@ name = Global
 2, freecartoons.biz
 2, freechatnow.com
 2, freecodecamp.org
+2, freede.tech
+2, freedert.online
 2, freedirecttvspecial.com
 2, freedomplatform.tv
 2, freefacebook.com
@@ -10181,6 +10224,7 @@ name = Global
 2, gateway.ac.uk
 2, gateway.dev
 2, gateway.pinata.cloud
+2, gatewaytorussia.ru
 2, gauleporno.xxx
 2, gay.bingo
 2, gay0day.com
@@ -10223,6 +10267,7 @@ name = Global
 2, gaythebest.com
 2, gaytopcams.com
 2, gayvl.net
+2, gazetarussa.com.br
 2, gazounabi.com
 2, gazprombank.com
 2, gazprombank.investments
@@ -10358,10 +10403,12 @@ name = Global
 2, getfappy.com
 2, getfedora.org
 2, getfiddler.com
+2, getfirebug.com
 2, getfoxyoutside.org
 2, getiton.com
 2, getnews.jp
 2, getpaint.net
+2, getpersonas.com
 2, getpocket.com
 2, getporn.tv
 2, getprintersupports.com
@@ -10393,6 +10440,7 @@ name = Global
 2, gfacecbook.com
 2, gfarchive.com
 2, gfashion.com
+2, gfiber.com
 2, gfjizz.com
 2, gfleaks.com
 2, gfotolia.com
@@ -11083,6 +11131,7 @@ name = Global
 2, greatgame.asia
 2, greatretroporn.com
 2, greatwesternresearch.ac.uk
+2, green-box-tv.com
 2, greenbankcollege.ac.uk
 2, greenbuildingstudio.com
 2, greenend.org.uk
@@ -11174,6 +11223,7 @@ name = Global
 2, gvt7.com
 2, gvt9.com
 2, gw-partnership.ac.uk
+2, gw2ru.com
 2, gw4-cat.ac.uk
 2, gw4.ac.uk
 2, gw4biomed.ac.uk
@@ -11198,6 +11248,7 @@ name = Global
 2, habr.com
 2, habrastorage.org
 2, hace.ac.uk
+2, hackasaurus.org
 2, hackday.com.au
 2, hackerfacebook.com
 2, hackerguardian.com
@@ -12948,6 +12999,7 @@ name = Global
 2, innovation.ac.uk
 2, innovations-i.com
 2, innovations.ac.uk
+2, inosmi.ru
 2, inplat.ru
 2, inporn.com
 2, inquirer.net
@@ -13237,6 +13289,7 @@ name = Global
 2, intercom.io
 2, intercomassets.com
 2, intercomcdn.com
+2, interforest.org
 2, international-house-london.ac.uk
 2, international-union-crystallography.ac.uk
 2, international.ac.uk
@@ -13475,6 +13528,7 @@ name = Global
 2, islington-acl.ac.uk
 2, ism.ac.uk
 2, ismg.ac.uk
+2, isomorphiclabs.com
 2, ispan.ac.uk
 2, iss138.com
 2, issitedownrightnow.com
@@ -13502,6 +13556,7 @@ name = Global
 2, itfromtheinside.com
 2, ithaisex.com
 2, itirex.ru
+2, itisatrap.org
 2, itlearningspace-scot.ac.uk
 2, itmedia.co.jp
 2, itnel.com
@@ -13826,6 +13881,7 @@ name = Global
 2, jimeng22.com
 2, jinmantiankong.com
 2, jinnaju.com
+2, jinrieluosi.cn
 2, jinsilubanzhao.com
 2, jira-tcsbank.ru
 2, jira.com
@@ -13865,6 +13921,7 @@ name = Global
 2, jiuse904.com
 2, jiuse905.com
 2, jiuzhouyihuo.com
+2, jivara.global
 2, jivo.chat
 2, jivo.ru
 2, jivochat.co.in
@@ -14106,6 +14163,7 @@ name = Global
 2, kangye.org
 2, kanporno.com
 2, kantan.game
+2, kanzlerdaddy.ru
 2, kaob3.xyz
 2, karabako-gmo.com
 2, karafarinbank.ir
@@ -14217,6 +14275,7 @@ name = Global
 2, kgslb.com
 2, kgv.ac.uk
 2, khanacademy.org
+2, khangar.net
 2, khotruyentranhx.com
 2, kiad.ac.uk
 2, kichikuou.com
@@ -14403,6 +14462,7 @@ name = Global
 2, kssacademy.ac.uk
 2, kssdeanery.ac.uk
 2, ksyp10.com
+2, ktech.team
 2, ktvu.com
 2, ku77.xyz
 2, kuaimao-app.com
@@ -14589,6 +14649,7 @@ name = Global
 2, learnharrow.ac.uk
 2, learnhigher.ac.uk
 2, learningbites.ac.uk
+2, learningfreedomandtheweb.org
 2, learninglink.ac.uk
 2, learningmathsonline.ac.uk
 2, learningonscreen.ac.uk
@@ -14879,6 +14940,7 @@ name = Global
 2, livjm.ac.uk
 2, livrariart.com.br
 2, lizardporn.com
+2, lizardwrangler.com
 2, lizol.co.in
 2, ljmu.ac.uk
 2, lkl.ac.uk
@@ -15707,9 +15769,7 @@ name = Global
 2, mdbankpublic.com
 2, mdhcdn.com
 2, mdialog.com
-2, mdn.allizom.net
 2, mdn.dev
-2, mdn.mozit.cloud
 2, mdnkids.com
 2, mdnplay.dev
 2, mdnyalp.dev
@@ -15732,6 +15792,7 @@ name = Global
 2, meb.gov.mm
 2, mebank.ir
 2, meccontroller.com
+2, mecha-mozilla.org
 2, meddyliwchamgymru.ac.uk
 2, mede-innovation.ac.uk
 2, medev.ac.uk
@@ -16673,11 +16734,32 @@ name = Global
 2, moxing.mobi
 2, moxing.news
 2, moystoys.com
+2, mozaws.net
 2, mozgcp.net
+2, mozilla-europe.org
+2, mozilla-hispano.org
+2, mozilla-mexico.org
 2, mozilla.com
 2, mozilla.community
+2, mozilla.cz
+2, mozilla.de
+2, mozilla.jp
+2, mozilla.lt
 2, mozilla.net
+2, mozilla.org.uk
+2, mozilla.pe
+2, mozilla.pt
+2, mozilla.ro
+2, mozillabd.org
+2, mozillademos.org
+2, mozillafactory.org
 2, mozillafoundation.org
+2, mozillaignite.org
+2, mozillalabs.com
+2, mozillaquebec.org
+2, mozillazine.jp
+2, mozillians.org
+2, mozit.cloud
 2, mp.world
 2, mpa-mpp.ac.uk
 2, mpa-uk.ac.uk
@@ -17895,6 +17977,8 @@ name = Global
 2, northumbria.ac.uk
 2, norton.com
 2, norwichresearchpark.ac.uk
+2, noticias-rt.com
+2, notimundo.press
 2, notion-static.com
 2, notion.com
 2, notion.new
@@ -18343,6 +18427,7 @@ name = Global
 2, okko.tv
 2, okkoapi.tv
 2, okl.lt
+2, oknovrossiu.ru
 2, oktech.ru
 2, okx-dns.com
 2, okx-dns1.com
@@ -18418,6 +18503,7 @@ name = Global
 2, onekey.so
 2, onekeycn.com
 2, oneme.ru
+2, onemozilla.org
 2, onepornlist.com
 2, onesiterip.com
 2, onestore.ms
@@ -18519,6 +18605,7 @@ name = Global
 2, opensuse.org
 2, opentgc.com
 2, openthread.io
+2, opentimetable.jp
 2, opentranslatorstothings.org
 2, openuniversity.ac.uk
 2, openurl.ac.uk
@@ -19383,6 +19470,7 @@ name = Global
 2, pml.ac.uk
 2, pms.ac.uk
 2, po18.tw
+2, pobeda.page
 2, pobl-content.com
 2, pochtabank.ru
 2, pocketbiketrader.com
@@ -19444,6 +19532,7 @@ name = Global
 2, poopee-puke.com
 2, poopeegirls.com
 2, popcap.com
+2, popcornjs.org
 2, popjav.tv
 2, popmechanic.io
 2, popmechanic.ru
@@ -19886,6 +19975,7 @@ name = Global
 2, premiumbooty.com
 2, premiumfs.de
 2, premiumhd.net
+2, premiumlive.site
 2, premiumpornlist.com
 2, premobay.com
 2, prepsure.com
@@ -19893,6 +19983,7 @@ name = Global
 2, prescribingsafetyassessment.ac.uk
 2, presidencylondoncollege.ac.uk
 2, press.vin
+2, pressria.ru
 2, preston.ac.uk
 2, prestoncoll.ac.uk
 2, pretty-ass.xyz
@@ -20056,6 +20147,7 @@ name = Global
 2, publicservices.ac.uk
 2, publicsexhub.com
 2, publicspace.ac.uk
+2, publicsuffix.org
 2, publishproxy.com
 2, pubmatic.co.jp
 2, pubu.tw
@@ -20299,6 +20391,7 @@ name = Global
 2, radiomango.fm
 2, radiomarsho.com
 2, radioresearch.ac.uk
+2, radiosputnik.ru
 2, radiosvoboda.org
 2, radiotavisupleba.ge
 2, radiyoyacuvoa.com
@@ -20391,6 +20484,7 @@ name = Global
 2, rbsl.ac.uk
 2, rbslondon.ac.uk
 2, rbspeakup.com
+2, rbth.com
 2, rbx.com
 2, rbxcdn.com
 2, rbxinfra.net
@@ -20707,6 +20801,7 @@ name = Global
 2, rhyw.me
 2, rhyw31.life
 2, ri.ac.uk
+2, ria.ru
 2, ricefever.com
 2, richardtaunton.ac.uk
 2, richardtaunton6thformcollege.ac.uk
@@ -20826,6 +20921,7 @@ name = Global
 2, rolls-roycemotorcarsna.com
 2, roloflix.com
 2, roloxxx.com
+2, romanovs100.com
 2, romanrepublic.ac.uk
 2, romansocietyrac.ac.uk
 2, romantic-sex-video.com
@@ -20844,6 +20940,7 @@ name = Global
 2, rosetta.ac.uk
 2, roshy.tv
 2, roslin.ac.uk
+2, rossiyasegodnya.com
 2, rostaxi.org
 2, rostelecom.ru
 2, rothamsted.ac.uk
@@ -20926,10 +21023,59 @@ name = Global
 2, rsp.ac.uk
 2, rspao.com
 2, rstatic.net
+2, rt-school.online
 2, rt.com
+2, rt.rs
 2, rt.ru
+2, rtarabic.com
+2, rtarabic.net
+2, rtarabic.org
+2, rtarabic.ru
 2, rtbcdn.ru
+2, rtbrasil.com
+2, rtbrasil.info
+2, rtde.agency
+2, rtde.expert
+2, rtde.express
+2, rtde.info
+2, rtde.life
+2, rtde.live
+2, rtde.me
+2, rtde.media
+2, rtde.online
+2, rtde.org
+2, rtde.press
+2, rtde.site
+2, rtde.team
+2, rtde.tech
+2, rtde.website
+2, rtde.world
+2, rtde.xyz
+2, rtdefree.info
+2, rtdefree.me
+2, rtdefree.online
+2, rtdefree.tech
+2, rtdoc.tv
+2, rtdocumentary.online
+2, rteam.dev
+2, rteam.tech
+2, rtenafrique.tv
+2, rtenfrancais.tv
+2, rtenfrance.tv
+2, rtespanol.com
+2, rtfestival.ru
+2, rtfrance.tv
 2, rtings.com
+2, rtnewsde.com
+2, rtnewsde.online
+2, rtnewsde.pro
+2, rtnewsde.site
+2, rtnewsde.tech
+2, rtnewsru.com
+2, rtrunews.com
+2, rttv.com
+2, rttv.ru
+2, rtxv.ru
 2, ru-moscow-1.myhuaweicloud.com
 2, ru.ccb.com
 2, rua-project.ac.uk
@@ -20955,6 +21101,7 @@ name = Global
 2, rumporn.com
 2, run.app
 2, rundf665.cyou
+2, runewsrt.com
 2, runnike.com
 2, runningnike.com
 2, runporn.com
@@ -20962,6 +21109,10 @@ name = Global
 2, runshawcollege.ac.uk
 2, runwayescorts.com
 2, rupress.org
+2, ruptly.agency
+2, ruptly.tv
+2, ruptly.video
+2, rurtnews.com
 2, ruru.ac.uk
 2, rusfinance.ru
 2, rusfinancebank.ru
@@ -20970,8 +21121,15 @@ name = Global
 2, ruskin.ac.uk
 2, russell-group.ac.uk
 2, russellgroup.ac.uk
+2, russiabeyond.com
+2, russiaislove.com
 2, russiandesigncup.ru
 2, russianrape.org
+2, russiatoday.com
+2, russiatoday.net
+2, russiatoday.ru
+2, russiatoday.tv
+2, russieactuelle.fr
 2, russoutdoor.ru
 2, rust-lang.org
 2, rustore.ru
@@ -21848,6 +22006,7 @@ name = Global
 2, shootershill.ac.uk
 2, shop-headphones.net
 2, shop-pro.jp
+2, shop-rt.com
 2, shop.app
 2, shopadidas.ca
 2, shopadidas.com
@@ -22088,6 +22247,7 @@ name = Global
 2, slandr.net
 2, slashdot.org
 2, slavbank.ru
+2, slavicstar.com
 2, slc.ac.uk
 2, slc.tl
 2, slcollege.ac.uk
@@ -22176,6 +22336,7 @@ name = Global
 2, smutty.com
 2, smuttymoms.com
 2, smyw.org
+2, sn-esp.site
 2, snap-dev.net
 2, snap-telemetry.io
 2, snap.com
@@ -22540,6 +22701,10 @@ name = Global
 2, spsrn.ac.uk
 2, sptvbroadcast.com
 2, spurgeons.ac.uk
+2, sputnikglobe.com
+2, sputnikimages.com
+2, sputnikmediabank.com
+2, sputniknews.com
 2, spyjinx.com
 2, sqhwesternconsortium.ac.uk
 2, sqlite.org
@@ -23104,6 +23269,7 @@ name = Global
 2, sweetsinner.com
 2, swegold.com
 2, sweltec.ac.uk
+2, swentr.site
 2, swift.ac.uk
 2, swift.org
 2, swiftbank.info
@@ -23835,6 +24001,7 @@ name = Global
 2, toget.com.tw
 2, tohobank.co.jp
 2, tohoku-bank.co.jp
+2, tok.media
 2, tokyo-porn-tube.com
 2, tokyo-sports.co.jp
 2, tokyo-tosho.net
@@ -24490,6 +24657,7 @@ name = Global
 2, ukpmcplus.ac.uk
 2, ukpubmedcentral.ac.uk
 2, ukqcd.ac.uk
+2, ukraina.ru
 2, ukresearchandinnovation.ac.uk
 2, ukrheeo.ac.uk
 2, ukri.ac.uk
@@ -25716,6 +25884,7 @@ name = Global
 2, watchersweb.com
 2, watchespn.com
 2, watchindianporn.net
+2, watchingthehawks.com
 2, watchjavonline.com
 2, watchmyexgf.net
 2, watchmygf.me
@@ -25813,6 +25982,7 @@ name = Global
 2, webkit.org
 2, webkitgtk.org
 2, weblate.org
+2, webmademovies.org
 2, webmoneyinfo.com
 2, webnovel.com
 2, webobjects.co.uk
@@ -26081,6 +26251,7 @@ name = Global
 2, windsurf.build
 2, windsurf.com
 2, windy.com
+2, wing.com
 2, winhec.com
 2, winhec.net
 2, wink.am
@@ -26201,6 +26372,7 @@ name = Global
 2, workstations.tv
 2, world3d.biz
 2, worldcoinpay.com
+2, worldcuprussia.com
 2, worldcurrencycard.co.za
 2, worldemojiawards.com
 2, worldemojiday.com
@@ -26518,6 +26690,7 @@ name = Global
 2, xn--9trs65b.com
 2, xn--av-o44ep1d.com
 2, xn--b1aechhj6bof8g5a.site
+2, xn--c1acbl2abdlkab1og.xn--p1ai
 2, xn--cck4d8b3009a.com
 2, xn--colegsirgr-c5a.ac.uk
 2, xn--d1abkf4ap.fun
