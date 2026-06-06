@@ -1,7 +1,7 @@
 # NAME: ProxyGFW
 # GENERATED-FOR: Anywhere Routing Rule Set
 # DESCRIPTION: GFW 代理集合
-# RULES: 7595
+# RULES: 7596
 # SKIPPED: 1
 # SKIPPED-TYPES: USER-AGENT=1
 # SOURCES:
@@ -7461,6 +7461,7 @@ name = ProxyGFW
 2, vn
 2, va
 2, cloudflare.tv
+2, trakt.tv
 2, njav.tv
 2, muku.tv
 2, bgm.tv

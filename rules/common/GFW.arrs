@@ -1,7 +1,7 @@
 # NAME: GFW
 # GENERATED-FOR: Anywhere Routing Rule Set
 # DESCRIPTION: GFW 域名列表
-# RULES: 4251
+# RULES: 4252
 # SKIPPED: 0
 # SOURCES:
 # - https://raw.githubusercontent.com/Loyalsoldier/v2ray-rules-dat/release/gfw.txt
@@ -2729,7 +2729,6 @@ name = GFW
 2, pacom.mil
 2, pacopacomama.com
 2, page.link
-2, pages.dev
 2, paimon.moe
 2, pancakeswap.finance
 2, pandafan.pub
@@ -3342,6 +3341,7 @@ name = GFW
 2, surfeasy.com.au
 2, surfshark.com
 2, surrenderat20.net
+2, suyingtv.com
 2, swagbucks.com
 2, swapspace.co
 2, swissinfo.ch
@@ -4025,6 +4025,7 @@ name = GFW
 2, wowporn.com
 2, woyaolian.org
 2, wp.com
+2, wplace.live
 2, wpoforum.com
 2, writesonic.com
 2, wsj.com

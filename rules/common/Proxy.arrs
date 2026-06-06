@@ -1,7 +1,7 @@
 # NAME: Proxy
 # GENERATED-FOR: Anywhere Routing Rule Set
 # DESCRIPTION: 常用代理域名集合
-# RULES: 1556
+# RULES: 1557
 # SKIPPED: 2
 # SKIPPED-TYPES: USER-AGENT=2
 # SOURCES:
@@ -1062,6 +1062,7 @@ name = Proxy
 2, cableav.tv
 2, twitch.tv
 2, hanime.tv
+2, trakt.tv
 2, jable.tv
 2, iwara.tv
 2, pscp.tv

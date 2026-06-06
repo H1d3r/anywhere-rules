@@ -1,6 +1,6 @@
 {
   "total_files": 38,
-  "total_rules": 191981,
+  "total_rules": 192098,
   "total_skipped": 141,
   "files": [
     {
@@ -25,7 +25,7 @@
       "name": "Ads_SukkaW",
       "description": "SukkaW 广告拦截集合",
       "output_path": "common/Ads_SukkaW.arrs",
-      "rule_count": 115115,
+      "rule_count": 115224,
       "skipped_count": 18,
       "unsupported_types": {
         "DOMAIN-WILDCARD": 15,
@@ -66,7 +66,7 @@
       "name": "Proxy",
       "description": "常用代理域名集合",
       "output_path": "common/Proxy.arrs",
-      "rule_count": 1556,
+      "rule_count": 1557,
       "skipped_count": 2,
       "unsupported_types": {
         "USER-AGENT": 2
@@ -80,7 +80,7 @@
       "name": "ProxyGFW",
       "description": "GFW 代理集合",
       "output_path": "common/ProxyGFW.arrs",
-      "rule_count": 7595,
+      "rule_count": 7596,
       "skipped_count": 1,
       "unsupported_types": {
         "USER-AGENT": 1
@@ -94,7 +94,7 @@
       "name": "GFW",
       "description": "GFW 域名列表",
       "output_path": "common/GFW.arrs",
-      "rule_count": 4251,
+      "rule_count": 4252,
       "skipped_count": 0,
       "unsupported_types": {},
       "sources": [
@@ -465,7 +465,7 @@
       "name": "CDN",
       "description": "SukkaW CDN 直连辅助",
       "output_path": "common/CDN.arrs",
-      "rule_count": 4510,
+      "rule_count": 4515,
       "skipped_count": 58,
       "unsupported_types": {
         "DOMAIN-WILDCARD": 58

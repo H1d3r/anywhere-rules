@@ -1,7 +1,7 @@
 # NAME: CDN
 # GENERATED-FOR: Anywhere Routing Rule Set
 # DESCRIPTION: SukkaW CDN 直连辅助
-# RULES: 4510
+# RULES: 4515
 # SKIPPED: 58
 # SKIPPED-TYPES: DOMAIN-WILDCARD=58
 # SOURCES:
@@ -1015,6 +1015,7 @@ name = CDN
 2, spreadshirtmedia.com
 2, static2.sharepointonline.com
 2, cdn.seonintelligence.com
+2, uploadcare.mwcglobalprofile.com
 2, assets4.mist-train-girls.com
 2, hubspotonwebflow.com
 2, hsbrowserreports.com
@@ -2267,6 +2268,7 @@ name = CDN
 2, libs.quillbot.com
 2, js-s3.quickcep.com
 2, api.qrserver.com
+2, uploads.pullfrog.com
 2, static.pornpics.com
 2, cdni.pornpics.com
 2, porn-cdn.com
@@ -2333,6 +2335,7 @@ name = CDN
 2, media.maptiler.com
 2, cdn.maptiler.com
 2, tiles.mapilion.com
+2, b.manufact.com
 2, imag.malavida.com
 2, img-api.mac4ever.com
 2, lowescdn.com
@@ -3786,6 +3789,8 @@ name = CDN
 2, starlight.nebula.tv
 2, images.nebula.tv
 2, f.upanh.tv
+2, walter-r2.trakt.tv
+2, media.trakt.tv
 2, static.tella.tv
 2, static-homepage-en.pluto.tv
 2, images.pluto.tv
