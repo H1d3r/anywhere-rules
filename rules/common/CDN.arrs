@@ -1,7 +1,7 @@
 # NAME: CDN
 # GENERATED-FOR: Anywhere Routing Rule Set
 # DESCRIPTION: SukkaW CDN 直连辅助
-# RULES: 4515
+# RULES: 4516
 # SKIPPED: 58
 # SKIPPED-TYPES: DOMAIN-WILDCARD=58
 # SOURCES:
@@ -3199,6 +3199,7 @@ name = CDN
 2, s1.feedly.com
 2, assets.fastly.com
 2, ezocdn.com
+2, cdn.evgnet.com
 2, s3.envato.com
 2, creative.eizzih.com
 2, videos2.edclub.com

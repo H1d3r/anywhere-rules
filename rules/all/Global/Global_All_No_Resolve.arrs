@@ -3,9 +3,9 @@
 # SOURCE: https://github.com/blackmatrix7/ios_rule_script/blob/master/rule/Surge/Global/Global_All_No_Resolve.list
 # GENERATED-FOR: Anywhere Routing Rule Set
 # NOTE: DOMAIN rules are mapped to Anywhere domain suffix rules.
-# RULES: 34526
+# RULES: 34571
 # SKIPPED: 47
-# UPSTREAM-UPDATED: 2026-06-06 02:41:44
+# UPSTREAM-UPDATED: 2026-06-08 02:30:47
 # SKIPPED-TYPES: PROCESS-NAME=1, USER-AGENT=46
 
 name = Global
@@ -1749,6 +1749,7 @@ name = Global
 2, amcnetworks.com
 2, amcplus.com
 2, amdfanstore.com
+2, amdgaming.com
 2, amdigital.co.uk
 2, amebame.com
 2, amebaownd.com
@@ -4872,6 +4873,7 @@ name = Global
 2, buddymedia.com
 2, bufdg.ac.uk
 2, bufvc.ac.uk
+2, bugsnag.com
 2, bugzilla.org
 2, buhidoh.net
 2, bui.ac.uk
@@ -5417,6 +5419,7 @@ name = Global
 2, cciesecuritylabs.com
 2, ccievoicelabs.com
 2, ccl.ac.uk
+2, ccleaner.com
 2, cclrc.ac.uk
 2, ccm.ac.uk
 2, ccms.ac.uk
@@ -5896,6 +5899,7 @@ name = Global
 2, cityplym.ac.uk
 2, citysun.ac.uk
 2, citytourgirls.com
+2, cityu.hk
 2, cityuniversitybirmingham.ac.uk
 2, ciu.ac.uk
 2, civil3d.com
@@ -5928,6 +5932,7 @@ name = Global
 2, clau.de
 2, claude.ai
 2, claudemcpclient.com
+2, claudemcpcontent.com
 2, claudeusercontent.com
 2, clawhub.ai
 2, clc-london.ac.uk
@@ -6546,6 +6551,7 @@ name = Global
 2, cue.ac.uk
 2, cuebic.biz
 2, cuffiesaldi.com
+2, cuhk.hk
 2, cuhop.ac.uk
 2, cuinc.oen.tw
 2, cuinc.tw
@@ -8246,11 +8252,13 @@ name = Global
 2, edshare.ac.uk
 2, edtech.ac.uk
 2, edu-research.org
+2, edu.hk
 2, edu.ir
 2, education-cadcam.com
 2, educationlondonconnect.ac.uk
 2, educationpartnershipne.ac.uk
 2, educationpartnershipnortheast.ac.uk
+2, eduhk.hk
 2, eduplus.hk
 2, eduroam.ac.uk
 2, eduserv.ac.uk
@@ -9443,6 +9451,7 @@ name = Global
 2, fightforux.com
 2, figma.com
 2, filesmonster.vip
+2, filezilla-project.org
 2, filipino-music.net
 2, filmandsound.ac.uk
 2, filme2.xxx
@@ -10517,6 +10526,7 @@ name = Global
 2, girlsxxx.net
 2, gisplanning.com
 2, git-scm.com
+2, gitgud.io
 2, github.ai
 2, github.blog
 2, github.com
@@ -11865,6 +11875,7 @@ name = Global
 2, hiswifepussy.com
 2, hitbdsm.com
 2, hitxhot.com
+2, hivepress.io
 2, hjb246.top
 2, hjb7e9.top
 2, hk.file.myqcloud.com
@@ -11875,6 +11886,7 @@ name = Global
 2, hkbn.com.hk
 2, hkbn.net
 2, hkbnes.net
+2, hkbu.hk
 2, hkcircleapp.com
 2, hkcitizenmedia.com
 2, hkcsl.com
@@ -11894,6 +11906,7 @@ name = Global
 2, hkteducation.com
 2, hktpremier.com
 2, hktshop.com
+2, hkust.hk
 2, hkvets.ac.uk
 2, hlbelygl.com
 2, hlcollege.ac.uk
@@ -14547,6 +14560,7 @@ name = Global
 2, languagesmythsfinds.ac.uk
 2, languagesresearch.ac.uk
 2, languagessoutheast.ac.uk
+2, languagetool.org
 2, lanik.us
 2, lanmdh.net
 2, lanniser-ylo.shop
@@ -16680,6 +16694,7 @@ name = Global
 2, motionpictureser.com
 2, moto.com
 2, motolia.com
+2, motopress.com
 2, motorola.ca
 2, motorola.cl
 2, motorola.co
@@ -16839,6 +16854,7 @@ name = Global
 2, msturing.org
 2, msudalosti.com
 2, msunlimitedcloudsummit.com
+2, msys2.org
 2, mt.lv
 2, mt0011.site
 2, mtao.fun
@@ -18322,6 +18338,7 @@ name = Global
 2, o3team.ru
 2, oaa-anaes.ac.uk
 2, oaistatic.com
+2, oaistatsig.com
 2, oaiusercontent.com
 2, oakhill.ac.uk
 2, oaklands.ac.uk
@@ -19521,6 +19538,7 @@ name = Global
 2, poly-of-wales.ac.uk
 2, polygon.com
 2, polymerproject.org
+2, polyu.hk
 2, poms.ac.uk
 2, pone.ac.uk
 2, pontypridd.ac.uk
@@ -26401,6 +26419,7 @@ name = Global
 2, wowyoungporn.com
 2, wp-themes.com
 2, wpewebkit.org
+2, wpmailsmtp.com
 2, wpvip.com
 2, wqe.ac.uk
 2, wqeic.ac.uk
@@ -26699,8 +26718,14 @@ name = Global
 2, xn--d4ty0ojsqzfd.com
 2, xn--e1adjldbbpv.xn--90ais
 2, xn--e1aigb.xn--p1ai
+2, xn--fiqs8s1bxp3anr7a.hk
+2, xn--fiqs8s1bxp3anr7a.xn--j6w193g
+2, xn--fiqs8s1byzqyvl.hk
+2, xn--fiqs8s1byzqyvl.xn--j6w193g
 2, xn--fiqs8sxootzz.xn--hxt814e
 2, xn--flw351e.com
+2, xn--gdt08a.hk
+2, xn--gdt08a.xn--j6w193g
 2, xn--ggle-55da.com
 2, xn--gmq348bujlxrb.com
 2, xn--gmq92kd2rm1kx34a.com
@@ -26718,7 +26743,19 @@ name = Global
 2, xn--m1abbbgjah.lol
 2, xn--mts47c3w9b1qr.net
 2, xn--mtswd61ejxq.com
+2, xn--mxtq18a.hk
+2, xn--mxtq18a.xn--j6w193g
 2, xn--pearsonenespaol-brb.com
+2, xn--pssu7ci2j23mp9ny48b.hk
+2, xn--pssu7ci2j23mp9ny48b.xn--j6w193g
+2, xn--pssu7cv61af1tcs59bnvd.hk
+2, xn--pssu7cv61af1tcs59bnvd.xn--j6w193g
+2, xn--pssu7cv61af44b.hk
+2, xn--pssu7cv61af44b.xn--j6w193g
+2, xn--pssu7cv61ahw8aq79bztd.hk
+2, xn--pssu7cv61ahw8aq79bztd.xn--j6w193g
+2, xn--pssu7cv61ahwcb1p2yk.hk
+2, xn--pssu7cv61ahwcb1p2yk.xn--j6w193g
 2, xn--q41am8x.com
 2, xn--qhrx81fxh2a.xn--55qx5d.hk
 2, xn--qoq462m.com
@@ -26729,7 +26766,13 @@ name = Global
 2, xn--tkry91n.com
 2, xn--ubt498knmf.com
 2, xn--uis17aj9kmuf.com
+2, xn--uis44a.xn--j6w193g
 2, xn--urs05q.jp
+2, xn--wcv22d.hk
+2, xn--wcv22d.xn--j6w193g
+2, xn--wcvs22d.xn--j6w193g
+2, xn--wcvs22d1m.hk
+2, xn--wcvs22d1m.xn--j6w193g
 2, xn--x-qeu1ji09tzlg.biz
 2, xn--x-qeu1ji09tzlg.net
 2, xn--xsq421m.com
@@ -32943,6 +32986,7 @@ name = Global
 2, suroot.com
 2, surrenderat20.net
 2, suyangg.com
+2, suyingtv.com
 2, svsfx.com
 2, swagbucks.com
 2, swapspace.co
@@ -34052,6 +34096,7 @@ name = Global
 2, woyaolian.org
 2, wozy.in
 2, wp.com
+2, wplace.live
 2, wpoforum.com
 2, wqyd.org
 2, wrchina.org

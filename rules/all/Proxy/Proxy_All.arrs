@@ -3,9 +3,9 @@
 # SOURCE: https://github.com/blackmatrix7/ios_rule_script/blob/master/rule/Surge/Proxy/Proxy_All.list
 # GENERATED-FOR: Anywhere Routing Rule Set
 # NOTE: DOMAIN rules are mapped to Anywhere domain suffix rules.
-# RULES: 6786
+# RULES: 6788
 # SKIPPED: 8
-# UPSTREAM-UPDATED: 2026-06-01 02:27:08
+# UPSTREAM-UPDATED: 2026-06-08 02:31:09
 # SKIPPED-TYPES: USER-AGENT=8
 
 name = Proxy
@@ -5217,6 +5217,7 @@ name = Proxy
 2, suroot.com
 2, surrenderat20.net
 2, suyangg.com
+2, suyingtv.com
 2, svsfx.com
 2, swagbucks.com
 2, swapspace.co
@@ -6335,6 +6336,7 @@ name = Proxy
 2, woyaolian.org
 2, wozy.in
 2, wp.com
+2, wplace.live
 2, wpoforum.com
 2, wqyd.org
 2, wr.pvp.net
