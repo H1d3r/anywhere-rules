@@ -3,9 +3,9 @@
 # SOURCE: https://github.com/blackmatrix7/ios_rule_script/blob/master/rule/Surge/ChinaTest/ChinaTest_All.list
 # GENERATED-FOR: Anywhere Routing Rule Set
 # NOTE: DOMAIN rules are mapped to Anywhere domain suffix rules.
-# RULES: 112872
+# RULES: 112896
 # SKIPPED: 31
-# UPSTREAM-UPDATED: 2026-06-08 02:31:28
+# UPSTREAM-UPDATED: 2026-06-10 02:48:04
 # SKIPPED-TYPES: USER-AGENT=31
 
 name = ChinaTest
@@ -4981,6 +4981,7 @@ name = ChinaTest
 2, 0x5.me
 2, 0x9.me
 2, 0xaa55.com
+2, 0xffff.one
 2, 0xffffff.org
 2, 0xiao.com
 2, 0xjqlun2.work
@@ -9438,6 +9439,7 @@ name = ChinaTest
 2, 51yugou.com
 2, 51yund.com
 2, 51yundong.me
+2, 51yunzhi.com
 2, 51ywx.com
 2, 51yxcyy.com
 2, 51yxky.com
@@ -22366,6 +22368,7 @@ name = ChinaTest
 2, catchyrime.com
 2, catering-shizuoka.com
 2, catfish-cms.com
+2, catfk.com
 2, catguo.com
 2, cathassist.org
 2, cathayagroup.com
@@ -25733,6 +25736,7 @@ name = ChinaTest
 2, chualamdimsum.com
 2, chuan-s.com
 2, chuanboyi.com
+2, chuanboyu.com
 2, chuandaizc.com
 2, chuandasolar.com
 2, chuandong.com
@@ -31703,6 +31707,7 @@ name = ChinaTest
 2, dgjwsy.com
 2, dgjx.net
 2, dgjxmk.com
+2, dgkfa.com
 2, dgkj888.com
 2, dglpool.com
 2, dglyjx.com
@@ -35021,6 +35026,7 @@ name = ChinaTest
 2, ego-robotics.com
 2, egoint.com
 2, egongzheng.com
+2, egonlin.com
 2, egooad.com
 2, egood995.com
 2, egoonet.com
@@ -45453,6 +45459,7 @@ name = ChinaTest
 2, h5anli.com
 2, h5app.com
 2, h5avu.com
+2, h5cmpassport.com
 2, h5cn.com
 2, h5data.com
 2, h5designer.com
@@ -48361,6 +48368,7 @@ name = ChinaTest
 2, hjenglish.com
 2, hjg365.com
 2, hjgcd.com
+2, hjgroup-sdq.com
 2, hjgrp.com
 2, hjgtjt.com
 2, hjhrcloud.com
@@ -53095,6 +53103,7 @@ name = ChinaTest
 2, ihqfo.org
 2, ihr360.com
 2, ihrscloud.com
+2, ihsiao.com
 2, ihst8.com
 2, ihstatic.com
 2, ihtcboy.com
@@ -61063,6 +61072,7 @@ name = ChinaTest
 2, ksydx.com
 2, ksyiqiwan.com
 2, ksyll.com
+2, ksymsbz.com
 2, ksyna.com
 2, ksyun.net
 2, ksyunad.com
@@ -66439,6 +66449,7 @@ name = ChinaTest
 2, marco-bj.com
 2, marcopolochina.com
 2, marginalk.com
+2, maria23.com
 2, mariedalgar.com
 2, marimekko-hots.com
 2, marine-dancer.com
@@ -66798,12 +66809,14 @@ name = ChinaTest
 2, mcyz.com
 2, mczhihui.com
 2, mczmb.org
+2, mczsok.com
 2, mczwlt.net
 2, mczyz.com
 2, mczz.net
 2, md-hmjt.com
 2, md-pms.com
 2, md5ma.com
+2, mdaehx.com
 2, mdapp.tv
 2, mdbchina.com
 2, mdbimg.com
@@ -67884,6 +67897,7 @@ name = ChinaTest
 2, minecraftxz.com
 2, minecraftzw.com
 2, minegoods.com
+2, mineharmony.cc
 2, minei.com
 2, mineplugin.org
 2, minerhome.com
@@ -74719,6 +74733,7 @@ name = ChinaTest
 2, pinkertech.com
 2, pinkoichina.com
 2, pinkou.com
+2, pinkr.com
 2, pinla.com
 2, pinlyu.com
 2, pinmanduo.com
@@ -80926,6 +80941,7 @@ name = ChinaTest
 2, scmccboss.com
 2, scmchem.com
 2, scmfair.com
+2, scmggzbh.com
 2, scmor.com
 2, scmroad.com
 2, scmsky.com
@@ -86477,6 +86493,7 @@ name = ChinaTest
 2, stdout.pub
 2, ste56.com
 2, stea2008.com
+2, steam-run.com
 2, steam.com
 2, steam302.xyz
 2, steambig.com
@@ -87637,6 +87654,7 @@ name = ChinaTest
 2, syhzdj.net
 2, syhzx.com
 2, syhzzf.com
+2, syiban.com
 2, syiptv.com
 2, syitgz.com
 2, syjcly.com
@@ -93690,6 +93708,7 @@ name = ChinaTest
 2, uucqrdmk.com
 2, uueasy.com
 2, uuedutech.com
+2, uufaka.com
 2, uufund.com
 2, uufuns.com
 2, uugai.com
@@ -95124,6 +95143,7 @@ name = ChinaTest
 2, waluer.com
 2, walvax.com
 2, wamila.com
+2, wamoyu.com
 2, wan-ka.com
 2, wan.cc
 2, wan.com
@@ -98870,6 +98890,7 @@ name = ChinaTest
 2, wya1.com
 2, wybgs.com
 2, wybosch.com
+2, wybuddhist.com
 2, wybzdwss.com
 2, wycad.com
 2, wycfw.com
@@ -100642,6 +100663,7 @@ name = ChinaTest
 2, ximitools.com
 2, ximiyouxi.com
 2, ximmerse.com
+2, ximofood.com
 2, ximogo.com
 2, ximuw.com
 2, xin-health.com
@@ -102899,6 +102921,7 @@ name = ChinaTest
 2, xxymdy.com
 2, xxymw.com
 2, xxyo.com
+2, xxyoil.com
 2, xxys2023.com
 2, xxyw.com
 2, xxyx.ltd
@@ -108390,6 +108413,7 @@ name = ChinaTest
 2, zchospital.com
 2, zchrgroup.com
 2, zcict.com
+2, zcidclink.com
 2, zcimg.com
 2, zcinfo.net
 2, zciv.com

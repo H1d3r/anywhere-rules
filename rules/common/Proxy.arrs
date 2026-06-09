@@ -1,7 +1,7 @@
 # NAME: Proxy
 # GENERATED-FOR: Anywhere Routing Rule Set
 # DESCRIPTION: 常用代理域名集合
-# RULES: 1557
+# RULES: 1558
 # SKIPPED: 2
 # SKIPPED-TYPES: USER-AGENT=2
 # SOURCES:
@@ -134,6 +134,7 @@ name = Proxy
 2, pornhub.org
 2, openwrt.org
 2, mozilla.org
+2, flathub.org
 2, f-droid.org
 2, astrill.org
 2, archive.org

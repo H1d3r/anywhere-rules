@@ -1,7 +1,7 @@
 # NAME: CDN
 # GENERATED-FOR: Anywhere Routing Rule Set
 # DESCRIPTION: SukkaW CDN 直连辅助
-# RULES: 4516
+# RULES: 4523
 # SKIPPED: 58
 # SKIPPED-TYPES: DOMAIN-WILDCARD=58
 # SOURCES:
@@ -397,6 +397,7 @@ name = CDN
 2, pcz.javidol.org
 2, haproxy.org
 2, graphql.org
+2, imgproxy.flathub.org
 2, web-static.archive.org
 2, image.ap-mail.org
 2, 99avcdn.org
@@ -513,6 +514,7 @@ name = CDN
 2, images.wurstclient.net
 2, images.wsjcommerce.net
 2, static.underhentai.net
+2, assets.transfernow.net
 2, tapecontent.net
 2, staticworld.net
 2, staticstack.net
@@ -590,6 +592,7 @@ name = CDN
 2, edge-mobile-static.azureedge.net
 2, edgeassetservice.azureedge.net
 2, edgestorewebcdn.azureedge.net
+2, catalogartifact.azureedge.net
 2, xpaywalletcdn.azureedge.net
 2, claritystatic.azureedge.net
 2, mobilecenter.azureedge.net
@@ -622,6 +625,7 @@ name = CDN
 2, cdn.viafoura.net
 2, turboimg.net
 2, tildacdn.net
+2, t-assets.net
 2, cdn.pi.spectrum.net
 2, smassets.net
 2, sitescdn.net
@@ -1536,6 +1540,7 @@ name = CDN
 2, cdn.fluidplayer.com
 2, firebaseapp.com
 2, google-ohttp-relay-safebrowsing.fastly-edge.com
+2, mozilla-ohttp.fastly-edge.com
 2, ohttp-relay1.fastly-edge.com
 2, live.fanmingming.com
 2, assets.embeddables.com
@@ -2432,6 +2437,7 @@ name = CDN
 2, cdn-node.diskpart.com
 2, cacerts.digicert.com
 2, ocsp.digicert.com
+2, crl3.digicert.com
 2, avatars.dicebear.com
 2, api.dicebear.com
 2, dditscdn.com
@@ -3448,6 +3454,7 @@ name = CDN
 2, corp-backend.brevo.com
 2, assets.brevo.com
 2, safebrowsing.brave.com
+2, variations.brave.com
 2, imgs.search.brave.com
 2, cdn.search.brave.com
 2, static.bodor.com

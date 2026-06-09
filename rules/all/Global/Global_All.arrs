@@ -3,9 +3,9 @@
 # SOURCE: https://github.com/blackmatrix7/ios_rule_script/blob/master/rule/Surge/Global/Global_All.list
 # GENERATED-FOR: Anywhere Routing Rule Set
 # NOTE: DOMAIN rules are mapped to Anywhere domain suffix rules.
-# RULES: 34571
+# RULES: 34572
 # SKIPPED: 47
-# UPSTREAM-UPDATED: 2026-06-08 02:30:47
+# UPSTREAM-UPDATED: 2026-06-10 02:47:24
 # SKIPPED-TYPES: PROCESS-NAME=1, USER-AGENT=46
 
 name = Global
@@ -17996,6 +17996,7 @@ name = Global
 2, noticias-rt.com
 2, notimundo.press
 2, notion-static.com
+2, notion-status.com
 2, notion.com
 2, notion.new
 2, notion.site
