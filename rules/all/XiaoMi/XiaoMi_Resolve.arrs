@@ -3,9 +3,9 @@
 # SOURCE: https://github.com/blackmatrix7/ios_rule_script/blob/master/rule/Surge/XiaoMi/XiaoMi_Resolve.list
 # GENERATED-FOR: Anywhere Routing Rule Set
 # NOTE: DOMAIN rules are mapped to Anywhere domain suffix rules.
-# RULES: 153
+# RULES: 157
 # SKIPPED: 1
-# UPSTREAM-UPDATED: 2025-12-20 02:08:27
+# UPSTREAM-UPDATED: 2026-06-16 03:24:05
 # SKIPPED-TYPES: PROCESS-NAME=1
 
 name = XiaoMi
@@ -158,6 +158,10 @@ name = XiaoMi
 2, youpin.com.cn
 2, zhutidasai.com
 0, 110.43.63.242/32
+0, 111.205.195.120/30
+0, 111.205.195.124/31
+0, 114.247.175.210/31
+0, 114.247.175.212/32
 0, 120.133.33.222/32
 0, 47.241.176.221/32
 0, 58.220.58.152/31

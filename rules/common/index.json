@@ -1,6 +1,6 @@
 {
   "total_files": 38,
-  "total_rules": 82834,
+  "total_rules": 82831,
   "total_skipped": 123,
   "files": [
     {
@@ -25,7 +25,7 @@
       "name": "Ads_AWAvenue",
       "description": "秋风广告规则 AWAvenue",
       "output_path": "common/Ads_AWAvenue.arrs",
-      "rule_count": 905,
+      "rule_count": 899,
       "skipped_count": 0,
       "unsupported_types": {},
       "sources": [
@@ -450,7 +450,7 @@
       "name": "CDN",
       "description": "SukkaW CDN 直连辅助",
       "output_path": "common/CDN.arrs",
-      "rule_count": 4523,
+      "rule_count": 4526,
       "skipped_count": 58,
       "unsupported_types": {
         "DOMAIN-WILDCARD": 58

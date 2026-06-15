@@ -3,9 +3,9 @@
 # SOURCE: https://github.com/blackmatrix7/ios_rule_script/blob/master/rule/Surge/Global/Global_All.list
 # GENERATED-FOR: Anywhere Routing Rule Set
 # NOTE: DOMAIN rules are mapped to Anywhere domain suffix rules.
-# RULES: 34629
+# RULES: 34676
 # SKIPPED: 47
-# UPSTREAM-UPDATED: 2026-06-14 02:32:49
+# UPSTREAM-UPDATED: 2026-06-16 03:23:31
 # SKIPPED-TYPES: PROCESS-NAME=1, USER-AGENT=46
 
 name = Global
@@ -127,6 +127,8 @@ name = Global
 2, ws.audioscrobbler.com
 2, www-cdn.icloud.com.akadns.net
 2, yangzhi.app
+2, zftksc.cdn-settings.appsflyersdk.com
+2, zftksc.launches.appsflyersdk.com
 2, ztedevices.com
 2, api.waqi.info
 2, aqi.aqicn.org
@@ -3097,6 +3099,7 @@ name = Global
 2, barton-peveril.ac.uk
 2, barton.ac.uk
 2, bas.ac.uk
+2, base.org
 2, baselinestudy.com
 2, baselinestudy.org
 2, basford-hall.ac.uk
@@ -3860,6 +3863,7 @@ name = Global
 2, bite.ac.uk
 2, bitflyer.com
 2, bitflyer.jp
+2, bitlayer.org
 2, bitly.com
 2, bitly.is
 2, bitnami.com
@@ -3903,6 +3907,7 @@ name = Global
 2, blacktowhite.net
 2, blake.ac.uk
 2, blaoshi.cc
+2, blast.io
 2, blazor.net
 2, blc.ac.uk
 2, ble.ac.uk
@@ -4466,12 +4471,15 @@ name = Global
 2, bmwusfactory.com
 2, bmwusrideracademy.com
 2, bmwvalueservice.com
+2, bmwweb.solutions
 2, bmwwholesaleconnect.com
 2, bmwworld.com
 2, bmwworld.net
 2, bmwworld.tv
 2, bmwzentrum.com
 2, bnac.ac.uk
+2, bnappweb.black
+2, bnbchain.org
 2, bnef.com
 2, bntrace.com
 2, bnu.ac.uk
@@ -4816,6 +4824,7 @@ name = Global
 2, bs-adreview.com
 2, bs-awh.ne.jp
 2, bsa.ac.uk
+2, bsappapi.cc
 2, bsappapi.com
 2, bsaw.ac.uk
 2, bsbec.ac.uk
@@ -5599,6 +5608,7 @@ name = Global
 2, cglas.ac.uk
 2, ch9.ms
 2, chace.ac.uk
+2, chainid.network
 2, championshipseriesleague.com
 2, changing-arctic-ocean.ac.uk
 2, channel4.com
@@ -6294,6 +6304,7 @@ name = Global
 2, cordcloud.org
 2, cordwainers.ac.uk
 2, core.ac.uk
+2, coredao.org
 2, coreduo.com
 2, coreextreme.com
 2, corel.com
@@ -7711,6 +7722,7 @@ name = Global
 2, dropboxpartners.com
 2, dropboxstatic.com
 2, dropboxusercontent.com
+2, drpc.org
 2, drunk6.com
 2, drunkenstepfather.com
 2, drunkentop.com
@@ -9241,6 +9253,8 @@ name = Global
 2, fantasiasguatemala.com
 2, fantasti.cc
 2, fantasticyoungporn.com
+2, fantom.foundation
+2, fantom.network
 2, fap-xxx.com
 2, fap18.net
 2, fap666.com
@@ -9449,6 +9463,7 @@ name = Global
 2, fgmtv.org
 2, fi11av1.com
 2, fi11tv1.com
+2, fiat24.com
 2, fibank.bg
 2, fibre-diffraction.ac.uk
 2, fic.fan
@@ -9616,6 +9631,7 @@ name = Global
 2, flagrasamadores.net
 2, flame.ac.uk
 2, flameunleashed.com
+2, flare.network
 2, flaru.com
 2, flash-xxx.com
 2, flashtranny.com
@@ -10132,10 +10148,15 @@ name = Global
 2, futanarihq.com
 2, futhead.com
 2, futpromos.com
+2, futu.cn
+2, futu.link
 2, futuhk.com
+2, futuhk1.com
+2, futuhk2.com
 2, futuhkapp.com
 2, futuholdings.com
 2, futunited.com
+2, futuoa.com
 2, future-cs.ru
 2, future-media.ac.uk
 2, future-reserves-research.ac.uk
@@ -10150,6 +10171,7 @@ name = Global
 2, futuretrack.ac.uk
 2, futurevehicles.ac.uk
 2, futureworks.ac.uk
+2, futusg.com
 2, fuxporn.com
 2, fuzokudx.com
 2, fv-distribution-database.ac.uk
@@ -13540,6 +13562,7 @@ name = Global
 2, irotv301.top
 2, irribay.com
 2, irscl.ac.uk
+2, isafepal.com
 2, isbgpsafeyet.com
 2, isc.ac.uk
 2, isca-speech.org
@@ -15096,6 +15119,7 @@ name = Global
 2, londonstudiocentre.ac.uk
 2, lonestarnaughtygirls.com
 2, longbridge.cloud
+2, longbridge.cn
 2, longbridge.com
 2, longbridge.global
 2, longbridge.hk
@@ -15867,6 +15891,7 @@ name = Global
 2, meetsmartbook.com
 2, meetyourdevices.com
 2, megacamz.com
+2, megaeth.com
 2, megafilmporno.com
 2, megafon.com
 2, megafon.ru
@@ -15913,6 +15938,7 @@ name = Global
 2, merakigo.com
 2, merc.ac.uk
 2, meridian.net
+2, merkl.xyz
 2, merlin.ac.uk
 2, merops.ac.uk
 2, merristwood.ac.uk
@@ -15955,6 +15981,7 @@ name = Global
 2, metrotoons.com
 2, meu.ac.uk
 2, meuhentai.com
+2, mexc.co
 2, mexc.com
 2, mexcsensors.com
 2, mfg-inspector.com
@@ -17689,6 +17716,7 @@ name = Global
 2, nib.ac.uk
 2, nibs.ac.uk
 2, nibsc.ac.uk
+2, nic.ru
 2, nicats.ac.uk
 2, nicd.ac.uk
 2, niceanimegames.com
@@ -17700,6 +17728,7 @@ name = Global
 2, nicesshop.net
 2, nichepornsite.com
 2, nichepornsites.com
+2, nichost.ru
 2, nicis.ac.uk
 2, nickscipio.com
 2, nicky.xxx
@@ -17969,6 +17998,7 @@ name = Global
 2, nodeimage.com
 2, nodejs.org
 2, nodequality.com
+2, nodereal.io
 2, nodes.ac.uk
 2, nodesnoop.com
 2, nodesource.com
@@ -18381,6 +18411,7 @@ name = Global
 2, oanencore.com
 2, oas.ac.uk
 2, oasis.ac.uk
+2, oasis.io
 2, oasiscollege.ac.uk
 2, oasp.ac.uk
 2, oath.cloud
@@ -18562,6 +18593,7 @@ name = Global
 2, oneteamconference.com
 2, onetrust.com
 2, oneworldmanystories.com
+2, onfinality.io
 2, onindiansex.com
 2, oninstagram.com
 2, onionshare.org
@@ -20415,6 +20447,7 @@ name = Global
 2, qysg8.buzz
 2, qzav.tv
 2, r-project.org
+2, r01.ru
 2, r10s.com
 2, r18.clickme.net
 2, r18av.com
@@ -20728,6 +20761,9 @@ name = Global
 2, refah-bank.ir
 2, reform-apple.com
 2, refrain.ac.uk
+2, reg.cloud
+2, reg.com
+2, reg.ru
 2, regard.ac.uk
 2, regener8.ac.uk
 2, regent-academy.ac.uk
@@ -21072,6 +21108,7 @@ name = Global
 2, rse.ac.uk
 2, rsg.sc
 2, rshb.ru
+2, rsk.co
 2, rslg.ac.uk
 2, rslondon.ac.uk
 2, rslp.ac.uk
@@ -21237,6 +21274,7 @@ name = Global
 2, saasexch.cc
 2, saasexch.co
 2, saasexch.com
+2, saasexch.info
 2, saasexch.io
 2, sabuibo.net
 2, sac.ac.uk
@@ -21252,6 +21290,7 @@ name = Global
 2, safebooru.org
 2, safecampuscommunities.ac.uk
 2, safeliner.tech
+2, safepal.com
 2, safepodnetwork.ac.uk
 2, saffrontech.com
 2, sagabank.co.jp
@@ -22292,6 +22331,7 @@ name = Global
 2, skysports.ie
 2, skysportsonline.com
 2, skysportsracing.com
+2, skytigris.cn
 2, sl99mod.buzz
 2, slack-core.com
 2, slack-files.com
@@ -22475,6 +22515,7 @@ name = Global
 2, solentmarineacademy.ac.uk
 2, solentuniversity.ac.uk
 2, solid.ru
+2, solidifi.app
 2, solihull.ac.uk
 2, solihullsfc.ac.uk
 2, solostudioksale.com
@@ -22987,6 +23028,7 @@ name = Global
 2, stdavidsdaygroup.ac.uk
 2, stdoms.ac.uk
 2, stealthex.io
+2, steamconnecttest.com
 2, stec.ac.uk
 2, steelbrick.com
 2, steemitwallet.com
@@ -23318,6 +23360,7 @@ name = Global
 2, swc.ac.uk
 2, swdtc.ac.uk
 2, swdtp.ac.uk
+2, sweb.ru
 2, sweep.ac.uk
 2, sweetadult-tube.com
 2, sweetandmaxwell.co.uk
@@ -23452,6 +23495,7 @@ name = Global
 2, tagbank.ru
 2, tags.ac.uk
 2, taiav.com
+2, taiko.xyz
 2, tail-f.com
 2, tailf.com
 2, tailscale.com
@@ -23909,6 +23953,7 @@ name = Global
 2, thinkwales.ac.uk
 2, thinkwithgoogle.com
 2, thirdns.de
+2, thirdweb.com
 2, thisav.org
 2, thisisgame.com
 2, thisismoney.co.uk
@@ -23972,6 +24017,7 @@ name = Global
 2, tiendabestbuy.com
 2, tiffany-towers.com
 2, tig-ol-bitties.live
+2, tigerbbs.cn
 2, tiipple.ac.uk
 2, tik-tokapi.com
 2, tiktok-minis.com
@@ -26695,6 +26741,7 @@ name = Global
 2, xkontakt18.com
 2, xkorean.cam
 2, xl-gaytube.com
+2, xlayer.tech
 2, xlecx.org
 2, xlgirls.com
 2, xlinkz.to

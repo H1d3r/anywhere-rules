@@ -5,7 +5,7 @@
 # NOTE: DOMAIN rules are mapped to Anywhere domain suffix rules.
 # RULES: 1580
 # SKIPPED: 36
-# UPSTREAM-UPDATED: 2026-06-14 02:31:27
+# UPSTREAM-UPDATED: 2026-06-16 03:22:03
 # SKIPPED-TYPES: PROCESS-NAME=13, USER-AGENT=23
 
 name = Apple
@@ -1474,6 +1474,7 @@ name = Apple
 2, wwwipodlounge.com
 2, wwwmacbookair.com
 2, apple.comscoreresearch.com
+2, apple.news
 2, appleenews.com
 2, applemusic.berlin
 2, applemusic.co
@@ -1511,7 +1512,6 @@ name = Apple
 2, musickit.net
 2, wwwapplemusic.com
 2, apple-dns.net
-2, apple.news
 2, appsto.re
 2, digicert.com
 2, apple-cloudkit.com

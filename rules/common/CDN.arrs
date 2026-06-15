@@ -1,7 +1,7 @@
 # NAME: CDN
 # GENERATED-FOR: Anywhere Routing Rule Set
 # DESCRIPTION: SukkaW CDN 直连辅助
-# RULES: 4523
+# RULES: 4526
 # SKIPPED: 58
 # SKIPPED-TYPES: DOMAIN-WILDCARD=58
 # SOURCES:
@@ -3185,6 +3185,7 @@ name = CDN
 2, static.gmgard.com
 2, glbimg.com
 2, tuf-repo.github.com
+2, cafe.github.com
 2, raw.github.com
 2, pkg.github.com
 2, assets.genius.com
@@ -3240,6 +3241,7 @@ name = CDN
 2, static.beebom.com
 2, www.bbthat.com
 2, bblcdn.com
+2, static.captcha.awswaf.com
 2, avximg.com
 2, tiledbasemaps.arcgis.com
 2, tiles.arcgis.com
@@ -4024,6 +4026,7 @@ name = CDN
 2, cdn.nimg.jp
 2, i.gzn.jp
 2, tiles.gsj.jp
+2, img.gmo.jp
 2, nav.yumenosora.co.jp
 2, web-assets.zendesk.co.jp
 2, cdn.rex.contents.rakuten.co.jp
