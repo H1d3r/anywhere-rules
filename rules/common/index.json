@@ -1,7 +1,7 @@
 {
-  "total_files": 38,
-  "total_rules": 82831,
-  "total_skipped": 123,
+  "total_files": 39,
+  "total_rules": 87583,
+  "total_skipped": 126,
   "files": [
     {
       "name": "Reject",
@@ -469,6 +469,19 @@
       "unsupported_types": {},
       "sources": [
         "https://raw.githubusercontent.com/Loyalsoldier/geoip/release/Country.mmdb"
+      ]
+    },
+    {
+      "name": "Geosite_CN",
+      "description": "Geosite 中国大陆域名规则",
+      "output_path": "common/Geosite_CN.arrs",
+      "rule_count": 4752,
+      "skipped_count": 3,
+      "unsupported_types": {
+        "Regex": 3
+      },
+      "sources": [
+        "https://github.com/Loyalsoldier/v2ray-rules-dat/releases/latest/download/geosite.dat"
       ]
     }
   ]

@@ -33,6 +33,7 @@ jobs:
           python scripts/convert_blackmatrix7.py
           python scripts/build_common_rules.py
           python scripts/build_geoip_cn.py
+          python scripts/build_geosite_cn.py
 
       - name: Commit generated rules
         run: |

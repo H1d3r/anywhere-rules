@@ -41,9 +41,9 @@ Suggested targets are only a starting point. Pick the policy that matches your o
 | Rule | Rules | Suggested | Purpose | Raw |
 | --- | ---: | --- | --- | --- |
 | `Reject` | 6204 | `REJECT` | Basic ads, malicious sites, and tracking block list. | [Raw](https://raw.githubusercontent.com/chikacya/anywhere-rules/main/rules/common/Reject.arrs) |
-| `Ads_AWAvenue` | 905 | `REJECT` | AWAvenue ad-blocking rules. | [Raw](https://raw.githubusercontent.com/chikacya/anywhere-rules/main/rules/common/Ads_AWAvenue.arrs) |
+| `Ads_AWAvenue` | 899 | `REJECT` | AWAvenue ad-blocking rules. | [Raw](https://raw.githubusercontent.com/chikacya/anywhere-rules/main/rules/common/Ads_AWAvenue.arrs) |
 | `AI` | 49 | Proxy | Common AI services. | [Raw](https://raw.githubusercontent.com/chikacya/anywhere-rules/main/rules/common/AI.arrs) |
-| `Proxy` | 1558 | Proxy | General proxy-domain collection. | [Raw](https://raw.githubusercontent.com/chikacya/anywhere-rules/main/rules/common/Proxy.arrs) |
+| `Proxy` | 1559 | Proxy | General proxy-domain collection. | [Raw](https://raw.githubusercontent.com/chikacya/anywhere-rules/main/rules/common/Proxy.arrs) |
 | `ProxyGFW` | 7597 | Proxy | Broad GFW proxy collection. | [Raw](https://raw.githubusercontent.com/chikacya/anywhere-rules/main/rules/common/ProxyGFW.arrs) |
 | `GFW` | 4252 | Proxy | GFW domain list. | [Raw](https://raw.githubusercontent.com/chikacya/anywhere-rules/main/rules/common/GFW.arrs) |
 | `Direct` | 36 | `DIRECT` | Small direct-route supplement. | [Raw](https://raw.githubusercontent.com/chikacya/anywhere-rules/main/rules/common/Direct.arrs) |
@@ -70,6 +70,7 @@ Suggested targets are only a starting point. Pick the policy that matches your o
 | `WeChat` | 339 | `DIRECT` | WeChat rules. | [Raw](https://raw.githubusercontent.com/chikacya/anywhere-rules/main/rules/common/WeChat.arrs) |
 | `ChinaDomain` | 857 | `DIRECT` | Common mainland China domains. | [Raw](https://raw.githubusercontent.com/chikacya/anywhere-rules/main/rules/common/ChinaDomain.arrs) |
 | `CN_Additional` | 43245 | `DIRECT` | Mainland China domain supplement. | [Raw](https://raw.githubusercontent.com/chikacya/anywhere-rules/main/rules/common/CN_Additional.arrs) |
+| `Geosite_CN` | 4752 | `DIRECT` | Mainland China domains extracted from geosite.dat `GEOLOCATION-CN`. | [Raw](https://raw.githubusercontent.com/chikacya/anywhere-rules/main/rules/common/Geosite_CN.arrs) |
 | `ChinaIP` | 5711 | `DIRECT` | Mainland China IP CIDR rules. | [Raw](https://raw.githubusercontent.com/chikacya/anywhere-rules/main/rules/common/ChinaIP.arrs) |
 | `GeoIP_CN` | 5875 | `DIRECT` | Mainland China IP CIDR rules extracted from Country.mmdb. | [Raw](https://raw.githubusercontent.com/chikacya/anywhere-rules/main/rules/common/GeoIP_CN.arrs) |
 | `Lan` | 8 | `DIRECT` | LAN and private address rules. | [Raw](https://raw.githubusercontent.com/chikacya/anywhere-rules/main/rules/common/Lan.arrs) |
@@ -77,11 +78,11 @@ Suggested targets are only a starting point. Pick the policy that matches your o
 | `Steam` | 54 | As needed | Steam rules. | [Raw](https://raw.githubusercontent.com/chikacya/anywhere-rules/main/rules/common/Steam.arrs) |
 | `PayPal` | 247 | As needed | PayPal rules. | [Raw](https://raw.githubusercontent.com/chikacya/anywhere-rules/main/rules/common/PayPal.arrs) |
 | `Cloudflare` | 65 | As needed | Cloudflare rules. | [Raw](https://raw.githubusercontent.com/chikacya/anywhere-rules/main/rules/common/Cloudflare.arrs) |
-| `CDN` | 4523 | `DIRECT` | CDN direct-route helper rules. | [Raw](https://raw.githubusercontent.com/chikacya/anywhere-rules/main/rules/common/CDN.arrs) |
+| `CDN` | 4526 | `DIRECT` | CDN direct-route helper rules. | [Raw](https://raw.githubusercontent.com/chikacya/anywhere-rules/main/rules/common/CDN.arrs) |
 
 ## Update
 
-GitHub Actions updates generated rules daily. The workflow converts blackmatrix7 rules, builds common rules, and extracts `GeoIP_CN` from `Country.mmdb`.
+GitHub Actions updates generated rules daily. The workflow converts blackmatrix7 rules, builds common rules, extracts `GeoIP_CN` from `Country.mmdb`, and extracts `Geosite_CN` from `geosite.dat`.
 
 ## Notes
 

@@ -41,9 +41,9 @@ MITM 规则为实验性内容，仅供学习交流。
 | 规则 | 数量 | 建议策略 | 用途 | Raw |
 | --- | ---: | --- | --- | --- |
 | `Reject` | 6204 | `REJECT` | 广告、恶意站点和跟踪拦截基础集合。 | [Raw](https://raw.githubusercontent.com/chikacya/anywhere-rules/main/rules/common/Reject.arrs) |
-| `Ads_AWAvenue` | 905 | `REJECT` | 秋风广告规则 AWAvenue。 | [Raw](https://raw.githubusercontent.com/chikacya/anywhere-rules/main/rules/common/Ads_AWAvenue.arrs) |
+| `Ads_AWAvenue` | 899 | `REJECT` | 秋风广告规则 AWAvenue。 | [Raw](https://raw.githubusercontent.com/chikacya/anywhere-rules/main/rules/common/Ads_AWAvenue.arrs) |
 | `AI` | 49 | 代理 | 常见 AI 服务。 | [Raw](https://raw.githubusercontent.com/chikacya/anywhere-rules/main/rules/common/AI.arrs) |
-| `Proxy` | 1558 | 代理 | 常用代理域名集合。 | [Raw](https://raw.githubusercontent.com/chikacya/anywhere-rules/main/rules/common/Proxy.arrs) |
+| `Proxy` | 1559 | 代理 | 常用代理域名集合。 | [Raw](https://raw.githubusercontent.com/chikacya/anywhere-rules/main/rules/common/Proxy.arrs) |
 | `ProxyGFW` | 7597 | 代理 | GFW 代理集合。 | [Raw](https://raw.githubusercontent.com/chikacya/anywhere-rules/main/rules/common/ProxyGFW.arrs) |
 | `GFW` | 4252 | 代理 | GFW 域名列表。 | [Raw](https://raw.githubusercontent.com/chikacya/anywhere-rules/main/rules/common/GFW.arrs) |
 | `Direct` | 36 | `DIRECT` | 常用直连补充。 | [Raw](https://raw.githubusercontent.com/chikacya/anywhere-rules/main/rules/common/Direct.arrs) |
@@ -70,6 +70,7 @@ MITM 规则为实验性内容，仅供学习交流。
 | `WeChat` | 339 | `DIRECT` | WeChat。 | [Raw](https://raw.githubusercontent.com/chikacya/anywhere-rules/main/rules/common/WeChat.arrs) |
 | `ChinaDomain` | 857 | `DIRECT` | 中国大陆常见域名直连。 | [Raw](https://raw.githubusercontent.com/chikacya/anywhere-rules/main/rules/common/ChinaDomain.arrs) |
 | `CN_Additional` | 43245 | `DIRECT` | 中国大陆域名补充。 | [Raw](https://raw.githubusercontent.com/chikacya/anywhere-rules/main/rules/common/CN_Additional.arrs) |
+| `Geosite_CN` | 4752 | `DIRECT` | 从 geosite.dat 的 `GEOLOCATION-CN` 提取的中国大陆域名。 | [Raw](https://raw.githubusercontent.com/chikacya/anywhere-rules/main/rules/common/Geosite_CN.arrs) |
 | `ChinaIP` | 5711 | `DIRECT` | 中国大陆 IP CIDR。 | [Raw](https://raw.githubusercontent.com/chikacya/anywhere-rules/main/rules/common/ChinaIP.arrs) |
 | `GeoIP_CN` | 5875 | `DIRECT` | 从 Country.mmdb 提取的中国大陆 IP CIDR。 | [Raw](https://raw.githubusercontent.com/chikacya/anywhere-rules/main/rules/common/GeoIP_CN.arrs) |
 | `Lan` | 8 | `DIRECT` | 局域网和私有地址。 | [Raw](https://raw.githubusercontent.com/chikacya/anywhere-rules/main/rules/common/Lan.arrs) |
@@ -77,11 +78,11 @@ MITM 规则为实验性内容，仅供学习交流。
 | `Steam` | 54 | 按需 | Steam。 | [Raw](https://raw.githubusercontent.com/chikacya/anywhere-rules/main/rules/common/Steam.arrs) |
 | `PayPal` | 247 | 按需 | PayPal。 | [Raw](https://raw.githubusercontent.com/chikacya/anywhere-rules/main/rules/common/PayPal.arrs) |
 | `Cloudflare` | 65 | 按需 | Cloudflare。 | [Raw](https://raw.githubusercontent.com/chikacya/anywhere-rules/main/rules/common/Cloudflare.arrs) |
-| `CDN` | 4523 | `DIRECT` | CDN 直连辅助。 | [Raw](https://raw.githubusercontent.com/chikacya/anywhere-rules/main/rules/common/CDN.arrs) |
+| `CDN` | 4526 | `DIRECT` | CDN 直连辅助。 | [Raw](https://raw.githubusercontent.com/chikacya/anywhere-rules/main/rules/common/CDN.arrs) |
 
 ## 更新
 
-GitHub Actions 每天自动更新生成规则。流程会转换 blackmatrix7 规则、生成 common 规则，并从 `Country.mmdb` 提取 `GeoIP_CN`。
+GitHub Actions 每天自动更新生成规则。流程会转换 blackmatrix7 规则、生成 common 规则，从 `Country.mmdb` 提取 `GeoIP_CN`，并从 `geosite.dat` 提取 `Geosite_CN`。
 
 ## 说明
 
