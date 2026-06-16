@@ -1,0 +1,6 @@
+# Telegram跳转Swiftgram - Anywhere MITM RuleSet
+
+name = Telegram跳转Swiftgram
+hostname = t.me
+
+0, 100, ^https?:\/\/t\.me\/(.+), ZnVuY3Rpb24gcHJvY2VzcyhjdHgpIHsKICBpZiAoY3R4LnBoYXNlICE9PSAicmVxdWVzdCIgfHwgIWN0eC51cmwpIHJldHVybjsKICB2YXIgbSA9IGN0eC51cmwubWF0Y2goL14oPzpodHRwcz86XC9cLyk/dFwubWVcLyguKykkLyk7CiAgaWYgKCFtKSByZXR1cm47CiAgQW55d2hlcmUucmVzcG9uZCh7CiAgICBzdGF0dXM6IDMwMiwKICAgIGhlYWRlcnM6IFtbImxvY2F0aW9uIiwgInNnOi8vcmVzb2x2ZT9kb21haW49IiArIG1bMV1dXSwKICAgIGJvZHk6ICIiCiAgfSk7Cn0=

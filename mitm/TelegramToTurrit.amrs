@@ -1,0 +1,6 @@
+# Telegram跳转Turrit - Anywhere MITM RuleSet
+
+name = Telegram跳转Turrit
+hostname = t.me
+
+0, 100, ^https?:\/\/t\.me\/(.+), ZnVuY3Rpb24gcHJvY2VzcyhjdHgpIHsKICBpZiAoY3R4LnBoYXNlICE9PSAicmVxdWVzdCIgfHwgIWN0eC51cmwpIHJldHVybjsKICB2YXIgbSA9IGN0eC51cmwubWF0Y2goL15odHRwcz86XC9cL3RcLm1lXC8oLispJC8pOwogIGlmICghbSkgcmV0dXJuOwogIEFueXdoZXJlLnJlc3BvbmQoewogICAgc3RhdHVzOiAzMDIsCiAgICBoZWFkZXJzOiBbWyJsb2NhdGlvbiIsICJ0dXJyaXQ6Ly9yZXNvbHZlP2RvbWFpbj0iICsgbVsxXV1dLAogICAgYm9keTogIiIKICB9KTsKfQ==
