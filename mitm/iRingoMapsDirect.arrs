@@ -1,0 +1,10 @@
+# iRingo Maps Direct - Anywhere Routing RuleSet
+# NOTE: Assign this rule set to DIRECT in Anywhere.
+
+name = iRingo Maps Direct
+2, is.autonavi.com
+2, gspe11-2-cn-ssl.ls.apple.com
+2, gspe12-cn-ssl.ls.apple.com
+2, gspe19-cn-ssl.ls.apple.com
+2, gspe19-2-cn-ssl.ls.apple.com
+2, gspe79-cn-ssl.ls.apple.com

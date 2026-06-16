@@ -1,6 +1,6 @@
-# iRingo WeatherKit Local - Anywhere MITM RuleSet
+# iRingo WeatherKit - Anywhere MITM RuleSet
 
-name = iRingo WeatherKit Local
+name = iRingo WeatherKit
 hostname = weatherkit.apple.com
 
 0, 2, ^https://[^/]+/api/v1/availability/, accept-encoding
