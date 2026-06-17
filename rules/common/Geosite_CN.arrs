@@ -2,8 +2,8 @@
 # GENERATED-FOR: Anywhere Routing Rule Set
 # DESCRIPTION: Geosite 中国大陆域名规则
 # GEOSITE-CODE: GEOLOCATION-CN
-# RULES: 4752
-# SOURCE-RULES: 4755
+# RULES: 4733
+# SOURCE-RULES: 4736
 # SKIPPED: 3
 # SKIPPED-TYPES: Regex=3
 # SOURCES:
@@ -100,7 +100,6 @@ name = Geosite_CN
 2, 1tyy.cn
 2, 1xhh.cn
 2, 1zhe.com
-2, 21cn.com
 2, 21cnjy.com
 2, 21jingji.com
 2, 2265.com
@@ -339,6 +338,7 @@ name = Geosite_CN
 2, 91.com
 2, 917.com
 2, 91danji.com
+2, 91q.com
 2, 91shenfan.com
 2, 91yunxiao.com
 2, 95015.com
@@ -688,7 +688,6 @@ name = Geosite_CN
 2, biligame.co
 2, biligame.com
 2, biligame.net
-2, binglianhuajianzhan.com
 2, bio-equip.com
 2, bio360.net
 2, bio4p.com
@@ -1304,6 +1303,7 @@ name = Geosite_CN
 2, dlnel.org
 2, dmall.com
 2, dmallcdn.com
+2, dmhmusic.com
 2, dmzj.com
 2, dobest.com
 2, doc88.com
@@ -1730,8 +1730,6 @@ name = Geosite_CN
 2, gffunds.com.cn
 2, gfund.com
 2, ggkuai.com
-2, ggoplay.com
-2, ggowan.com
 2, ghsl.cn
 2, ghxi.com
 2, ghzq.com.cn
@@ -1768,7 +1766,6 @@ name = Geosite_CN
 2, gneec3.com
 2, gneec4.com
 2, gneec7.com
-2, go2map.com
 2, gobasearcher.com
 2, goka.top
 2, gold678.com
@@ -1856,6 +1853,7 @@ name = Geosite_CN
 2, gyzq.com.cn
 2, gzcqs.com
 2, gzctyiptv.cn
+2, gzlzfm.com
 2, gztv.com
 2, gzurl.cn
 2, gzwanju.com
@@ -2248,6 +2246,7 @@ name = Geosite_CN
 2, itpub.net
 2, itsk.com
 2, ivwen.com
+2, ixiaochuan.cn
 2, iyiou.com
 2, iyunmu.com
 2, iyunxiao.com
@@ -2257,6 +2256,7 @@ name = Geosite_CN
 2, iztzq.com
 2, izuche.com
 2, izuchebao.com
+2, izuiyou.com
 2, j-test.com
 2, jamcz.com
 2, jandan.net
@@ -2746,6 +2746,7 @@ name = Geosite_CN
 2, lixinger.com
 2, lizhi.fm
 2, lizhifm.com
+2, lizhiinc.com
 2, ljcdn.com
 2, lkcoffee.com
 2, lkkbrand.com
@@ -2795,6 +2796,8 @@ name = Geosite_CN
 2, lxzjjt.cn
 2, lxzjjt.com
 2, ly.com
+2, lz310.com
+2, lzpipi.com
 2, m1905.cn
 2, m1905.com
 2, mafengwo.cn
@@ -2988,6 +2991,7 @@ name = Geosite_CN
 2, mti100.com
 2, mtime.cn
 2, mtime.com
+2, mting.info
 2, mtyun.com
 2, mukewang.com
 2, mumayi.com
@@ -3238,7 +3242,6 @@ name = Geosite_CN
 2, pingwest.com
 2, pingxx.com
 2, pintu360.com
-2, pinyin.cn
 2, pipaw.com
 2, pipaw.net
 2, pipi.cn
@@ -3289,7 +3292,6 @@ name = Geosite_CN
 2, qcds.com
 2, qchannel03.cn
 2, qd-metro.com
-2, qd.ink
 2, qd8.com
 2, qftexpay.cn
 2, qgzb.com.cn
@@ -3522,11 +3524,7 @@ name = Geosite_CN
 2, sfccn.com
 2, sffix.cn
 2, sfgy.org
-2, sg.cn
 2, sgamer.com
-2, sgtmos.com
-2, sgyeyou.com
-2, sgyouxi.com
 2, shanbay.com
 2, shang360.com
 2, shangc.net
@@ -3570,6 +3568,7 @@ name = Geosite_CN
 2, shouqianba.com
 2, shoutanjjj.com
 2, shouyoubus.com
+2, showstart.com
 2, shrbank.com
 2, shssp.org
 2, shuanghui.net
@@ -3630,16 +3629,6 @@ name = Geosite_CN
 2, sofreight.com
 2, softwhy.com
 2, sofun.com
-2, sogo.com
-2, sogou-inc.com
-2, sogou-op.org
-2, sogou.cn
-2, sogou.com
-2, sogou.com.cn
-2, sogou.net
-2, sogoucdn.com
-2, sogoucdndl.com
-2, sogouimecdn.com
 2, sohu
 2, sohu.com
 2, sohucs.com
@@ -3648,9 +3637,6 @@ name = Geosite_CN
 2, solidot.org
 2, somode.com
 2, sootoo.com
-2, soso.com
-2, soso.com.cn
-2, sososnap.com
 2, sou.cn
 2, sou.com
 2, soufunimg.com
@@ -3771,6 +3757,7 @@ name = Geosite_CN
 2, taichuan.com
 2, taichuan.net
 2, taihe.com
+2, taihemusic.cn
 2, taihuoniao.com
 2, taikang.com
 2, taikanglife.com
@@ -3802,7 +3789,6 @@ name = Geosite_CN
 2, tebon.com.cn
 2, techwalker.com
 2, techweb.com.cn
-2, teemo.cn
 2, teleows.com
 2, tencent-cloud.cn
 2, tencent-cloud.com
@@ -3821,6 +3807,7 @@ name = Geosite_CN
 2, tgbus.com
 2, tgpro.top
 2, tgprocs.net
+2, th-music.com
 2, thecover.cn
 2, thefastfile.com
 2, thefastimg.com
@@ -4099,7 +4086,6 @@ name = Geosite_CN
 2, wanliniu.com
 2, wanmei.com
 2, wannianli8.com
-2, wannianqingjianzhan.com
 2, wanplus.com
 2, wanwan4399.com
 2, wanwushuo.com
@@ -4236,6 +4222,7 @@ name = Geosite_CN
 2, wsukwai.com
 2, wswebcdn.com
 2, wswebpic.com
+2, wting.info
 2, wtown.com
 2, wtzw.com
 2, wumii.com
@@ -4278,10 +4265,9 @@ name = Geosite_CN
 2, xiamenair.com
 2, xianfae.com
 2, xiangbababus.com
-2, xiangrikuijianzhan.com
-2, xiangrikuisite.com
 2, xiaoaiassist.com
 2, xiaobaixitong.com
+2, xiaochuankeji.cn
 2, xiaodutv.com
 2, xiaoe-tech.com
 2, xiaogouh5.com
@@ -4316,7 +4302,6 @@ name = Geosite_CN
 2, xinpianchang.com
 2, xinrenxinshi.com
 2, xinwuji.com
-2, xinyan.cn
 2, xinyuanfin.com
 2, xir.cn
 2, xishanju.com
@@ -4406,7 +4391,6 @@ name = Geosite_CN
 2, yeshen.com
 2, yeshj.com
 2, yesky.com
-2, yeyousg.com
 2, yfcache.com
 2, yfcalc.com
 2, yfcdn.net
@@ -4418,8 +4402,6 @@ name = Geosite_CN
 2, yhfund.com.cn
 2, yicai.com
 2, yiche.com
-2, yidianliulan.cn
-2, yidianliulan.com
 2, yigao.com
 2, yigoonet.com
 2, yihaikerry.net.cn
@@ -4565,7 +4547,6 @@ name = Geosite_CN
 2, yupoo.com
 2, yuque.com
 2, yushiyan.net
-2, yuweikuijianzhan.com
 2, yuzua.com
 2, yxbao.com
 2, yxdmgame.com

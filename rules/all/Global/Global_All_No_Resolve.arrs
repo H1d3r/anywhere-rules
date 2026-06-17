@@ -3,9 +3,9 @@
 # SOURCE: https://github.com/blackmatrix7/ios_rule_script/blob/master/rule/Surge/Global/Global_All_No_Resolve.list
 # GENERATED-FOR: Anywhere Routing Rule Set
 # NOTE: DOMAIN rules are mapped to Anywhere domain suffix rules.
-# RULES: 34676
+# RULES: 34685
 # SKIPPED: 47
-# UPSTREAM-UPDATED: 2026-06-16 03:23:31
+# UPSTREAM-UPDATED: 2026-06-18 02:53:30
 # SKIPPED-TYPES: PROCESS-NAME=1, USER-AGENT=46
 
 name = Global
@@ -5523,6 +5523,7 @@ name = Global
 2, celebgramme.com
 2, celebmasta.live
 2, celebritygay.com
+2, celebritymoviearchive.com
 2, celebritynakeds.com
 2, celebrityslips.com
 2, celebritystorysite.com
@@ -9924,6 +9925,7 @@ name = Global
 2, foxweatherwatch.com
 2, fpacebook.com
 2, fpm.ac.uk
+2, fpo.xxx
 2, fptolia.com
 2, fqcebook.com
 2, fr-beatsbydrestore.com
@@ -10016,6 +10018,8 @@ name = Global
 2, freessl.com
 2, freeuseporn.com
 2, freeviewplus.net.au
+2, freexh.blog
+2, freexh.live
 2, freexvideos.org
 2, freexxx.best
 2, freexxx.win
@@ -19387,6 +19391,7 @@ name = Global
 2, pilgrimageandcathedrals.ac.uk
 2, pilgrimagestudies.ac.uk
 2, pillbeatsblackfridaysale.com
+2, pimpbunny.com
 2, pin.it
 2, pinduck.com
 2, pinflix.com
@@ -20029,6 +20034,7 @@ name = Global
 2, powershellgallery.com
 2, powersrv.de
 2, powersunitedvr.com
+2, powfans.com
 2, powia.ac.uk
 2, pp-soc.com
 2, pp.ru
@@ -21750,6 +21756,7 @@ name = Global
 2, sequence.com
 2, ser7.cc
 2, sera.ac.uk
+2, serakon.com
 2, serbiporno.net
 2, serc.ac.uk
 2, serena.ac.uk
@@ -25885,6 +25892,7 @@ name = Global
 2, vscode-unpkg.net
 2, vscode.dev
 2, vsemrabota.ru
+2, vsex.in
 2, vsezoo.com
 2, vsphere.com
 2, vsphere.net
@@ -26706,6 +26714,7 @@ name = Global
 2, xhamster2.com
 2, xhamster3.com
 2, xhamsterlive.com
+2, xhapp.live
 2, xhnews.live
 2, xhot.pro
 2, xhpingcdn.com

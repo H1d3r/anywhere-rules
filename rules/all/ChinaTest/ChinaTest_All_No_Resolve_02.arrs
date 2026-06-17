@@ -3,84 +3,12 @@
 # SOURCE: https://github.com/blackmatrix7/ios_rule_script/blob/master/rule/Surge/ChinaTest/ChinaTest_All_No_Resolve.list
 # GENERATED-FOR: Anywhere Routing Rule Set
 # NOTE: DOMAIN rules are mapped to Anywhere domain suffix rules.
-# RULES: 12590
+# RULES: 12513
 # SKIPPED: 0
-# SOURCE-RULES: 112590
-# UPSTREAM-UPDATED: 2026-06-16 03:24:15
+# SOURCE-RULES: 112513
+# UPSTREAM-UPDATED: 2026-06-18 02:54:11
 
 name = ChinaTest_02
-2, xiaonei.com
-2, xiaonengren.com
-2, xiaoni.com
-2, xiaoniaofei.com
-2, xiaoniba.com
-2, xiaoniu66.com
-2, xiaoniuben.com
-2, xiaoniuds.com
-2, xiaoniuhululu.com
-2, xiaopai.vip
-2, xiaopaitech.com
-2, xiaopaotec.com
-2, xiaopeiqing.com
-2, xiaopeng.com
-2, xiaophy.com
-2, xiaopi.com
-2, xiaopinchuxing.com
-2, xiaopiu.com
-2, xiaoqiandao.com
-2, xiaoqiangge.com
-2, xiaoqiling.com
-2, xiaoqingtou.com
-2, xiaoqinre.com
-2, xiaoqiqiao.com
-2, xiaoqiumi.co
-2, xiaoqiumi.com
-2, xiaoqiweb.com
-2, xiaoquba.com
-2, xiaoqueshe.com
-2, xiaoquyijia.com
-2, xiaorizi.me
-2, xiaorui.cc
-2, xiaoruibao.com
-2, xiaoshengping.com
-2, xiaoshentongzongbu.com
-2, xiaoshidata.com
-2, xiaoshijie.com
-2, xiaoshituina.vip
-2, xiaoshouhudong.com
-2, xiaoshourc.com
-2, xiaoshouyi.com
-2, xiaoshuapp.com
-2, xiaoshuiguo.com
-2, xiaoshujiang.com
-2, xiaoshuo.com
-2, xiaoshuo1-sm.com
-2, xiaoshuo2-sm.com
-2, xiaoshuo520.com
-2, xiaoshuoba.com
-2, xiaoshuobi.cc
-2, xiaoshuodaquan.com
-2, xiaoshuohui.net
-2, xiaoshuoli.com
-2, xiaoshuowu.com
-2, xiaoshuxiong.com
-2, xiaositv.com
-2, xiaot.com
-2, xiaota.com
-2, xiaotangketang.com
-2, xiaote.com
-2, xiaote.net
-2, xiaotee.com
-2, xiaotengyouxi.com
-2, xiaotiancai.com
-2, xiaoting.com
-2, xiaotongqq.com
-2, xiaotud.com
-2, xiaotuzhan.com
-2, xiaou2014.com
-2, xiaoupan.com
-2, xiaowangshen.com
-2, xiaowangyun.com
 2, xiaowazi.com
 2, xiaoweichen.com
 2, xiaoweigod.com
@@ -457,6 +385,7 @@ name = ChinaTest_02
 2, xindong.com
 2, xindongdinglv.com
 2, xindonghuyu123.com
+2, xindonshan.com
 2, xindu.cc
 2, xinduo.com
 2, xinduoad.com
@@ -803,6 +732,7 @@ name = ChinaTest_02
 2, xinruiweb.com
 2, xinsanbanbao.com
 2, xinsankeji.com
+2, xinsannong.com
 2, xinsdn.com
 2, xinsenz.com
 2, xinsf.cc
@@ -1365,7 +1295,6 @@ name = ChinaTest_02
 2, xloveyoux.com
 2, xlpai.com
 2, xlpan.com
-2, xlpp.net
 2, xlqeai.com
 2, xlqzh.com
 2, xlread.com
@@ -1578,7 +1507,6 @@ name = ChinaTest_02
 2, xn--55qx2ag79c1iq.com
 2, xn--55qx5d
 2, xn--55qzsxj5y4ozkz93dswptmau4jc88dg75ctid8raf29c.com
-2, xn--5brz4b846h.com
 2, xn--5kv317c.com
 2, xn--5kv91jiz2b.com
 2, xn--5tzm5g
@@ -1868,6 +1796,7 @@ name = ChinaTest_02
 2, xqblog.com
 2, xqbssj.com
 2, xqce.com
+2, xqdaolove.com
 2, xqdgroup.com
 2, xqdjkwz.com
 2, xqhuyu.com
@@ -2003,7 +1932,6 @@ name = ChinaTest_02
 2, xsrtvu.com
 2, xss.tv
 2, xssdcdn.com
-2, xsser.date
 2, xsshuku.com
 2, xsslyjt.com
 2, xssz.net
@@ -2581,6 +2509,7 @@ name = ChinaTest_02
 2, xxkucun.com
 2, xxkxjx.net
 2, xxkxw.net
+2, xxlab.tech
 2, xxlcn.com
 2, xxlifexx.com
 2, xxliudsp.com
@@ -4780,7 +4709,6 @@ name = ChinaTest_02
 2, yiqihuihui.com
 2, yiqijian.com
 2, yiqijixiang.com
-2, yiqikan8.com
 2, yiqike.com
 2, yiqiming88.com
 2, yiqimob.com
@@ -5266,7 +5194,6 @@ name = ChinaTest_02
 2, ylws.net
 2, ylwyw.com
 2, ylxdtww.com
-2, ylxgf.com
 2, ylxhmy.com
 2, ylxw.net
 2, ylxweb.com
@@ -6284,7 +6211,6 @@ name = ChinaTest_02
 2, ysrencai.com
 2, ysrh.com
 2, ysrzdb.com
-2, ysslc.com
 2, yssp88.com
 2, yssql.com
 2, yssrmyy.com
@@ -6421,7 +6347,6 @@ name = ChinaTest_02
 2, ytyz.net
 2, ytyz.org
 2, ytzhihui.com
-2, ytzww.com
 2, yu-electronics.net
 2, yu163.com
 2, yu4l.com
@@ -7197,6 +7122,7 @@ name = ChinaTest_02
 2, yuqiao.com
 2, yuqiaolong.com
 2, yuqinpin.com
+2, yuqncloud.com
 2, yuquanhosp.com
 2, yur09130og.com
 2, yur09140og.com
@@ -8156,7 +8082,6 @@ name = ChinaTest_02
 2, zcrczp.com
 2, zcread.com
 2, zcry007.com
-2, zcs.cc
 2, zcsbbs.com
 2, zcscz.com
 2, zcset.com
@@ -9152,7 +9077,6 @@ name = ChinaTest_02
 2, zhenheli.com
 2, zhenhonggroup.com
 2, zhenhospital.com
-2, zhenhuadj.com
 2, zhenhuan888.com
 2, zhenimg.com
 2, zhenjiatong.com
@@ -9481,7 +9405,6 @@ name = ChinaTest_02
 2, zhitongcaijing.com
 2, zhitongpm.com
 2, zhitouxing.com
-2, zhituad.com
 2, zhitui.com
 2, zhituwujie.com
 2, zhituzhilian.com

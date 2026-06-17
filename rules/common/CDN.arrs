@@ -1,7 +1,7 @@
 # NAME: CDN
 # GENERATED-FOR: Anywhere Routing Rule Set
 # DESCRIPTION: SukkaW CDN 直连辅助
-# RULES: 4528
+# RULES: 4529
 # SKIPPED: 58
 # SKIPPED-TYPES: DOMAIN-WILDCARD=58
 # SOURCES:
@@ -1306,6 +1306,7 @@ name = CDN
 2, clientsdk.launchdarkly.com
 2, static.launchdarkly.com
 2, events.launchdarkly.com
+2, larksuitepkg.com
 2, lf16-larkversion.larksuitecdn.com
 2, sf19-scmcdn.larksuitecdn.com
 2, p16-hera-va.larksuitecdn.com
