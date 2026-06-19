@@ -1,6 +1,6 @@
 {
   "total_files": 39,
-  "total_rules": 87639,
+  "total_rules": 87758,
   "total_skipped": 126,
   "files": [
     {
@@ -79,7 +79,7 @@
       "name": "GFW",
       "description": "GFW 域名列表",
       "output_path": "common/GFW.arrs",
-      "rule_count": 4253,
+      "rule_count": 4339,
       "skipped_count": 0,
       "unsupported_types": {},
       "sources": [
@@ -382,7 +382,7 @@
       "name": "ChinaIP",
       "description": "中国大陆 IP CIDR",
       "output_path": "common/ChinaIP.arrs",
-      "rule_count": 5711,
+      "rule_count": 5761,
       "skipped_count": 0,
       "unsupported_types": {},
       "sources": [
@@ -450,7 +450,7 @@
       "name": "CDN",
       "description": "SukkaW CDN 直连辅助",
       "output_path": "common/CDN.arrs",
-      "rule_count": 4529,
+      "rule_count": 4532,
       "skipped_count": 58,
       "unsupported_types": {
         "DOMAIN-WILDCARD": 58
@@ -464,7 +464,7 @@
       "name": "GeoIP_CN",
       "description": "GeoIP 中国大陆 IP CIDR",
       "output_path": "common/GeoIP_CN.arrs",
-      "rule_count": 5946,
+      "rule_count": 5926,
       "skipped_count": 0,
       "unsupported_types": {},
       "sources": [

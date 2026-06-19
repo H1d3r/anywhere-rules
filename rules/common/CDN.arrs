@@ -1,7 +1,7 @@
 # NAME: CDN
 # GENERATED-FOR: Anywhere Routing Rule Set
 # DESCRIPTION: SukkaW CDN 直连辅助
-# RULES: 4529
+# RULES: 4532
 # SKIPPED: 58
 # SKIPPED-TYPES: DOMAIN-WILDCARD=58
 # SOURCES:
@@ -2864,6 +2864,7 @@ routing = 1
 2, cover.comicbz.com
 2, css.comicbz.com
 2, player-frontend.cnevids.com
+2, embed-audio.cnevids.com
 2, player.cnevids.com
 2, cmail20.com
 2, cmail19.com
@@ -3105,6 +3106,7 @@ routing = 1
 2, static-main.moovit.com
 2, static.moomoo.com
 2, launchercontent.mojang.com
+2, bytescale.mobbin.com
 2, mngbcn.com
 2, mmtcdn.com
 2, img.ml0987.com
@@ -4379,6 +4381,7 @@ routing = 1
 2, ipfs.sloppyta.co
 2, assets.jolipage.co
 2, cdn.jolipage.co
+2, assets.churnkey.co
 2, cdn.inviter.co
 2, doodcdn.co
 2, img.decrypt.co

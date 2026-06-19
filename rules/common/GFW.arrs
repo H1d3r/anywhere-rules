@@ -1,7 +1,7 @@
 # NAME: GFW
 # GENERATED-FOR: Anywhere Routing Rule Set
 # DESCRIPTION: GFW 域名列表
-# RULES: 4253
+# RULES: 4339
 # SKIPPED: 0
 # SOURCES:
 # - https://raw.githubusercontent.com/Loyalsoldier/v2ray-rules-dat/release/gfw.txt
@@ -82,6 +82,7 @@ name = GFW
 2, 9cache.com
 2, 9gag.com
 2, 9news.com.au
+2, 9oju31.launches.appsflyersdk.com
 2, a-normal-day.com
 2, a248.e.akamai.net
 2, aamacau.com
@@ -96,6 +97,7 @@ name = GFW
 2, about.me
 2, abplive.com
 2, acast.com
+2, accountboy.com
 2, accountkit.com
 2, acevpn.com
 2, acg.mn
@@ -216,13 +218,18 @@ name = GFW
 2, apartmentratings.com
 2, apartments.com
 2, apat1989.org
+2, api-gl.lbkrs.com
 2, api-secure.recaptcha.net
 2, api-verify.recaptcha.net
 2, api.ai
+2, api.futunn.com
+2, api.lbkrs.com
+2, api.moomoobull.com
 2, api.palworldgame.com
 2, api.pureapk.com
 2, api.recaptcha.net
 2, api.steampowered.com
+2, api5.futunn.com
 2, apiary.io
 2, apigee.com
 2, apk.support
@@ -664,6 +671,7 @@ name = GFW
 2, cdn-images.mailchimp.com
 2, cdn-telegram.org
 2, cdn.arstechnica.net
+2, cdn.futustatic.com
 2, cdn.jwplayer.com
 2, cdn.printfriendly.com
 2, cdn.seatguru.com
@@ -687,6 +695,7 @@ name = GFW
 2, certificate-transparency.org
 2, certificate.revocationcheck.com
 2, cfr.org
+2, cg.play-analytics.com
 2, cgdepot.org
 2, change.org
 2, changp.com
@@ -1033,6 +1042,7 @@ name = GFW
 2, doujincafe.com
 2, dowjones.io
 2, download.dappcdn.com
+2, download.futunn.com
 2, dpool.top
 2, dpp.org.tw
 2, dpr.info
@@ -1348,7 +1358,36 @@ name = GFW
 2, furbo.org
 2, furinkan.com
 2, furrybar.com
+2, futu.cn
+2, futu.com
+2, futu.link
+2, futu0.com
+2, futu1.com
+2, futu2.com
+2, futu3.com
+2, futu4.com
+2, futu5.com
+2, futu6.com
+2, futu7.com
+2, futu8.com
+2, futu9.com
+2, futuau.com
+2, futubull.cn
+2, futuchain.com
+2, futuesop.com
+2, futufin.com
+2, futuhk.com
+2, futuhk2.com
+2, futuhkapp.com
+2, futuhn.com
+2, futuholdings.com
+2, futuinc.com
+2, futuniuniu.com
+2, futunn.com
 2, futuremessage.org
+2, futustatic.com
+2, fututrade.com
+2, fututrustee.com
 2, fw.cm
 2, fxcm-chinese.com
 2, fxnetworks.com
@@ -2052,6 +2091,7 @@ name = GFW
 2, itch.io
 2, itemfix.com
 2, itiger.com
+2, itigerup.com
 2, itshidden.com
 2, itweet.net
 2, iuhrdf.org
@@ -2190,12 +2230,15 @@ name = GFW
 2, lantern.io
 2, laogai.org
 2, laogairesearch.org
+2, laohu8.com
 2, laqingdan.net
 2, larsgeorge.com
 2, lastcombat.com
 2, lastfm.es
 2, lausan.hk
 2, lbank.info
+2, lbctrl.com
+2, lbkrs.com
 2, ldplayer.net
 2, ldplayer.tw
 2, le-vpn.com
@@ -2264,6 +2307,15 @@ name = GFW
 2, lockestek.com
 2, login.target.com
 2, logos.com.hk
+2, longbridge.cloud
+2, longbridge.com
+2, longbridge.global
+2, longbridge.hk
+2, longbridge.sg
+2, longbridgeapp.com
+2, longbridgehk.com
+2, longportapp.cn
+2, longportapp.com
 2, longtermly.net
 2, longtoes.com
 2, lookpic.com
@@ -2450,6 +2502,9 @@ name = GFW
 2, monocloud.me
 2, monster.com
 2, moodyz.com
+2, moomoo.com
+2, moomooequity.com
+2, moomootrustee.com
 2, moon.fm
 2, moonbbs.com
 2, moonbingo.com
@@ -2690,6 +2745,13 @@ name = GFW
 2, ooni.org
 2, open.firstory.me
 2, openai.com
+2, openapi-quote.longbridge.cn
+2, openapi-quote.longbridge.com
+2, openapi-trade.longbridge.cn
+2, openapi-trade.longbridge.com
+2, openapi.futunn.com
+2, openapi.longbridge.cn
+2, openapi.longbridge.com
 2, openart.ai
 2, opencritic.com
 2, opendemocracy.net
@@ -2944,12 +3006,15 @@ name = GFW
 2, qoos.com
 2, qq.co.za
 2, qstatus.com
+2, qtcard.futunn.com
+2, qtcardfthk.futufin.com
 2, qtrac.eu
 2, questvisual.com
 2, quitccp.org
 2, quiz.directory
 2, quora.com
 2, quoracdn.net
+2, quote.longbridge.global
 2, quran.com
 2, qz.com
 2, r-pool.net
@@ -3091,6 +3156,10 @@ name = GFW
 2, sbme.me
 2, sbti.unun.dev
 2, schema.org
+2, schwab.co.uk
+2, schwab.com
+2, schwab.com.cn
+2, schwab.com.hk
 2, scmp.com
 2, scramble.io
 2, scratch.mit.edu
@@ -3129,6 +3198,7 @@ name = GFW
 2, sf.net
 2, sfshibao.com
 2, sftuk.org
+2, sgqt0j.launches.appsflyersdk.com
 2, shadeyouvpn.com
 2, shadowsocks.be
 2, shadowsocks.com.hk
@@ -3153,6 +3223,7 @@ name = GFW
 2, shooshtime.com
 2, shopee.tw
 2, shopping.yahoo.co.jp
+2, shortconn.im.qcloud.com
 2, showwe.tw
 2, shutterstock.com
 2, shwchurch.org
@@ -3337,6 +3408,7 @@ name = GFW
 2, superpages.com
 2, supervpn.net
 2, superzooi.com
+2, support.futunn.com
 2, suprememastertv.com
 2, surfeasy.com
 2, surfeasy.com.au
@@ -3526,6 +3598,12 @@ name = GFW
 2, tibettimes.net
 2, tibettruth.com
 2, tibetwrites.org
+2, tigerbbs.cn
+2, tigerbbs.com
+2, tigerbrokers.com
+2, tigerbrokers.net
+2, tigerbrokers.nz
+2, tigerfintech.com
 2, tigervpn.com
 2, tiktok.com
 2, tiktokcdn-eu.com
@@ -3588,6 +3666,9 @@ name = GFW
 2, tou.tv
 2, tpi.org.tw
 2, tracfone.com
+2, trade.futunn.com
+2, trade.longportapp.com
+2, tradeup.com
 2, tradingview.com
 2, translate.goog
 2, transparency.org
@@ -3913,6 +3994,7 @@ name = GFW
 2, waveprotocol.org
 2, waybig.com
 2, waymo.com
+2, wbrks.com
 2, wd.bible
 2, wealth.com.tw
 2, wearn.com
@@ -4091,6 +4173,7 @@ name = GFW
 2, xhamster.com
 2, xianjian.tw
 2, xiaohexie.com
+2, xiaohu8.com
 2, xiaolan.me
 2, xiaoma.org
 2, xiaomi.eu
@@ -4115,6 +4198,7 @@ name = GFW
 2, xn--oiq.cc
 2, xn--p8j9a0d9c9a.xn--q9jyb4c
 2, xn--u2u927b.com
+2, xn--vuqv2cf7wzyig79c.com
 2, xnpool.com
 2, xnxx.com
 2, xpud.org
@@ -4229,6 +4313,8 @@ name = GFW
 2, zhengjian.org
 2, zhengwunet.org
 2, zhenxiang.biz
+2, zhijianfengyi.cn
+2, zhijianfengyi.com
 2, zhizhu.top
 2, zhongguo.ca
 2, zhongguotese.net

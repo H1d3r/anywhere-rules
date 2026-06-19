@@ -3,9 +3,9 @@
 # SOURCE: https://github.com/blackmatrix7/ios_rule_script/blob/master/rule/Surge/Proxy/Proxy_All.list
 # GENERATED-FOR: Anywhere Routing Rule Set
 # NOTE: DOMAIN rules are mapped to Anywhere domain suffix rules.
-# RULES: 6788
+# RULES: 6792
 # SKIPPED: 8
-# UPSTREAM-UPDATED: 2026-06-08 02:31:09
+# UPSTREAM-UPDATED: 2026-06-20 02:40:41
 # SKIPPED-TYPES: USER-AGENT=8
 
 name = Proxy
@@ -187,6 +187,7 @@ name = Proxy
 2, abs.edu
 2, acast.com
 2, accim.org
+2, accountboy.com
 2, accountkit.com
 2, aceros-de-hispania.com
 2, acevpn.com
@@ -3660,6 +3661,7 @@ name = Proxy
 2, monocloud.me
 2, monster.com
 2, moodyz.com
+2, moomoo.com
 2, moon.fm
 2, moonbbs.com
 2, moonbbs.info
@@ -4941,6 +4943,7 @@ name = Proxy
 2, sinonet.ca
 2, sinopitt.info
 2, sinoquebec.com
+2, sinyalee.com
 2, sipml5.org
 2, sis.xxx
 2, sis001.com
@@ -6446,6 +6449,7 @@ name = Proxy
 2, xn--oiq.cc
 2, xn--p8j9a0d9c9a.xn--q9jyb4c
 2, xn--u2u927b.com
+2, xn--vuqv2cf7wzyig79c.com
 2, xnpool.com
 2, xnxx-cdn.com
 2, xnxx.com

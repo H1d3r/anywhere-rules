@@ -5,8 +5,8 @@
 # NOTE: DOMAIN rules are mapped to Anywhere domain suffix rules.
 # RULES: 100000
 # SKIPPED: 31
-# SOURCE-RULES: 112513
-# UPSTREAM-UPDATED: 2026-06-18 02:54:11
+# SOURCE-RULES: 112445
+# UPSTREAM-UPDATED: 2026-06-20 02:40:58
 # SKIPPED-TYPES: USER-AGENT=31
 
 name = ChinaTest_01
@@ -3820,7 +3820,6 @@ name = ChinaTest_01
 2, 000868adh1.shop
 2, 000868agl1.shop
 2, 000868atz2.shop
-2, 0008bet.com
 2, 0009.xin
 2, 00091.xin
 2, 000b0fb9410281.beer
@@ -4618,7 +4617,6 @@ name = ChinaTest_01
 2, 0775yzf.com
 2, 0776.cool
 2, 07761.com
-2, 0776hr.com
 2, 078.xin
 2, 078079.com
 2, 07890.com
@@ -4708,7 +4706,6 @@ name = ChinaTest_01
 2, 08cms.com
 2, 08fc8f0ee3f2768a.com
 2, 08ky.com
-2, 08px.com
 2, 08qx.com
 2, 08wojia.com
 2, 08x1am20483.xin
@@ -4756,7 +4753,6 @@ name = ChinaTest_01
 2, 0990fc0011011.beer
 2, 0991dj.com
 2, 0992.cc
-2, 099913.com
 2, 099b127ae166d8f1.com
 2, 09aag016266.xin
 2, 09b3045664731d42.com
@@ -5783,7 +5779,6 @@ name = ChinaTest_01
 2, 166dns.com
 2, 16757.com
 2, 16768.com
-2, 168-hx.com
 2, 16816.com
 2, 168267xz.com
 2, 168338.com
@@ -6384,6 +6379,7 @@ name = ChinaTest_01
 2, 1gow.net
 2, 1haigtm.com
 2, 1haitao.com
+2, 1haitun.com
 2, 1hangye.com
 2, 1haogu.com
 2, 1haosuo.com
@@ -6574,7 +6570,6 @@ name = ChinaTest_01
 2, 2025.net
 2, 202m.com
 2, 202wan.com
-2, 203328.com
 2, 2048ai.net
 2, 2048sj.com
 2, 2049baby.com
@@ -7319,7 +7314,6 @@ name = ChinaTest_01
 2, 315tech.com
 2, 315tsz.com
 2, 31609.com
-2, 31668.com
 2, 316watches.com
 2, 3171688.com
 2, 317608.com
@@ -7657,7 +7651,6 @@ name = ChinaTest_01
 2, 360imgcdn.com
 2, 360insurancemall.com
 2, 360jianzhu.com
-2, 360jk.com
 2, 360jrjietiao.com
 2, 360jrkt.com
 2, 360kaixin.com
@@ -7848,7 +7841,6 @@ name = ChinaTest_01
 2, 365zhuanrang.com
 2, 365zmw.com
 2, 365zsw.net
-2, 365zzx.com
 2, 3660bf60ab32baab.com
 2, 36612345.com
 2, 3663.com
@@ -10716,10 +10708,8 @@ name = ChinaTest_01
 2, 666532.xyz
 2, 666546.xyz
 2, 666548.xyz
-2, 66661s.com
 2, 6666343ac4.shop
 2, 6666519.net
-2, 66665s.com
 2, 66666.host
 2, 666666.host
 2, 6666m.vip
@@ -11929,7 +11919,6 @@ name = ChinaTest_01
 2, 86754.org
 2, 867867jh.com
 2, 8682.cc
-2, 8684.com
 2, 8688g.com
 2, 86933.com
 2, 869d.com
@@ -13633,7 +13622,6 @@ name = ChinaTest_01
 2, acconsys.com
 2, accopower.com
 2, account.htcvive.com
-2, accountboy.com
 2, accr.cc
 2, accsh.org
 2, accu.cc
@@ -14032,7 +14020,6 @@ name = ChinaTest_01
 2, afca-asia.org
 2, afca6b82c11032.beer
 2, afcec.com
-2, afcfsf.xyz
 2, afdian.com
 2, afdvr.com
 2, afe-whatsepp.com
@@ -14620,7 +14607,6 @@ name = ChinaTest_01
 2, aimeter.com
 2, aimgroupcn.com
 2, aimicron.com
-2, aimilebc.com
 2, aimin1979.com
 2, aimingmed.com
 2, aimingtai.com
@@ -15053,7 +15039,6 @@ name = ChinaTest_01
 2, alibabafonts.com
 2, alibabafoundation.com
 2, alibabaonline.com
-2, alibabapictures.com
 2, alibabastars.com
 2, alibabatech.org
 2, alibabatechqa.com
@@ -16087,7 +16072,6 @@ name = ChinaTest_01
 2, apkevery.com
 2, apkhot.com
 2, apkj.com
-2, apkpackagesys.com
 2, apkplug.com
 2, apkrj.com
 2, apkxz.com
@@ -17205,7 +17189,6 @@ name = ChinaTest_01
 2, b19a352d2336941a.com
 2, b1bj.com
 2, b1n.net
-2, b1qg.com
 2, b214bd8861009.beer
 2, b2216419b1013.beer
 2, b22fb6d6d1015.beer
@@ -17655,7 +17638,6 @@ name = ChinaTest_01
 2, baiyangseo.com
 2, baiycap.net
 2, baiye5.com
-2, baiyewang.com
 2, baiyi.shop
 2, baiyikc.com
 2, baiying.com
@@ -18279,7 +18261,6 @@ name = ChinaTest_01
 2, bcisz.org
 2, bcitb.com
 2, bcjkcloud.com
-2, bcjp.net
 2, bclcraft.com
 2, bcmcdn.com
 2, bcmonomial.xyz
@@ -18823,7 +18804,6 @@ name = ChinaTest_01
 2, bestwesternfelicityshenzhen.com
 2, bestzone.org
 2, bet007.com
-2, bet2268.com
 2, bet2396.com
 2, bet33040.com
 2, bet3739.com
@@ -19002,7 +18982,6 @@ name = ChinaTest_01
 2, bhgsb.com
 2, bhhfsc.com
 2, bhhospital.com
-2, bhhsx.com
 2, bhhthl.com
 2, bhidi.com
 2, bhiv.pro
@@ -19840,7 +19819,6 @@ name = ChinaTest_01
 2, bjjchf.com
 2, bjjdwx.com
 2, bjjfsd.com
-2, bjjhhft.com
 2, bjjhhn.com
 2, bjjhsw.com
 2, bjjihui.com
@@ -22357,7 +22335,6 @@ name = ChinaTest_01
 2, cbiao.com
 2, cbiec.com
 2, cbiec.net
-2, cbigame.com
 2, cbinews.com
 2, cbismb.com
 2, cbitft.com
@@ -23103,7 +23080,6 @@ name = ChinaTest_01
 2, cdxw.net
 2, cdxwcx.com
 2, cdxwxy.com
-2, cdxydb.com
 2, cdydlx.com
 2, cdyee.com
 2, cdyestar.com
@@ -27944,6 +27920,7 @@ name = ChinaTest_01
 2, cor-games.com
 2, coralset.com
 2, core-biopharma.com
+2, core-flow.org
 2, corebai.com
 2, coreesports.net
 2, corehalo.com
@@ -28699,7 +28676,6 @@ name = ChinaTest_01
 2, cqxshs.com
 2, cqxsxt.com
 2, cqxszx.net
-2, cqxtcx.com
 2, cqxwdb.com
 2, cqxwtx.com
 2, cqxxly.net
@@ -29927,7 +29903,6 @@ name = ChinaTest_01
 2, cztvcdn.com
 2, cztzkg.com
 2, czur.com
-2, czvv.net
 2, czwie.com
 2, czws.com
 2, czwxbyq.com
@@ -30288,7 +30263,6 @@ name = ChinaTest_01
 2, dajianyouju.com
 2, dajiashequ.com
 2, dajiashuo.com
-2, dajiazhao.com
 2, dajiazhongyi.com
 2, dajiazulin.com
 2, dajibacdn.com
@@ -30318,7 +30292,6 @@ name = ChinaTest_01
 2, dakekj.com
 2, dakele.com
 2, dakw.xyz
-2, dalaba.com
 2, dalanyouxi.com
 2, dalao.net
 2, dalaosz.com
@@ -31548,7 +31521,6 @@ name = ChinaTest_01
 2, dg-tcm.com
 2, dg11185.com
 2, dg121.com
-2, dg456.com
 2, dg688.com
 2, dgaefi.org
 2, dgaiia.com
@@ -32955,6 +32927,7 @@ name = ChinaTest_01
 2, doteck.com
 2, dotgate.com
 2, dothantech.com
+2, dotreamexpo.com
 2, dotty-china.com
 2, dotwe.org
 2, dou.bz
@@ -34858,6 +34831,7 @@ name = ChinaTest_01
 2, efficient.hk
 2, effirst.com
 2, efglobal-gy.com
+2, efindtravel.com
 2, efivestar.com
 2, efl-tech.com
 2, eflagcomm.com
@@ -35060,7 +35034,6 @@ name = ChinaTest_01
 2, ekuzy.com
 2, ekweixin.com
 2, ekwing.com
-2, ekxx.net
 2, elabinfo.com
 2, elabpic.com
 2, elaina.vin
@@ -37693,7 +37666,6 @@ name = ChinaTest_01
 2, fjnet.com
 2, fjnhjt.com
 2, fjpca.com
-2, fjpcz.com
 2, fjpicc.com
 2, fjpit.com
 2, fjpta.com
@@ -38024,7 +37996,6 @@ name = ChinaTest_01
 2, folij9nry5cxy8.com
 2, followintg.com
 2, folou.com
-2, fondcosplay.com
 2, foneplatform.com
 2, fonian.com
 2, fonsview.com
@@ -38104,7 +38075,6 @@ name = ChinaTest_01
 2, forlinx.com
 2, form-create.com
 2, formeasy.cc
-2, formeneed.com
 2, formingcn.com
 2, formssi.com
 2, formtalk.net
@@ -39198,6 +39168,7 @@ name = ChinaTest_01
 2, gal3d.info
 2, gala-v.com
 2, galaxix.com
+2, galaxy-adx.com
 2, galaxy-geely.com
 2, galaxy-immi.com
 2, galaxycarepair.com
@@ -41347,7 +41318,6 @@ name = ChinaTest_01
 2, gokaigai.com
 2, goke.com
 2, gokemicro.com
-2, gokols.com
 2, gokuai.com
 2, golahsg.com
 2, golang8.com
@@ -42950,7 +42920,6 @@ name = ChinaTest_01
 2, gxcmgr.com
 2, gxcmicc.com
 2, gxcncec.com
-2, gxcnjx.com
 2, gxcodemaker.com
 2, gxcors.com
 2, gxcounty.com
@@ -45060,6 +45029,7 @@ name = ChinaTest_01
 2, gzsgczb.com
 2, gzshaudio.com
 2, gzsheraton.com
+2, gzshik.com
 2, gzshiran.com
 2, gzshuangbao.com
 2, gzshuimh.com
@@ -45235,7 +45205,6 @@ name = ChinaTest_01
 2, gzzdqy.net
 2, gzzfrl.com
 2, gzzgresin.com
-2, gzzhanmei.com
 2, gzzhitu.com
 2, gzzhixin.com
 2, gzzhrong.com
@@ -49861,7 +49830,6 @@ name = ChinaTest_01
 2, hturl.cc
 2, htv123.com
 2, htvaas.com
-2, htvcentral.com
 2, htwcq.com
 2, htwx.net
 2, htx.cc
@@ -50237,7 +50205,6 @@ name = ChinaTest_01
 2, huaruidns.com
 2, huaruisales.com
 2, huas.co
-2, huasadata.com
 2, huash.com
 2, huashangcbbtv.com
 2, huashangedu.com
@@ -51257,7 +51224,6 @@ name = ChinaTest_01
 2, hxt5.com
 2, hxtk.com
 2, hxtrip.com
-2, hxtzgroup.com
 2, hxwglm.com
 2, hxx.net
 2, hxxkw.org
@@ -52581,7 +52547,6 @@ name = ChinaTest_01
 2, idiaoyan.com
 2, idigi.net
 2, idingju.com
-2, idlegog.com
 2, idloves.com
 2, idlpc.win
 2, idmchina.net
@@ -53521,7 +53486,6 @@ name = ChinaTest_01
 2, ing10bbs.com
 2, ingageapp.com
 2, ingags.com
-2, ingaoyt.biz
 2, ingcore.com
 2, ingdan.com
 2, ingeek.com
@@ -53787,7 +53751,6 @@ name = ChinaTest_01
 2, ioppo.net
 2, ioptics.org
 2, iorca.net
-2, iornnl.xyz
 2, ios114.com
 2, ios222.com
 2, ios98.com
@@ -58792,7 +58755,6 @@ name = ChinaTest_01
 2, jxcb.net
 2, jxcc.com
 2, jxccb.com
-2, jxcdkjfz.com
 2, jxcfs.com
 2, jxchaguan.com
 2, jxckd.shop
@@ -60851,7 +60813,6 @@ name = ChinaTest_01
 2, ksupdate.com
 2, ksust.com
 2, kswcd.com
-2, kswxjnjs.com
 2, ksx88.com
 2, ksxfgc.com
 2, ksxianda.com
@@ -63335,7 +63296,6 @@ name = ChinaTest_01
 2, lingshi.com
 2, lingshimiyu.com
 2, lingshou.com
-2, lingshulian.com
 2, lingshunlab.com
 2, lingsiqiwu.com
 2, lingsky.com
@@ -63360,6 +63320,7 @@ name = ChinaTest_01
 2, lingxigames.com
 2, lingxing.com
 2, lingxingkj.com
+2, lingxingxinli.com
 2, lingxiuwenlv.com
 2, lingxmall.com
 2, lingy.cc
@@ -65649,7 +65610,6 @@ name = ChinaTest_01
 2, lzyxsoft.net
 2, lzyyy.com
 2, lzyz.org
-2, lzyzbz.com
 2, lzyzx.net
 2, lzzcloud.net
 2, lzzf.com
@@ -66591,7 +66551,6 @@ name = ChinaTest_01
 2, md-pms.com
 2, md5ma.com
 2, mdaehx.com
-2, mdapp.tv
 2, mdbchina.com
 2, mdbimg.com
 2, mdclub.org
@@ -68307,6 +68266,7 @@ name = ChinaTest_01
 2, moe.xin
 2, moe123.com
 2, moe123.org
+2, moe233.org
 2, moe321.com
 2, moeclub.org
 2, moedot.net
@@ -68475,7 +68435,6 @@ name = ChinaTest_01
 2, moojing.com
 2, moojnn.com
 2, moolsun.com
-2, moomoo.com
 2, moomooequity.com
 2, moomootrustee.com
 2, moomv.com
@@ -69241,7 +69200,6 @@ name = ChinaTest_01
 2, mydigitex.com
 2, mydisk.work
 2, mydnns.com
-2, mydns8.com
 2, mydnser.com
 2, mydnspod.net
 2, mydnsw.com
@@ -72658,7 +72616,6 @@ name = ChinaTest_01
 2, omsmy.com
 2, omso2o.com
 2, omycar.cc
-2, omyerp.com
 2, on-sun.com
 2, onaliyun.com
 2, oncanyin.com
@@ -72802,7 +72759,6 @@ name = ChinaTest_01
 2, ooclab.com
 2, oofont.com
 2, oogcw.com
-2, oogps.com
 2, oogsy.com
 2, oohdear.com
 2, ooiii.com
@@ -73481,7 +73437,6 @@ name = ChinaTest_01
 2, paizhe.com
 2, paizi.com
 2, paizi.net
-2, paizia.com
 2, paizin.com
 2, paizishop.com
 2, pajkb.com
@@ -74100,7 +74055,6 @@ name = ChinaTest_01
 2, petctw.com
 2, peter-zhou.com
 2, peterjxl.com
-2, petersonjace.shop
 2, petersonlian.com
 2, petgugu.com
 2, pethr.com
@@ -76049,7 +76003,6 @@ name = ChinaTest_01
 2, qianbaocard.com
 2, qianbaogroup.com
 2, qianbaohr.com
-2, qianbeibei.shop
 2, qianbi360.com
 2, qianbianapi.com
 2, qianbianma.com
@@ -76286,7 +76239,6 @@ name = ChinaTest_01
 2, qidi-edu.com
 2, qidian-cos-backup.com
 2, qidian-cos.com
-2, qidian688.com
 2, qidianbox.com
 2, qidianjob.com
 2, qidianla.com
@@ -77824,7 +77776,6 @@ name = ChinaTest_01
 2, qutianshanav.com
 2, qutingting.com
 2, qutoutiao.net
-2, qutouwang.com
 2, qutu.com
 2, qutuancan.com
 2, qutuiwa.com
@@ -78125,7 +78076,6 @@ name = ChinaTest_01
 2, qzrcsc.com
 2, qzrcw.com
 2, qzread.com
-2, qzrencai.com
 2, qzsdkj.com
 2, qzsfy.com
 2, qzsgyxx.com
@@ -78402,7 +78352,6 @@ name = ChinaTest_01
 2, rc3cr.com
 2, rc775.com
 2, rcbc888.com
-2, rcbuying.com
 2, rccaijing.com
 2, rccchina.com
 2, rcche.com
@@ -79055,7 +79004,6 @@ name = ChinaTest_01
 2, rkkgyy.com
 2, rklive888.com
 2, rksec.com
-2, rkvir.com
 2, rkzxhyy.com
 2, rl-consult.com
 2, rl1vypwyd2.com
@@ -79265,7 +79213,6 @@ name = ChinaTest_01
 2, root-servers.world
 2, root1111.com
 2, rootcloud.com
-2, rootguide.org
 2, rootintech.com
 2, roouoo.com
 2, ropefitting.com
@@ -79601,6 +79548,7 @@ name = ChinaTest_01
 2, ruixunidc.com
 2, ruixunidc.net
 2, ruiyang-ra.com
+2, ruiying.online
 2, ruiying3d.com
 2, ruiyingkeji.com
 2, ruiyitech.com
@@ -79997,7 +79945,6 @@ name = ChinaTest_01
 2, sakata.one
 2, saki.cc
 2, sakura.vin
-2, sakura286.ink
 2, sakway.com
 2, saky.site
 2, salabs.org
@@ -81512,7 +81459,6 @@ name = ChinaTest_01
 2, sendong.com
 2, sendpioneer.com
 2, sends.cc
-2, sendsharedfiles.com
 2, senfa.net
 2, senge-dq.com
 2, senge.com
@@ -81923,7 +81869,6 @@ name = ChinaTest_01
 2, shabc.com
 2, shabc.net
 2, shabidding.com
-2, shabiyun.com
 2, shachong8.com
 2, shacumox.com
 2, shadafang.com
@@ -84421,7 +84366,6 @@ name = ChinaTest_01
 2, sinture.com
 2, sinvofund.com
 2, sinvta.com
-2, sinyoung.site
 2, sinyuan.com
 2, sinzk.com
 2, siobp.com
@@ -86227,7 +86171,6 @@ name = ChinaTest_01
 2, stepsigriner.com
 2, stereorise.com
 2, steriguardmed.com
-2, stexc.online
 2, stfile.com
 2, stg8.com
 2, stgiantfilms.com
@@ -87625,7 +87568,6 @@ name = ChinaTest_01
 2, szbazx.com
 2, szbbs.org
 2, szbcase.com
-2, szbcfurniture.com
 2, szbdzs.com
 2, szbeilu.com
 2, szbhwk.com
@@ -88019,7 +87961,6 @@ name = ChinaTest_01
 2, szns-marathon.com
 2, sznsyy.net
 2, sznumberone.com
-2, sznwriterhouse.work
 2, sznyfz.com
 2, sznyyznnj.com
 2, szobk.com
@@ -88799,7 +88740,6 @@ name = ChinaTest_01
 2, taopxx.com
 2, taoq.net
 2, taoqao.com
-2, taoquanquan.com
 2, taor.work
 2, taosaas.com
 2, taosdata.com
@@ -92426,6 +92366,7 @@ name = ChinaTest_01
 2, typicalchn.com
 2, typora.net
 2, typrotech.com
+2, typstify.com
 2, tyqian.com
 2, tyqxzx.com
 2, tyrantg.com
@@ -92668,6 +92609,7 @@ name = ChinaTest_01
 2, uccbikes.com
 2, uccpd.com
 2, ucdchina.com
+2, ucdns22.com
 2, ucdns7.com
 2, ucdok.com
 2, ucdrs.net
@@ -92876,7 +92818,6 @@ name = ChinaTest_01
 2, ukiea.com
 2, ukin-tech.com
 2, ukingtech.com
-2, uklga.work
 2, ukluhu.com
 2, ukongm.com
 2, ukonline2000.com
@@ -93197,7 +93138,6 @@ name = ChinaTest_01
 2, upseller.com
 2, upskyshanghai.com
 2, upst86.com
-2, upsunet.com
 2, uptom.com
 2, uptougu.com
 2, upu-opt.com
@@ -95382,7 +95322,6 @@ name = ChinaTest_01
 2, wdad.cc
 2, wdashi.com
 2, wdaveh5game.com
-2, wdazgscbxh2.com
 2, wddcn.com
 2, wddns.net
 2, wddream.com
@@ -95534,7 +95473,6 @@ name = ChinaTest_01
 2, websitecname.com
 2, websjcdn.com
 2, websjy.com
-2, websky.biz
 2, websocket-test.com
 2, websoso.com
 2, websztz.com
@@ -96104,7 +96042,6 @@ name = ChinaTest_01
 2, wenkudaquan.com
 2, wenkunet.com
 2, wenkuvip.com
-2, wenkuwenku.com
 2, wenkuxiazai.net
 2, wenlc.com
 2, wenli-china.com
@@ -98319,7 +98256,6 @@ name = ChinaTest_01
 2, www11ic-shinkni-ib-jp.com
 2, www2489.com
 2, www48-365365.com
-2, www5929.com
 2, www9912.com
 2, wwwer.net
 2, wwwfkw.com
@@ -99793,6 +99729,7 @@ name = ChinaTest_01
 2, xiaohe666.com
 2, xiaoheihegame.com
 2, xiaoheima.com
+2, xiaoheiribao.com
 2, xiaohelive.com
 2, xiaohengmaidan.com
 2, xiaohi.cc
@@ -100010,3 +99947,66 @@ name = ChinaTest_01
 2, xiaoupan.com
 2, xiaowangshen.com
 2, xiaowangyun.com
+2, xiaowazi.com
+2, xiaoweichen.com
+2, xiaoweigod.com
+2, xiaoweijia.net
+2, xiaoweijiankang.com
+2, xiaoweirobot.com
+2, xiaowiba.com
+2, xiaowm.com
+2, xiaowuwl.com
+2, xiaoxia.vip
+2, xiaoxiaapi.com
+2, xiaoxiang.club
+2, xiaoxiangbz.com
+2, xiaoxianggong.com
+2, xiaoxiangtoutiao.com
+2, xiaoxiangxueyuan.com
+2, xiaoxiangyoupin.com
+2, xiaoxiaodangan.com
+2, xiaoxiaoketang.com
+2, xiaoxiaomo.com
+2, xiaoxiaoshuo.com
+2, xiaoxiaotong.org
+2, xiaoxiaoyouxuan.com
+2, xiaoxichangliu.com
+2, xiaoxili.com
+2, xiaoxinbk.com
+2, xiaoxineye.com
+2, xiaoxinrili.com
+2, xiaoxintoutiao.com
+2, xiaoxintuku.com
+2, xiaoxiong360.com
+2, xiaoxiongjita.com
+2, xiaoxiongmeishu.com
+2, xiaoxiongyouhao.com
+2, xiaoxiongzhoupu.com
+2, xiaoxitech.com
+2, xiaoxiuapp.com
+2, xiaoxusd.com
+2, xiaoya56.com
+2, xiaoyanjiusheng.com
+2, xiaoyantong.com
+2, xiaoyanwenxue.com
+2, xiaoyaodsx.com
+2, xiaoyaoxi.com
+2, xiaoyaoyou.com
+2, xiaoyastar.com
+2, xiaoyatong.com
+2, xiaoyegejitar.com
+2, xiaoyejidian.com
+2, xiaoyejixie.com
+2, xiaoyeren.com
+2, xiaoyezi.com
+2, xiaoyezu.com
+2, xiaoyi.com
+2, xiaoyiads.com
+2, xiaoyida.com
+2, xiaoyida.net
+2, xiaoyiduoduo.com
+2, xiaoying.co
+2, xiaoying.com
+2, xiaoying.tv
+2, xiaoyingxiong.com
+2, xiaoyingzhenxuan.com

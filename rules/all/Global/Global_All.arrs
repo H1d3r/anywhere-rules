@@ -3,9 +3,9 @@
 # SOURCE: https://github.com/blackmatrix7/ios_rule_script/blob/master/rule/Surge/Global/Global_All.list
 # GENERATED-FOR: Anywhere Routing Rule Set
 # NOTE: DOMAIN rules are mapped to Anywhere domain suffix rules.
-# RULES: 34685
+# RULES: 34702
 # SKIPPED: 47
-# UPSTREAM-UPDATED: 2026-06-18 02:53:30
+# UPSTREAM-UPDATED: 2026-06-20 02:40:20
 # SKIPPED-TYPES: PROCESS-NAME=1, USER-AGENT=46
 
 name = Global
@@ -1982,6 +1982,7 @@ name = Global
 2, appbridge.it
 2, appcenter.ms
 2, appcloud.com
+2, appconsent.io
 2, appdomain.cloud
 2, appdynamics.co.uk
 2, appdynamics.com
@@ -2903,6 +2904,7 @@ name = Global
 2, awwcn.xyz
 2, awxcdn.com
 2, axbdoll.com.tw
+2, axept.io
 2, ayabank.com
 2, aylesbury.ac.uk
 2, ayrcoll.ac.uk
@@ -5476,6 +5478,7 @@ name = Global
 2, cdd.ac.uk
 2, cdkworkshop.com
 2, cdmatech.com
+2, cdn-cookieyes.com
 2, cdn-telegram.org
 2, cdn-terapeak.com
 2, cdn-tinkoff.ru
@@ -6262,6 +6265,7 @@ name = Global
 2, conquerwithcharacter.com
 2, conscrypt.com
 2, conscrypt.org
+2, consentmanager.net
 2, consentpro.com
 2, conservatoiresuk.ac.uk
 2, consilience.ac.uk
@@ -6276,9 +6280,11 @@ name = Global
 2, contest.com
 2, convrgencegame.com
 2, cooer.su
+2, cookiebot.com
 2, cookiechoices.org
 2, cookielaw.org
 2, cookiepro.com
+2, cookieyes.com
 2, cool-comics.com
 2, cool3c.com
 2, coolinet.net
@@ -7167,6 +7173,7 @@ name = Global
 2, dexterhorn.com
 2, dezyred.com
 2, df-bet.com
+2, dfvpn.com
 2, dgaqp.com
 2, dgg.gg
 2, dghe.ac.uk
@@ -10242,6 +10249,7 @@ name = Global
 2, gamesstack.com
 2, gametap.com
 2, gameuxmasterguide.com
+2, gamewtb.com
 2, gaming-notebooks.com
 2, gandhara.ru
 2, ganjing.world
@@ -10742,6 +10750,7 @@ name = Global
 2, gobuildx.net
 2, gobuyonlinestore.net
 2, gockhuatviet.com
+2, godaddy.net
 2, godalming.ac.uk
 2, godbolt.org
 2, goduckgo.com
@@ -22260,7 +22269,6 @@ name = Global
 2, sinica.ac.uk
 2, sino-cs.ac.uk
 2, sinto.ac.uk
-2, sinyalee.com
 2, sip.ac.uk
 2, sipher.ac.uk
 2, siport.com
@@ -23580,6 +23588,7 @@ name = Global
 2, taylorandfrancis.com
 2, taylorfrancis.com
 2, tb-esim.ru
+2, tb.pro
 2, tbank-online.com
 2, tbank.ru
 2, tbib.org
@@ -23716,6 +23725,7 @@ name = Global
 2, terc.ac.uk
 2, terk.nl
 2, termius.com
+2, termly.io
 2, termux.com
 2, termux.dev
 2, termux.org
@@ -24004,6 +24014,7 @@ name = Global
 2, thumbnailseries.com
 2, thunderbird.net
 2, thunderbolttechnology.net
+2, thundermail.com
 2, thurrock.ac.uk
 2, thurrockcampus.ac.uk
 2, thz7.net
@@ -24325,6 +24336,7 @@ name = Global
 2, trurocollege.ac.uk
 2, truropenwith.ac.uk
 2, trust-provider.com
+2, trustarc.com
 2, trustcor.ca
 2, trustcor.com
 2, trustdoc.ch
@@ -26545,6 +26557,7 @@ name = Global
 2, wsc.ac.uk
 2, wscinternational.ac.uk
 2, wsfc.ac.uk
+2, wsimg.com
 2, wsj.jobs
 2, wsjbarrons.com
 2, wsjmediakit.com
@@ -28123,6 +28136,7 @@ name = Global
 2, abs.edu
 2, acast.com
 2, accim.org
+2, accountboy.com
 2, accountkit.com
 2, aceros-de-hispania.com
 2, acevpn.com
@@ -31553,6 +31567,7 @@ name = Global
 2, monocloud.me
 2, monster.com
 2, moodyz.com
+2, moomoo.com
 2, moon.fm
 2, moonbbs.com
 2, moonbbs.info
@@ -32828,6 +32843,7 @@ name = Global
 2, sinonet.ca
 2, sinopitt.info
 2, sinoquebec.com
+2, sinyalee.com
 2, sipml5.org
 2, sis.xxx
 2, sis001.com
@@ -34315,6 +34331,7 @@ name = Global
 2, xn--oiq.cc
 2, xn--p8j9a0d9c9a.xn--q9jyb4c
 2, xn--u2u927b.com
+2, xn--vuqv2cf7wzyig79c.com
 2, xnpool.com
 2, xnxx-cdn.com
 2, xnxx.com

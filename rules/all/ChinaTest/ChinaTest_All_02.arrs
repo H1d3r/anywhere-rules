@@ -3,75 +3,12 @@
 # SOURCE: https://github.com/blackmatrix7/ios_rule_script/blob/master/rule/Surge/ChinaTest/ChinaTest_All.list
 # GENERATED-FOR: Anywhere Routing Rule Set
 # NOTE: DOMAIN rules are mapped to Anywhere domain suffix rules.
-# RULES: 12513
+# RULES: 12445
 # SKIPPED: 0
-# SOURCE-RULES: 112513
-# UPSTREAM-UPDATED: 2026-06-18 02:54:11
+# SOURCE-RULES: 112445
+# UPSTREAM-UPDATED: 2026-06-20 02:40:58
 
 name = ChinaTest_02
-2, xiaowazi.com
-2, xiaoweichen.com
-2, xiaoweigod.com
-2, xiaoweijia.net
-2, xiaoweijiankang.com
-2, xiaoweirobot.com
-2, xiaowiba.com
-2, xiaowm.com
-2, xiaowuwl.com
-2, xiaoxia.vip
-2, xiaoxiaapi.com
-2, xiaoxiang.club
-2, xiaoxiangbz.com
-2, xiaoxianggong.com
-2, xiaoxiangtoutiao.com
-2, xiaoxiangxueyuan.com
-2, xiaoxiangyoupin.com
-2, xiaoxiaodangan.com
-2, xiaoxiaoketang.com
-2, xiaoxiaomo.com
-2, xiaoxiaoshuo.com
-2, xiaoxiaotong.org
-2, xiaoxiaoyouxuan.com
-2, xiaoxichangliu.com
-2, xiaoxili.com
-2, xiaoxinbk.com
-2, xiaoxineye.com
-2, xiaoxinrili.com
-2, xiaoxintoutiao.com
-2, xiaoxintuku.com
-2, xiaoxiong360.com
-2, xiaoxiongjita.com
-2, xiaoxiongmeishu.com
-2, xiaoxiongyouhao.com
-2, xiaoxiongzhoupu.com
-2, xiaoxitech.com
-2, xiaoxiuapp.com
-2, xiaoxusd.com
-2, xiaoya56.com
-2, xiaoyanjiusheng.com
-2, xiaoyantong.com
-2, xiaoyanwenxue.com
-2, xiaoyaodsx.com
-2, xiaoyaoxi.com
-2, xiaoyaoyou.com
-2, xiaoyastar.com
-2, xiaoyatong.com
-2, xiaoyegejitar.com
-2, xiaoyejidian.com
-2, xiaoyejixie.com
-2, xiaoyeren.com
-2, xiaoyezi.com
-2, xiaoyezu.com
-2, xiaoyi.com
-2, xiaoyiads.com
-2, xiaoyida.com
-2, xiaoyida.net
-2, xiaoyiduoduo.com
-2, xiaoying.co
-2, xiaoying.com
-2, xiaoying.tv
-2, xiaoyingxiong.com
-2, xiaoyingzhenxuan.com
 2, xiaoyisysreset.com
 2, xiaoyizhiqu.com
 2, xiaoyou66.com
@@ -867,7 +804,6 @@ name = ChinaTest_02
 2, xinyutengyuan.com
 2, xinzegongshui.com
 2, xinzengwj.net
-2, xinzheng.cc
 2, xinzhi.com
 2, xinzhi.space
 2, xinzhibang168.com
@@ -946,7 +882,6 @@ name = ChinaTest_02
 2, xitong-tech.com
 2, xitong114.com
 2, xitong5.com
-2, xitong86.com
 2, xitongcity.com
 2, xitongdaquan.net
 2, xitonggho.com
@@ -2030,7 +1965,6 @@ name = ChinaTest_02
 2, xtzpw.com
 2, xtzy.com
 2, xu1s.com
-2, xu42x.net
 2, xu8.fun
 2, xuan5.com
 2, xuanba.com
@@ -2562,7 +2496,6 @@ name = ChinaTest_02
 2, xxycw.com
 2, xxyeyan.com
 2, xxyfgy.com
-2, xxyhzd.com
 2, xxykgl.com
 2, xxymdy.com
 2, xxymw.com
@@ -2654,11 +2587,11 @@ name = ChinaTest_02
 2, xyhygs.com
 2, xyict.com
 2, xyimg.net
+2, xyingsoft.com
 2, xyj.link
 2, xyj321.com
 2, xyj618.com
 2, xyjbglass.com
-2, xyjj99.com
 2, xyjs999.com
 2, xyjtzz.com
 2, xyjuyuan.com
@@ -4863,7 +4796,6 @@ name = ChinaTest_02
 2, yixiaozu.com
 2, yixiatong.com
 2, yixiekeji.com
-2, yixin-valve.com
 2, yixin.com
 2, yixin.im
 2, yixin5.com
@@ -9125,7 +9057,6 @@ name = ChinaTest_02
 2, zhewanji.net
 2, zhexi.tech
 2, zhexingzx.com
-2, zhexinit.com
 2, zheye.com
 2, zheyibu.com
 2, zheyinleasing.com
@@ -11853,6 +11784,7 @@ name = ChinaTest_02
 2, zuizhifu.com
 2, zuji360.com
 2, zujiant.com
+2, zujingpai.com
 2, zujuan.com
 2, zujuanku.com
 2, zujuanyi.com
