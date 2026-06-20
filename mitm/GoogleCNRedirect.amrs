@@ -1,0 +1,8 @@
+# Google CN 跳转 - Anywhere MITM RuleSet
+# 上游: 用户提供 URL Rewrite 规则。
+
+name = Google CN 跳转 Anywhere
+hostname = google.cn, g.cn
+
+0, 0, ^https?://(?:www\.)?(?:g|google)\.cn(?::\d+)?([/?][\s\S]*)?$, 1, https://www.google.com$1
+0, 0, ^https?://(?:ditu|maps)\.google\.cn(?::\d+)?([/?][\s\S]*)?$, 1, https://maps.google.com$1

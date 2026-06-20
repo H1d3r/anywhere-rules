@@ -1,5 +1,4 @@
 # iRingo Maps Direct - Anywhere Routing RuleSet
-# NOTE: Assign this rule set to DIRECT in Anywhere.
 
 name = iRingo Maps Direct
 routing = 1

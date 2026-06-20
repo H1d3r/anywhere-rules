@@ -1,0 +1,10 @@
+# 高德地图增强版域名 Reject - Anywhere Routing RuleSet
+
+name = 高德地图增强版 Reject
+routing = 2
+2, amap-aos-info-nogw.amap.com
+2, free-aos-cdn-image.amap.com
+2, v.smtcdns.com
+2, amdc.m.taobao.com
+0, 59.82.113.10/32
+0, 59.82.113.219/32

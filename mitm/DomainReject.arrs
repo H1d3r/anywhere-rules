@@ -80,6 +80,19 @@ routing = 2
 2, ads-pixiv.net
 2, pixiv.org
 
+# AutoNavi
+2, adiu.amap.com
+2, aboard.apilocate.amap.com
+2, apiinit.amap.com
+2, icloud-amap.com
+2, logs.amap.com
+2, dualstack-logs.amap.com
+2, optimus-ads.amap.com
+2, page.amap.com
+2, optimus-ads.amap.com.w.alikunlun.com
+2, shouji.sougou.com
+2, u51.me
+
 # Ximalaya
 2, adsehera.ximalaya.com
 2, adse.wsa.ximalaya.com
