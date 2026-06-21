@@ -53,6 +53,19 @@ routing = 2
 2, orz.hupu.com
 2, cc.dace.hupu.com
 
+# SMZDM
+2, aaid.uyunad.com
+2, acs4baichuan.m.taobao.com
+2, adashxgc.ut.taobao.com
+2, analytics-api.smzdm.com
+2, baichuan-sdk.alicdn.com
+2, dgstatic.jd.com
+2, msg.umengcloud.com
+2, sec.umeng.com
+2, ulogs.umeng.com
+2, ynuf.aliapp.org
+2, res-ga.smzdm.com
+
 # JD
 2, jzt.jd.com
 2, img-x.jd.com
