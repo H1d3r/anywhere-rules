@@ -211,7 +211,7 @@ COMMON_RULE_SETS: list[dict[str, object]] = [
         "name": "TikTok",
         "description": "TikTok",
         "sources": [
-            "https://git.repcz.link/kelee.one/Tool/Loon/Lsr/TikTok.lsr",
+            "https://raw.githubusercontent.com/Repcz/Tool/X/Surge/Rules/TikTok.list",
         ],
     },
     {
