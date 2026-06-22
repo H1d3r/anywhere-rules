@@ -3,9 +3,9 @@
 # SOURCE: https://github.com/blackmatrix7/ios_rule_script/blob/master/rule/Surge/ChinaNoMedia/ChinaNoMedia_All_No_Resolve.list
 # GENERATED-FOR: Anywhere Routing Rule Set
 # NOTE: DOMAIN rules are mapped to Anywhere domain suffix rules.
-# RULES: 3626
+# RULES: 3624
 # SKIPPED: 31
-# UPSTREAM-UPDATED: 2026-05-10 02:22:40
+# UPSTREAM-UPDATED: 2026-06-22 02:37:35
 # SKIPPED-TYPES: USER-AGENT=31
 
 name = ChinaNoMedia
@@ -1340,8 +1340,6 @@ name = ChinaNoMedia
 2, funnycore.com
 2, funshion.com
 2, funshion.net
-2, futu5.com
-2, futunn.com
 2, fuwai.com
 2, fuwj.com
 2, fxxz.com

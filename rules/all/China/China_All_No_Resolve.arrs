@@ -3,9 +3,9 @@
 # SOURCE: https://github.com/blackmatrix7/ios_rule_script/blob/master/rule/Surge/China/China_All_No_Resolve.list
 # GENERATED-FOR: Anywhere Routing Rule Set
 # NOTE: DOMAIN rules are mapped to Anywhere domain suffix rules.
-# RULES: 3723
+# RULES: 3721
 # SKIPPED: 31
-# UPSTREAM-UPDATED: 2026-05-10 02:21:40
+# UPSTREAM-UPDATED: 2026-06-22 02:36:19
 # SKIPPED-TYPES: USER-AGENT=31
 
 name = China
@@ -1378,8 +1378,6 @@ name = China
 2, funnycore.com
 2, funshion.com
 2, funshion.net
-2, futu5.com
-2, futunn.com
 2, fuwai.com
 2, fuwj.com
 2, fxxz.com

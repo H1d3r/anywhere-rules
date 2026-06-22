@@ -4,8 +4,8 @@
 # GENERATED-FOR: Anywhere Routing Rule Set
 # NOTE: DOMAIN rules are mapped to Anywhere domain suffix rules.
 # RULES: 0
-# SKIPPED: 34550
-# UPSTREAM-UPDATED: 2026-06-20 02:40:20
-# SKIPPED-TYPES: UNKNOWN=34550
+# SKIPPED: 34600
+# UPSTREAM-UPDATED: 2026-06-22 02:35:46
+# SKIPPED-TYPES: UNKNOWN=34600
 
 name = Global

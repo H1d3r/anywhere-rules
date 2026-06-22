@@ -1,7 +1,7 @@
 # NAME: CDN
 # GENERATED-FOR: Anywhere Routing Rule Set
 # DESCRIPTION: SukkaW CDN 直连辅助
-# RULES: 4532
+# RULES: 4533
 # SKIPPED: 58
 # SKIPPED-TYPES: DOMAIN-WILDCARD=58
 # SOURCES:
@@ -2110,6 +2110,7 @@ routing = 1
 2, static.assets-stash.eet-china.com
 2, design-system.economist.com
 2, marber-cdn.economist.com
+2, wall-ui-cdn.p.aws.economist.com
 2, cmp-cdn.p.aws.economist.com
 2, dummyjson.com
 2, dubassets.com

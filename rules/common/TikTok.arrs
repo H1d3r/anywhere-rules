@@ -5,7 +5,7 @@
 # SKIPPED: 2
 # SKIPPED-TYPES: IP-ASN=2
 # SOURCES:
-# - https://git.repcz.link/kelee.one/Tool/Loon/Lsr/TikTok.lsr
+# - https://raw.githubusercontent.com/Repcz/Tool/X/Surge/Rules/TikTok.list
 
 name = TikTok
 2, api.snapkit.com

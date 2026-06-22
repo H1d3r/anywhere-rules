@@ -3,9 +3,9 @@
 # SOURCE: https://github.com/blackmatrix7/ios_rule_script/blob/master/rule/Surge/Proxy/Proxy_All_No_Resolve.list
 # GENERATED-FOR: Anywhere Routing Rule Set
 # NOTE: DOMAIN rules are mapped to Anywhere domain suffix rules.
-# RULES: 6792
+# RULES: 6861
 # SKIPPED: 8
-# UPSTREAM-UPDATED: 2026-06-20 02:40:41
+# UPSTREAM-UPDATED: 2026-06-22 02:36:09
 # SKIPPED-TYPES: USER-AGENT=8
 
 name = Proxy
@@ -45,6 +45,7 @@ name = Proxy
 2, 18board.com
 2, 18board.info
 2, 18comic.org
+2, 18mh.net
 2, 18onlygirls.com
 2, 18p2p.com
 2, 18virginsex.com
@@ -168,6 +169,7 @@ name = Proxy
 2, 9cache.com
 2, 9gag.com
 2, 9news.com.au
+2, 9oju31.launches.appsflyersdk.com
 2, 9to5mac.com
 2, a-normal-day.com
 2, a5.com.ru
@@ -393,6 +395,7 @@ name = Proxy
 2, api.ai
 2, api.amplitude.com
 2, api.mixpanel.com
+2, api.moomoobull.com
 2, api.proxlet.com
 2, api.termius.com
 2, apiary.io
@@ -658,6 +661,7 @@ name = Proxy
 2, bigone.com
 2, bigsound.org
 2, bild.de
+2, bilinovel.com
 2, biliworld.com
 2, billypan.com
 2, binance.com
@@ -992,6 +996,7 @@ name = Proxy
 2, cfr.org
 2, cfsh99.com
 2, cftfc.com
+2, cg.play-analytics.com
 2, cgdepot.org
 2, cgst.edu
 2, ch.shvoong.com
@@ -2121,8 +2126,37 @@ name = Proxy
 2, furinkan.com
 2, furl.net
 2, furrybar.com
+2, futu.cn
+2, futu.com
+2, futu.link
+2, futu0.com
+2, futu1.com
+2, futu2.com
+2, futu3.com
+2, futu4.com
+2, futu5.com
+2, futu6.com
+2, futu7.com
+2, futu8.com
+2, futu9.com
+2, futuau.com
+2, futubull.cn
+2, futuchain.com
+2, futuesop.com
+2, futufin.com
+2, futuhk.com
+2, futuhk2.com
+2, futuhkapp.com
+2, futuhn.com
+2, futuholdings.com
+2, futuinc.com
+2, futuniuniu.com
+2, futunn.com
 2, futurechinaforum.org
 2, futuremessage.org
+2, futustatic.com
+2, fututrade.com
+2, fututrustee.com
 2, fux.com
 2, fuyin.net
 2, fuyindiantai.org
@@ -2954,6 +2988,7 @@ name = Proxy
 2, itgonglun.com
 2, ithome.com.tw
 2, itiger.com
+2, itigerup.com
 2, itsaol.com
 2, itshidden.com
 2, itsky.it
@@ -3220,6 +3255,7 @@ name = Proxy
 2, lantosfoundation.org
 2, laogai.org
 2, laogairesearch.org
+2, laohu8.com
 2, laomiu.com
 2, laoyang.info
 2, laptoplockdown.com
@@ -3231,6 +3267,8 @@ name = Proxy
 2, latibet.org
 2, lausan.hk
 2, lbank.info
+2, lbctrl.com
+2, lbkrs.com
 2, ldplayer.net
 2, ldplayer.tw
 2, le-vpn.com
@@ -3355,8 +3393,17 @@ name = Proxy
 2, logmein.com
 2, logos.com.hk
 2, londonchinese.ca
+2, longbridge.cloud
+2, longbridge.com
+2, longbridge.global
+2, longbridge.hk
+2, longbridge.sg
+2, longbridgeapp.com
+2, longbridgehk.com
 2, longhair.hk
 2, longmusic.com
+2, longportapp.cn
+2, longportapp.com
 2, longtermly.net
 2, longtoes.com
 2, lookpic.com
@@ -3662,6 +3709,8 @@ name = Proxy
 2, monster.com
 2, moodyz.com
 2, moomoo.com
+2, moomooequity.com
+2, moomootrustee.com
 2, moon.fm
 2, moonbbs.com
 2, moonbbs.info
@@ -4122,6 +4171,9 @@ name = Proxy
 2, ooyala.com
 2, open.com.hk
 2, openallweb.com
+2, openapi-quote.longbridge.cn
+2, openapi-trade.longbridge.cn
+2, openapi.longbridge.cn
 2, openart.ai
 2, openbase.com
 2, opencritic.com
@@ -4780,6 +4832,10 @@ name = Proxy
 2, scasino.com
 2, scdn.co
 2, schema.org
+2, schwab.co.uk
+2, schwab.com
+2, schwab.com.cn
+2, schwab.com.hk
 2, sciencedaily.com
 2, sciencemag.org
 2, sciencenets.com
@@ -4844,6 +4900,7 @@ name = Proxy
 2, sftindia.org
 2, sftuk.org
 2, sfx.ms
+2, sgqt0j.launches.appsflyersdk.com
 2, sgwritings.com
 2, sgzhan.com
 2, shadeyouvpn.com
@@ -4899,6 +4956,7 @@ name = Proxy
 2, shop2000.com.tw
 2, shopee.tw
 2, shopping.com
+2, shortconn.im.qcloud.com
 2, showbiz.omy.sg
 2, showhaotu.com
 2, showtime.jp
@@ -5541,6 +5599,12 @@ name = Proxy
 2, tibettruth.com
 2, tibetwrites.org
 2, ticket.com.tw
+2, tigerbbs.cn
+2, tigerbbs.com
+2, tigerbrokers.com
+2, tigerbrokers.net
+2, tigerbrokers.nz
+2, tigerfintech.com
 2, tigervpn.com
 2, tiktok.com
 2, tiktokcdn-eu.com
@@ -5632,6 +5696,7 @@ name = Proxy
 2, tparents.org
 2, tpi.org.tw
 2, tracfone.com
+2, tradeup.com
 2, tradingview.com
 2, trakt.tv
 2, translate.goog
@@ -6171,6 +6236,7 @@ name = Proxy
 2, waveprotocol.org
 2, waybig.com
 2, waymo.com
+2, wbrks.com
 2, wd.bible
 2, wdf5.com
 2, wealth.com.tw
@@ -6410,6 +6476,7 @@ name = Proxy
 2, xiaochuncnjp.com
 2, xiaod.in
 2, xiaohexie.com
+2, xiaohu8.com
 2, xiaolan.me
 2, xiaoma.org
 2, xiaomi.eu
@@ -6627,6 +6694,8 @@ name = Proxy
 2, zhenlibu.info
 2, zhenlibu1984.com
 2, zhenxiang.biz
+2, zhijianfengyi.cn
+2, zhijianfengyi.com
 2, zhinengluyou.com
 2, zhizhu.top
 2, zhongguo.ca

@@ -1,7 +1,7 @@
 # NAME: ChinaDomain
 # GENERATED-FOR: Anywhere Routing Rule Set
 # DESCRIPTION: 中国大陆常见域名直连
-# RULES: 857
+# RULES: 861
 # SKIPPED: 4
 # SKIPPED-TYPES: DOMAIN-WILDCARD=1, USER-AGENT=3
 # SOURCES:
@@ -436,6 +436,10 @@ routing = 1
 2, webank.com
 2, wangsu.com
 2, volces.com
+2, viayoo.com
+2, www.viayoo.com
+2, res.viayoo.com
+2, app.viayoo.com
 2, udache.com
 2, tapimg.com
 2, taobao.com

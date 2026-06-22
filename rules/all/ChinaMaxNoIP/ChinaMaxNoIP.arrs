@@ -5,16 +5,16 @@
 # NOTE: DOMAIN rules are mapped to Anywhere domain suffix rules.
 # RULES: 54
 # SKIPPED: 77
-# UPSTREAM-UPDATED: 2026-06-20 02:42:19
+# UPSTREAM-UPDATED: 2026-06-22 02:37:59
 # SKIPPED-TYPES: PROCESS-NAME=12, USER-AGENT=65
 
 name = ChinaMaxNoIP
+2, alibaba
+2, tmall
 2, cn
 2, ms
-2, alibaba
 2, citic
 2, sohu
-2, tmall
 2, unicom
 2, wang
 2, xn--1qqw23a
@@ -59,7 +59,7 @@ name = ChinaMaxNoIP
 3, officecdn
 3, taobao
 3, bilibili
-3, qiyi
 3, hnagroup
 3, stripe
 3, weibo
+3, qiyi

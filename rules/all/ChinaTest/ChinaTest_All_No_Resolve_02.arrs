@@ -3,90 +3,12 @@
 # SOURCE: https://github.com/blackmatrix7/ios_rule_script/blob/master/rule/Surge/ChinaTest/ChinaTest_All_No_Resolve.list
 # GENERATED-FOR: Anywhere Routing Rule Set
 # NOTE: DOMAIN rules are mapped to Anywhere domain suffix rules.
-# RULES: 12445
+# RULES: 12357
 # SKIPPED: 0
-# SOURCE-RULES: 112445
-# UPSTREAM-UPDATED: 2026-06-20 02:40:58
+# SOURCE-RULES: 112357
+# UPSTREAM-UPDATED: 2026-06-22 02:36:28
 
 name = ChinaTest_02
-2, xiaoyisysreset.com
-2, xiaoyizhiqu.com
-2, xiaoyou66.com
-2, xiaoyouxi.co
-2, xiaoyouxi100.com
-2, xiaoyouxiqun.com
-2, xiaoyouzb.net
-2, xiaoyu.com
-2, xiaoyuananquantong.com
-2, xiaoyuansouti.com
-2, xiaoyuansouti.xyz
-2, xiaoyuanyun2.com
-2, xiaoyuanzhao.com
-2, xiaoyuanzhaopin.net
-2, xiaoyuer.com
-2, xiaoyujia.com
-2, xiaoyun.com
-2, xiaoyusan.com
-2, xiaoyusanchou.com
-2, xiaoyutiao.com
-2, xiaoyuzhoufm.com
-2, xiaoz.me
-2, xiaozhang365.com
-2, xiaozhao365.com
-2, xiaozhen.com
-2, xiaozhenpaotui.com
-2, xiaozhibaoxian.com
-2, xiaozhibo.com
-2, xiaozhimed.com
-2, xiaozhiyun.com
-2, xiaozhongjishu.com
-2, xiaozhoumo.com
-2, xiaozhu.com
-2, xiaozhu.hk
-2, xiaozhu158.com
-2, xiaozhu2.com
-2, xiaozhua.com
-2, xiaozhuangzhuang.com
-2, xiaozhuanhao.com
-2, xiaozhustatic1.com
-2, xiaozhustatic2.com
-2, xiaozhustatic3.com
-2, xiaozlife.com
-2, xiaozu365.com
-2, xiaozuan8.com
-2, xiaozuanbike.com
-2, xiaozufan.com
-2, xiaozujian.com
-2, xiaozuowen.net
-2, xiapac.com
-2, xiapilu.com
-2, xiappt.com
-2, xiapu.co
-2, xiaqu.org
-2, xiaqunfeng.cc
-2, xiarenzhuxin.com
-2, xiarj.com
-2, xiashanet.com
-2, xiataoseo.com
-2, xiatou.com
-2, xiaw.net
-2, xiawan8.com
-2, xiawen.tv
-2, xiawuyouke.com
-2, xiaxs.info
-2, xiaxs.la
-2, xiayixing.com
-2, xiazai.live
-2, xiazai126.com
-2, xiazai16.com
-2, xiazai163.com
-2, xiazaicc.com
-2, xiazaidizhi.cc
-2, xiazaijidi.com
-2, xiazais.com
-2, xiazaitool.com
-2, xiazaiwx.com
-2, xibaike.com
 2, xibanyaqz.com
 2, xibao100.com
 2, xibeicanyin.com
@@ -389,6 +311,7 @@ name = ChinaTest_02
 2, xinghejoy.com
 2, xinghengedu.com
 2, xingheoa.com
+2, xinghewanglu.com
 2, xinghuaport.com
 2, xinghuazixun.com
 2, xinghuo100.com
@@ -1483,7 +1406,6 @@ name = ChinaTest_02
 2, xn--cpqr0dg9g4t0fodaq5c.com
 2, xn--cssw8z54rj2ds2q.com
 2, xn--czr694b
-2, xn--czr93rxry.com
 2, xn--czrs0t
 2, xn--czru2d
 2, xn--czru2dx3eszw3lat53b.com
@@ -1892,7 +1814,6 @@ name = ChinaTest_02
 2, xsyxsc.com
 2, xsyydtfy.com
 2, xsyzdl.com
-2, xszhuan.com
 2, xszrcw.com
 2, xszww2.com
 2, xszww8.net
@@ -2590,7 +2511,6 @@ name = ChinaTest_02
 2, xyingsoft.com
 2, xyj.link
 2, xyj321.com
-2, xyj618.com
 2, xyjbglass.com
 2, xyjs999.com
 2, xyjtzz.com
@@ -2667,7 +2587,6 @@ name = ChinaTest_02
 2, xywyfw.com
 2, xywzs.com
 2, xyx234.com
-2, xyx3d.com
 2, xyxcables.com
 2, xyxdie.com
 2, xyxrmt.com
@@ -2950,7 +2869,6 @@ name = ChinaTest_02
 2, yahuhost.com
 2, yahui.hk
 2, yahunet.com
-2, yahxxcl.com
 2, yaimg.com
 2, yaitest.com
 2, yaiyuan.com
@@ -3886,7 +3804,6 @@ name = ChinaTest_02
 2, yfway.com
 2, yfwnm.com
 2, yfwpt.vip
-2, yfwqlij.xyz
 2, yfycrc.com
 2, yfycyboil.com
 2, yfygxyy.com
@@ -4118,7 +4035,6 @@ name = ChinaTest_02
 2, yidaomall.com
 2, yidaomobi.com
 2, yidaplay.com
-2, yidaweb.com
 2, yide.com
 2, yideamobile.com
 2, yidejia.com
@@ -5598,7 +5514,6 @@ name = ChinaTest_02
 2, youginorg.com
 2, yougou.com
 2, yougu.tv
-2, yougumuye.com
 2, youguo.com
 2, youguoquan.com
 2, youguu.com
@@ -5876,7 +5791,6 @@ name = ChinaTest_02
 2, youyierp.com
 2, youyigame.com
 2, youyiguke.com
-2, youyihuibk.com
 2, youyijiu.com
 2, youyiqi.com
 2, youyiqiaogou.com
@@ -6787,7 +6701,6 @@ name = ChinaTest_02
 2, yungotec.com
 2, yungou618.com
 2, yungouos.com
-2, yungousj.net
 2, yungpu.com
 2, yungu.org
 2, yunguajibao.com
@@ -7708,6 +7621,8 @@ name = ChinaTest_02
 2, zac1993.com
 2, zachina.org
 2, zack.asia
+2, zaconad.com
+2, zaconbs.com
 2, zadervice.com
 2, zaduonews.com
 2, zaecu.com
@@ -7811,7 +7726,6 @@ name = ChinaTest_02
 2, zaojiu.com
 2, zaojuge.com
 2, zaojuzi.com
-2, zaojv.com
 2, zaoowoo.com
 2, zaowandushu.com
 2, zaowuyun.com
@@ -9213,7 +9127,6 @@ name = ChinaTest_02
 2, zhijian114.com
 2, zhijianbao.com
 2, zhijianchuhai.com
-2, zhijianfengyi.com
 2, zhijiangames.com
 2, zhijiannuoche.com
 2, zhijiaow.com
@@ -12025,7 +11938,6 @@ name = ChinaTest_02
 2, zxnic.net
 2, zxnrh.com
 2, zxoid.com
-2, zxopen.com
 2, zxpcloud.com
 2, zxpec.com
 2, zxpmq.com

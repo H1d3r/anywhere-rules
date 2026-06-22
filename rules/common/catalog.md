@@ -32,7 +32,7 @@
 | TikTok | 81 | 2 | TikTok | [common/TikTok.arrs](./TikTok.arrs) |
 | Bilibili | 20 | 0 | Bilibili | [common/Bilibili.arrs](./Bilibili.arrs) |
 | WeChat | 339 | 2 | WeChat | [common/WeChat.arrs](./WeChat.arrs) |
-| ChinaDomain | 857 | 4 | 中国大陆常见域名直连 | [common/ChinaDomain.arrs](./ChinaDomain.arrs) |
+| ChinaDomain | 861 | 4 | 中国大陆常见域名直连 | [common/ChinaDomain.arrs](./ChinaDomain.arrs) |
 | CN_Additional | 43245 | 0 | 中国大陆域名补充 | [common/CN_Additional.arrs](./CN_Additional.arrs) |
 | ChinaIP | 5761 | 0 | 中国大陆 IP CIDR | [common/ChinaIP.arrs](./ChinaIP.arrs) |
 | Lan | 8 | 0 | 局域网和私有地址 | [common/Lan.arrs](./Lan.arrs) |
@@ -40,6 +40,6 @@
 | Steam | 54 | 0 | Steam | [common/Steam.arrs](./Steam.arrs) |
 | PayPal | 247 | 1 | PayPal | [common/PayPal.arrs](./PayPal.arrs) |
 | Cloudflare | 65 | 0 | Cloudflare | [common/Cloudflare.arrs](./Cloudflare.arrs) |
-| CDN | 4532 | 58 | SukkaW CDN 直连辅助 | [common/CDN.arrs](./CDN.arrs) |
+| CDN | 4533 | 58 | SukkaW CDN 直连辅助 | [common/CDN.arrs](./CDN.arrs) |
 | GeoIP_CN | 5926 | 0 | GeoIP 中国大陆 IP CIDR | [common/GeoIP_CN.arrs](./GeoIP_CN.arrs) |
-| Geosite_CN | 4733 | 3 | Geosite 中国大陆域名规则 | [common/Geosite_CN.arrs](./Geosite_CN.arrs) |
+| Geosite_CN | 4793 | 3 | Geosite 中国大陆域名规则 | [common/Geosite_CN.arrs](./Geosite_CN.arrs) |
