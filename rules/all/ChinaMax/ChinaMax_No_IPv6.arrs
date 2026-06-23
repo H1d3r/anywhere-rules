@@ -3,9 +3,9 @@
 # SOURCE: https://github.com/blackmatrix7/ios_rule_script/blob/master/rule/Surge/ChinaMax/ChinaMax_No_IPv6.list
 # GENERATED-FOR: Anywhere Routing Rule Set
 # NOTE: DOMAIN rules are mapped to Anywhere domain suffix rules.
-# RULES: 8310
+# RULES: 8313
 # SKIPPED: 78
-# UPSTREAM-UPDATED: 2026-06-22 02:37:24
+# UPSTREAM-UPDATED: 2026-06-24 02:47:13
 # SKIPPED-TYPES: IP-ASN=1, PROCESS-NAME=12, USER-AGENT=65
 
 name = ChinaMax
@@ -17,6 +17,7 @@ name = ChinaMax
 2, ms
 2, baidu
 2, citic
+2, icbc
 2, sohu
 2, unicom
 2, wang
@@ -52,7 +53,6 @@ name = ChinaMax
 2, xn--vuq861b
 2, xn--xhq521b
 2, xn--zfr164b
-2, icbc
 3, .tmall.com
 3, alicdn
 3, alipay
@@ -62,10 +62,10 @@ name = ChinaMax
 3, officecdn
 3, taobao
 3, bilibili
+3, qiyi
 3, hnagroup
 3, stripe
 3, weibo
-3, qiyi
 0, 0.0.0.0/32
 0, 1.0.1.0/24
 0, 1.0.2.0/23
@@ -3538,7 +3538,6 @@ name = ChinaMax
 0, 14.241.232.0/21
 0, 14.255.16.0/24
 0, 14.255.238.0/24
-0, 14.255.249.0/24
 0, 14.255.254.0/24
 0, 140.101.208.0/24
 0, 140.143.0.0/16
@@ -3755,7 +3754,6 @@ name = ChinaMax
 0, 154.72.47.0/24
 0, 154.8.128.0/17
 0, 154.8.48.0/20
-0, 154.84.180.0/24
 0, 154.89.32.0/20
 0, 154.91.158.0/23
 0, 155.102.0.0/16
@@ -4260,6 +4258,7 @@ name = ChinaMax
 0, 178.219.7.0/24
 0, 178.236.232.0/24
 0, 178.248.72.0/24
+0, 178.253.252.0/24
 0, 18.166.207.110/32
 0, 18.166.37.238/32
 0, 18.167.115.91/32
@@ -4447,6 +4446,8 @@ name = ChinaMax
 0, 192.55.46.0/23
 0, 192.55.68.0/22
 0, 192.56.99.0/24
+0, 192.6.161.0/24
+0, 192.6.243.0/24
 0, 193.112.0.0/16
 0, 193.119.0.0/19
 0, 193.168.185.0/24
@@ -6185,7 +6186,9 @@ name = ChinaMax
 0, 222.16.0.0/12
 0, 222.160.0.0/14
 0, 222.166.0.224/27
+0, 222.166.160.0/20
 0, 222.166.240.0/20
+0, 222.166.96.0/20
 0, 222.168.0.0/13
 0, 222.176.0.0/12
 0, 222.192.0.0/11
@@ -8170,7 +8173,7 @@ name = ChinaMax
 0, 60.55.0.0/16
 0, 60.63.0.0/16
 0, 61.10.128.0/20
-0, 61.10.160.0/20
+0, 61.10.160.0/19
 0, 61.10.224.0/19
 0, 61.10.96.0/20
 0, 61.114.80.0/20

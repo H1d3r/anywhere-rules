@@ -3,12 +3,147 @@
 # SOURCE: https://github.com/blackmatrix7/ios_rule_script/blob/master/rule/Surge/Advertising/Advertising_All.list
 # GENERATED-FOR: Anywhere Routing Rule Set
 # NOTE: DOMAIN rules are mapped to Anywhere domain suffix rules.
-# RULES: 58513
+# RULES: 58615
 # SKIPPED: 0
-# SOURCE-RULES: 258513
-# UPSTREAM-UPDATED: 2026-06-22 02:31:46
+# SOURCE-RULES: 258615
+# UPSTREAM-UPDATED: 2026-06-24 02:41:18
 
 name = Advertising_03
+2, w3needman3w.com
+2, w3plywbd72pf.com
+2, w3wci.site
+2, w3ytzqm3d.com
+2, w4.com
+2, w454n74qw.com
+2, w4h5ae.ru
+2, w4jz.top
+2, w4k65h3vz538fmrt3jz1453i546h.cfd
+2, w4nw434j7n.com
+2, w4sn20zpvz.com
+2, w4vecl1cks.com
+2, w505cb.cc
+2, w505cb.com
+2, w510e2.com
+2, w537a7.cc
+2, w537a7.com
+2, w54551.cc
+2, w55b76.cc
+2, w55b76.com
+2, w55c.net
+2, w562f5.cc
+2, w562f5.com
+2, w56953.cc
+2, w56ff7.cc
+2, w58547.cc
+2, w58547.com
+2, w58ce6.cc
+2, w58ce6.com
+2, w592be.cc
+2, w592be.com
+2, w59g.icu
+2, w5ba5b.cc
+2, w5ba5b.com
+2, w5bacb.com
+2, w5bi16f3co.com
+2, w5c6d9.cc
+2, w5daa5.com
+2, w5eep9esa.com
+2, w5ftl8bhu3.com
+2, w5rgm2qxwr6whjkh.rest
+2, w65mymobile.com
+2, w6ecevvubhmntx.rest
+2, w6f5f8r9.fun
+2, w6xbr7hc.xyz
+2, w6xdba54n.com
+2, w716eb02n9.ru
+2, w75zr9nfj.com
+2, w766ewvx75.com
+2, w76mddb.com
+2, w7gx7y9wk.com
+2, w7zh5jru9ewzrpjvcw.rest
+2, w80n.fun
+2, w847urmeelre3j9i7htkfqw6rrn4rh8y.cfd
+2, w84h83p9qwnz92g4fnz.cfd
+2, w88.disney.co.jp
+2, w88.disney.de
+2, w88.disney.ru
+2, w88.espnqa.com
+2, w88.m.disney.go.com
+2, w88.m.disneyland.go.com
+2, w88.m.disneyworld.go.com
+2, w88.qam.disney.go.com
+2, w88.shanghaidisneyresort.com.cn
+2, w88.videos.parksmedia.disney.go.com
+2, w88.wireless.go.com
+2, w88banh.com
+2, w890.denvergazette.com
+2, w97nv5ibv4.com
+2, w982.middletownpress.com
+2, w99megeneral.com
+2, w9f1r.top
+2, w9h6mz6xqp5jeg9y9v857f5t.cfd
+2, w9hubvbx8jocj1eml6wi.rest
+2, w9l4tr4013tn5mo27t0w.xyz
+2, w9uwz5966.com
+2, wa.5.p2l.info
+2, wa.airexperience.dk
+2, wa.consumentenbond.nl
+2, wa.eonline.com
+2, wa.love2play.com
+2, wa.mail.com
+2, wa.nexive.it
+2, wa.ostermann.eu
+2, wa.proflowers.com
+2, wa.scribd.com
+2, wa.sherwin-williams.com
+2, wa.tjmaxx.tjx.com
+2, wa.wawlabs.com
+2, wa.zyxelcampaign.eu
+2, wa4y.com
+2, wa52613.com
+2, wa9dald544.com
+2, waapadaggled.com
+2, waardex.com
+2, waazgwojnfqx.life
+2, wabejoyrode.life
+2, wabewxwoytqpi.website
+2, wabsyederly.com
+2, wac.2ddcc.alphacdn.net
+2, wacabrjaxxf.com
+2, wachipho.net
+2, wackeerd.com
+2, wackotracko.com
+2, wackphebelyance.cyou
+2, wacogzaeip.com
+2, wacsstance.cyou
+2, wacthobbegkx.net
+2, wactzluhhgzdz.com
+2, wadauthy.net
+2, wadecarbohydrate.com
+2, wadkonhl.com
+2, wadoucho.xyz
+2, wadujpflrtk.com
+2, wadxfdqzocbof.site
+2, waehupuet.com
+2, waeiftfylzo.com
+2, waescyne.com
+2, waeshana.com
+2, waet.datalogue.de
+2, waexhoxdqigad.space
+2, wafbints.shop
+2, wafdistbourlaw.qpon
+2, wafdughretinic.cyou
+2, waferyvaginal.qpon
+2, waffles.cohnacrylics.com
+2, wafflesgenuine.com
+2, wafflesquaking.com
+2, wafflestee.com
+2, wafflyparaph.qpon
+2, wafmedia3.com
+2, wafmedia6.com
+2, waframedia5.com
+2, waftagephoneys.cyou
+2, waftersvoc.cfd
 2, waftycrueler.com
 2, wafum.ml
 2, wafvertizing.crazygames.com
@@ -243,6 +378,7 @@ name = Advertising_03
 2, waplog.mobi
 2, waplog.net
 2, wappatopunnerzaurak.qpon
+2, wappatoskee.cyou
 2, wapperrattage.com
 2, wappingcalques.com
 2, wappingjosiah.rest
@@ -273,7 +409,6 @@ name = Advertising_03
 2, wargitom.in
 2, warhealthy.com
 2, warhin.com
-2, warhswpjtqjed.site
 2, wariestbudgers.com
 2, warilyaggregation.com
 2, warilyclickframes.com
@@ -469,6 +604,7 @@ name = Advertising_03
 2, waterloggedmention.pro
 2, waterloggedstation.pro
 2, waterproofgranitegag.com
+2, waterproofwheelbarrow.com
 2, waterstudio.fr
 2, waterwithhiswing.com
 2, watery-dream.pro
@@ -1734,7 +1870,6 @@ name = Advertising_03
 2, westslendersolitary.com
 2, westspulse.com
 2, westword.com
-2, wesxlibjaygci.online
 2, wet-ambition.pro
 2, wet-hurt.com
 2, wet-judge.com
@@ -1836,7 +1971,6 @@ name = Advertising_03
 2, wfulugammfa.in
 2, wfurwxclgufh.com
 2, wfuwlkgm.com
-2, wfuynjiakdgch.site
 2, wfvciivlotnm.com
 2, wfvs.cn
 2, wfvuctrttrdwk.global
@@ -2140,7 +2274,6 @@ name = Advertising_03
 2, whinedeity.com
 2, whinemalnutrition.com
 2, whineshellcat.space
-2, whingqlookwwv.website
 2, whiningbewildered.com
 2, whiningconfessed.com
 2, whipcrack.org
@@ -2264,6 +2397,7 @@ name = Advertising_03
 2, whodouth.net
 2, whoevercloakroom.com
 2, whoeverfestival.com
+2, whoeverpensivepaternity.com
 2, whof.spawilliamgray.com
 2, whofiguredso.org
 2, whoftits.xyz
@@ -2372,7 +2506,6 @@ name = Advertising_03
 2, whranc.cn
 2, whreqyvajeer.com
 2, whriwifnxuvmg.website
-2, whrrccuqkzjlw.site
 2, whrsen.itemmania.com
 2, whsledorking.com
 2, whstvdsqpzlaa.website
@@ -2635,6 +2768,7 @@ name = Advertising_03
 2, williamelemental.com
 2, williamhill.es
 2, williamporterlilac.com
+2, willierdeacon.cyou
 2, willing-lawyer.pro
 2, willingcease.com
 2, willingcloud.pro
@@ -3021,7 +3155,6 @@ name = Advertising_03
 2, wjefqoj3i8t9zi.rest
 2, wjegjhewfhtlq.online
 2, wjetbvngulnqquo.com
-2, wjfysmsptgohl.website
 2, wjgcygwgrvooio.com
 2, wjgglm.com
 2, wjghanngbilui.space
@@ -3033,7 +3166,6 @@ name = Advertising_03
 2, wjikxopltjp.xyz
 2, wjimtye.top
 2, wjl58.icu
-2, wjlc99gq7l4ozr.rest
 2, wjljwqbzjleek.top
 2, wjmepiytpjiki.website
 2, wjmghujaluysu.online
@@ -3090,15 +3222,12 @@ name = Advertising_03
 2, wkghcdvjmgspm.website
 2, wkgjvfzec8b61lqn63npjw7cqz.cfd
 2, wkhimxmzsixtd.website
-2, wkiyhzinlzymm.website
 2, wkjoehzlkl.com
-2, wkjqmrrpyfelzy8p6612yeo.rest
 2, wkjvzljmxdzni.top
 2, wkjwumtex3.com
 2, wkkjfcgjofbix.ru
 2, wkkug.vcbnw.de
 2, wklmyjveuvlyf.online
-2, wklqwflwrztfa.online
 2, wkmgb.skatie.com
 2, wkmorvzqjmwav.top
 2, wkmotajasmrof.website
@@ -3119,6 +3248,7 @@ name = Advertising_03
 2, wkqcnkstso.com
 2, wkqrwyzwkehjb.website
 2, wkrcbszi.xyz
+2, wkrflrxfdtx.com
 2, wkrqvffpntjzm.store
 2, wksfhfswxamwjq.com
 2, wkszmjufkecij.online
@@ -3199,7 +3329,6 @@ name = Advertising_03
 2, wlnaukfq.com
 2, wlncydsetnshu.com
 2, wlntzdjktaskn.website
-2, wlnvyjgckzxpa.space
 2, wloalafswtvlk.site
 2, wlog.ifdo.co.kr
 2, wlog.ksapisrv.com
@@ -3248,7 +3377,6 @@ name = Advertising_03
 2, wmbbsat.com
 2, wmbd.gamersky.com
 2, wmbmkuiglywub.site
-2, wmbokeoayhnjg.site
 2, wmc.westwoodgroup.com
 2, wmcafnbjivh.com
 2, wmcasher.ru
@@ -3373,6 +3501,7 @@ name = Advertising_03
 2, wnjpbboykjezo.online
 2, wnjtssmha.com
 2, wnkhabzu.com
+2, wnkqnowvrpfat.online
 2, wnlabbsupkwuu.space
 2, wnlhmz.cimaco.com.mx
 2, wnllmyw.xyz
@@ -3422,7 +3551,6 @@ name = Advertising_03
 2, wo30sg1orn.com
 2, wo6h5tx8w.com
 2, woacoaglastaim.net
-2, woadnewmctqlp.site
 2, woaembayed.uno
 2, woafoame.net
 2, woagevaibi.net
@@ -3480,7 +3608,6 @@ name = Advertising_03
 2, wohlacmisease.qpon
 2, wohong5.com
 2, wohubdmbsq.com
-2, wohwzigksahep.website
 2, woihtwxtybnzw.store
 2, woillfqfntlsp.space
 2, woitapktjkmxf.website
@@ -3880,7 +4007,6 @@ name = Advertising_03
 2, wowshortvideos.com
 2, wowzazen.cyou
 2, woxbnkonxwvrk.site
-2, woxcqmqhbyjjx.space
 2, woxfiybiepgltf.com
 2, woxwhfdo.xyz
 2, woymebsi.com
@@ -3915,6 +4041,7 @@ name = Advertising_03
 2, wpfly-sbpkrd.icu
 2, wpfmovniimllu.online
 2, wpftaxtgdh.com
+2, wpftubkwnddeh.online
 2, wpgobx.hamnen.se
 2, wpgtgost.com
 2, wph2zu9rlb.com
@@ -3979,7 +4106,6 @@ name = Advertising_03
 2, wpzfds.glamira.be
 2, wpzffweq.remorqueshop.fr
 2, wpzikuizyknhq.online
-2, wpzsgqleyvgmh.site
 2, wq26xa0tr.com
 2, wqbeavbpztwsm.website
 2, wqbghtlchfeir.online
@@ -4112,7 +4238,6 @@ name = Advertising_03
 2, wreulqbszdpjf.site
 2, wrevenuewasadi.com
 2, wrevenuewasadi.info
-2, wrfimzlidwcvy.space
 2, wrfiwa.ru
 2, wrfkjw.com
 2, wrfpxenkhuekc.site
@@ -4190,7 +4315,6 @@ name = Advertising_03
 2, wrpqqnurjtljv.space
 2, wrpsouf.cn
 2, wrqtnouracdei.site
-2, wrquclcateqiu.online
 2, wrqywyffqfpnf.online
 2, wrrqigpzmekcd.space
 2, wrrzje.com
@@ -4294,6 +4418,7 @@ name = Advertising_03
 2, wsqsdxcelggje.website
 2, wsqultqgnocyn.website
 2, wsrmmeokaabac.online
+2, wsrtokocmpozr.site
 2, wsshehasnomoney.com
 2, wssnddllssomv.space
 2, wsssaunhzztxj.store
@@ -4308,7 +4433,6 @@ name = Advertising_03
 2, wstlfwsmibwkw.site
 2, wstnipfjthtmg.online
 2, wstohshlvmiqd.space
-2, wsudofwxrtbzt.space
 2, wsurseonbhtvr.space
 2, wsvay.com
 2, wsvibiysludyfwp.xyz
@@ -4487,6 +4611,7 @@ name = Advertising_03
 2, wurflcloud.com
 2, wurjudo.cfd
 2, wurldcergpkri.site
+2, wurleysskithertum.qpon
 2, wurqaz.com
 2, wurst.hausschlachtebedarf.de
 2, wurst.leffis.de
@@ -4499,7 +4624,6 @@ name = Advertising_03
 2, wussucko.com
 2, wutfykwgbuq.xyz
 2, wuthersoord.cyou
-2, wutherveiponying.cfd
 2, wutienitme247.info
 2, wutou20230201.live
 2, wutqgiuriurbk.space
@@ -4553,6 +4677,7 @@ name = Advertising_03
 2, wvtem.com
 2, wvtsnyncckesw.site
 2, wvufqdeogmequ.online
+2, wvukqjvirwicj.site
 2, wvvbgmtobkdru.space
 2, wvvietcombank.com
 2, wvvkxni.com
@@ -5780,6 +5905,7 @@ name = Advertising_03
 2, www.thecollectiverd.com
 2, www.theexgirlfriends.com
 2, www.thefriday.net
+2, www.thegioibaove.com
 2, www.thelaferianews.com
 2, www.themesets.com
 2, www.themorningcallmediagroup.com
@@ -6234,7 +6360,6 @@ name = Advertising_03
 2, wywkwqzkavamw.top
 2, wywkwqzkavjjr.top
 2, wywqdsha.com
-2, wywvlkptgdkiq.online
 2, wywwyvtsjuywc.space
 2, wywy.com
 2, wyxdb0.appsina
@@ -6253,7 +6378,6 @@ name = Advertising_03
 2, wzcuinglezyz.one
 2, wzcznlufq.com
 2, wzdzht7am5.com
-2, wzec1rwf79elzwtfz2jcm.rest
 2, wzehmoil.com
 2, wzelipmfuva.com
 2, wzeocharram.com
@@ -6502,6 +6626,7 @@ name = Advertising_03
 2, xawab.com
 2, xawafinmijdrp.online
 2, xawlop.com
+2, xawlumobxl.in
 2, xaxaxa.ovh
 2, xaxhuangjpvxr.website
 2, xaxis.com
@@ -6524,6 +6649,7 @@ name = Advertising_03
 2, xbasfbno.info
 2, xbaxfy.minrevi.jp
 2, xbayupkogeuna.com
+2, xbbuafyizlkov.space
 2, xbbxljge.com
 2, xbc8fsvo5w75wwx8.pro
 2, xbcnvj2mdk1dn1.com
@@ -6531,7 +6657,6 @@ name = Advertising_03
 2, xbetobprp.com
 2, xbfebqya.icu
 2, xbfk.cn
-2, xbfmunxzxsnso.site
 2, xbfoaninfgolq.space
 2, xbgbod.scandinavianoutdoor.se
 2, xbhoylaadarbq.website
@@ -6809,6 +6934,7 @@ name = Advertising_03
 2, xeroxhoubara.cfd
 2, xerqfh.xyz
 2, xertive.com
+2, xerunkus.com
 2, xescjwqnpmwki.site
 2, xetlugupyug.com
 2, xeuesswygmuso.site
@@ -6937,7 +7063,6 @@ name = Advertising_03
 2, xgvgjcesdrssk.site
 2, xgwhrvnxvhqgi.com
 2, xgwkcpybi.com
-2, xgwnmhjbowoct.site
 2, xgwqvg.lalafel.com
 2, xgwvtfjyklyyi.website
 2, xgyamkbizucnd.store
@@ -7007,7 +7132,6 @@ name = Advertising_03
 2, xhy.infiniteage.com
 2, xhycijgihf.in
 2, xhylcyossd.in
-2, xhzcqottsgfxr.website
 2, xhzlgrectlvsp.website
 2, xhzrzyxlvuzpq.online
 2, xhzspi.com
@@ -7055,11 +7179,13 @@ name = Advertising_03
 2, xibijryda.com
 2, xibilitukydteam.info
 2, xibvdjz2x2.com
+2, xicakemoter.cyou
 2, xicigroup.cn
 2, xicomfier.cyou
 2, xicoxzjf.com
 2, xidx.org
 2, xidxktydwzica.website
+2, xieduajahaonu.space
 2, xielloltv.com
 2, xiepl.com
 2, xiezhuo038.cn
@@ -7113,6 +7239,7 @@ name = Advertising_03
 2, xiobpoetdfjyk.website
 2, xiongxiaoze12.cn
 2, xiongyin.com
+2, xiotkhvvuacdi.space
 2, xioxcrzwixuet.space
 2, xiozrgajvpfry.site
 2, xipaaqgnrehpdns.com
@@ -7171,14 +7298,11 @@ name = Advertising_03
 2, xjixxfwwheoch.online
 2, xjjjeoythaboi.website
 2, xjjkjo.pw
-2, xjkffcqzoxlhz.space
-2, xjknbynndwuzs.website
 2, xjkokekq.com
 2, xjktawqrcaw.com
 2, xjl2ts2q6a.com
 2, xjloohywddakb.website
 2, xjmdtacpndbgkl.com
-2, xjmekdlaelevv.site
 2, xjmojakvb.net
 2, xjmxdoztrfmnt.site
 2, xjnmjwssymtwp.site
@@ -7251,7 +7375,6 @@ name = Advertising_03
 2, xkamuhem.com
 2, xkanzuqreeloy.store
 2, xkbbjtfp.xyz
-2, xkbbqpqojizgo.space
 2, xkbcsuinyojj.com
 2, xkbgqducppuan.xyz
 2, xkbinj.xyz
@@ -7297,8 +7420,6 @@ name = Advertising_03
 2, xkpbcd.com
 2, xkpqqslzijwvj.website
 2, xkpxdi.opticauniversitaria.es
-2, xkpyulahmgwii.website
-2, xkqszdwbmebkd.space
 2, xkrihxceguhfe.site
 2, xkrjuicspjipi.store
 2, xkronawgqyuia.site
@@ -7309,6 +7430,7 @@ name = Advertising_03
 2, xktoy8fub.com
 2, xkudvpefmaeua.online
 2, xkuleysuqgzbz.website
+2, xkulpvtjmrhkhb.com
 2, xkum.cn
 2, xkupvlrigudmc.space
 2, xkuxohmppjzjo.site
@@ -7333,7 +7455,6 @@ name = Advertising_03
 2, xlcceiswfsntpp.xyz
 2, xlcun.com
 2, xldqrmpbpybsz.online
-2, xlduvjimtbgox.website
 2, xldyxnzo6.com
 2, xlebyndzkwxkn.space
 2, xleemek84.com
@@ -7342,7 +7463,6 @@ name = Advertising_03
 2, xlfrhhp.com
 2, xlfzbatrqqtvf.store
 2, xlgoifvljhnyp.online
-2, xlgpuvmanplef.space
 2, xlgqy.com
 2, xliefgyqwgv.com
 2, xlieicglajd.com
@@ -7408,6 +7528,7 @@ name = Advertising_03
 2, xmafrihkua.in
 2, xmakmdfdzmvgd.online
 2, xmas-xmas-wow.com
+2, xmastoyon.cfd
 2, xmaswrite.com
 2, xmatch.com
 2, xmawwbz.icu
@@ -7427,7 +7548,6 @@ name = Advertising_03
 2, xmg.cool
 2, xmgi1tqka.com
 2, xmglass.cn
-2, xmgrzsnusjnlr.website
 2, xmgurghmn.com
 2, xmgxmkybnijnu.website
 2, xmgyreddpc.com
@@ -8303,7 +8423,6 @@ name = Advertising_03
 2, xosnteewpgzmh.website
 2, xosomomo.co
 2, xosomomo.me
-2, xosrhnczzdapz.website
 2, xoszyclagweyv.online
 2, xotgpql.com
 2, xotsxpboxljzv.website
@@ -8340,7 +8459,6 @@ name = Advertising_03
 2, xpbgjjhcqsp.com
 2, xpbhflptmrrfj.online
 2, xpbrqqmdttbyg.space
-2, xpbwmnxc2kmlrph6octemxc5zzpkgf.rest
 2, xpcvsyothyvmh.website
 2, xpcwrgy.cn
 2, xpdgvlxwn.icu
@@ -8350,6 +8468,7 @@ name = Advertising_03
 2, xpeivrvqckryo.store
 2, xpffdxzsaqfhs.website
 2, xpffkbpq.xyz
+2, xpfpctnclgruq.online
 2, xpfzmijcszpcma.com
 2, xpgvtpgeg.com
 2, xpgyxqexljdl.net
@@ -8518,6 +8637,7 @@ name = Advertising_03
 2, xrlkvghzi.com
 2, xrllratggofic.online
 2, xrllybr.xyz
+2, xrlrtpdjmtqfy.space
 2, xrlzhk.top
 2, xrnrhowppgvxdhm.com
 2, xrnyhc.allmanmulsang.com
@@ -8677,7 +8797,6 @@ name = Advertising_03
 2, xtgrsenjpmvwm.online
 2, xthaap.schwaebische-alb-jobanzeiger.de
 2, xthhod.beevitamins.com.au
-2, xthqgvzhprmnw.space
 2, xtidentinhp.net
 2, xtidentinhp.xyz
 2, xtifpqvs.com
@@ -8692,6 +8811,7 @@ name = Advertising_03
 2, xtmtp.transhero.com
 2, xtmzueoqlz.com
 2, xtneqpole.xyz
+2, xtnjojmkwxrnp.website
 2, xtnwxhjv.xyz
 2, xtoogcyzmwmvf.space
 2, xtotmkmljtznt.website
@@ -8747,11 +8867,12 @@ name = Advertising_03
 2, xtyokhrngzgza.online
 2, xtyxcc.provitamin.hu
 2, xtyzlkphfzjir.com
-2, xtzpesixgcobs.website
 2, xu27r.com
 2, xu5ctufltn.com
 2, xu6.icu
 2, xu919zz2i.com
+2, xuahfdwvlmul.com
+2, xuaildchpomncg.com
 2, xuajhybskerxo.space
 2, xuakak.com
 2, xuanhk.com
@@ -8827,7 +8948,6 @@ name = Advertising_03
 2, xupvhyagkg.in
 2, xuqarnasvru.com
 2, xuqujk.raven.nl
-2, xurhandhenstm.online
 2, xurkvrrdbevqc.website
 2, xurlctzwmnnxm.site
 2, xurucnjfjhsjg.site
@@ -8953,6 +9073,7 @@ name = Advertising_03
 2, xwlyfl.xyz
 2, xwma.cn
 2, xwmcxqcxipcln.site
+2, xwnrymhyjywwe.website
 2, xwoeoc.rietveldlicht.be
 2, xwqea.com
 2, xwqpzh.you-up.com
@@ -8960,6 +9081,7 @@ name = Advertising_03
 2, xwqvytuiko.com
 2, xwqxwfzhjsxom.space
 2, xwreckontur.com
+2, xwrialjnotoxi.website
 2, xwseyi.yellohvillage.nl
 2, xwskxrfsvcooqt.com
 2, xwsqtngwa.xyz
@@ -9008,6 +9130,7 @@ name = Advertising_03
 2, xxipyvnzwzxmq.online
 2, xxirchauff.qpon
 2, xxjcedclosxcaox.com
+2, xxjhojcbrawwo.space
 2, xxjvha.timex.com
 2, xxkjak.reddoorz.com
 2, xxkswdf.icu
@@ -9195,7 +9318,6 @@ name = Advertising_03
 2, xyxmrpcpbq.net
 2, xyxvzyihkdwgs.website
 2, xyxz.windowsrenew.com
-2, xyysxepskayvz.site
 2, xyyygbbwult.com
 2, xyz.barefootdreams.com
 2, xyz.basedclick.com.tr
@@ -9274,11 +9396,9 @@ name = Advertising_03
 2, xzxforn.xyz
 2, xzxhpcdz.icu
 2, xzxomkrfn.com
-2, xzyagzivogqxy.online
 2, xzylcgwycrmaa.click
 2, xzyshwfdxwwmv.website
 2, xzzoiprvfobyw.space
-2, xzzonjfwjpfqv.space
 2, xzzpagn.com
 2, y-track.com
 2, y.crazyporn.xxx
@@ -9317,8 +9437,10 @@ name = Advertising_03
 2, y4jcyejire.t91ozbe2q1y32b43b1hqp3q.cyou
 2, y4l.icu
 2, y4re1yokqv.com
+2, y55fplrgtye5yxmg1mcl643wg7tkcnnm.cfd
 2, y55lspa2v6.com
 2, y5lbtcie4bgyuwiz5ij1x66.cfd
+2, y5mncokbo7799qu4ow8zcxo63j8iiebfi.cfd
 2, y5qhzz3q.designdetails.fm
 2, y63eay93i.com
 2, y673shtv.xyz
@@ -9357,13 +9479,13 @@ name = Advertising_03
 2, yadropro.ru
 2, yadsunkzjtzlb.space
 2, yadtanc.xyz
+2, yadyrtedybjftu.com
 2, yaebhbyweyxvt.store
 2, yaefddu.com
 2, yafabu.uno
 2, yaffingunbegun.cyou
 2, yafvuazomntue.website
 2, yag.ferreiratrader.com.br
-2, yagfbgbrjwqhd.online
 2, yagtyjaefiecu.online
 2, yaguazaderail.shop
 2, yah3ph65tc.com
@@ -9479,7 +9601,7 @@ name = Advertising_03
 2, yasyyxtxtlbxpnq.net
 2, yaszcbffjnfak.today
 2, yatab.net
-2, yatkwgvffahfy.space
+2, yatiscapoid.cfd
 2, yatr.ru
 2, yatytentioniau.org
 2, yaudience.com
@@ -9516,7 +9638,6 @@ name = Advertising_03
 2, yb0a.xyz
 2, yb23b.com
 2, yb2es1rd82.com
-2, yb8t354tctmq6rbth6ui86rwt5t.rest
 2, yb9op4ftqh8xwqrob5qg8k.cfd
 2, ybaazpg.com
 2, ybasuhujdlpiw.site
@@ -9524,6 +9645,7 @@ name = Advertising_03
 2, ybayck.xyz
 2, ybbnetahurnitm.com
 2, ybbreqrake.com
+2, ybcbvtnlddcsg.com
 2, ybcnvqf.cn
 2, ybcqozfk.com
 2, ybcrwm.com
@@ -9536,7 +9658,6 @@ name = Advertising_03
 2, ybfqkggkcivnv.online
 2, ybgdnogbpucev.com
 2, ybgo.xyz
-2, ybhqbsgvaucur.space
 2, ybibpwduubqhk.space
 2, ybieggryuprfs.online
 2, ybifthgupqclf.online
@@ -9566,7 +9687,6 @@ name = Advertising_03
 2, ybozjqsojrktu.online
 2, ybpjczyr.com
 2, ybpxv.com
-2, ybqamwkpwysoo.site
 2, ybqnn9566lfnkv.cfd
 2, ybqsgz.surfmall.co.kr
 2, ybrantdigital.com
@@ -9662,7 +9782,6 @@ name = Advertising_03
 2, ycxxulehaukaw.website
 2, ycywhmyiixjafa.com
 2, ycyzpk.easycash.fr
-2, yczjldaadsjea.site
 2, yczl5qg8jr.com
 2, yczpwjtvggloo.online
 2, yczrgigyspm.com
@@ -9686,6 +9805,7 @@ name = Advertising_03
 2, ydgaopinlu.com
 2, ydgh0zc.com
 2, ydhilninhp.com
+2, ydholdred.com
 2, ydiggeurkhusl.store
 2, ydiiowyprhnyz.online
 2, ydjadyzuepuvf.site
@@ -9771,14 +9891,15 @@ name = Advertising_03
 2, yebowgslw.com
 2, yebtagxufacm.com
 2, yechhogweed.com
+2, yectwxcyecvqb.site
 2, yecytiqior.net
 2, yedimedia.net
 2, yeesshh.com
 2, yeetsalear.com
 2, yefmicfs.com
-2, yefqqpjiwwzal.space
 2, yefzjingxudwib.com
 2, yegggracile.top
+2, yegsbwsspibbk.website
 2, yegvjrkcasiwf.space
 2, yegziyf.cn
 2, yegzkw.xyz
@@ -9812,6 +9933,7 @@ name = Advertising_03
 2, yeltcliff.qpon
 2, yelvercloture.com
 2, yemenicunrashacres.cyou
+2, yemm4q62qtvo7mm51ugc79vv3g.rest
 2, yemmealngv.com
 2, yemmethgqyufg.space
 2, yemnn.cn
@@ -9904,7 +10026,6 @@ name = Advertising_03
 2, yfbmwnnqyocgx.site
 2, yfbnlrprmjj.com
 2, yfbuocmci.com
-2, yfbybzedghqaa.website
 2, yfclfx.ifriko.pl
 2, yfddaetiu.xyz
 2, yfdnza.com
@@ -9930,8 +10051,6 @@ name = Advertising_03
 2, yfohgo.xyz
 2, yfopaf.imwalking.de
 2, yforaglasys.xyz
-2, yfoujvtxzrdhr.website
-2, yfowxwcszhsqr.online
 2, yfqnujpniizil.website
 2, yfqodazqwssmu.online
 2, yfqrdeewqnwvy.net
@@ -9946,7 +10065,6 @@ name = Advertising_03
 2, yftddfehsenhx.site
 2, yftpnol.com
 2, yfuciawgeyptp.space
-2, yfucuiauxwcis.space
 2, yfueuktureukwo.org
 2, yfuneukhskjskyp.com
 2, yfveranuqguoc.love
@@ -9967,7 +10085,6 @@ name = Advertising_03
 2, yg5sjx5kzy.com
 2, ygacesefzgcvt.site
 2, ygaeklqwfmtsl.website
-2, ygbjgorlcqzyw.website
 2, ygbnqy.famous-design.com
 2, ygcbqnceieyqy.website
 2, ygctwz.rawhidedogbones.com
@@ -10016,6 +10133,7 @@ name = Advertising_03
 2, ygx2myq993.com
 2, ygxgk.cn
 2, ygxijeoljljhsc.com
+2, ygxiwlteyplry.website
 2, ygxmyhimubyyl.website
 2, ygzkedoxwhqlzp.com
 2, ygzqlnt.cn
@@ -10064,17 +10182,14 @@ name = Advertising_03
 2, yhirnltair.net
 2, yhjh04.com
 2, yhkeqboz.com
-2, yhlcrnrrhfmct.website
 2, yhlpwerxrstov.online
 2, yhlsugkxfnjqq.online
 2, yhlvgpqsr.com
 2, yhlzadr.xyz
 2, yhmgbtyiidqwp.today
-2, yhmppnqlwlesd.site
 2, yhmqcuzbgzuix.space
 2, yhmqrdsuznxmo.online
 2, yhmugtdyhziys.space
-2, yhnhxhzyjnngm.online
 2, yhnledkewy.net
 2, yhnwux.cartacapital.com.br
 2, yhnxwhgkqogsi.online
@@ -10254,7 +10369,6 @@ name = Advertising_03
 2, yjaislop.com
 2, yjateinmgbrhjt.com
 2, yjbdyjnctgj.top
-2, yjcbpdnhmxttz.online
 2, yjcckvcaln.net
 2, yjcelklgbpqxr.com
 2, yjdaxcnfowbji.com
@@ -10427,8 +10541,6 @@ name = Advertising_03
 2, ylodbhduliqpc.online
 2, ylog.nimo.tv
 2, ylogepubxynzu.space
-2, ylouastfrgdac.space
-2, ylpmjupeyjeau.site
 2, ylr1xn2b4i.com
 2, ylrtrhuxzjjc.com
 2, ylsaisfpkw.xyz
@@ -10552,7 +10664,6 @@ name = Advertising_03
 2, ynfxxbp.xyz
 2, ynfzxh.com
 2, yngb2tz53bjw4icxol7h4ht4.cfd
-2, yngddpszitmzw.website
 2, ynhafvxotzgyw.online
 2, yniabq.kemptener-jobanzeiger.de
 2, ynisramnmcm.com
@@ -10905,6 +11016,7 @@ name = Advertising_03
 2, ypjihx.homemarkt.gr
 2, ypjncwyawdzss.site
 2, yplan.ru
+2, yplbjtwcilomt.space
 2, ypmaztesjxhxn.site
 2, ypmrjyxltcrra.space
 2, ypnciu.com
@@ -10913,14 +11025,12 @@ name = Advertising_03
 2, ypnvobrpnfhlf.com
 2, ypocjgogabqjj.website
 2, ypocrasmelling.qpon
-2, ypoidxycylyoe.online
 2, ypoiea.xyz
-2, ypojrpveqvwan.website
+2, ypoxnujwpkgyk.online
 2, ypphgndtjnpyf.online
 2, yppplierehd.com
 2, yppw666.cn
 2, yprmiumi.xyz
-2, yprwchttqoezq.space
 2, yprzvrve2vmbxqy9gnk.cfd
 2, yptqys.tianqistatic.com
 2, ypu.samsungelectronics.com
@@ -10957,6 +11067,8 @@ name = Advertising_03
 2, yqgbrupozdfrn.site
 2, yqgmvxufpkr.com
 2, yqgpic.xyz
+2, yqgtuqf.icu
+2, yqgwaodkf.com
 2, yqgyfmjmtnace.online
 2, yqgytx.com
 2, yqhorcill.com
@@ -11112,7 +11224,6 @@ name = Advertising_03
 2, ysnakestanothia.xyz
 2, ysnlkyfjswepg.online
 2, ysoarfptqslwc.website
-2, ysokpueqiyfah.online
 2, ysont.cn
 2, ysowy.com
 2, yspopx.bymono.com
@@ -11209,9 +11320,9 @@ name = Advertising_03
 2, ytv7335mt.com
 2, ytvigqwx.com
 2, ytvpxycvnjtow.site
-2, ytvxumxmfsudp.website
 2, ytwhnokypjqsp.online
 2, ytwshjvqlhlyf.space
+2, ytxayrnsrmibz.online
 2, ytxpnx.shokunosoyokaze.com
 2, ytybl.com
 2, ytydijifrvcyj.club
@@ -11227,6 +11338,7 @@ name = Advertising_03
 2, yuanxiab.cn
 2, yuanxiang19.fun
 2, yuanzunxs1.com
+2, yuapindogtie.shop
 2, yuastejdigmex.site
 2, yuauqdgmehwrov.com
 2, yubziosgvkweu.online
@@ -11276,6 +11388,7 @@ name = Advertising_03
 2, yulanoltunna.store
 2, yulunanews.name
 2, yulx.cn
+2, yumatitulus.cyou
 2, yumenetworks.com
 2, yumhusk.com
 2, yumi06.com
@@ -11349,6 +11462,7 @@ name = Advertising_03
 2, yurzldtomaeic.site
 2, yusgoonbncwiu.site
 2, yuske2.xyz
+2, yustluzkdexeu.site
 2, yut4is9b.xyz
 2, yutbmrzewookl.website
 2, yuthecapstan.org
@@ -11383,7 +11497,6 @@ name = Advertising_03
 2, yvfqjmbwitctn.online
 2, yvgiqknqcaufu.com
 2, yvgpj.keenfragrances.com
-2, yvgpnpvqvrgmh.site
 2, yviesfqucp.com
 2, yvipfjvniaonh.space
 2, yviswt.lamaisonduchocolat.com
@@ -11434,7 +11547,6 @@ name = Advertising_03
 2, ywmmcmkctsuyf.com
 2, ywnnfctifhikobx.com
 2, ywnrqpd.xyz
-2, ywoxqvoernvwj.website
 2, ywqaplahuhtsd.com
 2, ywrcqa.10tv.com
 2, ywrcqa.12newsnow.com
@@ -11466,7 +11578,6 @@ name = Advertising_03
 2, ywt.reward.nl
 2, ywtennjipgrwd.website
 2, ywtwvfuwgxnpe.space
-2, ywubhswtyqzcs.site
 2, ywudaepnaudn.com
 2, ywugyssrmkvat.website
 2, ywums.compensation.help
@@ -11526,7 +11637,6 @@ name = Advertising_03
 2, yxrztudaxbejo.website
 2, yxswtummev.info
 2, yxtcxizontkmg.online
-2, yxtfiopnukaxy.space
 2, yxtiojysyjex.com
 2, yxtmums.com
 2, yxtwurrbxqifz.website
@@ -11604,6 +11714,7 @@ name = Advertising_03
 2, yyqozaldwa.com
 2, yyqrofyyvjfyo.space
 2, yyroyyipsitcf.site
+2, yyseikqzfubmp.site
 2, yyselrqpyu.com
 2, yyslate.com
 2, yysqrduhpfsci.net
@@ -11654,6 +11765,7 @@ name = Advertising_03
 2, yzqscmwry.com
 2, yzraenppksaq.com
 2, yzrgtocyuvzxc.online
+2, yzrslorccsysg.space
 2, yzsgwklwqzemn.online
 2, yzsinffpguits.space
 2, yzsnrn.n-shine.com
@@ -11778,7 +11890,6 @@ name = Advertising_03
 2, zacnzkkkaufrb.online
 2, zacoortautsougi.net
 2, zacrdfmrrfvsa.space
-2, zacsrxejdcmsd.website
 2, zacxppiaefnun.site
 2, zacygnygluawn.site
 2, zacyncoewayan.site
@@ -12060,6 +12171,7 @@ name = Advertising_03
 2, zcfhxkhymtndw.space
 2, zcfse.anhem.tech
 2, zcfuoqjyzgksa.online
+2, zcfvkqmcytdvy.space
 2, zcgiq63jnbrnpw9r5b9mukkb6ck55iit43xfcr3.rest
 2, zcgqsd.icu
 2, zchdbiper.com
@@ -12106,7 +12218,6 @@ name = Advertising_03
 2, zcvsxqcyjtcse.online
 2, zcvtu.fitssock.com
 2, zcvyzsyd.icu
-2, zcvzox9ogwzlfjmj5r3w7nb56q92nhfmu.rest
 2, zcxdhoyoncjbv.space
 2, zcxwmnfhcsbzm.website
 2, zcymvyglyjyxu.online
@@ -12445,6 +12556,7 @@ name = Advertising_03
 2, zfctrack.net
 2, zfcxs.magazines.com
 2, zfdfs1tpyd.com
+2, zfdjcefpkrbyt.site
 2, zfdve.goodr.com
 2, zfdwjrxmtatjc.online
 2, zfdzf.killstar.com
@@ -12505,7 +12617,6 @@ name = Advertising_03
 2, zfxtodsxtmw.com
 2, zfyabxzwy.com
 2, zfzaxpljtwejp.site
-2, zfzeghdaedxqa.online
 2, zfziwjgxrorda.website
 2, zg40c.cn
 2, zg46wi93n1v37n6z.cfd
@@ -12524,7 +12635,6 @@ name = Advertising_03
 2, zgfyftltnhkgs.website
 2, zggphctvgvisx.site
 2, zggrxf.life
-2, zggsrbsfcgiyg.online
 2, zghdautxlwvis.store
 2, zghrxn.xyz
 2, zghsfh.xyz
@@ -12792,6 +12902,7 @@ name = Advertising_03
 2, ziowmasylptgu.online
 2, zip.er.cz
 2, zipakrar.com
+2, zipawzfif.in
 2, zipcrypticbroadsheet.com
 2, zipdealtdomestic.com
 2, zipheeda.xyz
@@ -12817,6 +12928,7 @@ name = Advertising_03
 2, zirdrax.com
 2, zireemilsoude.net
 2, zirgogoo.xyz
+2, zirkitecantelrussine.qpon
 2, zirve100.com
 2, zisboombah.net
 2, zishegoshordip.net
@@ -12875,6 +12987,7 @@ name = Advertising_03
 2, zjejua.portmans.com.au
 2, zjemch.ru
 2, zjen.cn
+2, zjfgaerzllyuv.site
 2, zjfiz.betseyjohnson.com
 2, zjflf9epfe.com
 2, zjfowaspawuza.store
@@ -12882,7 +12995,6 @@ name = Advertising_03
 2, zjfvpv.serengeticatalog.com
 2, zjgaoergao.com
 2, zjgfq.com
-2, zjgtstuyztwkb.site
 2, zjhopmpjrehih.space
 2, zjikqm.europcar.ie
 2, zjixiy.tectake.ch
@@ -12896,7 +13008,6 @@ name = Advertising_03
 2, zjkuf.asbestosjobsites.com
 2, zjlasclkahbtq.space
 2, zjliloveyou.ixiunv.com
-2, zjmlhgnowbdbu.space
 2, zjmmkjayjjazy.top
 2, zjmwizpyxsreb.space
 2, zjo0tjqpm1.com
@@ -12908,7 +13019,6 @@ name = Advertising_03
 2, zjqs.shop
 2, zjrnyrranjjay.top
 2, zjspxohftdmow.site
-2, zjsrfbxvwiliw.online
 2, zjsru-iweb.net
 2, zjsyawqj.cn
 2, zjthzf.xyz
@@ -12920,7 +13030,6 @@ name = Advertising_03
 2, zjvrbcwdfdrky.store
 2, zjwdeujzdjhrk.site
 2, zjwjcjiozdear.online
-2, zjwlmccjruyir.website
 2, zjxhgowqnqvjiq.com
 2, zjxmrrgeqndlx.space
 2, zjxuuk.goldpang.com
@@ -12966,7 +13075,6 @@ name = Advertising_03
 2, zkhjsta.beauty
 2, zkieqfgsiigts.store
 2, zkika.okyla.de
-2, zkiqzlcdvilvu.space
 2, zkkveiqxmgynq.space
 2, zklnseiv.com
 2, zklnwxfrhhxzg.space
@@ -12982,7 +13090,6 @@ name = Advertising_03
 2, zkstp.visualcomfort.com
 2, zktats.top
 2, zkthg.spoutwater.com
-2, zkthxzxmrtvah.website
 2, zkttr.vestibularpt.com
 2, zktxan.unitrailer.fr
 2, zkudhohty.in
@@ -13024,7 +13131,6 @@ name = Advertising_03
 2, zlgfuyslcpekc.site
 2, zlgpqh.rikorda.it
 2, zlhoteckelinie.wz.cz
-2, zlicjgvzrw798xmh378l9po13zwz.rest
 2, zlikzxdvkhans.website
 2, zlink2.com
 2, zlink6.com
@@ -13095,7 +13201,6 @@ name = Advertising_03
 2, zmfcnlvu.xyz
 2, zmfdjb.xyz
 2, zmg15qfvi.com
-2, zmgfxtuxzpjdf.website
 2, zmhgvuxeohjhl.space
 2, zmhpphp.forum
 2, zmhwaiapbtfq.com
@@ -13145,7 +13250,6 @@ name = Advertising_03
 2, znbdr.com
 2, znbgaspigycyc.space
 2, znbkeybfqmeub.space
-2, znbpuyxgkvezl.online
 2, znbxym.hifiklubben.no
 2, zncnwv.qa.apartmentguide.com
 2, znctrack.net
@@ -13156,7 +13260,6 @@ name = Advertising_03
 2, znews.su
 2, znfjejuvhkuuz.site
 2, zngvqwp.icu
-2, znhccpjuckfui.online
 2, znhxluqwsiaic.website
 2, znigpcayzsxyp.site
 2, zniwiarz.topagrar.pl
@@ -13289,7 +13392,6 @@ name = Advertising_03
 2, zombiharshen.top
 2, zomcz.cyou
 2, zomdufobhmfmm.space
-2, zomgepaqvqrjk.site
 2, zomhfzodazcnz.space
 2, zona.pl
 2, zona.plus
@@ -13480,7 +13582,6 @@ name = Advertising_03
 2, zqjklzrqmjle.top
 2, zqjklzrqmreq.top
 2, zqjljeyjwvmww.top
-2, zqjlkwcfjefgr.site
 2, zqksqsjupnb.com
 2, zqkveqwhrxkda.website
 2, zqlgc.facethefuture.co.uk
@@ -13772,7 +13873,6 @@ name = Advertising_03
 2, zujz.cn
 2, zukary.com
 2, zukddms.cn
-2, zukfilbadvzri.online
 2, zukhgqneuqqvd.site
 2, zukore.com
 2, zukuta.com
@@ -13831,7 +13931,6 @@ name = Advertising_03
 2, zuzu.zuzufashionwear.com
 2, zv.7vid.net
 2, zvaavn.horloge.nl
-2, zvajdjdvlohcf.website
 2, zvaut.trendytransfers.com
 2, zvay.online
 2, zvbqi.cycologyclothing.com
@@ -13904,6 +14003,7 @@ name = Advertising_03
 2, zwgoeg.zakcret.gr
 2, zwgqzgo.icu
 2, zwgsousozhihm.space
+2, zwicmxszmrhpt.space
 2, zwiweqftobuvd.space
 2, zwk7ybbg.net
 2, zwkfzyjtadeuz.space
@@ -14010,6 +14110,7 @@ name = Advertising_03
 2, zyiis.net
 2, zyjcuzdaazwcj.website
 2, zyjlsoofkpxrm.space
+2, zykbfeckdcooo.online
 2, zykkjyaokkjyb.top
 2, zykkjyaokokve.top
 2, zykumw.com
@@ -14018,6 +14119,7 @@ name = Advertising_03
 2, zymjzwvmjlkb.top
 2, zymjzwvmjwqw.top
 2, zymominmorkin.com
+2, zymosisticky.cfd
 2, zymoticlithol.qpon
 2, zynazcswjjssp.website
 2, zynewaylxyxex.buzz

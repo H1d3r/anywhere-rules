@@ -1,7 +1,7 @@
 # NAME: Proxy
 # GENERATED-FOR: Anywhere Routing Rule Set
 # DESCRIPTION: 常用代理域名集合
-# RULES: 1559
+# RULES: 1560
 # SKIPPED: 2
 # SKIPPED-TYPES: USER-AGENT=2
 # SOURCES:
@@ -1226,6 +1226,7 @@ name = Proxy
 2, cz
 2, cy
 2, cx
+2, cr
 2, huggingface.co
 2, convertio.co
 2, snapkit.co

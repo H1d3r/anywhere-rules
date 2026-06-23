@@ -1,7 +1,7 @@
 # NAME: CDN
 # GENERATED-FOR: Anywhere Routing Rule Set
 # DESCRIPTION: SukkaW CDN 直连辅助
-# RULES: 4533
+# RULES: 4542
 # SKIPPED: 58
 # SKIPPED-TYPES: DOMAIN-WILDCARD=58
 # SOURCES:
@@ -850,6 +850,7 @@ routing = 1
 2, ipfs.mttk.net
 2, loli.net
 2, texture.laby.net
+2, cdn1.espn.net
 2, static1.e621.net
 2, c-dn.net
 2, static.blip.net
@@ -1086,6 +1087,8 @@ routing = 1
 2, warnermediacdn.com
 2, static.global.visioncritical.com
 2, static.na1.visioncritical.com
+2, stories.usestoryteller.com
+2, cdn.usestoryteller.com
 2, trafficdeposit.com
 2, media.telanganatoday.com
 2, image.telanganatoday.com
@@ -1817,6 +1820,7 @@ routing = 1
 2, descopecdn.com
 2, cdn.delight-vr.com
 2, static.websites.data-crypt.com
+2, cursor-cdn.com
 2, static-beta.curseforge.com
 2, images.crunchbase.com
 2, cdn.conveythis.com
@@ -2638,7 +2642,9 @@ routing = 1
 2, cdn-rdstaticassets.readdle.com
 2, ravenjs.com
 2, static.rakuten.com
+2, luminaire.railway.com
 2, devicons.railway.com
+2, cms.railway.com
 2, rackcdn.com
 2, cdn.quadpay.com
 2, pxlecdn.com
@@ -2647,8 +2653,7 @@ routing = 1
 2, cdn.privacy.com
 2, app-static-prod.posthog.com
 2, app-static.eu.posthog.com
-2, us-assets.i.posthog.com
-2, eu-assets.i.posthog.com
+2, i.posthog.com
 2, cdn77-t.pornoxo.com
 2, cdn77.pornoxo.com
 2, pics.pornfhd.com
@@ -2664,6 +2669,7 @@ routing = 1
 2, cdn-main.plus500.com
 2, cdn.plus500.com
 2, cdn.pixabay.com
+2, assets.pingone.com
 2, static.pingcap.com
 2, phprcdn.com
 2, hawky.pcgamer.com
@@ -2864,6 +2870,7 @@ routing = 1
 2, image.comicbz.com
 2, cover.comicbz.com
 2, css.comicbz.com
+2, unleash.codeium.com
 2, player-frontend.cnevids.com
 2, embed-audio.cnevids.com
 2, player.cnevids.com
@@ -3563,6 +3570,7 @@ routing = 1
 2, assets.goat.com
 2, image.goat.com
 2, fsdn.com
+2, digitalhub.fifa.com
 2, img04.en25.com
 2, images.dmca.com
 2, website-media.deel.com
@@ -4357,6 +4365,7 @@ routing = 1
 2, mapserver.mapy.cz
 2, ipfs.slang.cx
 2, zpi.cx
+2, img.kemono.cr
 2, assets.openalternative.co
 2, cdn.stackoverflow.co
 2, cdn-lfs-us-1.huggingface.co

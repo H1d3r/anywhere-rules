@@ -3,9 +3,9 @@
 # SOURCE: https://github.com/blackmatrix7/ios_rule_script/blob/master/rule/Surge/Global/Global_All_No_Resolve.list
 # GENERATED-FOR: Anywhere Routing Rule Set
 # NOTE: DOMAIN rules are mapped to Anywhere domain suffix rules.
-# RULES: 34752
+# RULES: 34754
 # SKIPPED: 47
-# UPSTREAM-UPDATED: 2026-06-22 02:35:46
+# UPSTREAM-UPDATED: 2026-06-24 02:45:28
 # SKIPPED-TYPES: PROCESS-NAME=1, USER-AGENT=46
 
 name = Global
@@ -10753,8 +10753,10 @@ name = Global
 2, gofit.ac.uk
 2, gofucker.com
 2, gofuckmenow.com
+2, gog-services.com
 2, gog-statics.com
 2, gog.com
+2, gogalaxy.com
 2, gogeo.ac.uk
 2, gogettaxi.org
 2, gogle.com

@@ -3,58 +3,12 @@
 # SOURCE: https://github.com/blackmatrix7/ios_rule_script/blob/master/rule/Surge/ChinaTest/ChinaTest_All_No_Resolve.list
 # GENERATED-FOR: Anywhere Routing Rule Set
 # NOTE: DOMAIN rules are mapped to Anywhere domain suffix rules.
-# RULES: 12357
+# RULES: 12303
 # SKIPPED: 0
-# SOURCE-RULES: 112357
-# UPSTREAM-UPDATED: 2026-06-22 02:36:28
+# SOURCE-RULES: 112303
+# UPSTREAM-UPDATED: 2026-06-24 02:46:13
 
 name = ChinaTest_02
-2, xibanyaqz.com
-2, xibao100.com
-2, xibeicanyin.com
-2, xibeidev.com
-2, xiberia.net
-2, xibojiaoyu.com
-2, xibu168.com
-2, xibujuece.com
-2, xiburongmei.com
-2, xicaodesign.com
-2, xichengo.com
-2, xichongsm.com
-2, xichu.net
-2, xichuan001.com
-2, xichuangzhu.com
-2, xici.com
-2, xici.net
-2, xicp.net
-2, xidesheng.com
-2, xidian.cc
-2, xidibuy.com
-2, xidie.com
-2, xidiglobal.com
-2, xiduobaby.com
-2, xiebanyun.com
-2, xiebao18.com
-2, xieboke.net
-2, xiecdn.com
-2, xieche.com
-2, xieche.net
-2, xiecheng.com
-2, xiechuangw.com
-2, xiedaimala.com
-2, xiedajia.com
-2, xiedao.com
-2, xiediantong.com
-2, xiefenxiang.com
-2, xiegangsir.com
-2, xiege.net
-2, xiegekt.com
-2, xiehehp.com
-2, xiehejx.com
-2, xiehekjkf.com
-2, xiehepcb.com
-2, xiehouit.com
-2, xiehuiyi.com
 2, xiejiahe.com
 2, xiejianji.com
 2, xiejiaxin.com
@@ -1424,7 +1378,6 @@ name = ChinaTest_02
 2, xn--fiq03fftg7m2c.com
 2, xn--fiq06jqoz14s.com
 2, xn--fiq228c5hs
-2, xn--fiq446amrnx0i.com
 2, xn--fiq60luzcp97a7oxivr99k.org
 2, xn--fiq64b
 2, xn--fiq6q20pz51d.com
@@ -1976,7 +1929,6 @@ name = ChinaTest_02
 2, xuedingmiao.com
 2, xuedong97.com
 2, xuedou.com
-2, xueepay.com
 2, xueersibook.com
 2, xueerxing.com
 2, xueeu.com
@@ -2042,7 +1994,6 @@ name = ChinaTest_02
 2, xuetengedu.com
 2, xuetimes.com
 2, xueto.com
-2, xuetongw.com
 2, xuetu.net
 2, xueui.com
 2, xuewangshang.com
@@ -4085,7 +4036,6 @@ name = ChinaTest_02
 2, yiernews.com
 2, yiexi.com
 2, yifajingren.com
-2, yifake.com
 2, yifan211.com
 2, yifancdn.com
 2, yifancn.com
@@ -4791,7 +4741,6 @@ name = ChinaTest_02
 2, yizhedian.com
 2, yizhengwx.com
 2, yizhibi.com
-2, yizhidayu.com
 2, yizhifubj.com
 2, yizhijia.com
 2, yizhikan.com
@@ -5729,7 +5678,6 @@ name = ChinaTest_02
 2, youxiaju.com
 2, youxiake.net
 2, youxiamotors.com
-2, youxiangclub.com
 2, youxiaoad.com
 2, youxiaoge.com
 2, youxiaohou.com
@@ -7609,7 +7557,6 @@ name = ChinaTest_02
 2, z668.net
 2, z6e.com
 2, z701.com
-2, z729.com
 2, z7xz.com
 2, z888.net
 2, z8q.cc
@@ -9627,7 +9574,6 @@ name = ChinaTest_02
 2, zhongzhiiov.com
 2, zhongzhilin.com
 2, zhongzhixin.com
-2, zhongzhixitong.com
 2, zhongzhongkeji.com
 2, zhongzhoulianhe.com
 2, zhongzhouwater.com
