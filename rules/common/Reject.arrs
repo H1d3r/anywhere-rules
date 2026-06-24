@@ -1,7 +1,7 @@
 # NAME: Reject
 # GENERATED-FOR: Anywhere Routing Rule Set
 # DESCRIPTION: 广告、恶意站点和跟踪拦截基础集合
-# RULES: 6204
+# RULES: 6203
 # SKIPPED: 2
 # SKIPPED-TYPES: AND=1, USER-AGENT=1
 # SOURCES:
@@ -1146,7 +1146,6 @@ routing = 2
 2, hmma.baidu.com
 2, track.tiara.daum.net
 2, track.tiara.kakao.com
-2, googletagmanager.com
 2, google-analytics.com
 2, safebrowsing.googleapis.com
 2, safebrowsing.googleapis-cn.com

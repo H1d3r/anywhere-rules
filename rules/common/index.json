@@ -1,13 +1,13 @@
 {
   "total_files": 40,
-  "total_rules": 88011,
+  "total_rules": 88016,
   "total_skipped": 126,
   "files": [
     {
       "name": "Reject",
       "description": "广告、恶意站点和跟踪拦截基础集合",
       "output_path": "common/Reject.arrs",
-      "rule_count": 6204,
+      "rule_count": 6203,
       "skipped_count": 2,
       "unsupported_types": {
         "USER-AGENT": 1,
@@ -450,7 +450,7 @@
       "name": "CDN",
       "description": "SukkaW CDN 直连辅助",
       "output_path": "common/CDN.arrs",
-      "rule_count": 4542,
+      "rule_count": 4548,
       "skipped_count": 58,
       "unsupported_types": {
         "DOMAIN-WILDCARD": 58
@@ -458,6 +458,20 @@
       "sources": [
         "https://ruleset.skk.moe/List/domainset/cdn.conf",
         "https://ruleset.skk.moe/List/non_ip/cdn.conf"
+      ]
+    },
+    {
+      "name": "CN_Radar",
+      "description": "Cloudflare Radar 中国大陆域名增强补充",
+      "output_path": "common/CN_Radar.arrs",
+      "rule_count": 175,
+      "skipped_count": 0,
+      "unsupported_types": {},
+      "sources": [
+        "Cloudflare Radar Domain Rankings",
+        "https://raw.githubusercontent.com/Loyalsoldier/geoip/release/Country.mmdb",
+        "https://github.com/Loyalsoldier/v2ray-rules-dat/releases/latest/download/geosite.dat",
+        "https://raw.githubusercontent.com/NodePassProject/Anywhere/main/Shared/DataStore/Rules.db"
       ]
     },
     {
@@ -482,20 +496,6 @@
       },
       "sources": [
         "https://github.com/Loyalsoldier/v2ray-rules-dat/releases/latest/download/geosite.dat"
-      ]
-    },
-    {
-      "name": "CN_Radar",
-      "description": "Cloudflare Radar 中国大陆域名增强补充",
-      "output_path": "common/CN_Radar.arrs",
-      "rule_count": 175,
-      "skipped_count": 0,
-      "unsupported_types": {},
-      "sources": [
-        "Cloudflare Radar Domain Rankings",
-        "https://raw.githubusercontent.com/Loyalsoldier/geoip/release/Country.mmdb",
-        "https://github.com/Loyalsoldier/v2ray-rules-dat/releases/latest/download/geosite.dat",
-        "https://raw.githubusercontent.com/NodePassProject/Anywhere/main/Shared/DataStore/Rules.db"
       ]
     }
   ]

@@ -1,7 +1,7 @@
 # NAME: CDN
 # GENERATED-FOR: Anywhere Routing Rule Set
 # DESCRIPTION: SukkaW CDN 直连辅助
-# RULES: 4542
+# RULES: 4548
 # SKIPPED: 58
 # SKIPPED-TYPES: DOMAIN-WILDCARD=58
 # SOURCES:
@@ -313,6 +313,7 @@ routing = 1
 2, tile.opentopomap.org
 2, covers.openlibrary.org
 2, tiles.openfreemap.org
+2, dlstats.izzyondroid.org
 2, media.hentaifreak.org
 2, ipfs.genenetwork.org
 2, ximage.c-spanvideo.org
@@ -1538,6 +1539,8 @@ routing = 1
 2, cdn.getfeedback.com
 2, assets.gemcommerce.com
 2, gauthstatic.com
+2, static.fundraiseup.com
+2, cdn.fundraiseup.com
 2, stories.freepiklabs.com
 2, static.foxbusiness.com
 2, use.fortawesome.com
@@ -1902,6 +1905,7 @@ routing = 1
 2, xdaimages.com
 2, cdn.scripts.wtwhmedia.com
 2, wowmodels.com
+2, workoscdn.com
 2, hhhhhhome86227170.wordpress.com
 2, jetpack.wordpress.com
 2, files.wordpress.com
@@ -2948,6 +2952,7 @@ routing = 1
 2, img.xhacgn.com
 2, img.xbooru.com
 2, website-prod.cache.wpscdn.com
+2, frontend-apps-multi-region.workos.com
 2, frontend-apps.workos.com
 2, cdn.workos.com
 2, wklcdn.com
@@ -4174,6 +4179,7 @@ routing = 1
 2, favicons.nextdns.io
 2, cdn.logbase.io
 2, media.lantern.io
+2, embed.lantern.io
 2, cdn.ipwhois.io
 2, ipfscdn.io
 2, cdn.icomoon.io
