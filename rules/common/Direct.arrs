@@ -1,7 +1,7 @@
 # NAME: Direct
 # GENERATED-FOR: Anywhere Routing Rule Set
 # DESCRIPTION: 常用直连补充
-# RULES: 36
+# RULES: 35
 # SKIPPED: 1
 # SKIPPED-TYPES: DEST-PORT=1
 # SOURCES:
@@ -12,7 +12,6 @@ routing = 1
 2, test-ipv6.com
 2, api.goodnotescloud.com
 2, goodnotesapp.com.cn
-2, subhd.tv
 2, pianyuan.org
 2, fileball.app
 2, app.adjust.com

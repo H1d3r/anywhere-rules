@@ -3,9 +3,9 @@
 # SOURCE: https://github.com/blackmatrix7/ios_rule_script/blob/master/rule/Surge/Proxy/Proxy_All.list
 # GENERATED-FOR: Anywhere Routing Rule Set
 # NOTE: DOMAIN rules are mapped to Anywhere domain suffix rules.
-# RULES: 6861
+# RULES: 6862
 # SKIPPED: 8
-# UPSTREAM-UPDATED: 2026-06-22 02:36:09
+# UPSTREAM-UPDATED: 2026-06-26 02:48:57
 # SKIPPED-TYPES: USER-AGENT=8
 
 name = Proxy
@@ -2243,6 +2243,7 @@ name = Proxy
 2, geph.io
 2, gerefoundation.org
 2, get.app
+2, get.dappcdn.com
 2, get.dev
 2, get.how
 2, get.page

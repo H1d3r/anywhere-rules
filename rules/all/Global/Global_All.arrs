@@ -3,9 +3,9 @@
 # SOURCE: https://github.com/blackmatrix7/ios_rule_script/blob/master/rule/Surge/Global/Global_All.list
 # GENERATED-FOR: Anywhere Routing Rule Set
 # NOTE: DOMAIN rules are mapped to Anywhere domain suffix rules.
-# RULES: 34754
+# RULES: 34765
 # SKIPPED: 47
-# UPSTREAM-UPDATED: 2026-06-24 02:45:28
+# UPSTREAM-UPDATED: 2026-06-26 02:48:37
 # SKIPPED-TYPES: PROCESS-NAME=1, USER-AGENT=46
 
 name = Global
@@ -40,7 +40,6 @@ name = Global
 2, crl.versign.net
 2, databank.worldbank.org
 2, datarouter.apps.netherrealm.com
-2, default.exp-tas.com
 2, deutschewelle.h-cdn.com
 2, dl.begellhouse.com
 2, ea.tt.omtrdc.net
@@ -1537,6 +1536,7 @@ name = Global
 2, allswingersclubs.org
 2, allthefallen.moe
 2, alma.ac.uk
+2, almalinux.org
 2, almcollege.ac.uk
 2, aloe.ac.uk
 2, alohatube.com
@@ -4963,6 +4963,7 @@ name = Global
 2, bustynudebabes.com
 2, bustyoldsluts.com
 2, bustysammieblack.com
+2, busybox.net
 2, butex.ac.uk
 2, buxtoncollege.ac.uk
 2, buy-from-shanghai.com
@@ -8885,6 +8886,7 @@ name = Global
 2, exondomesday.ac.uk
 2, exotic-ghana.com
 2, exoticuganda.com
+2, exp-tas.com
 2, experience-vmware.com
 2, experiencebillmelater.com
 2, experienceworks.ac.uk
@@ -10577,6 +10579,7 @@ name = Global
 2, gitgud.io
 2, github.ai
 2, github.blog
+2, github.career
 2, github.com
 2, github.community
 2, github.dev
@@ -14871,6 +14874,7 @@ name = Global
 2, life.ac.uk
 2, lifearc.ac.uk
 2, lifeatkings.ac.uk
+2, lifeatspotify.com
 2, lifelab.ac.uk
 2, lifelonglearning.ac.uk
 2, lifeselector.com
@@ -15516,6 +15520,7 @@ name = Global
 2, manhwa24h.com
 2, manhwahentai.me
 2, maniakey.homes
+2, manjaro.org
 2, manlitphil.ac.uk
 2, manorama.com
 2, manoramanews.com
@@ -21004,6 +21009,7 @@ name = Global
 2, rocksextube.com
 2, rockstargames.com
 2, rockstarnorth.com
+2, rockylinux.org
 2, roco.qq.com
 2, rodbaston.ac.uk
 2, roe.ac.uk
@@ -22787,6 +22793,7 @@ name = Global
 2, spotifycharts.com
 2, spotifycodes.com
 2, spotifyforbrands.com
+2, spotifyforvendors.com
 2, spotifyjobs.com
 2, spr.ac.uk
 2, spraynwash.com
@@ -25888,7 +25895,10 @@ name = Global
 2, vscale.ru
 2, vscode-cdn.net
 2, vscode-unpkg.net
+2, vscode-webview.net
 2, vscode.dev
+2, vscodeedu.app
+2, vscodeedu.com
 2, vsemrabota.ru
 2, vsex.in
 2, vsezoo.com
@@ -30143,6 +30153,7 @@ name = Global
 2, geph.io
 2, gerefoundation.org
 2, get.app
+2, get.dappcdn.com
 2, get.dev
 2, get.how
 2, get.page

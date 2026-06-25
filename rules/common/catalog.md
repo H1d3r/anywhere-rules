@@ -9,8 +9,8 @@
 | AI | 49 | 1 | 常见 AI 服务 | [common/AI.arrs](./AI.arrs) |
 | Proxy | 1560 | 2 | 常用代理域名集合 | [common/Proxy.arrs](./Proxy.arrs) |
 | ProxyGFW | 7598 | 1 | GFW 代理集合 | [common/ProxyGFW.arrs](./ProxyGFW.arrs) |
-| GFW | 4341 | 0 | GFW 域名列表 | [common/GFW.arrs](./GFW.arrs) |
-| Direct | 36 | 1 | 常用直连补充 | [common/Direct.arrs](./Direct.arrs) |
+| GFW | 4342 | 0 | GFW 域名列表 | [common/GFW.arrs](./GFW.arrs) |
+| Direct | 35 | 1 | 常用直连补充 | [common/Direct.arrs](./Direct.arrs) |
 | AppleCN | 9 | 0 | 苹果中国和苹果 CDN 直连 | [common/AppleCN.arrs](./AppleCN.arrs) |
 | AppleProxy | 39 | 6 | 需要代理的苹果服务 | [common/AppleProxy.arrs](./AppleProxy.arrs) |
 | Apple | 44 | 23 | 苹果基础服务 | [common/Apple.arrs](./Apple.arrs) |
@@ -40,7 +40,7 @@
 | Steam | 54 | 0 | Steam | [common/Steam.arrs](./Steam.arrs) |
 | PayPal | 247 | 1 | PayPal | [common/PayPal.arrs](./PayPal.arrs) |
 | Cloudflare | 65 | 0 | Cloudflare | [common/Cloudflare.arrs](./Cloudflare.arrs) |
-| CDN | 4548 | 58 | SukkaW CDN 直连辅助 | [common/CDN.arrs](./CDN.arrs) |
-| GeoIP_CN | 5926 | 0 | GeoIP 中国大陆 IP CIDR | [common/GeoIP_CN.arrs](./GeoIP_CN.arrs) |
-| Geosite_CN | 4793 | 3 | Geosite 中国大陆域名规则 | [common/Geosite_CN.arrs](./Geosite_CN.arrs) |
+| CDN | 4549 | 58 | SukkaW CDN 直连辅助 | [common/CDN.arrs](./CDN.arrs) |
 | CN_Accelerated | 63338 | 0 | 中国大陆 DNS 加速域名补充 | [common/CN_Accelerated.arrs](./CN_Accelerated.arrs) |
+| GeoIP_CN | 5894 | 0 | GeoIP 中国大陆 IP CIDR | [common/GeoIP_CN.arrs](./GeoIP_CN.arrs) |
+| Geosite_CN | 4793 | 3 | Geosite 中国大陆域名规则 | [common/Geosite_CN.arrs](./Geosite_CN.arrs) |
