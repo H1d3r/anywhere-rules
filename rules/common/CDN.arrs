@@ -1,7 +1,7 @@
 # NAME: CDN
 # GENERATED-FOR: Anywhere Routing Rule Set
 # DESCRIPTION: SukkaW CDN 直连辅助
-# RULES: 4548
+# RULES: 4549
 # SKIPPED: 58
 # SKIPPED-TYPES: DOMAIN-WILDCARD=58
 # SOURCES:
@@ -3324,6 +3324,7 @@ routing = 1
 2, twimg.com
 2, media1.tenor.com
 2, media.tenor.com
+2, c.tenor.com
 2, c.tadst.com
 2, tacdn.com
 2, t8cdn.com

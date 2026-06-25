@@ -1,7 +1,7 @@
 # NAME: GFW
 # GENERATED-FOR: Anywhere Routing Rule Set
 # DESCRIPTION: GFW 域名列表
-# RULES: 4341
+# RULES: 4342
 # SKIPPED: 0
 # SOURCES:
 # - https://raw.githubusercontent.com/Loyalsoldier/v2ray-rules-dat/release/gfw.txt
@@ -1432,6 +1432,7 @@ name = GFW
 2, genius.com
 2, geph.io
 2, get.app
+2, get.dappcdn.com
 2, get.dev
 2, get.how
 2, get.page
