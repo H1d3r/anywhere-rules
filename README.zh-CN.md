@@ -73,7 +73,7 @@ MITM 规则为实验性内容，仅供学习交流。
 | `ChinaDomain` | 857 | `DIRECT` | 中国大陆常见域名直连。 | [导入](https://chikacya.github.io/anywhere-rules/import.html?link=https%3A%2F%2Fraw.githubusercontent.com%2Fchikacya%2Fanywhere-rules%2Fmain%2Frules%2Fcommon%2FChinaDomain.arrs) |
 | `CN_Additional` | 43245 | `DIRECT` | 中国大陆域名补充。 | [导入](https://chikacya.github.io/anywhere-rules/import.html?link=https%3A%2F%2Fraw.githubusercontent.com%2Fchikacya%2Fanywhere-rules%2Fmain%2Frules%2Fcommon%2FCN_Additional.arrs) |
 | `Geosite_CN` | 4733 | `DIRECT` | 从 geosite.dat 的 `GEOLOCATION-CN` 提取的中国大陆域名。 | [导入](https://chikacya.github.io/anywhere-rules/import.html?link=https%3A%2F%2Fraw.githubusercontent.com%2Fchikacya%2Fanywhere-rules%2Fmain%2Frules%2Fcommon%2FGeosite_CN.arrs) |
-| `CN_Radar` | 175 | `DIRECT` | 基于 Cloudflare Radar 与中国 DNS 生成，并排除 Geosite CN 和 Anywhere 内置 CN 的中国大陆域名补充。 | [导入](https://chikacya.github.io/anywhere-rules/import.html?link=https%3A%2F%2Fraw.githubusercontent.com%2Fchikacya%2Fanywhere-rules%2Fmain%2Frules%2Fcommon%2FCN_Radar.arrs) |
+| `CN_Accelerated` | 63338 | `DIRECT` | 基于 dnsmasq-china-list 并经 DNS 验证的中国大陆域名补充。 | [导入](https://chikacya.github.io/anywhere-rules/import.html?link=https%3A%2F%2Fraw.githubusercontent.com%2Fchikacya%2Fanywhere-rules%2Fmain%2Frules%2Fcommon%2FCN_Accelerated.arrs) |
 | `ChinaIP` | 5711 | `DIRECT` | 中国大陆 IP CIDR。 | [导入](https://chikacya.github.io/anywhere-rules/import.html?link=https%3A%2F%2Fraw.githubusercontent.com%2Fchikacya%2Fanywhere-rules%2Fmain%2Frules%2Fcommon%2FChinaIP.arrs) |
 | `GeoIP_CN` | 5946 | `DIRECT` | 从 Country.mmdb 提取的中国大陆 IP CIDR。 | [导入](https://chikacya.github.io/anywhere-rules/import.html?link=https%3A%2F%2Fraw.githubusercontent.com%2Fchikacya%2Fanywhere-rules%2Fmain%2Frules%2Fcommon%2FGeoIP_CN.arrs) |
 | `Lan` | 8 | `DIRECT` | 局域网和私有地址。 | [导入](https://chikacya.github.io/anywhere-rules/import.html?link=https%3A%2F%2Fraw.githubusercontent.com%2Fchikacya%2Fanywhere-rules%2Fmain%2Frules%2Fcommon%2FLan.arrs) |
@@ -83,9 +83,13 @@ MITM 规则为实验性内容，仅供学习交流。
 | `Cloudflare` | 65 | 按需 | Cloudflare。 | [导入](https://chikacya.github.io/anywhere-rules/import.html?link=https%3A%2F%2Fraw.githubusercontent.com%2Fchikacya%2Fanywhere-rules%2Fmain%2Frules%2Fcommon%2FCloudflare.arrs) |
 | `CDN` | 4529 | `DIRECT` | CDN 直连辅助。 | [导入](https://chikacya.github.io/anywhere-rules/import.html?link=https%3A%2F%2Fraw.githubusercontent.com%2Fchikacya%2Fanywhere-rules%2Fmain%2Frules%2Fcommon%2FCDN.arrs) |
 
+## CN_Accelerated
+
+`CN_Accelerated` 基于 dnsmasq-china-list 的 `accelerated-domains.china.conf` 生成，并再次通过中国 DNS 与 Country.mmdb 验证解析结果是否落在中国大陆 IP。它用于补充 Anywhere no-resolve 路由下 GeoIP CN 无法接住的域名，尤其适合需要访问非高频中国域名的用户。
+
 ## 更新
 
-GitHub Actions 每天自动更新常规生成规则。`CN_Radar` 由单独的 14 天周期 workflow 基于 Cloudflare Radar 与中国 DNS 生成，Radar 失败不会影响日常规则更新。
+GitHub Actions 每天自动更新常规生成规则。`CN_Accelerated` 由单独的每周 workflow 更新，因此 CN DNS 验证不会影响日常规则更新。
 
 ## 说明
 

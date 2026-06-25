@@ -16,7 +16,7 @@ from convert_blackmatrix7 import convert_line, fetch_bytes, split_rule_line
 
 
 MAX_RULES_PER_SET = 100000
-PRESERVED_COMMON_RULE_GLOBS = ("CN_Radar*.arrs",)
+PRESERVED_COMMON_RULE_GLOBS = ("CN_Accelerated*.arrs",)
 
 
 COMMON_RULE_SETS: list[dict[str, object]] = [

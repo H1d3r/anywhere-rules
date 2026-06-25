@@ -73,7 +73,7 @@ Suggested targets are only a starting point. Pick the policy that matches your o
 | `ChinaDomain` | 857 | `DIRECT` | Common mainland China domains. | [Import](https://chikacya.github.io/anywhere-rules/import.html?link=https%3A%2F%2Fraw.githubusercontent.com%2Fchikacya%2Fanywhere-rules%2Fmain%2Frules%2Fcommon%2FChinaDomain.arrs) |
 | `CN_Additional` | 43245 | `DIRECT` | Mainland China domain supplement. | [Import](https://chikacya.github.io/anywhere-rules/import.html?link=https%3A%2F%2Fraw.githubusercontent.com%2Fchikacya%2Fanywhere-rules%2Fmain%2Frules%2Fcommon%2FCN_Additional.arrs) |
 | `Geosite_CN` | 4733 | `DIRECT` | Mainland China domains extracted from geosite.dat `GEOLOCATION-CN`. | [Import](https://chikacya.github.io/anywhere-rules/import.html?link=https%3A%2F%2Fraw.githubusercontent.com%2Fchikacya%2Fanywhere-rules%2Fmain%2Frules%2Fcommon%2FGeosite_CN.arrs) |
-| `CN_Radar` | 175 | `DIRECT` | Mainland China domain supplement built from Cloudflare Radar and CN DNS, excluding Geosite CN and Anywhere built-in CN. | [Import](https://chikacya.github.io/anywhere-rules/import.html?link=https%3A%2F%2Fraw.githubusercontent.com%2Fchikacya%2Fanywhere-rules%2Fmain%2Frules%2Fcommon%2FCN_Radar.arrs) |
+| `CN_Accelerated` | 63338 | `DIRECT` | DNS-verified mainland China domain supplement built from dnsmasq-china-list. | [Import](https://chikacya.github.io/anywhere-rules/import.html?link=https%3A%2F%2Fraw.githubusercontent.com%2Fchikacya%2Fanywhere-rules%2Fmain%2Frules%2Fcommon%2FCN_Accelerated.arrs) |
 | `ChinaIP` | 5711 | `DIRECT` | Mainland China IP CIDR rules. | [Import](https://chikacya.github.io/anywhere-rules/import.html?link=https%3A%2F%2Fraw.githubusercontent.com%2Fchikacya%2Fanywhere-rules%2Fmain%2Frules%2Fcommon%2FChinaIP.arrs) |
 | `GeoIP_CN` | 5946 | `DIRECT` | Mainland China IP CIDR rules extracted from Country.mmdb. | [Import](https://chikacya.github.io/anywhere-rules/import.html?link=https%3A%2F%2Fraw.githubusercontent.com%2Fchikacya%2Fanywhere-rules%2Fmain%2Frules%2Fcommon%2FGeoIP_CN.arrs) |
 | `Lan` | 8 | `DIRECT` | LAN and private address rules. | [Import](https://chikacya.github.io/anywhere-rules/import.html?link=https%3A%2F%2Fraw.githubusercontent.com%2Fchikacya%2Fanywhere-rules%2Fmain%2Frules%2Fcommon%2FLan.arrs) |
@@ -83,9 +83,13 @@ Suggested targets are only a starting point. Pick the policy that matches your o
 | `Cloudflare` | 65 | As needed | Cloudflare rules. | [Import](https://chikacya.github.io/anywhere-rules/import.html?link=https%3A%2F%2Fraw.githubusercontent.com%2Fchikacya%2Fanywhere-rules%2Fmain%2Frules%2Fcommon%2FCloudflare.arrs) |
 | `CDN` | 4529 | `DIRECT` | CDN direct-route helper rules. | [Import](https://chikacya.github.io/anywhere-rules/import.html?link=https%3A%2F%2Fraw.githubusercontent.com%2Fchikacya%2Fanywhere-rules%2Fmain%2Frules%2Fcommon%2FCDN.arrs) |
 
+## CN_Accelerated
+
+`CN_Accelerated` is built from dnsmasq-china-list `accelerated-domains.china.conf`, then rechecked with CN DNS and Country.mmdb. It supplements GeoIP CN for Anywhere's no-resolve routing, especially for less common China domains that may not appear in traffic-ranking based lists.
+
 ## Update
 
-GitHub Actions updates regular generated rules daily. `CN_Radar` is updated by a separate 14-day workflow from Cloudflare Radar plus CN DNS, so Radar failures do not block the daily rule update.
+GitHub Actions updates regular generated rules daily. `CN_Accelerated` is updated by a separate weekly workflow, so CN DNS verification does not block the daily rule update.
 
 ## Notes
 

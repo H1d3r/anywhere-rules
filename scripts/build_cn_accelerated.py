@@ -1,40 +1,34 @@
 #!/usr/bin/env python3
-"""Build a CN domain supplement from Cloudflare Radar rankings."""
+"""Build a CN domain supplement from dnsmasq-china-list accelerated domains."""
 
 from __future__ import annotations
 
 import argparse
-import csv
+import http.client
 import ipaddress
 import json
-import os
 import re
 import sqlite3
 import tempfile
+import threading
 from concurrent.futures import ThreadPoolExecutor, as_completed
 from dataclasses import dataclass
 from pathlib import Path
 from typing import Iterable
-from urllib.parse import urlencode
-from urllib.request import Request, urlopen
+from urllib.parse import urlencode, urlparse
 
-import dns.exception
-import dns.resolver
 import maxminddb
 
 from build_geosite_cn import DEFAULT_SOURCE_URL as DEFAULT_GEOSITE_URL
 from build_geosite_cn import extract_rules as extract_geosite_rules
-from convert_blackmatrix7 import fetch_bytes
 from build_geoip_cn import DEFAULT_SOURCE_URL as DEFAULT_MMDB_URL
+from convert_blackmatrix7 import fetch_bytes
 
 
-DEFAULT_TOP = 500000
-DEFAULT_DNS_SERVERS = [
-    "223.5.5.5",
-    "119.29.29.29",
-    "114.114.114.114",
-    "180.76.76.76",
-]
+DEFAULT_SOURCE_URL = (
+    "https://raw.githubusercontent.com/felixonmars/dnsmasq-china-list/master/"
+    "accelerated-domains.china.conf"
+)
 DEFAULT_DOH_ENDPOINTS = [
     "https://dns.alidns.com/resolve",
     "https://doh.pub/dns-query",
@@ -42,8 +36,9 @@ DEFAULT_DOH_ENDPOINTS = [
 DEFAULT_ANYWHERE_RULES_DB_URL = (
     "https://raw.githubusercontent.com/NodePassProject/Anywhere/main/Shared/DataStore/Rules.db"
 )
-RADAR_DATASET_URL = "https://api.cloudflare.com/client/v4/radar/datasets/ranking_top_{top}"
+DNSMASQ_DOMAIN_RE = re.compile(r"^server=/([^/]+)/")
 VALID_DOMAIN_RE = re.compile(r"^(?=.{1,253}$)(?!-)[a-z0-9.-]+(?<!-)$")
+THREAD_STATE = threading.local()
 
 
 @dataclass(frozen=True)
@@ -81,41 +76,6 @@ def normalize_domain(value: str, allow_tld: bool = False) -> str | None:
     if not VALID_DOMAIN_RE.match(domain) or ".." in domain:
         return None
     return domain
-
-
-def request_text(url: str, token: str) -> str:
-    req = Request(
-        url,
-        headers={
-            "Authorization": f"Bearer {token}",
-            "Accept": "text/csv",
-            "User-Agent": "anywhere-rules-cn-radar",
-        },
-    )
-    with urlopen(req, timeout=120) as response:
-        return response.read().decode("utf-8-sig", errors="replace")
-
-
-def fetch_radar_domains(top: int, token: str, limit: int | None = None) -> list[str]:
-    text = request_text(RADAR_DATASET_URL.format(top=top), token)
-    domains: list[str] = []
-    seen: set[str] = set()
-    for row in csv.reader(text.splitlines()):
-        if not row:
-            continue
-        value = row[0].strip()
-        if value.lower() in {"domain", "rank"}:
-            continue
-        if len(row) > 1 and value.isdigit():
-            value = row[1].strip()
-        domain = normalize_domain(value, allow_tld=True)
-        if domain is None or domain in seen:
-            continue
-        seen.add(domain)
-        domains.append(domain)
-        if limit is not None and len(domains) >= limit:
-            break
-    return domains
 
 
 def mmdb_path_from_args(args: argparse.Namespace) -> Path:
@@ -230,69 +190,6 @@ def is_excluded(domain: str, exclusions: ExclusionRules) -> bool:
     return any(keyword in domain for keyword in exclusions.keywords)
 
 
-def make_resolver(nameserver: str, timeout: float) -> dns.resolver.Resolver:
-    resolver = dns.resolver.Resolver(configure=False)
-    resolver.nameservers = [nameserver]
-    resolver.timeout = timeout
-    resolver.lifetime = timeout
-    return resolver
-
-
-def query_resolver(domain: str, nameserver: str, timeout: float, record_types: list[str]) -> list[str]:
-    resolver = make_resolver(nameserver, timeout)
-    ips: list[str] = []
-    for record_type in record_types:
-        try:
-            answers = resolver.resolve(domain, record_type, raise_on_no_answer=False)
-        except (
-            dns.resolver.NXDOMAIN,
-            dns.resolver.NoNameservers,
-            dns.resolver.NoAnswer,
-            dns.exception.Timeout,
-            dns.exception.DNSException,
-        ):
-            continue
-        ips.extend(str(answer) for answer in answers)
-    return ips
-
-
-def query_doh_endpoint(domain: str, endpoint: str, timeout: float, record_types: list[str]) -> list[str]:
-    ips: list[str] = []
-    for record_type in record_types:
-        url = endpoint + "?" + urlencode({"name": domain, "type": record_type})
-        req = Request(
-            url,
-            headers={
-                "Accept": "application/dns-json",
-                "User-Agent": "anywhere-rules-cn-radar",
-            },
-        )
-        try:
-            with urlopen(req, timeout=timeout) as response:
-                payload = json.loads(response.read().decode("utf-8"))
-        except Exception:
-            continue
-        for answer in payload.get("Answer", []):
-            if not isinstance(answer, dict):
-                continue
-            data = answer.get("data")
-            if isinstance(data, str):
-                ips.append(data)
-    return ips
-
-
-def query_source(
-    domain: str,
-    source: tuple[str, str],
-    timeout: float,
-    record_types: list[str],
-) -> list[str]:
-    source_type, value = source
-    if source_type == "doh":
-        return query_doh_endpoint(domain, value, timeout, record_types)
-    return query_resolver(domain, value, timeout, record_types)
-
-
 def is_public_ip(value: str) -> bool:
     try:
         ip = ipaddress.ip_address(value)
@@ -316,9 +213,86 @@ def is_cn_ip(reader: maxminddb.Reader, value: str) -> bool:
     return isinstance(country, dict) and country.get("iso_code") == "CN"
 
 
-def evaluate_domain(
+def positive_int(value: str) -> int:
+    parsed = int(value)
+    if parsed <= 0:
+        raise argparse.ArgumentTypeError("must be positive")
+    return parsed
+
+
+def fetch_accelerated_domains(url: str, limit: int | None = None) -> list[str]:
+    text = fetch_bytes(url, token=None).decode("utf-8-sig", errors="replace")
+    domains: list[str] = []
+    seen: set[str] = set()
+    for raw in text.splitlines():
+        line = raw.strip()
+        if not line or line.startswith("#"):
+            continue
+        match = DNSMASQ_DOMAIN_RE.match(line)
+        if not match:
+            continue
+        domain = normalize_domain(match.group(1), allow_tld=True)
+        if domain is None or domain in seen:
+            continue
+        seen.add(domain)
+        domains.append(domain)
+        if limit is not None and len(domains) >= limit:
+            break
+    return domains
+
+
+def query_doh_persistent(domain: str, endpoint: str, timeout: float, record_types: list[str]) -> list[str]:
+    parsed = urlparse(endpoint)
+    if parsed.scheme != "https" or not parsed.netloc:
+        return []
+    connections = getattr(THREAD_STATE, "connections", None)
+    if connections is None:
+        connections = {}
+        THREAD_STATE.connections = connections
+
+    ips: list[str] = []
+    for record_type in record_types:
+        query = urlencode({"name": domain, "type": record_type})
+        target = f"{parsed.path or '/'}?{query}"
+        key = (parsed.netloc, timeout)
+        connection = connections.get(key)
+        if connection is None:
+            connection = http.client.HTTPSConnection(parsed.netloc, timeout=timeout)
+            connections[key] = connection
+        try:
+            connection.request(
+                "GET",
+                target,
+                headers={
+                    "Accept": "application/dns-json",
+                    "Connection": "keep-alive",
+                    "User-Agent": "anywhere-rules-cn-accelerated",
+                },
+            )
+            response = connection.getresponse()
+            payload = response.read()
+            if response.status != 200:
+                continue
+            data = json.loads(payload.decode("utf-8"))
+        except Exception:
+            try:
+                connection.close()
+            except Exception:
+                pass
+            connections.pop(key, None)
+            continue
+        for answer in data.get("Answer", []):
+            if not isinstance(answer, dict):
+                continue
+            value = answer.get("data")
+            if isinstance(value, str):
+                ips.append(value)
+    return ips
+
+
+def evaluate_domain_with_doh(
     domain: str,
-    sources: list[tuple[str, str]],
+    endpoints: list[str],
     timeout: float,
     record_types: list[str],
     reader: maxminddb.Reader,
@@ -331,8 +305,12 @@ def evaluate_domain(
     public_ips = 0
     cn_ips = 0
 
-    for source in sources:
-        ips = [ip for ip in query_source(domain, source, timeout, record_types) if is_public_ip(ip)]
+    for endpoint in endpoints:
+        ips = [
+            ip
+            for ip in query_doh_persistent(domain, endpoint, timeout, record_types)
+            if is_public_ip(ip)
+        ]
         if not ips:
             continue
         answered_resolvers += 1
@@ -354,24 +332,23 @@ def evaluate_domain(
 def write_rule_file(output: Path, rules: list[str], stats: dict[str, int | float | str]) -> None:
     output.parent.mkdir(parents=True, exist_ok=True)
     body = [
-        "# NAME: CN_Radar",
+        "# NAME: CN_Accelerated",
         "# GENERATED-FOR: Anywhere Routing Rule Set",
-        "# DESCRIPTION: Cloudflare Radar 中国大陆域名增强补充",
+        "# DESCRIPTION: 中国大陆 DNS 加速域名补充",
         f"# RULES: {len(rules)}",
         "# SKIPPED: 0",
-        f"# RADAR-TOP: {stats['radar_top']}",
         f"# CANDIDATES: {stats['candidates']}",
         f"# EXCLUDED: {stats['excluded']}",
         f"# DNS-EVALUATED: {stats['evaluated']}",
         f"# ACCEPTED-BEFORE-EXCLUSION: {stats['accepted_before_exclusion']}",
         f"# MIN-CN-RATIO: {stats['min_cn_ratio']}",
         "# SOURCES:",
-        "# - Cloudflare Radar Domain Rankings",
+        f"# - {stats['source_url']}",
         f"# - {stats['mmdb_url']}",
         f"# - {stats['geosite_url']}",
         f"# - {stats['anywhere_rules_db_url']}",
         "",
-        "name = CN_Radar",
+        "name = CN_Accelerated",
         "routing = 1",
     ]
     body.extend(f"2, {domain}" for domain in rules)
@@ -385,18 +362,18 @@ def update_index(output_dir: Path, output: Path, rules: list[str], stats: dict[s
     index = json.loads(index_path.read_text(encoding="utf-8"))
     files = [
         item for item in index.get("files", [])
-        if item.get("name") != "CN_Radar"
+        if item.get("name") != "CN_Accelerated"
     ]
     files.append(
         {
-            "name": "CN_Radar",
-            "description": "Cloudflare Radar 中国大陆域名增强补充",
+            "name": "CN_Accelerated",
+            "description": "中国大陆 DNS 加速域名补充",
             "output_path": output.relative_to(output_dir.parent).as_posix(),
             "rule_count": len(rules),
             "skipped_count": 0,
             "unsupported_types": {},
             "sources": [
-                "Cloudflare Radar Domain Rankings",
+                str(stats["source_url"]),
                 str(stats["mmdb_url"]),
                 str(stats["geosite_url"]),
                 str(stats["anywhere_rules_db_url"]),
@@ -416,36 +393,27 @@ def update_catalog(output_dir: Path, output: Path, rules: list[str]) -> None:
         return
     lines = [
         line for line in catalog_path.read_text(encoding="utf-8").splitlines()
-        if "| CN_Radar " not in line
+        if "| CN_Accelerated " not in line
     ]
     output_path = output.relative_to(output_dir.parent).as_posix()
     lines.append(
-        f"| CN_Radar | {len(rules)} | 0 | Cloudflare Radar 中国大陆域名增强补充 | "
+        f"| CN_Accelerated | {len(rules)} | 0 | 中国大陆 DNS 加速域名补充 | "
         f"[{output_path}](./{output.name}) |"
     )
     catalog_path.write_text("\n".join(lines) + "\n", encoding="utf-8")
 
 
-def positive_int(value: str) -> int:
-    parsed = int(value)
-    if parsed <= 0:
-        raise argparse.ArgumentTypeError("must be positive")
-    return parsed
-
-
 def main() -> int:
     parser = argparse.ArgumentParser()
     parser.add_argument("--dist", default="rules")
-    parser.add_argument("--top", type=positive_int, default=DEFAULT_TOP)
-    parser.add_argument("--limit", type=positive_int, help="Limit candidates after download for local tests.")
-    parser.add_argument("--workers", type=positive_int, default=48)
+    parser.add_argument("--limit", type=positive_int, help="Limit candidates for local tests.")
+    parser.add_argument("--workers", type=positive_int, default=96)
     parser.add_argument("--timeout", type=float, default=2.0)
     parser.add_argument("--record-type", action="append", dest="record_types", choices=("A", "AAAA"))
-    parser.add_argument("--min-resolvers", type=positive_int, default=2)
-    parser.add_argument("--min-cn-resolvers", type=positive_int, default=2)
+    parser.add_argument("--min-resolvers", type=positive_int, default=1)
+    parser.add_argument("--min-cn-resolvers", type=positive_int, default=1)
     parser.add_argument("--min-cn-ratio", type=float, default=1.0)
-    parser.add_argument("--resolver-mode", choices=("doh", "udp", "both"), default="doh")
-    parser.add_argument("--dns-server", action="append", dest="dns_servers")
+    parser.add_argument("--source-url", default=DEFAULT_SOURCE_URL)
     parser.add_argument("--doh-endpoint", action="append", dest="doh_endpoints")
     parser.add_argument("--database", help="Use a local Country.mmdb instead of downloading mmdb-url.")
     parser.add_argument("--mmdb-url", default=DEFAULT_MMDB_URL)
@@ -454,32 +422,23 @@ def main() -> int:
     parser.add_argument("--anywhere-rules-db", help="Use a local Anywhere Rules.db for CN exclusions.")
     parser.add_argument("--anywhere-rules-db-url", default=DEFAULT_ANYWHERE_RULES_DB_URL)
     parser.add_argument("--anywhere-cn-source", default="CN")
-    parser.add_argument("--token-env", default="CLOUDFLARE_API_TOKEN")
+    parser.add_argument("--no-dns-verify", action="store_true")
     parser.add_argument("--no-update-index", action="store_true")
     args = parser.parse_args()
 
-    token = os.environ.get(args.token_env)
-    if not token:
-        raise RuntimeError(f"Missing Cloudflare API token in ${args.token_env}.")
     if args.min_cn_ratio < 0 or args.min_cn_ratio > 1:
         raise RuntimeError("--min-cn-ratio must be between 0 and 1.")
 
     output_dir = Path(args.dist) / "common"
-    output = output_dir / "CN_Radar.arrs"
-    dns_servers = args.dns_servers or DEFAULT_DNS_SERVERS
-    doh_endpoints = args.doh_endpoints or DEFAULT_DOH_ENDPOINTS
-    sources: list[tuple[str, str]] = []
-    if args.resolver_mode in {"doh", "both"}:
-        sources.extend(("doh", endpoint) for endpoint in doh_endpoints)
-    if args.resolver_mode in {"udp", "both"}:
-        sources.extend(("udp", nameserver) for nameserver in dns_servers)
+    output = output_dir / "CN_Accelerated.arrs"
     record_types = args.record_types or ["A"]
+    sources = [("doh", endpoint) for endpoint in (args.doh_endpoints or DEFAULT_DOH_ENDPOINTS)]
 
-    print(f"Fetching Cloudflare Radar ranking_top_{args.top} candidates...")
-    candidates = fetch_radar_domains(args.top, token, args.limit)
-    print(f"Loaded {len(candidates)} candidate domains.")
+    print("Fetching dnsmasq-china-list accelerated domains...", flush=True)
+    candidates = fetch_accelerated_domains(args.source_url, args.limit)
+    print(f"Loaded {len(candidates)} candidate domains.", flush=True)
 
-    print("Loading exclusion sets...")
+    print("Loading exclusion sets...", flush=True)
     geosite_path = geosite_path_from_args(args)
     anywhere_rules_db = anywhere_rules_db_path_from_args(args)
     local_geosite_cn = parse_arrs_domains(output_dir / "Geosite_CN.arrs")
@@ -491,45 +450,55 @@ def main() -> int:
     excluded_count = len(candidates) - len(filtered_candidates)
     print(
         f"Excluded {excluded_count} domains using Geosite_CN, "
-        f"geolocation-!cn, and Anywhere {args.anywhere_cn_source}."
+        f"geolocation-!cn, and Anywhere {args.anywhere_cn_source}.",
+        flush=True,
     )
 
-    print("Resolving candidates with CN DNS and checking Country.mmdb...")
-    database_path = mmdb_path_from_args(args)
-    accepted: list[str] = []
-    accepted_before_exclusion = 0
-    with maxminddb.open_database(str(database_path)) as reader:
-        with ThreadPoolExecutor(max_workers=args.workers) as executor:
-            futures = {
-                executor.submit(
-                    evaluate_domain,
-                    domain,
-                    sources,
-                    args.timeout,
-                    record_types,
-                    reader,
-                    args.min_resolvers,
-                    args.min_cn_resolvers,
-                    args.min_cn_ratio,
-                ): domain
-                for domain in filtered_candidates
-            }
-            for index, future in enumerate(as_completed(futures), start=1):
-                result = future.result()
-                if result.accepted:
-                    accepted_before_exclusion += 1
-                    accepted.append(result.domain)
-                if index % 1000 == 0:
-                    print(f"Evaluated {index}/{len(filtered_candidates)} domains, accepted {len(accepted)}.")
+    accepted: list[str]
+    accepted_before_exclusion: int
+    if args.no_dns_verify:
+        accepted = filtered_candidates
+        accepted_before_exclusion = len(accepted)
+    else:
+        print("Resolving candidates with CN DNS and checking Country.mmdb...", flush=True)
+        database_path = mmdb_path_from_args(args)
+        accepted = []
+        accepted_before_exclusion = 0
+        with maxminddb.open_database(str(database_path)) as reader:
+            with ThreadPoolExecutor(max_workers=args.workers) as executor:
+                futures = {
+                    executor.submit(
+                        evaluate_domain_with_doh,
+                        domain,
+                        [value for _source_type, value in sources],
+                        args.timeout,
+                        record_types,
+                        reader,
+                        args.min_resolvers,
+                        args.min_cn_resolvers,
+                        args.min_cn_ratio,
+                    ): domain
+                    for domain in filtered_candidates
+                }
+                for index, future in enumerate(as_completed(futures), start=1):
+                    result: DomainResult = future.result()
+                    if result.accepted:
+                        accepted_before_exclusion += 1
+                        accepted.append(result.domain)
+                    if index % 2000 == 0:
+                        print(
+                            f"Evaluated {index}/{len(filtered_candidates)} domains, accepted {len(accepted)}.",
+                            flush=True,
+                        )
 
     rules = sorted(set(accepted))
     stats: dict[str, int | float | str] = {
-        "radar_top": args.top,
         "candidates": len(candidates),
         "excluded": excluded_count,
         "evaluated": len(filtered_candidates),
         "accepted_before_exclusion": accepted_before_exclusion,
         "min_cn_ratio": args.min_cn_ratio,
+        "source_url": args.source_url,
         "mmdb_url": args.mmdb_url,
         "geosite_url": args.geosite_url,
         "anywhere_rules_db_url": args.anywhere_rules_db_url,
@@ -538,7 +507,7 @@ def main() -> int:
     if not args.no_update_index:
         update_index(output_dir, output, rules, stats)
         update_catalog(output_dir, output, rules)
-    print(f"Built {len(rules)} CN Radar rules at {output}.")
+    print(f"Built {len(rules)} CN accelerated rules at {output}.", flush=True)
     return 0
 
 
