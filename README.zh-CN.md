@@ -85,7 +85,7 @@ MITM 规则为实验性内容，仅供学习交流。
 
 ## CN_Accelerated
 
-`CN_Accelerated` 基于 dnsmasq-china-list 的 `accelerated-domains.china.conf` 生成，并再次通过中国 DNS 与 Country.mmdb 验证解析结果是否落在中国大陆 IP。它用于补充 Anywhere no-resolve 路由下 GeoIP CN 无法接住的域名，尤其适合需要访问非高频中国域名的用户。
+`CN_Accelerated` 基于 dnsmasq-china-list 的 `accelerated-domains.china.conf` 生成，并再次通过中国 DNS 与 Country.mmdb 验证解析结果是否落在中国大陆 IP。生成时会排除 Anywhere 内置 CN 规则、`Geosite_CN` 和 geosite.dat 的 `GEOLOCATION-!CN`，用于在不重复主要 CN 规则集的前提下，补充 Anywhere no-resolve 路由下 GeoIP CN 无法接住的域名，尤其适合需要访问非高频中国域名的用户。
 
 ## 更新
 

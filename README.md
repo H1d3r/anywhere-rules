@@ -85,7 +85,7 @@ Suggested targets are only a starting point. Pick the policy that matches your o
 
 ## CN_Accelerated
 
-`CN_Accelerated` is built from dnsmasq-china-list `accelerated-domains.china.conf`, then rechecked with CN DNS and Country.mmdb. It supplements GeoIP CN for Anywhere's no-resolve routing, especially for less common China domains that may not appear in traffic-ranking based lists.
+`CN_Accelerated` is built from dnsmasq-china-list `accelerated-domains.china.conf`, then rechecked with CN DNS and Country.mmdb. It excludes domains already covered by Anywhere's built-in CN rules, `Geosite_CN`, and geosite.dat `GEOLOCATION-!CN`, so it can supplement GeoIP CN for Anywhere's no-resolve routing without repeating the main CN sets. It is especially useful for less common China domains that may not appear in traffic-ranking based lists.
 
 ## Update
 
