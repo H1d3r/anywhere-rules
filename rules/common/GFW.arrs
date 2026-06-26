@@ -1,7 +1,7 @@
 # NAME: GFW
 # GENERATED-FOR: Anywhere Routing Rule Set
 # DESCRIPTION: GFW 域名列表
-# RULES: 4342
+# RULES: 4343
 # SKIPPED: 0
 # SOURCES:
 # - https://raw.githubusercontent.com/Loyalsoldier/v2ray-rules-dat/release/gfw.txt
@@ -879,6 +879,7 @@ name = GFW
 2, crazyshit.com
 2, crbug.com
 2, crchina.org
+2, creader.com
 2, creaders.net
 2, creativelab5.com
 2, cristyli.com
