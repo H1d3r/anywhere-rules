@@ -3,9 +3,9 @@
 # SOURCE: https://github.com/blackmatrix7/ios_rule_script/blob/master/rule/Surge/Proxy/Proxy_All.list
 # GENERATED-FOR: Anywhere Routing Rule Set
 # NOTE: DOMAIN rules are mapped to Anywhere domain suffix rules.
-# RULES: 6862
+# RULES: 6863
 # SKIPPED: 8
-# UPSTREAM-UPDATED: 2026-06-26 02:48:57
+# UPSTREAM-UPDATED: 2026-06-28 02:29:41
 # SKIPPED-TYPES: USER-AGENT=8
 
 name = Proxy
@@ -1277,6 +1277,7 @@ name = Proxy
 2, crbug.com
 2, crchina.org
 2, crd-net.org
+2, creader.com
 2, creaders.net
 2, creadersnet.com
 2, creativelab5.com

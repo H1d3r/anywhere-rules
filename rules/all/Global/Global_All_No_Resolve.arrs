@@ -3,9 +3,9 @@
 # SOURCE: https://github.com/blackmatrix7/ios_rule_script/blob/master/rule/Surge/Global/Global_All_No_Resolve.list
 # GENERATED-FOR: Anywhere Routing Rule Set
 # NOTE: DOMAIN rules are mapped to Anywhere domain suffix rules.
-# RULES: 34765
+# RULES: 34766
 # SKIPPED: 47
-# UPSTREAM-UPDATED: 2026-06-26 02:48:37
+# UPSTREAM-UPDATED: 2026-06-28 02:29:21
 # SKIPPED-TYPES: PROCESS-NAME=1, USER-AGENT=46
 
 name = Global
@@ -29195,6 +29195,7 @@ name = Global
 2, crbug.com
 2, crchina.org
 2, crd-net.org
+2, creader.com
 2, creaders.net
 2, creadersnet.com
 2, creativelab5.com

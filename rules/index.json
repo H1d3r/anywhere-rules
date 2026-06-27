@@ -3,11 +3,11 @@
     "repo": "blackmatrix7/ios_rule_script",
     "branch": "master",
     "source_family": "Surge",
-    "tree_sha": "36dc0b65d7ed9eec2d61a449038843da3ec72db0"
+    "tree_sha": "586f39ba0bfa9cdd4b6b05df74c61c5ef3f903a4"
   },
   "total_files": 878,
-  "total_rules": 2924136,
-  "total_skipped": 1278778,
+  "total_rules": 2926342,
+  "total_skipped": 1280043,
   "files": [
     {
       "name": "115",
@@ -421,7 +421,7 @@
         "URL-REGEX": 14,
         "AND": 1
       },
-      "upstream_updated": "2026-06-26 02:44:59"
+      "upstream_updated": "2026-06-28 02:25:42"
     },
     {
       "name": "Advertising_01",
@@ -433,7 +433,7 @@
         "URL-REGEX": 14,
         "AND": 1
       },
-      "upstream_updated": "2026-06-26 02:44:59"
+      "upstream_updated": "2026-06-28 02:25:42"
     },
     {
       "name": "Advertising_02",
@@ -442,16 +442,16 @@
       "rule_count": 100000,
       "skipped_count": 0,
       "unsupported_types": {},
-      "upstream_updated": "2026-06-26 02:44:59"
+      "upstream_updated": "2026-06-28 02:25:42"
     },
     {
       "name": "Advertising_03",
       "source_path": "rule/Surge/Advertising/Advertising_All.list",
       "output_path": "all/Advertising/Advertising_All_03.arrs",
-      "rule_count": 59243,
+      "rule_count": 59888,
       "skipped_count": 0,
       "unsupported_types": {},
-      "upstream_updated": "2026-06-26 02:44:59"
+      "upstream_updated": "2026-06-28 02:25:42"
     },
     {
       "name": "Advertising_01",
@@ -463,7 +463,7 @@
         "URL-REGEX": 14,
         "AND": 1
       },
-      "upstream_updated": "2026-06-26 02:44:59"
+      "upstream_updated": "2026-06-28 02:25:42"
     },
     {
       "name": "Advertising_02",
@@ -472,27 +472,27 @@
       "rule_count": 100000,
       "skipped_count": 0,
       "unsupported_types": {},
-      "upstream_updated": "2026-06-26 02:44:59"
+      "upstream_updated": "2026-06-28 02:25:42"
     },
     {
       "name": "Advertising_03",
       "source_path": "rule/Surge/Advertising/Advertising_All_No_Resolve.list",
       "output_path": "all/Advertising/Advertising_All_No_Resolve_03.arrs",
-      "rule_count": 59243,
+      "rule_count": 59888,
       "skipped_count": 0,
       "unsupported_types": {},
-      "upstream_updated": "2026-06-26 02:44:59"
+      "upstream_updated": "2026-06-28 02:25:42"
     },
     {
       "name": "Advertising",
       "source_path": "rule/Surge/Advertising/Advertising_Domain.list",
       "output_path": "all/Advertising/Advertising_Domain.arrs",
       "rule_count": 0,
-      "skipped_count": 258476,
+      "skipped_count": 259121,
       "unsupported_types": {
-        "UNKNOWN": 258476
+        "UNKNOWN": 259121
       },
-      "upstream_updated": "2026-06-26 02:44:57"
+      "upstream_updated": "2026-06-28 02:25:40"
     },
     {
       "name": "Advertising",
@@ -504,7 +504,7 @@
         "URL-REGEX": 14,
         "AND": 1
       },
-      "upstream_updated": "2026-06-26 02:44:59"
+      "upstream_updated": "2026-06-28 02:25:42"
     },
     {
       "name": "AdvertisingLite",
@@ -584,7 +584,7 @@
         "URL-REGEX": 14,
         "AND": 1
       },
-      "upstream_updated": "2026-06-26 02:46:50"
+      "upstream_updated": "2026-06-28 02:27:34"
     },
     {
       "name": "AdvertisingTest_01",
@@ -596,7 +596,7 @@
         "URL-REGEX": 14,
         "AND": 1
       },
-      "upstream_updated": "2026-06-26 02:46:50"
+      "upstream_updated": "2026-06-28 02:27:34"
     },
     {
       "name": "AdvertisingTest_02",
@@ -605,16 +605,16 @@
       "rule_count": 100000,
       "skipped_count": 0,
       "unsupported_types": {},
-      "upstream_updated": "2026-06-26 02:46:50"
+      "upstream_updated": "2026-06-28 02:27:34"
     },
     {
       "name": "AdvertisingTest_03",
       "source_path": "rule/Surge/AdvertisingTest/AdvertisingTest_All.list",
       "output_path": "all/AdvertisingTest/AdvertisingTest_All_03.arrs",
-      "rule_count": 83497,
+      "rule_count": 84115,
       "skipped_count": 0,
       "unsupported_types": {},
-      "upstream_updated": "2026-06-26 02:46:50"
+      "upstream_updated": "2026-06-28 02:27:34"
     },
     {
       "name": "AdvertisingTest_01",
@@ -626,7 +626,7 @@
         "URL-REGEX": 14,
         "AND": 1
       },
-      "upstream_updated": "2026-06-26 02:46:50"
+      "upstream_updated": "2026-06-28 02:27:34"
     },
     {
       "name": "AdvertisingTest_02",
@@ -635,27 +635,27 @@
       "rule_count": 100000,
       "skipped_count": 0,
       "unsupported_types": {},
-      "upstream_updated": "2026-06-26 02:46:50"
+      "upstream_updated": "2026-06-28 02:27:34"
     },
     {
       "name": "AdvertisingTest_03",
       "source_path": "rule/Surge/AdvertisingTest/AdvertisingTest_All_No_Resolve.list",
       "output_path": "all/AdvertisingTest/AdvertisingTest_All_No_Resolve_03.arrs",
-      "rule_count": 83497,
+      "rule_count": 84115,
       "skipped_count": 0,
       "unsupported_types": {},
-      "upstream_updated": "2026-06-26 02:46:50"
+      "upstream_updated": "2026-06-28 02:27:34"
     },
     {
       "name": "AdvertisingTest",
       "source_path": "rule/Surge/AdvertisingTest/AdvertisingTest_Domain.list",
       "output_path": "all/AdvertisingTest/AdvertisingTest_Domain.arrs",
       "rule_count": 0,
-      "skipped_count": 282706,
+      "skipped_count": 283324,
       "unsupported_types": {
-        "UNKNOWN": 282706
+        "UNKNOWN": 283324
       },
-      "upstream_updated": "2026-06-26 02:46:49"
+      "upstream_updated": "2026-06-28 02:27:33"
     },
     {
       "name": "AdvertisingTest",
@@ -667,7 +667,7 @@
         "URL-REGEX": 14,
         "AND": 1
       },
-      "upstream_updated": "2026-06-26 02:46:50"
+      "upstream_updated": "2026-06-28 02:27:34"
     },
     {
       "name": "Aerogard",
@@ -1071,7 +1071,7 @@
         "USER-AGENT": 23,
         "PROCESS-NAME": 13
       },
-      "upstream_updated": "2026-06-26 02:47:20"
+      "upstream_updated": "2026-06-28 02:28:03"
     },
     {
       "name": "Apple",
@@ -1083,7 +1083,7 @@
         "USER-AGENT": 23,
         "PROCESS-NAME": 13
       },
-      "upstream_updated": "2026-06-26 02:47:20"
+      "upstream_updated": "2026-06-28 02:28:03"
     },
     {
       "name": "Apple",
@@ -1095,7 +1095,7 @@
         "USER-AGENT": 23,
         "PROCESS-NAME": 13
       },
-      "upstream_updated": "2026-06-26 02:47:20"
+      "upstream_updated": "2026-06-28 02:28:03"
     },
     {
       "name": "Apple",
@@ -1118,7 +1118,7 @@
         "USER-AGENT": 23,
         "PROCESS-NAME": 13
       },
-      "upstream_updated": "2026-06-26 02:47:20"
+      "upstream_updated": "2026-06-28 02:28:03"
     },
     {
       "name": "AppleDaily",
@@ -1537,7 +1537,7 @@
       "rule_count": 62,
       "skipped_count": 0,
       "unsupported_types": {},
-      "upstream_updated": "2026-06-26 02:47:17"
+      "upstream_updated": "2026-06-28 02:28:00"
     },
     {
       "name": "Blizzard",
@@ -1546,7 +1546,7 @@
       "rule_count": 62,
       "skipped_count": 0,
       "unsupported_types": {},
-      "upstream_updated": "2026-06-26 02:47:17"
+      "upstream_updated": "2026-06-28 02:28:00"
     },
     {
       "name": "BlockHttpDNS",
@@ -1908,73 +1908,73 @@
       "name": "ChinaIPs",
       "source_path": "rule/Surge/ChinaIPs/ChinaIPs.list",
       "output_path": "all/ChinaIPs/ChinaIPs.arrs",
-      "rule_count": 22785,
+      "rule_count": 22749,
       "skipped_count": 0,
       "unsupported_types": {},
-      "upstream_updated": "2026-06-26 02:49:23"
+      "upstream_updated": "2026-06-28 02:30:08"
     },
     {
       "name": "ChinaIPs",
       "source_path": "rule/Surge/ChinaIPs/ChinaIPs_No_IPv6.list",
       "output_path": "all/ChinaIPs/ChinaIPs_No_IPv6.arrs",
-      "rule_count": 17345,
+      "rule_count": 17351,
       "skipped_count": 0,
       "unsupported_types": {},
-      "upstream_updated": "2026-06-26 02:49:24"
+      "upstream_updated": "2026-06-28 02:30:08"
     },
     {
       "name": "ChinaIPs",
       "source_path": "rule/Surge/ChinaIPs/ChinaIPs_No_IPv6_Resolve.list",
       "output_path": "all/ChinaIPs/ChinaIPs_No_IPv6_Resolve.arrs",
-      "rule_count": 17345,
+      "rule_count": 17351,
       "skipped_count": 0,
       "unsupported_types": {},
-      "upstream_updated": "2026-06-26 02:49:24"
+      "upstream_updated": "2026-06-28 02:30:08"
     },
     {
       "name": "ChinaIPs",
       "source_path": "rule/Surge/ChinaIPs/ChinaIPs_Resolve.list",
       "output_path": "all/ChinaIPs/ChinaIPs_Resolve.arrs",
-      "rule_count": 22785,
+      "rule_count": 22749,
       "skipped_count": 0,
       "unsupported_types": {},
-      "upstream_updated": "2026-06-26 02:49:23"
+      "upstream_updated": "2026-06-28 02:30:08"
     },
     {
       "name": "ChinaIPsTest",
       "source_path": "rule/Surge/ChinaIPs/ChinaIPsTest/ChinaIPsTest.list",
       "output_path": "all/ChinaIPs/ChinaIPsTest/ChinaIPsTest.arrs",
-      "rule_count": 29306,
+      "rule_count": 29238,
       "skipped_count": 0,
       "unsupported_types": {},
-      "upstream_updated": "2026-06-26 02:50:21"
+      "upstream_updated": "2026-06-28 02:31:04"
     },
     {
       "name": "ChinaIPsTest",
       "source_path": "rule/Surge/ChinaIPs/ChinaIPsTest/ChinaIPsTest_No_IPv6.list",
       "output_path": "all/ChinaIPs/ChinaIPsTest/ChinaIPsTest_No_IPv6.arrs",
-      "rule_count": 22706,
+      "rule_count": 22717,
       "skipped_count": 0,
       "unsupported_types": {},
-      "upstream_updated": "2026-06-26 02:50:21"
+      "upstream_updated": "2026-06-28 02:31:04"
     },
     {
       "name": "ChinaIPsTest",
       "source_path": "rule/Surge/ChinaIPs/ChinaIPsTest/ChinaIPsTest_No_IPv6_Resolve.list",
       "output_path": "all/ChinaIPs/ChinaIPsTest/ChinaIPsTest_No_IPv6_Resolve.arrs",
-      "rule_count": 22706,
+      "rule_count": 22717,
       "skipped_count": 0,
       "unsupported_types": {},
-      "upstream_updated": "2026-06-26 02:50:21"
+      "upstream_updated": "2026-06-28 02:31:04"
     },
     {
       "name": "ChinaIPsTest",
       "source_path": "rule/Surge/ChinaIPs/ChinaIPsTest/ChinaIPsTest_Resolve.list",
       "output_path": "all/ChinaIPs/ChinaIPsTest/ChinaIPsTest_Resolve.arrs",
-      "rule_count": 29306,
+      "rule_count": 29238,
       "skipped_count": 0,
       "unsupported_types": {},
-      "upstream_updated": "2026-06-26 02:50:21"
+      "upstream_updated": "2026-06-28 02:31:04"
     },
     {
       "name": "ChinaIPsBGP",
@@ -1998,14 +1998,14 @@
       "name": "ChinaMax",
       "source_path": "rule/Surge/ChinaMax/ChinaMax.list",
       "output_path": "all/ChinaMax/ChinaMax.arrs",
-      "rule_count": 12463,
+      "rule_count": 12446,
       "skipped_count": 78,
       "unsupported_types": {
         "IP-ASN": 1,
         "USER-AGENT": 65,
         "PROCESS-NAME": 12
       },
-      "upstream_updated": "2026-06-26 02:50:02"
+      "upstream_updated": "2026-06-28 02:30:45"
     },
     {
       "name": "ChinaMax_01",
@@ -2018,16 +2018,16 @@
         "USER-AGENT": 65,
         "PROCESS-NAME": 12
       },
-      "upstream_updated": "2026-06-26 02:50:02"
+      "upstream_updated": "2026-06-28 02:30:45"
     },
     {
       "name": "ChinaMax_02",
       "source_path": "rule/Surge/ChinaMax/ChinaMax_All.list",
       "output_path": "all/ChinaMax/ChinaMax_All_02.arrs",
-      "rule_count": 24916,
+      "rule_count": 24899,
       "skipped_count": 0,
       "unsupported_types": {},
-      "upstream_updated": "2026-06-26 02:50:02"
+      "upstream_updated": "2026-06-28 02:30:45"
     },
     {
       "name": "ChinaMax_01",
@@ -2040,16 +2040,16 @@
         "USER-AGENT": 65,
         "PROCESS-NAME": 12
       },
-      "upstream_updated": "2026-06-26 02:50:02"
+      "upstream_updated": "2026-06-28 02:30:45"
     },
     {
       "name": "ChinaMax_02",
       "source_path": "rule/Surge/ChinaMax/ChinaMax_All_No_Resolve.list",
       "output_path": "all/ChinaMax/ChinaMax_All_No_Resolve_02.arrs",
-      "rule_count": 24916,
+      "rule_count": 24899,
       "skipped_count": 0,
       "unsupported_types": {},
-      "upstream_updated": "2026-06-26 02:50:02"
+      "upstream_updated": "2026-06-28 02:30:45"
     },
     {
       "name": "ChinaMax",
@@ -2060,46 +2060,46 @@
       "unsupported_types": {
         "UNKNOWN": 112453
       },
-      "upstream_updated": "2026-06-26 02:50:01"
+      "upstream_updated": "2026-06-28 02:30:45"
     },
     {
       "name": "ChinaMax",
       "source_path": "rule/Surge/ChinaMax/ChinaMax_No_IPv6.list",
       "output_path": "all/ChinaMax/ChinaMax_No_IPv6.arrs",
-      "rule_count": 8326,
+      "rule_count": 8319,
       "skipped_count": 78,
       "unsupported_types": {
         "IP-ASN": 1,
         "USER-AGENT": 65,
         "PROCESS-NAME": 12
       },
-      "upstream_updated": "2026-06-26 02:50:02"
+      "upstream_updated": "2026-06-28 02:30:45"
     },
     {
       "name": "ChinaMax",
       "source_path": "rule/Surge/ChinaMax/ChinaMax_No_IPv6_Resolve.list",
       "output_path": "all/ChinaMax/ChinaMax_No_IPv6_Resolve.arrs",
-      "rule_count": 8326,
+      "rule_count": 8319,
       "skipped_count": 78,
       "unsupported_types": {
         "IP-ASN": 1,
         "USER-AGENT": 65,
         "PROCESS-NAME": 12
       },
-      "upstream_updated": "2026-06-26 02:50:02"
+      "upstream_updated": "2026-06-28 02:30:45"
     },
     {
       "name": "ChinaMax",
       "source_path": "rule/Surge/ChinaMax/ChinaMax_Resolve.list",
       "output_path": "all/ChinaMax/ChinaMax_Resolve.arrs",
-      "rule_count": 12463,
+      "rule_count": 12446,
       "skipped_count": 78,
       "unsupported_types": {
         "IP-ASN": 1,
         "USER-AGENT": 65,
         "PROCESS-NAME": 12
       },
-      "upstream_updated": "2026-06-26 02:50:02"
+      "upstream_updated": "2026-06-28 02:30:45"
     },
     {
       "name": "ChinaMaxNoIP",
@@ -2111,7 +2111,7 @@
         "USER-AGENT": 65,
         "PROCESS-NAME": 12
       },
-      "upstream_updated": "2026-06-26 02:50:33"
+      "upstream_updated": "2026-06-28 02:31:16"
     },
     {
       "name": "ChinaMaxNoIP_01",
@@ -2123,7 +2123,7 @@
         "USER-AGENT": 65,
         "PROCESS-NAME": 12
       },
-      "upstream_updated": "2026-06-26 02:50:33"
+      "upstream_updated": "2026-06-28 02:31:16"
     },
     {
       "name": "ChinaMaxNoIP_02",
@@ -2132,7 +2132,7 @@
       "rule_count": 12182,
       "skipped_count": 0,
       "unsupported_types": {},
-      "upstream_updated": "2026-06-26 02:50:33"
+      "upstream_updated": "2026-06-28 02:31:16"
     },
     {
       "name": "ChinaMaxNoIP_01",
@@ -2144,7 +2144,7 @@
         "USER-AGENT": 65,
         "PROCESS-NAME": 12
       },
-      "upstream_updated": "2026-06-26 02:50:33"
+      "upstream_updated": "2026-06-28 02:31:16"
     },
     {
       "name": "ChinaMaxNoIP_02",
@@ -2153,7 +2153,7 @@
       "rule_count": 12182,
       "skipped_count": 0,
       "unsupported_types": {},
-      "upstream_updated": "2026-06-26 02:50:33"
+      "upstream_updated": "2026-06-28 02:31:16"
     },
     {
       "name": "ChinaMaxNoIP",
@@ -2170,14 +2170,14 @@
       "name": "ChinaMaxNoMedia",
       "source_path": "rule/Surge/ChinaMaxNoMedia/ChinaMaxNoMedia.list",
       "output_path": "all/ChinaMaxNoMedia/ChinaMaxNoMedia.arrs",
-      "rule_count": 12458,
+      "rule_count": 12441,
       "skipped_count": 78,
       "unsupported_types": {
         "IP-ASN": 1,
         "USER-AGENT": 65,
         "PROCESS-NAME": 12
       },
-      "upstream_updated": "2026-06-26 02:51:03"
+      "upstream_updated": "2026-06-28 02:31:47"
     },
     {
       "name": "ChinaMaxNoMedia_01",
@@ -2190,16 +2190,16 @@
         "USER-AGENT": 65,
         "PROCESS-NAME": 12
       },
-      "upstream_updated": "2026-06-26 02:51:03"
+      "upstream_updated": "2026-06-28 02:31:47"
     },
     {
       "name": "ChinaMaxNoMedia_02",
       "source_path": "rule/Surge/ChinaMaxNoMedia/ChinaMaxNoMedia_All.list",
       "output_path": "all/ChinaMaxNoMedia/ChinaMaxNoMedia_All_02.arrs",
-      "rule_count": 24477,
+      "rule_count": 24460,
       "skipped_count": 0,
       "unsupported_types": {},
-      "upstream_updated": "2026-06-26 02:51:03"
+      "upstream_updated": "2026-06-28 02:31:47"
     },
     {
       "name": "ChinaMaxNoMedia_01",
@@ -2212,16 +2212,16 @@
         "USER-AGENT": 65,
         "PROCESS-NAME": 12
       },
-      "upstream_updated": "2026-06-26 02:51:03"
+      "upstream_updated": "2026-06-28 02:31:47"
     },
     {
       "name": "ChinaMaxNoMedia_02",
       "source_path": "rule/Surge/ChinaMaxNoMedia/ChinaMaxNoMedia_All_No_Resolve.list",
       "output_path": "all/ChinaMaxNoMedia/ChinaMaxNoMedia_All_No_Resolve_02.arrs",
-      "rule_count": 24477,
+      "rule_count": 24460,
       "skipped_count": 0,
       "unsupported_types": {},
-      "upstream_updated": "2026-06-26 02:51:03"
+      "upstream_updated": "2026-06-28 02:31:47"
     },
     {
       "name": "ChinaMaxNoMedia",
@@ -2232,20 +2232,20 @@
       "unsupported_types": {
         "UNKNOWN": 112019
       },
-      "upstream_updated": "2026-06-26 02:51:02"
+      "upstream_updated": "2026-06-28 02:31:46"
     },
     {
       "name": "ChinaMaxNoMedia",
       "source_path": "rule/Surge/ChinaMaxNoMedia/ChinaMaxNoMedia_Resolve.list",
       "output_path": "all/ChinaMaxNoMedia/ChinaMaxNoMedia_Resolve.arrs",
-      "rule_count": 12458,
+      "rule_count": 12441,
       "skipped_count": 78,
       "unsupported_types": {
         "IP-ASN": 1,
         "USER-AGENT": 65,
         "PROCESS-NAME": 12
       },
-      "upstream_updated": "2026-06-26 02:51:03"
+      "upstream_updated": "2026-06-28 02:31:47"
     },
     {
       "name": "ChinaMedia",
@@ -3791,7 +3791,7 @@
       "rule_count": 597,
       "skipped_count": 0,
       "unsupported_types": {},
-      "upstream_updated": "2026-06-26 02:47:17"
+      "upstream_updated": "2026-06-28 02:28:00"
     },
     {
       "name": "Game",
@@ -3800,7 +3800,7 @@
       "rule_count": 597,
       "skipped_count": 0,
       "unsupported_types": {},
-      "upstream_updated": "2026-06-26 02:47:17"
+      "upstream_updated": "2026-06-28 02:28:00"
     },
     {
       "name": "GameDownload",
@@ -3958,42 +3958,42 @@
         "USER-AGENT": 46,
         "PROCESS-NAME": 1
       },
-      "upstream_updated": "2026-06-26 02:48:37"
+      "upstream_updated": "2026-06-28 02:29:21"
     },
     {
       "name": "Global",
       "source_path": "rule/Surge/Global/Global_All.list",
       "output_path": "all/Global/Global_All.arrs",
-      "rule_count": 34765,
+      "rule_count": 34766,
       "skipped_count": 47,
       "unsupported_types": {
         "USER-AGENT": 46,
         "PROCESS-NAME": 1
       },
-      "upstream_updated": "2026-06-26 02:48:37"
+      "upstream_updated": "2026-06-28 02:29:21"
     },
     {
       "name": "Global",
       "source_path": "rule/Surge/Global/Global_All_No_Resolve.list",
       "output_path": "all/Global/Global_All_No_Resolve.arrs",
-      "rule_count": 34765,
+      "rule_count": 34766,
       "skipped_count": 47,
       "unsupported_types": {
         "USER-AGENT": 46,
         "PROCESS-NAME": 1
       },
-      "upstream_updated": "2026-06-26 02:48:37"
+      "upstream_updated": "2026-06-28 02:29:21"
     },
     {
       "name": "Global",
       "source_path": "rule/Surge/Global/Global_Domain.list",
       "output_path": "all/Global/Global_Domain.arrs",
       "rule_count": 0,
-      "skipped_count": 34613,
+      "skipped_count": 34614,
       "unsupported_types": {
-        "UNKNOWN": 34613
+        "UNKNOWN": 34614
       },
-      "upstream_updated": "2026-06-26 02:48:36"
+      "upstream_updated": "2026-06-28 02:29:20"
     },
     {
       "name": "Global",
@@ -4005,7 +4005,7 @@
         "USER-AGENT": 46,
         "PROCESS-NAME": 1
       },
-      "upstream_updated": "2026-06-26 02:48:37"
+      "upstream_updated": "2026-06-28 02:29:21"
     },
     {
       "name": "GlobalMedia",
@@ -4018,7 +4018,7 @@
         "URL-REGEX": 1,
         "PROCESS-NAME": 3
       },
-      "upstream_updated": "2026-06-24 02:45:54"
+      "upstream_updated": "2026-06-28 02:29:42"
     },
     {
       "name": "GlobalMedia",
@@ -4031,7 +4031,7 @@
         "URL-REGEX": 1,
         "PROCESS-NAME": 3
       },
-      "upstream_updated": "2026-06-24 02:45:54"
+      "upstream_updated": "2026-06-28 02:29:42"
     },
     {
       "name": "GlobalMedia",
@@ -4044,7 +4044,7 @@
         "URL-REGEX": 1,
         "PROCESS-NAME": 3
       },
-      "upstream_updated": "2026-06-24 02:45:54"
+      "upstream_updated": "2026-06-28 02:29:42"
     },
     {
       "name": "GlobalMedia",
@@ -4068,7 +4068,7 @@
         "URL-REGEX": 1,
         "PROCESS-NAME": 3
       },
-      "upstream_updated": "2026-06-24 02:45:54"
+      "upstream_updated": "2026-06-28 02:29:42"
     },
     {
       "name": "GlobalScholar",
@@ -6310,40 +6310,40 @@
       "unsupported_types": {
         "USER-AGENT": 8
       },
-      "upstream_updated": "2026-06-26 02:48:57"
+      "upstream_updated": "2026-06-28 02:29:41"
     },
     {
       "name": "Proxy",
       "source_path": "rule/Surge/Proxy/Proxy_All.list",
       "output_path": "all/Proxy/Proxy_All.arrs",
-      "rule_count": 6862,
+      "rule_count": 6863,
       "skipped_count": 8,
       "unsupported_types": {
         "USER-AGENT": 8
       },
-      "upstream_updated": "2026-06-26 02:48:57"
+      "upstream_updated": "2026-06-28 02:29:41"
     },
     {
       "name": "Proxy",
       "source_path": "rule/Surge/Proxy/Proxy_All_No_Resolve.list",
       "output_path": "all/Proxy/Proxy_All_No_Resolve.arrs",
-      "rule_count": 6862,
+      "rule_count": 6863,
       "skipped_count": 8,
       "unsupported_types": {
         "USER-AGENT": 8
       },
-      "upstream_updated": "2026-06-26 02:48:57"
+      "upstream_updated": "2026-06-28 02:29:41"
     },
     {
       "name": "Proxy",
       "source_path": "rule/Surge/Proxy/Proxy_Domain.list",
       "output_path": "all/Proxy/Proxy_Domain.arrs",
       "rule_count": 0,
-      "skipped_count": 6739,
+      "skipped_count": 6740,
       "unsupported_types": {
-        "UNKNOWN": 6739
+        "UNKNOWN": 6740
       },
-      "upstream_updated": "2026-06-26 02:48:57"
+      "upstream_updated": "2026-06-28 02:29:41"
     },
     {
       "name": "Proxy",
@@ -6354,7 +6354,7 @@
       "unsupported_types": {
         "USER-AGENT": 8
       },
-      "upstream_updated": "2026-06-26 02:48:57"
+      "upstream_updated": "2026-06-28 02:29:41"
     },
     {
       "name": "ProxyLite",
