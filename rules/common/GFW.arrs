@@ -1,7 +1,7 @@
 # NAME: GFW
 # GENERATED-FOR: Anywhere Routing Rule Set
 # DESCRIPTION: GFW 域名列表
-# RULES: 4343
+# RULES: 4359
 # SKIPPED: 0
 # SOURCES:
 # - https://raw.githubusercontent.com/Loyalsoldier/v2ray-rules-dat/release/gfw.txt
@@ -140,6 +140,7 @@ name = GFW
 2, aiph.net
 2, airconsole.com
 2, airitilibrary.com
+2, airuniversity.af.edu
 2, airvpn.org
 2, ait.org.tw
 2, aiweiweiblog.com
@@ -1413,6 +1414,7 @@ name = GFW
 2, gaopi.net
 2, gartlive.com
 2, garudalinux.org
+2, gate.com
 2, gate.io
 2, gatecoin.com
 2, gather.com
@@ -1791,6 +1793,7 @@ name = GFW
 2, gtv1.org
 2, gu-chu-sum.org
 2, guaguass.com
+2, guangming.com.my
 2, guishan.org
 2, gumroad.com
 2, gunsamerica.com
@@ -1881,6 +1884,7 @@ name = GFW
 2, hkgpao.com
 2, hklts.org.hk
 2, hkmap.live
+2, hkong.hk
 2, hkopentv.com
 2, hkpeanut.com
 2, hkreporter.com
@@ -2185,6 +2189,7 @@ name = GFW
 2, kepard.com
 2, kex.com
 2, keycdn.com
+2, kfor.com
 2, khatrimaza.org
 2, kichiku-doujinko.com
 2, kik.com
@@ -2437,6 +2442,7 @@ name = GFW
 2, mgoon.com
 2, mgstage.com
 2, mh4u.org
+2, mhwindow.org
 2, microvpn.com
 2, mihua.org
 2, mij.rip
@@ -2821,6 +2827,7 @@ name = GFW
 2, pbworks.com
 2, pbxes.com
 2, pbxes.org
+2, pcgamesn.com
 2, pcgamestorrents.com
 2, pcij.org
 2, pct.org.tw
@@ -2839,6 +2846,7 @@ name = GFW
 2, peopo.org
 2, perfect-privacy.com
 2, periscope.tv
+2, perma.cc
 2, perplexity.ai
 2, pewresearch.org
 2, phayul.com
@@ -3087,6 +3095,7 @@ name = GFW
 2, renyurenquan.org
 2, resilio.com
 2, resistchina.org
+2, restofworld.org
 2, retweetrank.com
 2, reuters.com
 2, reutersmedia.net
@@ -3322,6 +3331,7 @@ name = GFW
 2, southnews.com.tw
 2, southpark.cc.com
 2, sowers.org.hk
+2, spaceforce.mil
 2, spaces.hightail.com
 2, spacex.com
 2, spankbang.com
@@ -3413,6 +3423,7 @@ name = GFW
 2, supervpn.net
 2, superzooi.com
 2, support.futunn.com
+2, supremecourt.gov
 2, suprememastertv.com
 2, surfeasy.com
 2, surfeasy.com.au
@@ -3524,6 +3535,7 @@ name = GFW
 2, thehindu.com
 2, thehun.net
 2, theinitium.com
+2, theintercept.com
 2, thenewslens.com
 2, thepiratebay.org
 2, theporndude.com
@@ -3681,6 +3693,7 @@ name = GFW
 2, tronscan.org
 2, trouw.nl
 2, trt.net.tr
+2, trtworld.com
 2, truebuddha-md.org
 2, trustwallet.com
 2, truthsocial.com
@@ -3776,6 +3789,7 @@ name = GFW
 2, twitturly.com
 2, twkan.com
 2, twreporter.org
+2, twstalker.com
 2, twt.tl
 2, twtkr.com
 2, twttr.com
@@ -3990,6 +4004,7 @@ name = GFW
 2, warroom.org
 2, waselpro.com
 2, washingtonpost.com
+2, washingtontimes.com
 2, watchinese.com
 2, watchmygf.net
 2, watchout.tw
@@ -4211,6 +4226,7 @@ name = GFW
 2, xt.com
 2, xt.pub
 2, xtube.com
+2, xuan.com.my
 2, xuchao.net
 2, xuchao.org
 2, xuehua.us

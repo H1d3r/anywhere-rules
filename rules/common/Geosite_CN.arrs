@@ -2,8 +2,8 @@
 # GENERATED-FOR: Anywhere Routing Rule Set
 # DESCRIPTION: Geosite 中国大陆域名规则
 # GEOSITE-CODE: GEOLOCATION-CN
-# RULES: 4793
-# SOURCE-RULES: 4796
+# RULES: 4808
+# SOURCE-RULES: 4811
 # SKIPPED: 3
 # SKIPPED-TYPES: Regex=3
 # SOURCES:
@@ -311,6 +311,7 @@ routing = 1
 2, 714.com
 2, 71acg.com
 2, 71acg.net
+2, 71shi.net
 2, 7230.com
 2, 72byte.com
 2, 72whys.com
@@ -339,6 +340,7 @@ routing = 1
 2, 88cdn.com
 2, 88y.cn
 2, 8btc.com
+2, 8m2.net
 2, 8uri.cn
 2, 900.la
 2, 900cha.com
@@ -393,7 +395,6 @@ routing = 1
 2, acfunchina.cn
 2, acfunchina.com
 2, acfunchina.net
-2, acplay.net
 2, activity-wbsj.com
 2, activity-zhendingtech.com
 2, acwifi.net
@@ -483,6 +484,7 @@ routing = 1
 2, anhuinews.com
 2, anhuiyun.com
 2, anitabi.cn
+2, anixplayer.net
 2, anjuke.com
 2, anjukestatic.com
 2, anlaiye.com
@@ -502,7 +504,6 @@ routing = 1
 2, anytocopy.com
 2, anywlan.com
 2, anzhuo.cn
-2, ao-x.ac.cn
 2, aocde.com
 2, aoshu.com
 2, aotrip.net
@@ -638,7 +639,6 @@ routing = 1
 2, bdfund.cn
 2, bdimg.com
 2, bdmozon.com
-2, bdmyandex.com
 2, bdstatic.com
 2, bdtjrcv.com
 2, bdurl.net
@@ -978,6 +978,7 @@ routing = 1
 2, cicc.com
 2, ciccwm.com
 2, cidp.com.cn
+2, cilisouou.com
 2, cindasc.com
 2, citibank.com.cn
 2, citv.net.cn
@@ -1218,7 +1219,6 @@ routing = 1
 2, dalongyun.com
 2, dancf.com
 2, dandan818.com
-2, dandanplay.com
 2, dandanvoice.com
 2, dangbei.com
 2, dangbei.net
@@ -1392,6 +1392,7 @@ routing = 1
 2, dui.ai
 2, dui88.com
 2, duiba.com.cn
+2, duifene.com
 2, duiopen.com
 2, duitang.com
 2, dumate.cn
@@ -1805,6 +1806,7 @@ routing = 1
 2, gongqingyun.cn
 2, gongxiangcj.com
 2, gongxiangjizhang.com
+2, goodq.top
 2, goofish.pro
 2, goosail.com
 2, goproxy.cn
@@ -1856,6 +1858,7 @@ routing = 1
 2, guazi.net
 2, guazistatic.com
 2, gucheng.com
+2, gugudata.com
 2, guigu.org
 2, guodu.com
 2, guoguo-app.com
@@ -1922,6 +1925,7 @@ routing = 1
 2, haosou.com.cn
 2, haosou.net
 2, haote.com
+2, haowenti.net
 2, haoyouyinxiang.com
 2, hapjs.org
 2, happyhlddz.com
@@ -2298,6 +2302,7 @@ routing = 1
 2, jet-ego.com
 2, jet-logistics.com
 2, jetlogistic.com
+2, jfcoop.com
 2, jfdaily.com
 2, jhwan.com.cn
 2, jhzq.com.cn
@@ -2325,6 +2330,7 @@ routing = 1
 2, jiemeng8.com
 2, jiemian.com
 2, jiemian.com.cn
+2, jigecili.com
 2, jiguang.cn
 2, jike.city
 2, jikecdn.com
@@ -2966,6 +2972,7 @@ routing = 1
 2, miraclevision.com
 2, mirrorcast.cn
 2, mirrors.yun-idc.com
+2, misaka-net.top
 2, miusi.co
 2, miyatech.com
 2, miyoushe.com
@@ -2993,6 +3000,7 @@ routing = 1
 2, mojidict.com
 2, mokahr.com
 2, moleecel.com
+2, moliranran.com
 2, monika.love
 2, mooc.cn
 2, moocollege.com
@@ -3175,6 +3183,7 @@ routing = 1
 2, oceancloudapi.com
 2, ocfund.cn
 2, oeeee.com
+2, oend.net
 2, offcn.com
 2, officese.com
 2, ofweek.com
@@ -3293,6 +3302,7 @@ routing = 1
 2, pkuh6.cn
 2, pkulaw.com
 2, playcool.com
+2, pljzy.top
 2, pmphmooc.com
 2, podcast.xyz
 2, polyv.net
@@ -3313,13 +3323,13 @@ routing = 1
 2, procg.cn
 2, programmer.com.cn
 2, programmer.net.cn
+2, proj101.cn
 2, proximabeta.com
 2, psbc.com
 2, pubghelper.com
 2, pubgno1.cn
 2, pubgtool.com
 2, pubyun.com
-2, puddingcat.top
 2, puh3.net.cn
 2, pupuapi.com
 2, pupumall.com
@@ -3391,6 +3401,7 @@ routing = 1
 2, qingsongchou.com
 2, qingstor.com
 2, qingting.fm
+2, qingtingai.net
 2, qiniu.com
 2, qiniucdn.com
 2, qiniudn.com
@@ -3444,6 +3455,7 @@ routing = 1
 2, quyaoya.com
 2, qweather.com
 2, qweather.net
+2, qweatherapi.com
 2, qwen.ai
 2, qwenlm.ai
 2, qwps.cn
@@ -3882,6 +3894,7 @@ routing = 1
 2, tiancity.com
 2, tiancitycdn.com
 2, tiangong.cn
+2, tianhw.top
 2, tianjimedia.com
 2, tianjin-air.com
 2, tianlailive.com
@@ -3931,7 +3944,6 @@ routing = 1
 2, tobosu.com
 2, todesk.cn
 2, todesk.com
-2, tokcoder.com
 2, tokyotrial.cn
 2, tom.com
 2, tongdun.net
@@ -4128,6 +4140,7 @@ routing = 1
 2, vrzwk.net
 2, vrzwk.top
 2, vsread.com
+2, vtdd.vip
 2, vzuu.com
 2, wahaha.com.cn
 2, waifushangcheng.com
@@ -4269,6 +4282,7 @@ routing = 1
 2, wsdvs.com
 2, wsglb.com
 2, wsglb.net
+2, wsjqnmmrmv.world
 2, wsoso.com
 2, wss.cc
 2, wss.email
@@ -4670,6 +4684,7 @@ routing = 1
 2, zggbdszt.com.cn
 2, zggbdszt.net.cn
 2, zggqzp.com
+2, zggx100.com
 2, zgjm.org
 2, zgjsks.com
 2, zgjtb.com
