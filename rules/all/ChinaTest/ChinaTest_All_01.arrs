@@ -5,8 +5,8 @@
 # NOTE: DOMAIN rules are mapped to Anywhere domain suffix rules.
 # RULES: 100000
 # SKIPPED: 31
-# SOURCE-RULES: 112248
-# UPSTREAM-UPDATED: 2026-06-26 02:49:14
+# SOURCE-RULES: 112282
+# UPSTREAM-UPDATED: 2026-06-30 02:45:32
 # SKIPPED-TYPES: USER-AGENT=31
 
 name = ChinaTest_01
@@ -11109,6 +11109,7 @@ name = ChinaTest_01
 2, 71k.com
 2, 71lady.com
 2, 71p.net
+2, 71shi.net
 2, 71tao.com
 2, 71tech.com
 2, 71txt.com
@@ -12186,6 +12187,7 @@ name = ChinaTest_01
 2, 8liuxing.com
 2, 8llp.com
 2, 8lun.com
+2, 8m2.net
 2, 8m8t.com
 2, 8mcn.com
 2, 8mhh.com
@@ -13821,6 +13823,7 @@ name = ChinaTest_01
 2, adpsh.com
 2, adqtt.net
 2, adquan.com
+2, adrkwai.com
 2, ads66.com
 2, ads8.com
 2, adsalecdn.com
@@ -15565,6 +15568,7 @@ name = ChinaTest_01
 2, aniu.so
 2, aniu.tv
 2, aniworld.tv
+2, anixplayer.net
 2, anjgas.com
 2, anji-ceva.com
 2, anji-logistics.com
@@ -16047,6 +16051,7 @@ name = ChinaTest_01
 2, apowogame.com
 2, apoyl.com
 2, app-router.com
+2, app-static.com
 2, app001.com
 2, app0772.com
 2, app111.com
@@ -16533,6 +16538,7 @@ name = ChinaTest_01
 2, at317.com
 2, at58.com
 2, at78.com
+2, at8.fun
 2, at98.com
 2, ata-edu.com
 2, ata-test.net
@@ -21999,6 +22005,7 @@ name = ChinaTest_01
 2, cantonfairad.com
 2, cantontower.com
 2, canvcan.com
+2, canviewone.com
 2, canway.net
 2, canwayit.com
 2, canwaysoft.com
@@ -25215,6 +25222,7 @@ name = ChinaTest_01
 2, chinaweizheng.com
 2, chinawepon.com
 2, chinawerewolf.com
+2, chinawestagr.com
 2, chinawie.com
 2, chinawindnews.com
 2, chinawinjoy.com
@@ -25837,6 +25845,7 @@ name = ChinaTest_01
 2, cilgroup.org
 2, cilin.org
 2, cilishenqi.cc
+2, cilisouou.com
 2, cilogo.com
 2, cim2025.net
 2, cimamotor.com
@@ -26385,6 +26394,7 @@ name = ChinaTest_01
 2, cm-inv.com
 2, cm-iov.com
 2, cm-worklink.com
+2, cm1.hk
 2, cm233.com
 2, cm3721.com
 2, cm442.com
@@ -29567,6 +29577,7 @@ name = ChinaTest_01
 2, cxumol.com
 2, cxw.com
 2, cxwl.com
+2, cxwlad.com
 2, cxxjs.com
 2, cxy521.com
 2, cxy61.com
@@ -29903,6 +29914,7 @@ name = ChinaTest_01
 2, d1f41d7b74d2717d.com
 2, d1ld.com
 2, d1lx.com
+2, d1mgroup.com
 2, d1miao.com
 2, d1mm.com
 2, d1net.com
@@ -33383,6 +33395,7 @@ name = ChinaTest_01
 2, duiduihuishou.com
 2, duiduilian.com
 2, duiduipengds.com
+2, duifene.com
 2, duijie666.com
 2, duikuang.com
 2, duimg.com
@@ -36781,6 +36794,7 @@ name = ChinaTest_01
 2, fdbatt.com
 2, fdc0746.com
 2, fdcjj.org
+2, fdctax.com
 2, fdczbstatic.com
 2, fdd0cd79c10281.beer
 2, fdeent.org
@@ -36843,6 +36857,7 @@ name = ChinaTest_01
 2, feelnowtrip.com
 2, feelsoar.com
 2, feemoo.com
+2, feemoo.hk
 2, feemoo.vip
 2, feepan.com
 2, feeprint.com
@@ -38425,6 +38440,7 @@ name = ChinaTest_01
 2, fthformal.com
 2, fthgz.com
 2, fthimalayandb.com
+2, ftihzjg.com
 2, ftium4.com
 2, ftlcloud.com
 2, ftls.xyz
@@ -39826,6 +39842,7 @@ name = ChinaTest_01
 2, gdroro.com
 2, gdrqj.org
 2, gdrsrc.com
+2, gdrtt.net
 2, gdruien.com
 2, gdruisheng.com
 2, gdrxyy.com
@@ -42263,6 +42280,7 @@ name = ChinaTest_01
 2, gugu.fun
 2, gugud.com
 2, gugudang.com
+2, gugudata.com
 2, guguread.com
 2, gugushuzi.com
 2, guguyu.com
@@ -46054,6 +46072,7 @@ name = ChinaTest_01
 2, haowen100.com
 2, haowenbo.com
 2, haowenshi.com
+2, haowenti.net
 2, haowu.com
 2, haowusong.com
 2, haowuyunji.com
@@ -48831,6 +48850,7 @@ name = ChinaTest_01
 2, holoalpha.com
 2, holsauto.com
 2, holteksupport.com
+2, holy58.com
 2, holymalls.com
 2, holyxiongan.com
 2, home0311.com
@@ -53472,6 +53492,7 @@ name = ChinaTest_01
 2, innopro.cc
 2, innos.com
 2, innoscience.com
+2, innosystemtech.com
 2, innotechx.com
 2, innotek-co.com
 2, innotimegood.com
@@ -54127,6 +54148,7 @@ name = ChinaTest_01
 2, italyvisacenterd.com
 2, itamt.com
 2, itangbole.com
+2, itangsoft.com
 2, itangyuan.com
 2, itanlian.com
 2, itany.com
@@ -55110,6 +55132,7 @@ name = ChinaTest_01
 2, jfchinese.com
 2, jfcjt.com
 2, jfcoo.com
+2, jfcoop.com
 2, jfdaily.com
 2, jfedu.net
 2, jfgjwl.com
@@ -60636,7 +60659,6 @@ name = ChinaTest_01
 2, kschuangku.com
 2, kscloudapi.com
 2, ksco.cc
-2, kscord.com
 2, ksdedu.com
 2, ksdhgy.com
 2, ksecit.com
@@ -68242,6 +68264,7 @@ name = ChinaTest_01
 2, molimoli.tech
 2, moliplayer.com
 2, molipy.com
+2, moliranran.com
 2, molishe.com
 2, molixiangce.com
 2, mollervilla.com
@@ -69077,6 +69100,7 @@ name = ChinaTest_01
 2, myfans.cc
 2, myfdmg.com
 2, myfhospital.com
+2, myfilm.cc
 2, myfrfr.com
 2, myfun7.com
 2, myfund.com
@@ -72239,6 +72263,7 @@ name = ChinaTest_01
 2, oemsocuat.download.prss.microsoft.com
 2, oemssl.cn.cdn.cloudflare.net
 2, oemxitong.com
+2, oend.net
 2, oeob.net
 2, oepkgs.net
 2, oepkgs.org
@@ -72600,6 +72625,7 @@ name = ChinaTest_01
 2, onthetrip.com
 2, onthink.com
 2, onwaf.com
+2, onwaytech.com
 2, onwear.net
 2, onwork.com
 2, onwsw.com
@@ -76377,6 +76403,7 @@ name = ChinaTest_01
 2, qingtian16265.com
 2, qingtiancms.net
 2, qingting123.com
+2, qingtingai.net
 2, qingtingfm.com
 2, qingtingip.com
 2, qingtingjh.com
@@ -94326,6 +94353,7 @@ name = ChinaTest_01
 2, vt-pharm.com
 2, vtache.com
 2, vtcsy.com
+2, vtdd.vip
 2, vteamgroup.com
 2, vtears.com
 2, vtepai.com
@@ -94813,6 +94841,7 @@ name = ChinaTest_01
 2, wanh5.com
 2, wanhea.com
 2, wanhebin.com
+2, wanhengtech.com
 2, wanheweb.com
 2, wanhi.com
 2, wanhongbao.com
@@ -97613,6 +97642,7 @@ name = ChinaTest_01
 2, wsipv6.com
 2, wsisp.com
 2, wsisp.net
+2, wsjqnmmrmv.world
 2, wsjtxia.com
 2, wskam.com
 2, wskj16818.xyz
@@ -98893,6 +98923,7 @@ name = ChinaTest_01
 2, xdj-sz.com
 2, xdja.com
 2, xdjcgs.com
+2, xdjk.net
 2, xdju.com
 2, xdjunxiao.com
 2, xdjy369.com
@@ -99979,34 +100010,3 @@ name = ChinaTest_01
 2, xiezilouzulinwang.com
 2, xieziqiu.net
 2, xiezixiansheng.com
-2, xiezuocat.com
-2, xiezuoye.com
-2, xiezuoyisi.com
-2, xifenfei.com
-2, xifengboke.com
-2, xifenggroup.com
-2, xifu120.com
-2, xifumi.com
-2, xigaogen.com
-2, xiggua.com
-2, xigo.tv
-2, xigou100.com
-2, xigoubao.com
-2, xigua.com
-2, xigua110.com
-2, xiguaapp.com
-2, xiguabook.com
-2, xiguaji.com
-2, xiguang.xyz
-2, xiguaplayer.com
-2, xiguashipin.net
-2, xiguavideo.net
-2, xigushan.com
-2, xigushan.net
-2, xigushi.com
-2, xihabang.com
-2, xihachina.com
-2, xihaiannews.com
-2, xihaianrc.com
-2, xihawan8.com
-2, xihaxueche.com

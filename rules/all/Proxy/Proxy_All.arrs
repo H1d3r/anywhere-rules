@@ -3,9 +3,9 @@
 # SOURCE: https://github.com/blackmatrix7/ios_rule_script/blob/master/rule/Surge/Proxy/Proxy_All.list
 # GENERATED-FOR: Anywhere Routing Rule Set
 # NOTE: DOMAIN rules are mapped to Anywhere domain suffix rules.
-# RULES: 6863
+# RULES: 6878
 # SKIPPED: 8
-# UPSTREAM-UPDATED: 2026-06-28 02:29:41
+# UPSTREAM-UPDATED: 2026-06-30 02:45:14
 # SKIPPED-TYPES: USER-AGENT=8
 
 name = Proxy
@@ -247,6 +247,7 @@ name = Proxy
 2, aircrack-ng.org
 2, airitilibrary.com
 2, airtable.com
+2, airuniversity.af.edu
 2, airvpn.org
 2, aisex.com
 2, ait.org.tw
@@ -2207,6 +2208,7 @@ name = Proxy
 2, gartlive.com
 2, garudalinux.org
 2, gate-project.com
+2, gate.com
 2, gate.io
 2, gatecoin.com
 2, gather.com
@@ -2636,6 +2638,7 @@ name = Proxy
 2, hklft.com
 2, hklts.org.hk
 2, hkmap.live
+2, hkong.hk
 2, hkopentv.com
 2, hkpeanut.com
 2, hkptu.org
@@ -3179,6 +3182,7 @@ name = Proxy
 2, kex.com
 2, keycdn.com
 2, keyhole.com
+2, kfor.com
 2, khabdha.org
 2, khatrimaza.org
 2, khmusic.com.tw
@@ -3601,6 +3605,7 @@ name = Proxy
 2, mgoon.com
 2, mgstage.com
 2, mh4u.org
+2, mhwindow.org
 2, michaelmarketl.com
 2, microsoft-falcon.io
 2, microsoft.com
@@ -4296,6 +4301,7 @@ name = Proxy
 2, pbxes.org
 2, pcanywhere.net
 2, pcdvd.com.tw
+2, pcgamesn.com
 2, pcgamestorrents.com
 2, pchome.com.tw
 2, pcij.org
@@ -4332,6 +4338,7 @@ name = Proxy
 2, perfectgirls.net
 2, perfectvpn.net
 2, periscope.tv
+2, perma.cc
 2, perplexity.ai
 2, persecutionblog.com
 2, persiankitty.com
@@ -4703,6 +4710,7 @@ name = Proxy
 2, renyurenquan.org
 2, resilio.com
 2, resistchina.org
+2, restofworld.org
 2, retweeteffect.com
 2, retweetist.com
 2, retweetrank.com
@@ -5133,6 +5141,7 @@ name = Proxy
 2, sowers.org.hk
 2, soylent.com
 2, soylentnews.org
+2, spaceforce.mil
 2, spacex.com
 2, spankbang.com
 2, spankingtube.com
@@ -5272,6 +5281,7 @@ name = Proxy
 2, supervpn.net
 2, superzooi.com
 2, suppig.net
+2, supremecourt.gov
 2, suprememastertv.com
 2, surfeasy.com
 2, surfeasy.com.au
@@ -5465,6 +5475,7 @@ name = Proxy
 2, thehousenews.com
 2, thehun.net
 2, theinitium.com
+2, theintercept.com
 2, themoviedb.org
 2, thenewslens.com
 2, thepiratebay.ee
@@ -5715,6 +5726,7 @@ name = Proxy
 2, trouw.nl
 2, trt.net.tr
 2, trtc.com.tw
+2, trtworld.com
 2, truebuddha-md.org
 2, truenas.com
 2, truesocial.media
@@ -5879,6 +5891,7 @@ name = Proxy
 2, twnorth.org.tw
 2, twreporter.org
 2, twskype.com
+2, twstalker.com
 2, twstar.net
 2, twt.tl
 2, twtkr.com
@@ -6229,6 +6242,7 @@ name = Proxy
 2, waselpro.com
 2, washeng.net
 2, washingtonpost.com
+2, washingtontimes.com
 2, watch8x.com
 2, watchinese.com
 2, watchmygf.net
@@ -6532,6 +6546,7 @@ name = Proxy
 2, xt.pub
 2, xteko.com
 2, xtube.com
+2, xuan.com.my
 2, xuchao.net
 2, xuchao.org
 2, xuehua.us

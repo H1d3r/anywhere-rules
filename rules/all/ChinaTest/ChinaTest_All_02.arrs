@@ -3,12 +3,43 @@
 # SOURCE: https://github.com/blackmatrix7/ios_rule_script/blob/master/rule/Surge/ChinaTest/ChinaTest_All.list
 # GENERATED-FOR: Anywhere Routing Rule Set
 # NOTE: DOMAIN rules are mapped to Anywhere domain suffix rules.
-# RULES: 12248
+# RULES: 12282
 # SKIPPED: 0
-# SOURCE-RULES: 112248
-# UPSTREAM-UPDATED: 2026-06-26 02:49:14
+# SOURCE-RULES: 112282
+# UPSTREAM-UPDATED: 2026-06-30 02:45:32
 
 name = ChinaTest_02
+2, xiezuocat.com
+2, xiezuoye.com
+2, xiezuoyisi.com
+2, xifenfei.com
+2, xifengboke.com
+2, xifenggroup.com
+2, xifu120.com
+2, xifumi.com
+2, xigaogen.com
+2, xiggua.com
+2, xigo.tv
+2, xigou100.com
+2, xigoubao.com
+2, xigua.com
+2, xigua110.com
+2, xiguaapp.com
+2, xiguabook.com
+2, xiguaji.com
+2, xiguang.xyz
+2, xiguaplayer.com
+2, xiguashipin.net
+2, xiguavideo.net
+2, xigushan.com
+2, xigushan.net
+2, xigushi.com
+2, xihabang.com
+2, xihachina.com
+2, xihaiannews.com
+2, xihaianrc.com
+2, xihawan8.com
+2, xihaxueche.com
 2, xihazsww.com
 2, xihegp.com
 2, xiherencai.com
@@ -1055,6 +1086,7 @@ name = ChinaTest_02
 2, xloveyoux.com
 2, xlpai.com
 2, xlpan.com
+2, xlps.site
 2, xlqeai.com
 2, xlqzh.com
 2, xlread.com
@@ -8171,6 +8203,7 @@ name = ChinaTest_02
 2, zggua.com
 2, zggwy.com
 2, zggwy.org
+2, zggx100.com
 2, zggxgp.com
 2, zggxhj.com
 2, zggxlbc.com
@@ -8996,6 +9029,7 @@ name = ChinaTest_02
 2, zhihuiep.com
 2, zhihuifangdong.net
 2, zhihuihongze.com
+2, zhihuihub.com
 2, zhihuihuiwu.com
 2, zhihuihutong.com
 2, zhihuiji.com

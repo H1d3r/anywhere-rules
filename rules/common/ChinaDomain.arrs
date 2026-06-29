@@ -1,7 +1,7 @@
 # NAME: ChinaDomain
 # GENERATED-FOR: Anywhere Routing Rule Set
 # DESCRIPTION: 中国大陆常见域名直连
-# RULES: 861
+# RULES: 863
 # SKIPPED: 4
 # SKIPPED-TYPES: DOMAIN-WILDCARD=1, USER-AGENT=3
 # SOURCES:
@@ -483,6 +483,7 @@ routing = 1
 2, meipai.com
 2, maoyan.com
 2, lofter.com
+2, lltskb.com
 2, lancdn.com
 2, ks-cdn.com
 2, koubei.com
@@ -866,6 +867,7 @@ routing = 1
 2, tb.cn
 2, sm.cn
 2, i4.cn
+2, ac.cn
 2, 22.cn
 2, t.cn
 2, 6.cn

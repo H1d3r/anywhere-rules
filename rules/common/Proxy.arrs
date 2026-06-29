@@ -1,7 +1,7 @@
 # NAME: Proxy
 # GENERATED-FOR: Anywhere Routing Rule Set
 # DESCRIPTION: 常用代理域名集合
-# RULES: 1560
+# RULES: 1562
 # SKIPPED: 2
 # SKIPPED-TYPES: USER-AGENT=2
 # SOURCES:
@@ -243,6 +243,7 @@ name = Proxy
 2, hsforms.net
 2, hanmail.net
 2, edgeapp.net
+2, cloudns.net
 2, blogjav.net
 2, behance.net
 2, av-wiki.net
@@ -1181,6 +1182,7 @@ name = Proxy
 2, split.io
 2, short.io
 2, logto.io
+2, desec.io
 2, airav.io
 2, mega.io
 2, itch.io

@@ -1,7 +1,7 @@
 # NAME: CDN
 # GENERATED-FOR: Anywhere Routing Rule Set
 # DESCRIPTION: SukkaW CDN 直连辅助
-# RULES: 4549
+# RULES: 4551
 # SKIPPED: 58
 # SKIPPED-TYPES: DOMAIN-WILDCARD=58
 # SOURCES:
@@ -3745,6 +3745,7 @@ routing = 1
 2, video.bsky.app
 2, cdn.bsky.app
 2, web.app
+2, widget.rss.app
 2, images.rss.app
 2, csb.app
 2, cdn.7tv.app
@@ -4271,6 +4272,7 @@ routing = 1
 2, sdk.gleap.io
 2, cdn.filen.io
 2, ipfs.decoo.io
+2, changelog-widget.canny.io
 2, assets2.canny.io
 2, assets.canny.io
 2, cdn.bogos.io

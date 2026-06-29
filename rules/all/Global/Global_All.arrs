@@ -3,9 +3,9 @@
 # SOURCE: https://github.com/blackmatrix7/ios_rule_script/blob/master/rule/Surge/Global/Global_All.list
 # GENERATED-FOR: Anywhere Routing Rule Set
 # NOTE: DOMAIN rules are mapped to Anywhere domain suffix rules.
-# RULES: 34766
+# RULES: 34785
 # SKIPPED: 47
-# UPSTREAM-UPDATED: 2026-06-28 02:29:21
+# UPSTREAM-UPDATED: 2026-06-30 02:44:52
 # SKIPPED-TYPES: PROCESS-NAME=1, USER-AGENT=46
 
 name = Global
@@ -2237,6 +2237,7 @@ name = Global
 2, applereach.com
 2, applereach.net
 2, apples-msk.ru
+2, appleschoolcontent.com
 2, applescreensavers.com
 2, applescript.info
 2, appleshare.info
@@ -2324,6 +2325,7 @@ name = Global
 2, apu.ac.uk
 2, apuc-scot.ac.uk
 2, apyle.com
+2, apzones.com
 2, aqdlt.net
 2, aqmen.ac.uk
 2, aquinas.ac.uk
@@ -2905,6 +2907,7 @@ name = Global
 2, awxcdn.com
 2, axbdoll.com.tw
 2, axept.io
+2, axm-usercontent-apple.com
 2, ayabank.com
 2, aylesbury.ac.uk
 2, ayrcoll.ac.uk
@@ -6725,6 +6728,7 @@ name = Global
 2, damplips.com
 2, dance-archives.ac.uk
 2, dandalinvoa.com
+2, dandanplay.net
 2, dandanzan.cc
 2, danemarket.com
 2, danmarkbeatsbydrdre.com
@@ -19306,7 +19310,6 @@ name = Global
 2, perfecttitspics.com
 2, performancescience.ac.uk
 2, perl.org
-2, perma.cc
 2, perplexity.com
 2, persagg.com
 2, pershore.ac.uk
@@ -24304,6 +24307,7 @@ name = Global
 2, trinitylaban.ac.uk
 2, trinitysaintdavid.ac.uk
 2, triokini.com
+2, tripo3d.ai
 2, tristatebmw.com
 2, trithucvn.net
 2, trithucvn.org
@@ -28190,6 +28194,7 @@ name = Global
 2, aircrack-ng.org
 2, airitilibrary.com
 2, airtable.com
+2, airuniversity.af.edu
 2, airvpn.org
 2, aisex.com
 2, ait.org.tw
@@ -30117,6 +30122,7 @@ name = Global
 2, gartlive.com
 2, garudalinux.org
 2, gate-project.com
+2, gate.com
 2, gate.io
 2, gatecoin.com
 2, gather.com
@@ -30544,6 +30550,7 @@ name = Global
 2, hklft.com
 2, hklts.org.hk
 2, hkmap.live
+2, hkong.hk
 2, hkopentv.com
 2, hkpeanut.com
 2, hkptu.org
@@ -31084,6 +31091,7 @@ name = Global
 2, kex.com
 2, keycdn.com
 2, keyhole.com
+2, kfor.com
 2, khabdha.org
 2, khatrimaza.org
 2, khmusic.com.tw
@@ -31503,6 +31511,7 @@ name = Global
 2, mgoon.com
 2, mgstage.com
 2, mh4u.org
+2, mhwindow.org
 2, michaelmarketl.com
 2, microsoft-falcon.io
 2, microsoft.com
@@ -32191,6 +32200,7 @@ name = Global
 2, pbxes.org
 2, pcanywhere.net
 2, pcdvd.com.tw
+2, pcgamesn.com
 2, pcgamestorrents.com
 2, pchome.com.tw
 2, pcij.org
@@ -32227,6 +32237,7 @@ name = Global
 2, perfectgirls.net
 2, perfectvpn.net
 2, periscope.tv
+2, perma.cc
 2, perplexity.ai
 2, persecutionblog.com
 2, persiankitty.com
@@ -32598,6 +32609,7 @@ name = Global
 2, renyurenquan.org
 2, resilio.com
 2, resistchina.org
+2, restofworld.org
 2, retweeteffect.com
 2, retweetist.com
 2, retweetrank.com
@@ -33025,6 +33037,7 @@ name = Global
 2, sowers.org.hk
 2, soylent.com
 2, soylentnews.org
+2, spaceforce.mil
 2, spacex.com
 2, spankbang.com
 2, spankingtube.com
@@ -33161,6 +33174,7 @@ name = Global
 2, supervpn.net
 2, superzooi.com
 2, suppig.net
+2, supremecourt.gov
 2, suprememastertv.com
 2, surfeasy.com
 2, surfeasy.com.au
@@ -33353,6 +33367,7 @@ name = Global
 2, thehousenews.com
 2, thehun.net
 2, theinitium.com
+2, theintercept.com
 2, themoviedb.org
 2, thenewslens.com
 2, thepiratebay.ee
@@ -33602,6 +33617,7 @@ name = Global
 2, trouw.nl
 2, trt.net.tr
 2, trtc.com.tw
+2, trtworld.com
 2, truebuddha-md.org
 2, truenas.com
 2, truesocial.media
@@ -33764,6 +33780,7 @@ name = Global
 2, twnorth.org.tw
 2, twreporter.org
 2, twskype.com
+2, twstalker.com
 2, twstar.net
 2, twt.tl
 2, twtkr.com
@@ -34111,6 +34128,7 @@ name = Global
 2, waselpro.com
 2, washeng.net
 2, washingtonpost.com
+2, washingtontimes.com
 2, watch8x.com
 2, watchinese.com
 2, watchmygf.net
@@ -34407,6 +34425,7 @@ name = Global
 2, xt.pub
 2, xteko.com
 2, xtube.com
+2, xuan.com.my
 2, xuchao.net
 2, xuchao.org
 2, xuehua.us
