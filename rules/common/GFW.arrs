@@ -1,7 +1,7 @@
 # NAME: GFW
 # GENERATED-FOR: Anywhere Routing Rule Set
 # DESCRIPTION: GFW 域名列表
-# RULES: 4359
+# RULES: 4360
 # SKIPPED: 0
 # SOURCES:
 # - https://raw.githubusercontent.com/Loyalsoldier/v2ray-rules-dat/release/gfw.txt
@@ -1172,6 +1172,7 @@ name = GFW
 2, expecthim.com
 2, expekt.com
 2, exploader.net
+2, expressnews.com
 2, expressvpn.com
 2, exrates.me
 2, extmatrix.com
