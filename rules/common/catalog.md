@@ -40,7 +40,7 @@
 | Steam | 54 | 0 | Steam | [common/Steam.arrs](./Steam.arrs) |
 | PayPal | 247 | 1 | PayPal | [common/PayPal.arrs](./PayPal.arrs) |
 | Cloudflare | 65 | 0 | Cloudflare | [common/Cloudflare.arrs](./Cloudflare.arrs) |
-| CDN | 4553 | 58 | SukkaW CDN 直连辅助 | [common/CDN.arrs](./CDN.arrs) |
+| CDN | 4558 | 58 | SukkaW CDN 直连辅助 | [common/CDN.arrs](./CDN.arrs) |
 | CN_Accelerated | 63338 | 0 | 中国大陆 DNS 加速域名补充 | [common/CN_Accelerated.arrs](./CN_Accelerated.arrs) |
-| GeoIP_CN | 5894 | 0 | GeoIP 中国大陆 IP CIDR | [common/GeoIP_CN.arrs](./GeoIP_CN.arrs) |
+| GeoIP_CN | 5852 | 0 | GeoIP 中国大陆 IP CIDR | [common/GeoIP_CN.arrs](./GeoIP_CN.arrs) |
 | Geosite_CN | 4808 | 3 | Geosite 中国大陆域名规则 | [common/Geosite_CN.arrs](./Geosite_CN.arrs) |

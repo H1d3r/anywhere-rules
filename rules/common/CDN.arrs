@@ -1,7 +1,7 @@
 # NAME: CDN
 # GENERATED-FOR: Anywhere Routing Rule Set
 # DESCRIPTION: SukkaW CDN 直连辅助
-# RULES: 4553
+# RULES: 4558
 # SKIPPED: 58
 # SKIPPED-TYPES: DOMAIN-WILDCARD=58
 # SOURCES:
@@ -1537,6 +1537,7 @@ routing = 1
 2, fonts.bunny.net
 2, fonts.gishan.cc
 2, fonts.upset.dev
+2, gannett-cdn.com
 2, gauthstatic.com
 2, gdb.voanews.com
 2, hello.zonos.com
@@ -2225,6 +2226,7 @@ routing = 1
 2, g-static.ap4r.com
 2, gadgets360cdn.com
 2, gamesgamescdn.com
+2, gannett-cdn.ex.co
 2, gearbox.imgix.com
 2, gitlab-static.net
 2, hawky.pcgamer.com
@@ -2576,6 +2578,7 @@ routing = 1
 2, media-cms.ayoba.me
 2, media.cgtrader.com
 2, media.flaticon.com
+2, media.formula1.com
 2, media.gamestop.com
 2, media.hachyderm.io
 2, media.letsdeel.com
@@ -2964,6 +2967,7 @@ routing = 1
 2, static.elfsight.com
 2, static.esimplus.net
 2, static.euronews.com
+2, static.formula1.com
 2, static.getbutton.io
 2, static.gigabyte.com
 2, static.goaffpro.com
@@ -3107,6 +3111,7 @@ routing = 1
 2, cms.socialinsider.io
 2, comm.res.easebar.com
 2, connect.facebook.net
+2, consent.formula1.com
 2, content-a.strava.com
 2, content.overwolf.com
 2, d4.alternativeto.net
