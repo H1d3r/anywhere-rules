@@ -3,9 +3,9 @@
 # SOURCE: https://github.com/blackmatrix7/ios_rule_script/blob/master/rule/Surge/Global/Global_All.list
 # GENERATED-FOR: Anywhere Routing Rule Set
 # NOTE: DOMAIN rules are mapped to Anywhere domain suffix rules.
-# RULES: 34785
+# RULES: 34786
 # SKIPPED: 47
-# UPSTREAM-UPDATED: 2026-06-30 02:44:52
+# UPSTREAM-UPDATED: 2026-07-02 02:43:40
 # SKIPPED-TYPES: PROCESS-NAME=1, USER-AGENT=46
 
 name = Global
@@ -29708,6 +29708,7 @@ name = Global
 2, experts-univers.com
 2, exploader.net
 2, expofutures.com
+2, expressnews.com
 2, expressvpn.com
 2, exrates.me
 2, extmatrix.com
