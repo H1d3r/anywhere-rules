@@ -2,8 +2,8 @@
 # GENERATED-FOR: Anywhere Routing Rule Set
 # DESCRIPTION: Geosite 中国大陆域名规则
 # GEOSITE-CODE: GEOLOCATION-CN
-# RULES: 4808
-# SOURCE-RULES: 4811
+# RULES: 4841
+# SOURCE-RULES: 4844
 # SKIPPED: 3
 # SKIPPED-TYPES: Regex=3
 # SOURCES:
@@ -58,6 +58,7 @@ routing = 1
 2, 123624.com
 2, 123641.com
 2, 12365auto.com
+2, 12377.cn
 2, 123842.com
 2, 123860.com
 2, 123912.com
@@ -305,6 +306,7 @@ routing = 1
 2, 61.com
 2, 6655.com
 2, 66law.cn
+2, 66rpg.com
 2, 66wz.com
 2, 68h5.com
 2, 6rooms.com
@@ -315,6 +317,7 @@ routing = 1
 2, 7230.com
 2, 72byte.com
 2, 72whys.com
+2, 777ppt.com
 2, 7down.com
 2, 7k7k.com
 2, 7moor-fs1.com
@@ -330,6 +333,7 @@ routing = 1
 2, 800bestapi.com
 2, 800bestapp.cn
 2, 800bestapp.com
+2, 81.cn
 2, 818ps.com
 2, 8264.com
 2, 84399.com
@@ -400,6 +404,7 @@ routing = 1
 2, acwifi.net
 2, acwing.com
 2, admin5.com
+2, admincdn.com
 2, adxvip.com
 2, afdian.com
 2, afdian.net
@@ -649,6 +654,7 @@ routing = 1
 2, bdydns.net
 2, bearychat.com
 2, beckyroom.com
+2, beie.org
 2, beifangsl.cn
 2, beihaidc.com
 2, beijing-lipin.com
@@ -725,6 +731,7 @@ routing = 1
 2, bmac.com.cn
 2, bobbns.com
 2, bobo.com
+2, boce.com
 2, bochaai.com
 2, boe.com
 2, boe.com.cn
@@ -851,6 +858,7 @@ routing = 1
 2, cgames.com
 2, cgbchina.com.cn
 2, cgws.com
+2, cgyouxi.com
 2, ch.com
 2, chachaba.com
 2, chaindd.com
@@ -1020,6 +1028,7 @@ routing = 1
 2, cnb.cool
 2, cnbksy.com
 2, cnblogs.com
+2, cnblogs.vip
 2, cnepub.com
 2, cnfol.com
 2, cnfolimg.com
@@ -1107,6 +1116,8 @@ routing = 1
 2, cqvip.com
 2, cr-cts.com
 2, cr173.com
+2, cravatar.cn
+2, cravatar.com
 2, crggcn.com
 2, crscm.com
 2, crsky.com
@@ -1299,6 +1310,8 @@ routing = 1
 2, dicos.com.cn
 2, dict.cn
 2, dida365.com
+2, didachuxing.com
+2, didapinche.com
 2, diiing.cn
 2, dingdachuxing.com
 2, dingdatech.com
@@ -1525,6 +1538,7 @@ routing = 1
 2, fa-part.com
 2, faasapp.cn
 2, faasdev.cn
+2, faceid.com
 2, fadfunds.com
 2, faloo.com
 2, famulei.com
@@ -1862,6 +1876,7 @@ routing = 1
 2, guigu.org
 2, guodu.com
 2, guoguo-app.com
+2, guojibk.com
 2, guokr.com
 2, guokr.net
 2, guoocang.com
@@ -1891,6 +1906,7 @@ routing = 1
 2, gzyowin.com
 2, h5uc.com
 2, hack520.com
+2, hackernews.cc
 2, hackhome.com
 2, hackinn.com
 2, hacl.cn
@@ -2522,6 +2538,7 @@ routing = 1
 2, kejet.net
 2, kekeniu.com
 2, kemen.cn
+2, keniu.com
 2, kepuchina.cn
 2, keruyun.com
 2, kesong.co
@@ -2545,6 +2562,7 @@ routing = 1
 2, kiwa-tech.com
 2, kiyuu.club
 2, kjcdn.com
+2, kjrb.com.cn
 2, kjwugx.com
 2, kk1.vip
 2, kkmh.com
@@ -3071,6 +3089,7 @@ routing = 1
 2, nadianshi.com
 2, nagcloudcs.com
 2, naixuecha.com
+2, nalrer.cn
 2, namiso.com
 2, nanhaicorp.com
 2, nanyuenews.com
@@ -3207,6 +3226,7 @@ routing = 1
 2, onlylady.com
 2, oojsq.com
 2, opdown.com
+2, open-douyin.com
 2, opencourse.pku.edu.cn
 2, openjudge.cn
 2, openkylin.top
@@ -3497,6 +3517,7 @@ routing = 1
 2, route53.cn
 2, routewize.com
 2, rqnoj.cn
+2, rrmj.plus
 2, rt-mart.com.cn
 2, rtbasia.com
 2, ruan8.com
@@ -3505,6 +3526,7 @@ routing = 1
 2, rubyconfchina.org
 2, ruguoapp.com
 2, ruiwen.com
+2, runningcheese.com
 2, runoob.com
 2, ruseer.com
 2, rwkv.cn
@@ -3739,6 +3761,7 @@ routing = 1
 2, staticfile.org
 2, statickksmg.com
 2, stcn.com
+2, stdaily.com
 2, steam302.xyz
 2, steampp.net
 2, sto-express.cn
@@ -3945,6 +3968,7 @@ routing = 1
 2, todesk.cn
 2, todesk.com
 2, tokyotrial.cn
+2, tol.vip
 2, tom.com
 2, tongdun.net
 2, tongfangpc.com
@@ -4135,6 +4159,7 @@ routing = 1
 2, voc.com.cn
 2, voicecloud.cn
 2, vpgame.com
+2, vpsvs.com
 2, vrzwk.cn
 2, vrzwk.com
 2, vrzwk.net
@@ -4179,6 +4204,7 @@ routing = 1
 2, webankcdn.net
 2, webgame163.com
 2, webmasterhome.cn
+2, webportal.top
 2, webterren.com
 2, wegame.com
 2, wegame.com.cn
@@ -4199,6 +4225,7 @@ routing = 1
 2, wenkeju.com
 2, wenkub.com
 2, wenmingban.com
+2, wenpai.org
 2, wenshushu.cn
 2, wenshushu.com
 2, wenwo.com
@@ -4223,6 +4250,7 @@ routing = 1
 2, win8.net
 2, win8china.com
 2, wind.com.cn
+2, windfonts.com
 2, windows10zj.com
 2, windows7en.com
 2, windowszj.com
@@ -4256,6 +4284,7 @@ routing = 1
 2, woodo.cn
 2, wooyun.org
 2, woozooo.com
+2, workercn.cn
 2, worktile.com
 2, worldofship.cn
 2, worldoftank.cn
@@ -4268,6 +4297,7 @@ routing = 1
 2, woxihuan.com
 2, woyaogexing.com
 2, woyoo.com
+2, wpcy.com
 2, wps.cn
 2, wps.com
 2, wpscdn.cn
@@ -4504,6 +4534,7 @@ routing = 1
 2, yiyouliao.com
 2, yizhibo.com
 2, yjbys.com
+2, yjwujian.cn
 2, yksdks.com
 2, ykzq.com
 2, yl-scm.com
@@ -4613,6 +4644,7 @@ routing = 1
 2, yunpan.aliyun.com
 2, yunpan.cn
 2, yunpan.com
+2, yunpian.com
 2, yunqishi.net
 2, yunshipei.com
 2, yunxiao.com
@@ -4634,6 +4666,7 @@ routing = 1
 2, yy.com
 2, yyds.co
 2, yyshub.top
+2, yysls.cn
 2, yystatic.com
 2, yystv.cn
 2, yytcdn.com
