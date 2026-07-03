@@ -4,6 +4,7 @@
 name = 虎扑去广告
 hostname = games.mobileapi.hupu.com, du.hupucdn.com, hoopchina.com.cn, goblin.hupu.com
 
+0, 0, ^https?://goblin\.hupu\.com(?:[/:?]|$), 2, {}
 0, 0, ^https?://games\.mobileapi\.hupu\.com/.+?/(?:interfaceAdMonitor|interfaceAd)/, 2, {}
 0, 0, ^https?://games\.mobileapi\.hupu\.com/.+?/status/init, 2, {}
 0, 0, ^https?://goblin\.hupu\.com/.+/interfaceAd/getOther, 2, {}

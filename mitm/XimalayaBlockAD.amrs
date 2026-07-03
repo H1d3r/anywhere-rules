@@ -19,8 +19,6 @@ hostname = gslbali.ximalaya.com, search.ximalaya.com, searchwsa.ximalaya.com, mo
 0, 0, ^https://[^/]+/subscribe/v\d/subscribe/recommend(?:\?|$), 2, {}
 0, 0, ^https://[^/]+/mobile-user/v\d/purchased/recommend/, 2, {}
 0, 0, ^https://[^/]+/community/square/v\d/stream(?:\?|$), 2, "{""data"":{""cards"":[{""content"":{},""type"":""RECOMMENDS""}]},""ret"":0}"
-0, 2, ^https://[^/]+/(?:discovery-feed/v\d/mix/|discovery-category/customCategories/|football-portal/diff2/batch(?:\?|$)|nexus-web/v\d/tabs/customTabs(?:\?|$)|mobile-playpage/playpage/tabs/v2/|mobile-user/v\d/homePage/), accept-encoding
-0, 1, ^https://[^/]+/(?:discovery-feed/v\d/mix/|discovery-category/customCategories/|football-portal/diff2/batch(?:\?|$)|nexus-web/v\d/tabs/customTabs(?:\?|$)|mobile-playpage/playpage/tabs/v2/|mobile-user/v\d/homePage/), accept-encoding, identity
 1, 5, ^https://[^/]+/football-portal/diff2/batch(?:\?|$), delete, $.json.ad
 1, 5, ^https://[^/]+/football-portal/diff2/batch(?:\?|$), delete, $.json.toc
 1, 5, ^https://[^/]+/mobile-playpage/playpage/tabs/v2/, delete, $.data.playpage.resourceMap.defaultResource

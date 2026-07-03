@@ -10,8 +10,6 @@ hostname = edith.xiaohongshu.com, www.xiaohongshu.com, ci.xiaohongshu.com, rec.x
 0, 0, ^https://edith\.xiaohongshu\.com/api/sns/v\d+/guide/user_banner(?:\?|$), 2, {}
 0, 0, ^https://www\.xiaohongshu\.com/api/sns/(?:v\d+/ads/resource|v\d+/hey/\w+/hey_gallery)(?:\?|$), 2, {}
 0, 0, ^https://ci\.xiaohongshu\.com/system_config/watermark(?:\?|$), 3
-0, 2, ^https://[^/]+/api/sns/(?:v\d+/search/(?:banner|hot)_list(?:\?|$)|v\d+/search/(?:hint|trending)(?:\?|$)|v\d+/search/notes(?:\?|$)|v\d+/system_service/(?:config|splash_config)(?:\?|$)|v\d+/note/(?:widgets|imagefeed|live_photo/save)(?:\?|$)|(?:v4/followfeed|v6/homefeed)(?:\?|$)|(?:v2/note/feed|v3/note/videofeed|v4/note/videofeed|v10/note/video/save)(?:\?|$)|(?:v5/note/comment/list|v3/note/comment/sub_comments)(?:\?|$)|v1/interaction/comment/video/download(?:\?|$)), accept-encoding
-0, 1, ^https://[^/]+/api/sns/(?:v\d+/search/(?:banner|hot)_list(?:\?|$)|v\d+/search/(?:hint|trending)(?:\?|$)|v\d+/search/notes(?:\?|$)|v\d+/system_service/(?:config|splash_config)(?:\?|$)|v\d+/note/(?:widgets|imagefeed|live_photo/save)(?:\?|$)|(?:v4/followfeed|v6/homefeed)(?:\?|$)|(?:v2/note/feed|v3/note/videofeed|v4/note/videofeed|v10/note/video/save)(?:\?|$)|(?:v5/note/comment/list|v3/note/comment/sub_comments)(?:\?|$)|v1/interaction/comment/video/download(?:\?|$)), accept-encoding, identity
 1, 5, ^https://[^/]+/api/sns/v\d+/search/banner_list(?:\?|$), add, $.data, {}
 1, 5, ^https://[^/]+/api/sns/v\d+/search/hot_list(?:\?|$), replace, $.data.items, []
 1, 5, ^https://[^/]+/api/sns/v\d+/search/hint(?:\?|$), replace, $.data.hint_words, []

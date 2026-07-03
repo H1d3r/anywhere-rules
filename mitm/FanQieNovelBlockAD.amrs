@@ -4,6 +4,8 @@
 name = 番茄小说去广告
 hostname = pangolin-sdk-toutiao.com, pglstatp-toutiao.com, pstatp.com, gurd.snssdk.com, snssdk.com, byteimg.com, default.ixigua.com
 
+0, 0, ^https?://(?:i-lq|is-lq|mcs|tnc3-alisc1|security-lq|tnc3-aliec2)\.snssdk\.com(?:[/:?]|$), 2, 
+0, 0, ^https?://default\.ixigua\.com(?:[/:?]|$), 2, 
 0, 0, ^https?://.+\.pangolin-sdk-toutiao\.com/api/ad/union/sdk/(?:get_ads|stats|settings)/, 2, 
 0, 0, ^https?://.+\.pglstatp-toutiao\.com/.+/toutiao\.mp4, 2, 
 0, 0, ^https?://.+\.(?:pglstatp-toutiao|pstatp)\.com/(?:obj|img)/(?:ad-app-package|ad)/.+, 3

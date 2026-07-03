@@ -4,6 +4,7 @@
 name = 网易云音乐去广告基础版
 hostname = music.163.com, ipv4.music.163.com, interface.music.163.com, interface1.music.163.com, interface2.music.163.com, interface3.music.163.com, interface4.music.163.com, interface5.music.163.com, interface6.music.163.com, interface7.music.163.com, interface8.music.163.com, interface9.music.163.com
 
+0, 0, ^https?://httpdns\.music\.163\.com(?:[/:?]|$), 2, {}
 0, 0, ^https://[^/]+/x?e?api/ad(?:[/?].*|$), 2, {}
 0, 0, ^https://[^/]+/w?e?api/(?:side-bar/mini-program/music-service/account|delivery/(?:batch-deliver|deliver)|moment/tab/info/get|yunbei/account/entrance/get)(?:\?|$), 2, {}
 0, 0, ^https://[^/]+/x?eapi/(?:resource/comments?/musiciansaid|community/friends/fans-group/artist/group/get|user/sub/artist|music/songshare/text/recommend/get|mine/applet/redpoint|resniche/position/play/new/get)(?:\?|$), 2, {}

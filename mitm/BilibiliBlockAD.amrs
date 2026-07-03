@@ -4,16 +4,6 @@
 name = Bilibili去广告
 hostname = grpc.biliapi.net, app.bilibili.com, api.bilibili.com, api.live.bilibili.com, line3-h5-mobile-api.biligame.com
 
-0, 2, ^https://[^/]+/(?:pgc/page/channel|x/v2/splash/(?:list|show|event/list2)|x/resource/show/(?:tab/v2|skin)|x/v2/account/(?:mine(?:/ipad)?|myinfo)|xlive/(?:app-interface/v2/index/feed|app-room/v1/index/getInfoBy(?:Room|User))|x/pd-proxy/tracker)(?:\?|$), accept-encoding
-0, 1, ^https://[^/]+/(?:pgc/page/channel|x/v2/splash/(?:list|show|event/list2)|x/resource/show/(?:tab/v2|skin)|x/v2/account/(?:mine(?:/ipad)?|myinfo)|xlive/(?:app-interface/v2/index/feed|app-room/v1/index/getInfoBy(?:Room|User))|x/pd-proxy/tracker)(?:\?|$), accept-encoding, identity
-0, 2, ^https://[^/]+/x/resource/show/tab/v2(?:\?|$), accept-encoding
-0, 1, ^https://[^/]+/x/resource/show/tab/v2(?:\?|$), accept-encoding, identity
-0, 2, ^https://[^/]+/pgc/view/v2/app/season(?:\?|$), accept-encoding
-0, 1, ^https://[^/]+/pgc/view/v2/app/season(?:\?|$), accept-encoding, identity
-0, 2, ^https://[^/]+/x/v2/feed/index(?:/story)?(?:\?|$), accept-encoding
-0, 1, ^https://[^/]+/x/v2/feed/index(?:/story)?(?:\?|$), accept-encoding, identity
-0, 2, ^https://grpc\.biliapi\.net/bilibili\.app\.(?:interface\.v1\.(?:Teenagers/ModeStatus|Search/DefaultWords)|view\.v1\.View/TFInfo|viewunite\.v1\.View/(?:PlayPause|ViewEndPage))(?:\?|$), accept-encoding
-0, 1, ^https://grpc\.biliapi\.net/bilibili\.app\.(?:interface\.v1\.(?:Teenagers/ModeStatus|Search/DefaultWords)|view\.v1\.View/TFInfo|viewunite\.v1\.View/(?:PlayPause|ViewEndPage))(?:\?|$), accept-encoding, identity
 0, 2, ^https://grpc\.biliapi\.net/bilibili\.app\.(?:interface\.v1\.(?:Teenagers/ModeStatus|Search/DefaultWords)|view\.v1\.View/TFInfo|viewunite\.v1\.View/(?:PlayPause|ViewEndPage))(?:\?|$), grpc-accept-encoding
 0, 1, ^https://grpc\.biliapi\.net/bilibili\.app\.(?:interface\.v1\.(?:Teenagers/ModeStatus|Search/DefaultWords)|view\.v1\.View/TFInfo|viewunite\.v1\.View/(?:PlayPause|ViewEndPage))(?:\?|$), grpc-accept-encoding, identity
 0, 2, ^https://grpc\.biliapi\.net/bilibili\.app\.(?:interface\.v1\.(?:Teenagers/ModeStatus|Search/DefaultWords)|view\.v1\.View/TFInfo|viewunite\.v1\.View/(?:PlayPause|ViewEndPage))(?:\?|$), grpc-encoding

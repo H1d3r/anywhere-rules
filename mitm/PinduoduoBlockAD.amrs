@@ -4,8 +4,6 @@
 name = 拼多多去广告
 hostname = api.pinduoduo.com, api.yangkeduo.com, mobile.yangkeduo.com
 
-0, 2, ^https://[^/]+/proxy/api/api/express/post/waybill/red_packet/goods_list(?:\?|$), accept-encoding
-0, 1, ^https://[^/]+/proxy/api/api/express/post/waybill/red_packet/goods_list(?:\?|$), accept-encoding, identity
 0, 0, ^https://[^/]+/api/cappuccino/splash(?:\?|$), 2, {}
 0, 0, ^https://[^/]+/api/aquarius/hungary/global/homepage(?:\?|$), 2, {}
 1, 5, ^https://[^/]+/proxy/api/api/express/post/waybill/red_packet/goods_list(?:\?|$), replace-recursive, list, []

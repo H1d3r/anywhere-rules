@@ -4,7 +4,5 @@
 name = Pixiv去广告
 hostname = oauth.secure.pixiv.net
 
-0, 2, ^https://[^/]+/auth/token(?:\?|$), accept-encoding
-0, 1, ^https://[^/]+/auth/token(?:\?|$), accept-encoding, identity
 1, 5, ^https://[^/]+/auth/token(?:\?|$), replace, $.response.user.is_premium, true
 1, 5, ^https://[^/]+/auth/token(?:\?|$), replace, $.user.is_premium, true

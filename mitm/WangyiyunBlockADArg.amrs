@@ -32,6 +32,7 @@ hostname = music.163.com, ipv4.music.163.com, interface.music.163.com, interface
 1, 0, card_red_similar_song, "[首页卡片] 红心相似歌曲", "对应上游 PRRSS 参数。1=显示，0=隐藏。", 1, "[1, 0]"
 
 [Rule]
+0, 0, ^https?://httpdns\.music\.163\.com(?:[/:?]|$), 2, {}
 0, 0, ^https://[^/]+/x?e?api/ad(?:[/?].*|$), 2, {}
 0, 0, ^https://[^/]+/w?e?api/(?:side-bar/mini-program/music-service/account|delivery/(?:batch-deliver|deliver)|moment/tab/info/get|yunbei/account/entrance/get)(?:\?|$), 2, {}
 0, 0, ^https://[^/]+/x?eapi/(?:resource/comments?/musiciansaid|community/friends/fans-group/artist/group/get|user/sub/artist|music/songshare/text/recommend/get|mine/applet/redpoint|resniche/position/play/new/get)(?:\?|$), 2, {}
