@@ -1,7 +1,7 @@
 # NAME: GFW
 # GENERATED-FOR: Anywhere Routing Rule Set
 # DESCRIPTION: GFW 域名列表
-# RULES: 4360
+# RULES: 4361
 # SKIPPED: 0
 # SOURCES:
 # - https://raw.githubusercontent.com/Loyalsoldier/v2ray-rules-dat/release/gfw.txt
@@ -4024,6 +4024,7 @@ name = GFW
 2, webpkgcache.com
 2, webrtc.org
 2, websdr.org
+2, webshare.io
 2, website.new
 2, webwarper.net
 2, wechatlawsuit.com

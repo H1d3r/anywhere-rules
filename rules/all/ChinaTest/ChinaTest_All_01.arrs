@@ -5,8 +5,8 @@
 # NOTE: DOMAIN rules are mapped to Anywhere domain suffix rules.
 # RULES: 100000
 # SKIPPED: 31
-# SOURCE-RULES: 112112
-# UPSTREAM-UPDATED: 2026-07-02 02:44:21
+# SOURCE-RULES: 112121
+# UPSTREAM-UPDATED: 2026-07-04 02:33:38
 # SKIPPED-TYPES: USER-AGENT=31
 
 name = ChinaTest_01
@@ -11310,6 +11310,7 @@ name = ChinaTest_01
 2, 777haoka.com
 2, 777lala.com
 2, 777moban.com
+2, 777ppt.com
 2, 777sy.com
 2, 777yh.am
 2, 7788.com
@@ -13769,6 +13770,7 @@ name = ChinaTest_01
 2, admin5.net
 2, admin6.com
 2, admin88.com
+2, admincdn.com
 2, adminer.com
 2, admintony.com
 2, adminxe.com
@@ -18408,6 +18410,7 @@ name = ChinaTest_01
 2, beidousafety.org
 2, beidouxingxueche.com
 2, beiduolab.com
+2, beie.org
 2, beierbio.com
 2, beierjin.net
 2, beieryouxi.com
@@ -42403,6 +42406,7 @@ name = ChinaTest_01
 2, guojiayikao.com
 2, guojiayixuekaoshi.com
 2, guojiazhiyezige.com
+2, guojibk.com
 2, guojiexpress.com
 2, guojijinjia.com
 2, guojimami.com
@@ -79065,6 +79069,7 @@ name = ChinaTest_01
 2, rrjc.com
 2, rrkf.com
 2, rrky.com
+2, rrmj.plus
 2, rrppt.com
 2, rrrdai.com
 2, rrrrdaimao.com
@@ -90577,6 +90582,7 @@ name = ChinaTest_01
 2, tokenglish.com
 2, tokensky.net
 2, tokimekiclub.org
+2, tol.vip
 2, tol24.com
 2, tom.cat
 2, tom163.net
@@ -94130,6 +94136,7 @@ name = ChinaTest_01
 2, vpsrb.com
 2, vpsss.net
 2, vpssw.com
+2, vpsvs.com
 2, vpsvsvps.com
 2, vpszh.com
 2, vptek.com
@@ -95768,6 +95775,7 @@ name = ChinaTest_01
 2, wenmeng.com
 2, wenmi114.com
 2, wenneart.com
+2, wenpai.org
 2, wenpie.com
 2, wenqy.com
 2, wenroo.com
@@ -97352,6 +97360,7 @@ name = ChinaTest_01
 2, wpceo.com
 2, wpcio.com
 2, wpcsh.com
+2, wpcy.com
 2, wpdaxue.com
 2, wpdian.com
 2, wpengapp.com
@@ -100001,12 +100010,3 @@ name = ChinaTest_01
 2, xinchao.com
 2, xinchaoss.com
 2, xinchego.com
-2, xinchenai.com
-2, xincheng.com
-2, xinchengbio.com
-2, xinchengge13.com
-2, xinchengyue.com
-2, xincheping.com
-2, xinchess.com
-2, xinchuanbo.com
-2, xinchuang-bio.com

@@ -3,9 +3,9 @@
 # SOURCE: https://github.com/blackmatrix7/ios_rule_script/blob/master/rule/Surge/Global/Global_All.list
 # GENERATED-FOR: Anywhere Routing Rule Set
 # NOTE: DOMAIN rules are mapped to Anywhere domain suffix rules.
-# RULES: 34786
+# RULES: 34797
 # SKIPPED: 47
-# UPSTREAM-UPDATED: 2026-07-02 02:43:40
+# UPSTREAM-UPDATED: 2026-07-04 02:32:57
 # SKIPPED-TYPES: PROCESS-NAME=1, USER-AGENT=46
 
 name = Global
@@ -3911,6 +3911,7 @@ name = Global
 2, blackstonespoliceservice.com
 2, blacktowhite.net
 2, blake.ac.uk
+2, blanc.ru
 2, blaoshi.cc
 2, blast.io
 2, blazor.net
@@ -4592,6 +4593,7 @@ name = Global
 2, bostoncentre.ac.uk
 2, boswp.com
 2, botframework.com
+2, botim.me
 2, botmechanic.io
 2, botorch.org
 2, botstop.com
@@ -6302,6 +6304,7 @@ name = Global
 2, coova.net
 2, coova.org
 2, copac.ac.uk
+2, copilot.com
 2, copim.ac.uk
 2, copior.ac.uk
 2, copro.pw
@@ -12055,6 +12058,9 @@ name = Global
 2, horizontal-systems.com
 2, horizontalglue.com
 2, horizontalsystems.com
+2, hornet.com
+2, hornetapp.com
+2, hornetx.com
 2, horniman.ac.uk
 2, hornyasianmilfs.com
 2, hornybitches.org
@@ -14972,6 +14978,7 @@ name = Global
 2, listerpostgraduate.ac.uk
 2, listinganalytics.net
 2, litbus-anime.com
+2, litecoin.org
 2, literatumonline.com
 2, literotica.com
 2, litt.ac.uk
@@ -17526,7 +17533,9 @@ name = Global
 2, netflixtechblog.com
 2, netlab.ac.uk
 2, netlify.com
+2, netlifydns.com
 2, netlifystatus.com
+2, netlifyusercontent.com
 2, netlock.hu
 2, netname.com.br
 2, netpornsex.com
@@ -18173,6 +18182,7 @@ name = Global
 2, ntec.ac.uk
 2, ntfs.ac.uk
 2, ntidagenham.ac.uk
+2, ntl.fyi
 2, ntnews.com.au
 2, ntp-os01.ocn.ad.jp
 2, ntp-tk01.ocn.ad.jp
@@ -34161,6 +34171,7 @@ name = Global
 2, webrush.net
 2, webs-tv.net
 2, websdr.org
+2, webshare.io
 2, website.new
 2, websitepulse.com
 2, websnapr.com

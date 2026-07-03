@@ -5,7 +5,7 @@
 # NOTE: DOMAIN rules are mapped to Anywhere domain suffix rules.
 # RULES: 68
 # SKIPPED: 31
-# UPSTREAM-UPDATED: 2026-07-02 02:44:21
+# UPSTREAM-UPDATED: 2026-07-04 02:33:38
 # SKIPPED-TYPES: USER-AGENT=31
 
 name = ChinaTest

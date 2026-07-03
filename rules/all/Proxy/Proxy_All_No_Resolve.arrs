@@ -3,9 +3,9 @@
 # SOURCE: https://github.com/blackmatrix7/ios_rule_script/blob/master/rule/Surge/Proxy/Proxy_All_No_Resolve.list
 # GENERATED-FOR: Anywhere Routing Rule Set
 # NOTE: DOMAIN rules are mapped to Anywhere domain suffix rules.
-# RULES: 6879
+# RULES: 6880
 # SKIPPED: 8
-# UPSTREAM-UPDATED: 2026-07-02 02:44:03
+# UPSTREAM-UPDATED: 2026-07-04 02:33:20
 # SKIPPED-TYPES: USER-AGENT=8
 
 name = Proxy
@@ -6275,6 +6275,7 @@ name = Proxy
 2, webrush.net
 2, webs-tv.net
 2, websdr.org
+2, webshare.io
 2, website.new
 2, websitepulse.com
 2, websnapr.com
