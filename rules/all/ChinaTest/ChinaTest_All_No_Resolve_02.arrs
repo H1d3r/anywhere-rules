@@ -3,12 +3,21 @@
 # SOURCE: https://github.com/blackmatrix7/ios_rule_script/blob/master/rule/Surge/ChinaTest/ChinaTest_All_No_Resolve.list
 # GENERATED-FOR: Anywhere Routing Rule Set
 # NOTE: DOMAIN rules are mapped to Anywhere domain suffix rules.
-# RULES: 12112
+# RULES: 12121
 # SKIPPED: 0
-# SOURCE-RULES: 112112
-# UPSTREAM-UPDATED: 2026-07-02 02:44:21
+# SOURCE-RULES: 112121
+# UPSTREAM-UPDATED: 2026-07-04 02:33:38
 
 name = ChinaTest_02
+2, xinchenai.com
+2, xincheng.com
+2, xinchengbio.com
+2, xinchengge13.com
+2, xinchengyue.com
+2, xincheping.com
+2, xinchess.com
+2, xinchuanbo.com
+2, xinchuang-bio.com
 2, xincj.com
 2, xincmm.com
 2, xincode.com

@@ -1,6 +1,6 @@
 {
   "total_files": 40,
-  "total_rules": 87950,
+  "total_rules": 87951,
   "total_skipped": 126,
   "files": [
     {
@@ -79,7 +79,7 @@
       "name": "GFW",
       "description": "GFW 域名列表",
       "output_path": "common/GFW.arrs",
-      "rule_count": 4360,
+      "rule_count": 4361,
       "skipped_count": 0,
       "unsupported_types": {},
       "sources": [
