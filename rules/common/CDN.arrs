@@ -1,7 +1,7 @@
 # NAME: CDN
 # GENERATED-FOR: Anywhere Routing Rule Set
 # DESCRIPTION: SukkaW CDN 直连辅助
-# RULES: 4558
+# RULES: 4562
 # SKIPPED: 58
 # SKIPPED-TYPES: DOMAIN-WILDCARD=58
 # SOURCES:
@@ -769,6 +769,7 @@ routing = 1
 2, sdk.gleap.io
 2, sdk.split.io
 2, sitescdn.net
+2, sm.pcmag.com
 2, smassets.net
 2, smushcdn.com
 2, stapecdn.com
@@ -1094,6 +1095,7 @@ routing = 1
 2, assets.ibm.com
 2, assets.msn.com
 2, assets.orz.uno
+2, assets.pscp.tv
 2, b.manufact.com
 2, bestjavcdn.com
 2, boomio-cdn.com
@@ -2435,6 +2437,7 @@ routing = 1
 2, assetscdn.jable.tv
 2, avatar.freepik.com
 2, avatars.micro.blog
+2, b2b-contenthub.com
 2, b2c-contenthub.com
 2, badges.crowdin.net
 2, betterstackcdn.com
@@ -4394,6 +4397,7 @@ routing = 1
 2, identity-assets.getpostman.com
 2, image.email.microsoftemail.com
 2, learn-attachment.microsoft.com
+2, legacy-us-images.foundryco.app
 2, loader.mantis-intelligence.com
 2, next-images.opencollective.com
 2, nodebox-runtime.codesandbox.io
