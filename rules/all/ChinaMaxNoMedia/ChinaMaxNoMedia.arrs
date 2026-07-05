@@ -3,20 +3,24 @@
 # SOURCE: https://github.com/blackmatrix7/ios_rule_script/blob/master/rule/Surge/ChinaMaxNoMedia/ChinaMaxNoMedia.list
 # GENERATED-FOR: Anywhere Routing Rule Set
 # NOTE: DOMAIN rules are mapped to Anywhere domain suffix rules.
-# RULES: 12425
+# RULES: 12437
 # SKIPPED: 78
-# UPSTREAM-UPDATED: 2026-07-04 02:35:43
+# UPSTREAM-UPDATED: 2026-07-06 03:11:47
 # SKIPPED-TYPES: IP-ASN=1, PROCESS-NAME=12, USER-AGENT=65
 
 name = ChinaMaxNoMedia
-2, alibaba
-2, tmall
 2, cn
 2, ms
+2, alibaba
+2, anquan
 2, citic
+2, shouji
+2, sina
 2, sohu
+2, tmall
 2, unicom
 2, wang
+2, xihuan
 2, xn--1qqw23a
 2, xn--3bst00m
 2, xn--3ds443g
@@ -27,6 +31,7 @@ name = ChinaMaxNoMedia
 2, xn--6qq986b3xl
 2, xn--8y0a063a
 2, xn--9et52u
+2, xn--9krt00a
 2, xn--czr694b
 2, xn--czrs0t
 2, xn--czru2d
@@ -49,6 +54,7 @@ name = ChinaMaxNoMedia
 2, xn--vuq861b
 2, xn--xhq521b
 2, xn--zfr164b
+2, yun
 2, icbc
 3, .tmall.com
 3, alicdn
@@ -3746,6 +3752,7 @@ name = ChinaMaxNoMedia
 0, 154.72.47.0/24
 0, 154.8.128.0/17
 0, 154.8.48.0/20
+0, 154.84.180.0/24
 0, 154.89.32.0/20
 0, 154.91.158.0/23
 0, 155.102.0.0/16
@@ -4412,6 +4419,7 @@ name = ChinaMaxNoMedia
 0, 188.241.80.0/24
 0, 188.65.16.0/22
 0, 189.31.222.0/24
+0, 189.75.180.0/24
 0, 189.75.185.0/24
 0, 191.219.18.0/24
 0, 191.222.245.0/24
@@ -4514,6 +4522,7 @@ name = ChinaMaxNoMedia
 0, 20.253.4.0/24
 0, 20.253.89.0/24
 0, 20.255.255.0/24
+0, 200.102.179.0/24
 0, 200.102.180.0/24
 0, 201.11.233.0/24
 0, 201.14.217.0/24
@@ -8227,6 +8236,7 @@ name = ChinaMaxNoMedia
 0, 67.199.159.224/30
 0, 67.220.137.144/28
 0, 67.220.158.24/29
+0, 68.166.209.0/24
 0, 68.79.0.0/18
 0, 69.107.7.16/29
 0, 69.163.104.0/24
@@ -8238,6 +8248,7 @@ name = ChinaMaxNoMedia
 0, 69.231.128.0/18
 0, 69.234.192.0/18
 0, 69.235.128.0/18
+0, 69.33.203.0/24
 0, 69.85.93.0/24
 0, 71.131.192.0/18
 0, 71.132.0.0/18
@@ -12247,6 +12258,7 @@ name = ChinaMaxNoMedia
 1, 2a0f:1cc5:40::/48
 1, 2a0f:1cc5:4508::/46
 1, 2a0f:1cc5:45ff::/48
+1, 2a0f:1cc5:4700::/40
 1, 2a0f:1cc5:600::/47
 1, 2a0f:1cc5:603::/48
 1, 2a0f:1cc5:642::/48
@@ -12310,7 +12322,7 @@ name = ChinaMaxNoMedia
 1, 2a13:1800::/29
 1, 2a13:8b40::/29
 1, 2a13:8c87::/32
-1, 2a13:9500:194::/48
+1, 2a13:9500:194::/47
 1, 2a13:a5c3:d600::/42
 1, 2a13:a5c3:f000::/40
 1, 2a13:a5c3:f1c0::/44

@@ -3,20 +3,24 @@
 # SOURCE: https://github.com/blackmatrix7/ios_rule_script/blob/master/rule/Surge/ChinaMaxNoIP/ChinaMaxNoIP.list
 # GENERATED-FOR: Anywhere Routing Rule Set
 # NOTE: DOMAIN rules are mapped to Anywhere domain suffix rules.
-# RULES: 54
+# RULES: 60
 # SKIPPED: 77
-# UPSTREAM-UPDATED: 2026-07-04 02:35:06
+# UPSTREAM-UPDATED: 2026-07-06 03:11:14
 # SKIPPED-TYPES: PROCESS-NAME=12, USER-AGENT=65
 
 name = ChinaMaxNoIP
-2, alibaba
-2, tmall
 2, cn
 2, ms
+2, alibaba
+2, anquan
 2, citic
+2, shouji
+2, sina
 2, sohu
+2, tmall
 2, unicom
 2, wang
+2, xihuan
 2, xn--1qqw23a
 2, xn--3bst00m
 2, xn--3ds443g
@@ -27,6 +31,7 @@ name = ChinaMaxNoIP
 2, xn--6qq986b3xl
 2, xn--8y0a063a
 2, xn--9et52u
+2, xn--9krt00a
 2, xn--czr694b
 2, xn--czrs0t
 2, xn--czru2d
@@ -49,6 +54,7 @@ name = ChinaMaxNoIP
 2, xn--vuq861b
 2, xn--xhq521b
 2, xn--zfr164b
+2, yun
 2, icbc
 3, .tmall.com
 3, alicdn

@@ -2,8 +2,8 @@
 # GENERATED-FOR: Anywhere Routing Rule Set
 # DESCRIPTION: Geosite 中国大陆域名规则
 # GEOSITE-CODE: GEOLOCATION-CN
-# RULES: 4841
-# SOURCE-RULES: 4844
+# RULES: 4845
+# SOURCE-RULES: 4848
 # SKIPPED: 3
 # SKIPPED-TYPES: Regex=3
 # SOURCES:
@@ -495,6 +495,7 @@ routing = 1
 2, anlaiye.com
 2, anlaiye.com.cn
 2, anmo.com
+2, anquan
 2, anquan.org
 2, anquanke.com
 2, anruan.com
@@ -3645,6 +3646,7 @@ routing = 1
 2, shmetro.com
 2, shobserver.com
 2, shopss.com
+2, shouji
 2, shoujihuifu.com
 2, shouqianba.com
 2, shoutanjjj.com
@@ -4390,6 +4392,7 @@ routing = 1
 2, xiazaiba.com
 2, xiezuocat.com
 2, xiguacity.cn
+2, xihuan
 2, xilu.com
 2, ximalaya.com
 2, xinchacha.com
@@ -4626,6 +4629,7 @@ routing = 1
 2, yuelun.com
 2, yuketang.cn
 2, yumchina.com
+2, yun
 2, yun.139.com
 2, yunaq.com
 2, yunba.io
