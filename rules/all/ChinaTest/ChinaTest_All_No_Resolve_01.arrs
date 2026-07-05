@@ -5,8 +5,8 @@
 # NOTE: DOMAIN rules are mapped to Anywhere domain suffix rules.
 # RULES: 100000
 # SKIPPED: 31
-# SOURCE-RULES: 112121
-# UPSTREAM-UPDATED: 2026-07-04 02:33:38
+# SOURCE-RULES: 112127
+# UPSTREAM-UPDATED: 2026-07-06 03:09:47
 # SKIPPED-TYPES: USER-AGENT=31
 
 name = ChinaTest_01
@@ -15625,6 +15625,7 @@ name = ChinaTest_01
 2, anqingzhiyun.com
 2, anqn.com
 2, anqu.com
+2, anquan
 2, anquan.info
 2, anquanbao.com
 2, anquanjs.com
@@ -35063,7 +35064,6 @@ name = ChinaTest_01
 2, embryochina.com
 2, embsky.com
 2, emby.men
-2, emby.yun
 2, embyvip.org
 2, emcbj.com
 2, emcdir.com
@@ -82977,6 +82977,7 @@ name = ChinaTest_01
 2, shouhuisoft.com
 2, shouhuojiyun.com
 2, shouhuola.com
+2, shouji
 2, shouji.com
 2, shouji.racing
 2, shouji10086.com
@@ -83866,6 +83867,7 @@ name = ChinaTest_01
 2, simwe.com
 2, simxhs.com
 2, sin0sites.com
+2, sina
 2, sina-cf.com
 2, sina.lt
 2, sinacdn.com
@@ -95299,6 +95301,7 @@ name = ChinaTest_01
 2, weibang.vip
 2, weibangong.com
 2, weibanzhushou.com
+2, weibo
 2, weibo.tv
 2, weibochem.com
 2, weiboi.com
@@ -99905,6 +99908,7 @@ name = ChinaTest_01
 2, xihazsww.com
 2, xihegp.com
 2, xiherencai.com
+2, xihuan
 2, xihuan.me
 2, xihusgh.com
 2, xiimoon.com
@@ -100006,7 +100010,3 @@ name = ChinaTest_01
 2, xinchacha.com
 2, xinchaipower.com
 2, xinchanfeng.com
-2, xinchangol.com
-2, xinchao.com
-2, xinchaoss.com
-2, xinchego.com

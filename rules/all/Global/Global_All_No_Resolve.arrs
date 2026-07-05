@@ -3,9 +3,9 @@
 # SOURCE: https://github.com/blackmatrix7/ios_rule_script/blob/master/rule/Surge/Global/Global_All_No_Resolve.list
 # GENERATED-FOR: Anywhere Routing Rule Set
 # NOTE: DOMAIN rules are mapped to Anywhere domain suffix rules.
-# RULES: 34797
+# RULES: 34800
 # SKIPPED: 47
-# UPSTREAM-UPDATED: 2026-07-04 02:32:57
+# UPSTREAM-UPDATED: 2026-07-06 03:09:05
 # SKIPPED-TYPES: PROCESS-NAME=1, USER-AGENT=46
 
 name = Global
@@ -56,7 +56,6 @@ name = Global
 2, hub.slarker.me
 2, i.jeded.com
 2, imperial.insendi.com
-2, ingest.apple-studies.com
 2, lgelectronics.122.2o7.net
 2, linkedin.sc.omtrdc.net
 2, live-patreon-marketing.pantheonsite.io
@@ -2017,6 +2016,7 @@ name = Global
 2, apple-pay.wang
 2, apple-store.net
 2, apple-store.wang
+2, apple-studies.com
 2, apple-usa.net
 2, apple.ae
 2, apple.at
@@ -2546,6 +2546,7 @@ name = Global
 2, atlassian-dev.net
 2, atlassian.com
 2, atlassian.net
+2, atmeta.com
 2, atokara.jp
 2, atom.io
 2, atomyze.ru
@@ -2926,6 +2927,7 @@ name = Global
 2, aziani.com
 2, aznude.com
 2, azubu.tv
+2, azure-api.net
 2, azure-devices-int.net
 2, azure-devices.net
 2, azure-dns.com
@@ -2961,6 +2963,7 @@ name = Global
 2, azureserviceprofiler.com
 2, azuresmartspaces.net
 2, azurestackvalidation.com
+2, azurestaticapps.net
 2, b-cdn.net
 2, b-eroland.net
 2, b-ok.africa
