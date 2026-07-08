@@ -2,8 +2,8 @@
 # GENERATED-FOR: Anywhere Routing Rule Set
 # DESCRIPTION: Geosite 中国大陆域名规则
 # GEOSITE-CODE: GEOLOCATION-CN
-# RULES: 4845
-# SOURCE-RULES: 4848
+# RULES: 4864
+# SOURCE-RULES: 4867
 # SKIPPED: 3
 # SKIPPED-TYPES: Regex=3
 # SOURCES:
@@ -511,6 +511,7 @@ routing = 1
 2, anywlan.com
 2, anzhuo.cn
 2, aocde.com
+2, aorizon.cn
 2, aoshu.com
 2, aotrip.net
 2, aoyou.com
@@ -996,6 +997,7 @@ routing = 1
 2, cjjd19.com
 2, cjol.com
 2, cjsc.com
+2, cjyun.org
 2, ckd.im
 2, ckxx.net
 2, clawhub-mirror.com
@@ -1946,6 +1948,8 @@ routing = 1
 2, haoyouyinxiang.com
 2, hapjs.org
 2, happyhlddz.com
+2, happyhorse.cn
+2, happyshrimp.cn
 2, harmonyos.com
 2, haydaypop.cn
 2, hazq.com
@@ -2141,6 +2145,7 @@ routing = 1
 2, hxsd.com
 2, hxzq.cn
 2, hybiome.com
+2, hydun.com
 2, hypercachenode.com
 2, hytung.cn
 2, hzdtv.tv
@@ -2820,6 +2825,7 @@ routing = 1
 2, lorhf.com
 2, lotpc.com
 2, loupan.com
+2, lovestu.com
 2, lppz.com
 2, lppzimg.com
 2, lrts.me
@@ -3139,6 +3145,8 @@ routing = 1
 2, nicaifu.com
 2, nihaoafrica.org
 2, nihaorwanda.cn
+2, nikkigames.cn
+2, nikkigames.com.cn
 2, ningtingche.com
 2, nio.cn
 2, nio.com
@@ -3268,6 +3276,8 @@ routing = 1
 2, paipaibang.com
 2, pan.quark.cn
 2, paopaoche.net
+2, papegames.cn
+2, papegames.com
 2, papocket.com
 2, paydxm.com
 2, pc6.com
@@ -3691,6 +3701,7 @@ routing = 1
 2, skypixel.com
 2, skywt.cn
 2, sl916.com
+2, sleeplesshorizon.cn
 2, slk1.net
 2, sllssrq.com
 2, smartapps.cn
@@ -3857,6 +3868,7 @@ routing = 1
 2, talkingdata.com
 2, talkinggame.com
 2, tangeche.com
+2, tanwan.com
 2, tao123.com
 2, taoche.com
 2, taodocs.com
@@ -4029,6 +4041,8 @@ routing = 1
 2, tvmao.com
 2, tvzhe.com
 2, twscholar.com
+2, twyx.cn
+2, twyxh.com
 2, txrjy.com
 2, u-cdn.net
 2, u.tools
@@ -4156,6 +4170,7 @@ routing = 1
 2, vipbcw.com
 2, vipexam.org
 2, vipstatic.com
+2, vistopia.com.cn
 2, viviv.com
 2, vobao.com
 2, voc.com.cn
@@ -4440,6 +4455,7 @@ routing = 1
 2, xpccdn.com
 2, xpgod.com
 2, xqfunds.com
+2, xrbk.cn
 2, xsa239.com
 2, xsbapp.cn
 2, xsdzq.cn
@@ -4498,6 +4514,8 @@ routing = 1
 2, yeshen.com
 2, yeshj.com
 2, yesky.com
+2, yeyou.com
+2, yeyoucdn.com
 2, yfcache.com
 2, yfcalc.com
 2, yfcdn.net
@@ -4845,6 +4863,7 @@ routing = 1
 2, zuoyebang.cc
 2, zuoyebang.com
 2, zway.top
+2, zx.com
 2, zxhgroup.com
 2, zxsales.cn
 2, zxxk.com

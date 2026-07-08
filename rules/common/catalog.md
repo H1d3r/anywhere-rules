@@ -21,7 +21,7 @@
 | Microsoft | 79 | 0 | Microsoft 服务 | [common/Microsoft.arrs](./Microsoft.arrs) |
 | GitHub | 6 | 0 | GitHub | [common/GitHub.arrs](./GitHub.arrs) |
 | OneDrive | 15 | 2 | OneDrive | [common/OneDrive.arrs](./OneDrive.arrs) |
-| Telegram | 45 | 5 | Telegram 域名与 IP | [common/Telegram.arrs](./Telegram.arrs) |
+| Telegram | 46 | 5 | Telegram 域名与 IP | [common/Telegram.arrs](./Telegram.arrs) |
 | Telegram_NoIP | 30 | 0 | Telegram 域名，不含 IP | [common/Telegram_NoIP.arrs](./Telegram_NoIP.arrs) |
 | Twitter | 12 | 0 | X / Twitter | [common/Twitter.arrs](./Twitter.arrs) |
 | Instagram | 4 | 0 | Instagram | [common/Instagram.arrs](./Instagram.arrs) |
@@ -43,4 +43,4 @@
 | CDN | 4567 | 58 | SukkaW CDN 直连辅助 | [common/CDN.arrs](./CDN.arrs) |
 | CN_Accelerated | 60429 | 0 | 中国大陆 DNS 加速域名补充 | [common/CN_Accelerated.arrs](./CN_Accelerated.arrs) |
 | GeoIP_CN | 5917 | 0 | GeoIP 中国大陆 IP CIDR | [common/GeoIP_CN.arrs](./GeoIP_CN.arrs) |
-| Geosite_CN | 4845 | 3 | Geosite 中国大陆域名规则 | [common/Geosite_CN.arrs](./Geosite_CN.arrs) |
+| Geosite_CN | 4864 | 3 | Geosite 中国大陆域名规则 | [common/Geosite_CN.arrs](./Geosite_CN.arrs) |
