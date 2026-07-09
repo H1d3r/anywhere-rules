@@ -5,8 +5,8 @@
 # NOTE: DOMAIN rules are mapped to Anywhere domain suffix rules.
 # RULES: 100000
 # SKIPPED: 31
-# SOURCE-RULES: 112127
-# UPSTREAM-UPDATED: 2026-07-06 03:09:47
+# SOURCE-RULES: 112129
+# UPSTREAM-UPDATED: 2026-07-10 03:30:02
 # SKIPPED-TYPES: USER-AGENT=31
 
 name = ChinaTest_01
@@ -91931,6 +91931,7 @@ name = ChinaTest_01
 2, twty.vip
 2, twwtn.com
 2, twyuxin.com
+2, twyxh.com
 2, twyxi.com
 2, twzilla.com
 2, twzui6.com
@@ -100009,4 +100010,3 @@ name = ChinaTest_01
 2, xincha.com
 2, xinchacha.com
 2, xinchaipower.com
-2, xinchanfeng.com

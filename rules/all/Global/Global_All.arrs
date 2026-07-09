@@ -3,9 +3,9 @@
 # SOURCE: https://github.com/blackmatrix7/ios_rule_script/blob/master/rule/Surge/Global/Global_All.list
 # GENERATED-FOR: Anywhere Routing Rule Set
 # NOTE: DOMAIN rules are mapped to Anywhere domain suffix rules.
-# RULES: 34802
+# RULES: 34808
 # SKIPPED: 47
-# UPSTREAM-UPDATED: 2026-07-08 03:48:16
+# UPSTREAM-UPDATED: 2026-07-10 03:29:21
 # SKIPPED-TYPES: PROCESS-NAME=1, USER-AGENT=46
 
 name = Global
@@ -9685,6 +9685,8 @@ name = Global
 2, flowfront.com
 2, flowfront.net
 2, flowtype.org
+2, flowwow-images.com
+2, flowwow.com
 2, fluffychat.im
 2, fluidfxapp.com
 2, fluidpreview.com
@@ -10150,6 +10152,8 @@ name = Global
 2, funimation.com
 2, funnyfacebook.org
 2, funnyordie.com
+2, funpay.com
+2, funpay.ru
 2, funshemale.com
 2, fuqqt.com
 2, furaffinity.net
@@ -22001,6 +22005,7 @@ name = Global
 2, sfra.ac.uk
 2, sfs.ac.uk
 2, sfsstudents.ac.uk
+2, sfunpay.com
 2, sfx.ac.uk
 2, sfxc.ac.uk
 2, sg.weibo.com
@@ -24062,6 +24067,7 @@ name = Global
 2, tilda.ws
 2, tildaapi.com
 2, tildacdn.com
+2, tildacdn.net
 2, tilehill.ac.uk
 2, time-messenger.ru
 2, time.gov
