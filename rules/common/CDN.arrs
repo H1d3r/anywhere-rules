@@ -1,7 +1,7 @@
 # NAME: CDN
 # GENERATED-FOR: Anywhere Routing Rule Set
 # DESCRIPTION: SukkaW CDN 直连辅助
-# RULES: 4567
+# RULES: 4568
 # SKIPPED: 58
 # SKIPPED-TYPES: DOMAIN-WILDCARD=58
 # SOURCES:
@@ -4065,6 +4065,7 @@ routing = 1
 2, gibs-c.earthdata.nasa.gov
 2, global-assets.fitch.group
 2, gn-web-assets.api.bbc.com
+2, hls-svod.itunes.apple.com
 2, hub-assets.displaycal.net
 2, hv-monsterdb-data.skk.moe
 2, im.np-payment-gateway.com
