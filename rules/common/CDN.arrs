@@ -1,7 +1,7 @@
 # NAME: CDN
 # GENERATED-FOR: Anywhere Routing Rule Set
 # DESCRIPTION: SukkaW CDN 直连辅助
-# RULES: 4568
+# RULES: 4573
 # SKIPPED: 58
 # SKIPPED-TYPES: DOMAIN-WILDCARD=58
 # SOURCES:
@@ -1019,6 +1019,7 @@ routing = 1
 2, r2cdn.c7d.dev
 2, randomuser.me
 2, rawgithub.com
+2, rdr.windy.com
 2, runkitcdn.com
 2, s-nbcnews.com
 2, s.abcnews.com
@@ -1148,6 +1149,7 @@ routing = 1
 2, cdn.redhat.com
 2, cdn.redwap.xyz
 2, cdn.replit.com
+2, cdn.scalar.com
 2, cdn.seondf.com
 2, cdn.setapp.com
 2, cdn.sketch.com
@@ -1934,6 +1936,7 @@ routing = 1
 2, larksuitepkg.com
 2, launcher.spot.im
 2, lm.visualon.info
+2, magic.scalar.com
 2, mangadex.network
 2, maps.gstatic.com
 2, maps.wplace.live
@@ -3777,6 +3780,7 @@ routing = 1
 2, cas-bridge.xethub.hf.co
 2, cdn-app.pathfactory.com
 2, cdn-assets.circleci.com
+2, cdn-assets.hinative.com
 2, cdn-eu.dynamicyield.com
 2, cdn-images-1.medium.com
 2, cdn-static-1.medium.com
@@ -3989,6 +3993,7 @@ routing = 1
 2, media.telanganatoday.com
 2, melonbooks.akamaized.net
 2, micro.rubiconproject.com
+2, pha-prx.ops.cloud.nx.app
 2, photos5.appleinsider.com
 2, platforms.makemytrip.com
 2, prod-images.rippling.com
