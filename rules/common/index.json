@@ -1,6 +1,6 @@
 {
   "total_files": 40,
-  "total_rules": 88090,
+  "total_rules": 88086,
   "total_skipped": 126,
   "files": [
     {
@@ -382,7 +382,7 @@
       "name": "ChinaIP",
       "description": "中国大陆 IP CIDR",
       "output_path": "common/ChinaIP.arrs",
-      "rule_count": 5752,
+      "rule_count": 5727,
       "skipped_count": 0,
       "unsupported_types": {},
       "sources": [
@@ -450,7 +450,7 @@
       "name": "CDN",
       "description": "SukkaW CDN 直连辅助",
       "output_path": "common/CDN.arrs",
-      "rule_count": 4568,
+      "rule_count": 4573,
       "skipped_count": 58,
       "unsupported_types": {
         "DOMAIN-WILDCARD": 58
@@ -489,7 +489,7 @@
       "name": "Geosite_CN",
       "description": "Geosite 中国大陆域名规则",
       "output_path": "common/Geosite_CN.arrs",
-      "rule_count": 4864,
+      "rule_count": 4880,
       "skipped_count": 3,
       "unsupported_types": {
         "Regex": 3

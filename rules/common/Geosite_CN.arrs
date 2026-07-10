@@ -2,8 +2,8 @@
 # GENERATED-FOR: Anywhere Routing Rule Set
 # DESCRIPTION: Geosite 中国大陆域名规则
 # GEOSITE-CODE: GEOLOCATION-CN
-# RULES: 4864
-# SOURCE-RULES: 4867
+# RULES: 4880
+# SOURCE-RULES: 4883
 # SKIPPED: 3
 # SKIPPED-TYPES: Regex=3
 # SOURCES:
@@ -571,6 +571,7 @@ routing = 1
 2, babytree.com
 2, babytreeimg.com
 2, badou.com
+2, baicaf.com
 2, baichuan-ai.com
 2, baicizhan.com
 2, baicizhan.org
@@ -1268,6 +1269,7 @@ routing = 1
 2, dcdkjx.com
 2, dcloud.io
 2, dcloud.net.cn
+2, dcshfu.com
 2, dd373.com
 2, ddcorp.net
 2, ddfresh.net
@@ -1779,6 +1781,7 @@ routing = 1
 2, ghsl.cn
 2, ghxi.com
 2, ghzq.com.cn
+2, gifpay.com
 2, gifshow.com
 2, gijsq.com
 2, gio.ren
@@ -2063,6 +2066,7 @@ routing = 1
 2, houyuantuan.com
 2, howbuy.com
 2, hpplay.cn
+2, hprtupgrade.com
 2, hqchip.com
 2, hqdoc.com
 2, hqpcb.com
@@ -2242,6 +2246,7 @@ routing = 1
 2, imsyy.com
 2, in.th
 2, incopat.com
+2, indeedpower.com
 2, indienova.com
 2, inewsweek.cn
 2, infineon.cn
@@ -2267,6 +2272,7 @@ routing = 1
 2, ipchaxun.com
 2, ipchaxun.net
 2, iplaysoft.com
+2, iposl.com
 2, ipplus360.com
 2, iprdp.net
 2, iprintworks.cn
@@ -2794,6 +2800,7 @@ routing = 1
 2, linsn.com
 2, linuxidc.com
 2, liqucn.com
+2, listenai.com
 2, litessl.cn
 2, litessl.com
 2, liulanqi.net
@@ -2841,6 +2848,7 @@ routing = 1
 2, lufaxcdn.com
 2, lufunds.com
 2, luhua.cn
+2, lulian.cn
 2, lunwengo.net
 2, luogu.com.cn
 2, luojilab.com
@@ -2971,6 +2979,7 @@ routing = 1
 2, miaotixing.com
 2, miaoyanai.com
 2, miaozhen.com
+2, micun.com
 2, midasbuy.com
 2, midea.cn
 2, midea.com
@@ -3086,6 +3095,7 @@ routing = 1
 2, mysqil.com
 2, myssl-uri.com
 2, myssl.com
+2, mystery0.vip
 2, mysxl.cn
 2, myypark.com
 2, myyx618.com
@@ -3626,6 +3636,7 @@ routing = 1
 2, shangzhibo.tv
 2, shanshuihotel.com
 2, shanxijianzhuzizhi.com
+2, share123.top
 2, shareintelli.com
 2, sharejs.com
 2, sharesdk.cn
@@ -3904,6 +3915,7 @@ routing = 1
 2, texasholdemcup.net
 2, tfzq.com
 2, tgbus.com
+2, tggfl.com
 2, tgpro.top
 2, tgprocs.net
 2, th-music.com
@@ -3919,6 +3931,7 @@ routing = 1
 2, thinkprinter.cn
 2, thinkprinter.com.cn
 2, thinkprinter.net
+2, thispx.com
 2, thmnet.com
 2, threatbook.cn
 2, threatbook.com
@@ -3976,6 +3989,7 @@ routing = 1
 2, tmtpost.com
 2, tmtsmartlife.com
 2, tmtsmartrun.com
+2, tmwanba.com
 2, tnettms.com
 2, to8to.com
 2, tobosu.com
@@ -4087,6 +4101,8 @@ routing = 1
 2, uewaf.com
 2, ufileos.com
 2, uggame.com
+2, ugnas.cloud
+2, ugnas.com
 2, ugslb.cn
 2, ugslb.com
 2, ugslb.info
