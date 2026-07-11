@@ -2,8 +2,8 @@
 # GENERATED-FOR: Anywhere Routing Rule Set
 # DESCRIPTION: Geosite 中国大陆域名规则
 # GEOSITE-CODE: GEOLOCATION-CN
-# RULES: 4880
-# SOURCE-RULES: 4883
+# RULES: 4881
+# SOURCE-RULES: 4884
 # SKIPPED: 3
 # SKIPPED-TYPES: Regex=3
 # SOURCES:
@@ -403,6 +403,7 @@ routing = 1
 2, activity-zhendingtech.com
 2, acwifi.net
 2, acwing.com
+2, adacpp.com
 2, admin5.com
 2, admincdn.com
 2, adxvip.com
