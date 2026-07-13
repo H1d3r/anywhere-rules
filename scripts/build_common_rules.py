@@ -291,15 +291,6 @@ COMMON_RULE_SETS: list[dict[str, object]] = [
             "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Cloudflare/Cloudflare.list",
         ],
     },
-    {
-        "name": "CDN",
-        "description": "SukkaW CDN 直连辅助",
-        "routing": 1,
-        "sources": [
-            "https://ruleset.skk.moe/List/domainset/cdn.conf",
-            "https://ruleset.skk.moe/List/non_ip/cdn.conf",
-        ],
-    },
 ]
 
 

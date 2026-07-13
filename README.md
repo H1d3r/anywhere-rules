@@ -81,7 +81,6 @@ Suggested targets are only a starting point. Pick the policy that matches your o
 | `Steam` | 54 | As needed | Steam rules. | [Import](https://chikacya.github.io/anywhere-rules/import.html?link=https%3A%2F%2Fraw.githubusercontent.com%2Fchikacya%2Fanywhere-rules%2Fmain%2Frules%2Fcommon%2FSteam.arrs) |
 | `PayPal` | 247 | As needed | PayPal rules. | [Import](https://chikacya.github.io/anywhere-rules/import.html?link=https%3A%2F%2Fraw.githubusercontent.com%2Fchikacya%2Fanywhere-rules%2Fmain%2Frules%2Fcommon%2FPayPal.arrs) |
 | `Cloudflare` | 65 | As needed | Cloudflare rules. | [Import](https://chikacya.github.io/anywhere-rules/import.html?link=https%3A%2F%2Fraw.githubusercontent.com%2Fchikacya%2Fanywhere-rules%2Fmain%2Frules%2Fcommon%2FCloudflare.arrs) |
-| `CDN` | 4529 | `DIRECT` | CDN direct-route helper rules. | [Import](https://chikacya.github.io/anywhere-rules/import.html?link=https%3A%2F%2Fraw.githubusercontent.com%2Fchikacya%2Fanywhere-rules%2Fmain%2Frules%2Fcommon%2FCDN.arrs) |
 
 ## CN_Accelerated
 
