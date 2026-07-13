@@ -1,7 +1,7 @@
 # NAME: CDN
 # GENERATED-FOR: Anywhere Routing Rule Set
 # DESCRIPTION: SukkaW CDN 直连辅助
-# RULES: 4573
+# RULES: 4577
 # SKIPPED: 58
 # SKIPPED-TYPES: DOMAIN-WILDCARD=58
 # SOURCES:
@@ -252,6 +252,7 @@ routing = 1
 2, eroimg.net
 2, eslint.org
 2, evt.24.com
+2, exbd.ex.co
 2, ezocdn.com
 2, f.start.me
 2, f.upanh.tv
@@ -691,6 +692,7 @@ routing = 1
 2, img.noy.asia
 2, img.sflix.to
 2, imgfile.shop
+2, imgproxy.org
 2, imhentai.xxx
 2, instant.page
 2, ipfs.1-2.dev
@@ -891,6 +893,7 @@ routing = 1
 2, codeberg.page
 2, ctfassets.net
 2, data.pendo.io
+2, dd-static.net
 2, disconnect.me
 2, disquscdn.com
 2, doppiocdn.com
@@ -2904,6 +2907,7 @@ routing = 1
 2, img.openshop.com.hk
 2, img.shoplineapp.com
 2, img.thingiverse.com
+2, imgix.datadoghq.com
 2, info.cloudflare.com
 2, ingest.de.sentry.io
 2, ingest.us.sentry.io

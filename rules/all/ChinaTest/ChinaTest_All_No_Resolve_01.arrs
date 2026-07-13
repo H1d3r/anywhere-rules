@@ -5,8 +5,8 @@
 # NOTE: DOMAIN rules are mapped to Anywhere domain suffix rules.
 # RULES: 100000
 # SKIPPED: 31
-# SOURCE-RULES: 112060
-# UPSTREAM-UPDATED: 2026-07-12 02:52:31
+# SOURCE-RULES: 112070
+# UPSTREAM-UPDATED: 2026-07-14 03:19:40
 # SKIPPED-TYPES: USER-AGENT=31
 
 name = ChinaTest_01
@@ -13656,6 +13656,7 @@ name = ChinaTest_01
 2, ad77.com
 2, ad778.com
 2, ada-post.com
+2, adacpp.com
 2, adamahf.com
 2, adamcdn.com
 2, adamcoder.com
@@ -27590,6 +27591,7 @@ name = ChinaTest_01
 2, color-measure.com
 2, color365.com
 2, colorbird.com
+2, colorfulclouds.com
 2, colorfulclouds.net
 2, colorfulltech.net
 2, colorimeter.com
@@ -33489,6 +33491,7 @@ name = ChinaTest_01
 2, duoyi.com
 2, duoying.com
 2, duoyinsu.com
+2, duoyiwangluo.com
 2, duoyoumi.com
 2, duozhi.com
 2, duozhuayu.com
@@ -41873,6 +41876,7 @@ name = ChinaTest_01
 2, gtetern.com
 2, gtfund.com
 2, gtg56.com
+2, gtgjtrip.com
 2, gtgqw.com
 2, gtht.com
 2, gthzc.com
@@ -60153,6 +60157,7 @@ name = ChinaTest_01
 2, klhpw.com
 2, klhuyan.com
 2, klicen.com
+2, kling-ai.com
 2, klingai.com
 2, klingxai.com
 2, klinlee.com
@@ -62405,6 +62410,7 @@ name = ChinaTest_01
 2, leyoo.com
 2, leyoujia.com
 2, leyu.com
+2, leyuansu.com
 2, leyue100.com
 2, leyuglobal.com
 2, leyun365.com
@@ -82041,6 +82047,7 @@ name = ChinaTest_01
 2, shedongyun.com
 2, shedoor.com
 2, shedunews.com
+2, shedunews.net
 2, sheec-tencentclb.cloud
 2, sheec-tencentclb.com
 2, sheec-tencentclb.net
@@ -99509,6 +99516,7 @@ name = ChinaTest_01
 2, xiaomei.cc
 2, xiaomeiti.com
 2, xiaomeng1235.com
+2, xiaomengai.com
 2, xiaomi.hk
 2, xiaomi.org
 2, xiaomi.tw
@@ -100002,11 +100010,3 @@ name = ChinaTest_01
 2, xiner-membrane.com
 2, xineurope.com
 2, xinexpress.com
-2, xinfaholding.com
-2, xinfangcidian.com
-2, xinfangsheng.com
-2, xinfei.com
-2, xinfeijituan.com
-2, xinfeipengjixie.com
-2, xinfenggxgroup.com
-2, xinfengji.com

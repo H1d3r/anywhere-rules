@@ -3,9 +3,9 @@
 # SOURCE: https://github.com/blackmatrix7/ios_rule_script/blob/master/rule/Surge/Global/Global_All_No_Resolve.list
 # GENERATED-FOR: Anywhere Routing Rule Set
 # NOTE: DOMAIN rules are mapped to Anywhere domain suffix rules.
-# RULES: 34810
+# RULES: 34827
 # SKIPPED: 47
-# UPSTREAM-UPDATED: 2026-07-12 02:51:51
+# UPSTREAM-UPDATED: 2026-07-14 03:19:00
 # SKIPPED-TYPES: PROCESS-NAME=1, USER-AGENT=46
 
 name = Global
@@ -3594,6 +3594,9 @@ name = Global
 2, bestbuytradein.com
 2, bestbuyus.com
 2, bestcamsites.net
+2, bestchange.com
+2, bestchange.net
+2, bestchange.ru
 2, bestclouddrive.com
 2, bestdori.com
 2, besterpornos.com
@@ -6477,6 +6480,7 @@ name = Global
 2, crmdynint-gcc.com
 2, crmdynint.com
 2, crocels.ac.uk
+2, crocoblock.com
 2, cromite.org
 2, cronton.ac.uk
 2, crontonsixthform.ac.uk
@@ -6898,6 +6902,7 @@ name = Global
 2, delcamtv.com
 2, delcamuniversity.com
 2, delcamusa.com
+2, delets.online
 2, delicious.com.au
 2, dell.ac
 2, dell.am
@@ -10484,6 +10489,7 @@ name = Global
 2, getporn.tv
 2, getprintersupports.com
 2, getscorecash.com
+2, getsentry.com
 2, getsexgames.com
 2, getsynapse.io
 2, gettyimages.at
@@ -11393,6 +11399,8 @@ name = Global
 2, hao62.xyz
 2, haori888.com
 2, haplorrhini.com
+2, happ.info
+2, happ.su
 2, happymeal.co.nz
 2, happymeal.com
 2, happymeal.com.au
@@ -16775,6 +16783,7 @@ name = Global
 2, motiongraphicsandmore.com
 2, motionpictureser.com
 2, moto.com
+2, motocms.com
 2, motolia.com
 2, motopress.com
 2, motorola.ca
@@ -18617,6 +18626,7 @@ name = Global
 2, onekey.so
 2, onekeycn.com
 2, oneme.ru
+2, onemoment.cc
 2, onemozilla.org
 2, onepornlist.com
 2, onesiterip.com
@@ -19035,6 +19045,7 @@ name = Global
 2, paxlicense.org
 2, paydiant.com
 2, payecom.ru
+2, payget.pro
 2, paygonline.com
 2, payhulu.com
 2, paylike.com
@@ -19520,6 +19531,7 @@ name = Global
 2, plastics-cadcam.com
 2, platiecom.ru
 2, platinumlinks.org
+2, platov.co
 2, play-bmm.shop
 2, play-bmmer.buzz
 2, play4free.com
@@ -20532,6 +20544,8 @@ name = Global
 2, rakutengiftcards.ca
 2, rakuya.com.tw
 2, ram.ac.uk
+2, ramon.cash
+2, ramon.money
 2, randd.ac.uk
 2, randomsystems-cdt.ac.uk
 2, randyblue.com
@@ -21771,6 +21785,7 @@ name = Global
 2, sensualmothers.com
 2, sensueel.net
 2, sentry-cdn.com
+2, sentry.dev
 2, senzuritv.net
 2, seo-dash.net
 2, seodirector.ai
@@ -23728,6 +23743,7 @@ name = Global
 2, temenos.ac.uk
 2, temetube.xyz
 2, temp-mail.org
+2, templatemonster.com
 2, tempusuk.ac.uk
 2, tenbin.ai
 2, tenbyfotolia.com
@@ -26066,6 +26082,7 @@ name = Global
 2, wbautomation.ru
 2, wbautomation.tech
 2, wbbasket.ru
+2, wbcontent.net
 2, wbd.ms
 2, wbdnbo.net
 2, wbdubna.ru
