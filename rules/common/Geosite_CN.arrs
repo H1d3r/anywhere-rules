@@ -2,8 +2,8 @@
 # GENERATED-FOR: Anywhere Routing Rule Set
 # DESCRIPTION: Geosite 中国大陆域名规则
 # GEOSITE-CODE: GEOLOCATION-CN
-# RULES: 4929
-# SOURCE-RULES: 4932
+# RULES: 4925
+# SOURCE-RULES: 4928
 # SKIPPED: 3
 # SKIPPED-TYPES: Regex=3
 # SOURCES:
@@ -1536,10 +1536,6 @@ routing = 1
 2, erp321.com
 2, erp321.net
 2, ersjk.com
-2, esp8266.cn
-2, esp8266.com.cn
-2, espressif.cn
-2, espressif.com.cn
 2, essence.com.cn
 2, et-api.com
 2, et001.com
