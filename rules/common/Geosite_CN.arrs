@@ -2,8 +2,8 @@
 # GENERATED-FOR: Anywhere Routing Rule Set
 # DESCRIPTION: Geosite 中国大陆域名规则
 # GEOSITE-CODE: GEOLOCATION-CN
-# RULES: 4925
-# SOURCE-RULES: 4928
+# RULES: 4927
+# SOURCE-RULES: 4930
 # SKIPPED: 3
 # SKIPPED-TYPES: Regex=3
 # SOURCES:
@@ -1428,6 +1428,7 @@ routing = 1
 2, duifene.com
 2, duiopen.com
 2, duitang.com
+2, dulupay.com
 2, dumate.cn
 2, duoduocdn.com
 2, duomai.com
@@ -4752,6 +4753,7 @@ routing = 1
 2, yystv.cn
 2, yytcdn.com
 2, yzcdn.cn
+2, yzsgo.com
 2, yzwb.net
 2, yzyxgame.com
 2, z-bank.com
