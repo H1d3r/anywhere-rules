@@ -1,7 +1,7 @@
 # NAME: CDN
 # GENERATED-FOR: Anywhere Routing Rule Set
 # DESCRIPTION: SukkaW CDN 直连辅助
-# RULES: 4577
+# RULES: 4573
 # SKIPPED: 58
 # SKIPPED-TYPES: DOMAIN-WILDCARD=58
 # SOURCES:
@@ -74,7 +74,6 @@ routing = 1
 2, i.ibb.co
 2, i.vgy.me
 2, icons.ly
-2, img.m.mw
 2, jspm.dev
 2, jspm.org
 2, loli.net
@@ -767,7 +766,6 @@ routing = 1
 2, s1.qwant.com
 2, s2.qwant.com
 2, s3.arkjp.net
-2, s3.doujin.sh
 2, sdk.gleap.io
 2, sdk.split.io
 2, sitescdn.net
@@ -1172,6 +1170,7 @@ routing = 1
 2, cdn.zeabur.com
 2, cdn1.plesk.com
 2, cdn2.auth0.com
+2, cdn2.cameo.com
 2, cdnclouder.com
 2, cdns.gigya.com
 2, cdp.sph.com.sg
@@ -1238,7 +1237,6 @@ routing = 1
 2, images.wsj.net
 2, imagetwist.com
 2, img.321cdn.com
-2, img.bttimg.com
 2, img.decrypt.co
 2, img.fzf404.art
 2, img.icons8.com
@@ -1324,6 +1322,9 @@ routing = 1
 2, res.abc.net.au
 2, res.garmin.com
 2, rt.rtoaster.jp
+2, rt1.maphub.net
+2, rt2.maphub.net
+2, rt3.maphub.net
 2, s.midishow.net
 2, s1.divhunt.com
 2, s3.2233778.xyz
@@ -1910,7 +1911,6 @@ routing = 1
 2, img.sooplive.com
 2, img.sparemin.com
 2, img.wikiwand.com
-2, img2.javdove.com
 2, img2.javmost.com
 2, img2.tnaflix.com
 2, img3.javmost.com
@@ -2172,7 +2172,6 @@ routing = 1
 2, cdn.ttgtmedia.com
 2, cdn.up-timely.com
 2, cdn.yinghuazy.xyz
-2, cdn.zhujiwiki.com
 2, cdn0.techbang.com
 2, cdn1.airdroid.com
 2, cdn1.edgedatg.com
@@ -2274,7 +2273,6 @@ routing = 1
 2, img.haiwaikan.com
 2, img.imoutomoe.net
 2, img.picacomic.com
-2, img.represent.com
 2, img.riskified.com
 2, img2.gelbooru.com
 2, img3.airdroid.com
@@ -2372,6 +2370,7 @@ routing = 1
 2, static.guim.co.uk
 2, static.hotjar.com
 2, static.linear.app
+2, static.maphub.net
 2, static.mega.co.nz
 2, static.meiguo.com
 2, static.missav.com
@@ -3425,7 +3424,6 @@ routing = 1
 2, images.en.aptoide.com
 2, images.everyplate.com
 2, images.findagrave.com
-2, images.freeimages.com
 2, images.hentaicity.com
 2, images.icon-icons.com
 2, img.foresightnews.pro
@@ -3508,7 +3506,6 @@ routing = 1
 2, static.chaosgroup.com
 2, static.chessarena.com
 2, static.clips4sale.com
-2, static.freeimages.com
 2, static.getpostman.com
 2, static.mytonwallet.io
 2, static.openreplay.com
@@ -3705,6 +3702,7 @@ routing = 1
 2, static.fundraiseup.com
 2, static.gettyimages.com
 2, static.hugedomains.com
+2, static.istockphoto.com
 2, static.playstation.com
 2, static.staff-start.com
 2, static.telegraph.co.uk
@@ -3726,6 +3724,7 @@ routing = 1
 2, tile.thunderforest.com
 2, tile2.opencyclemap.org
 2, tiles.arcticconnect.ca
+2, tiles.openstreetmap.us
 2, tiles.virtualearth.net
 2, tileserver.memomaps.de
 2, tn.tubepornclassic.com
@@ -4055,7 +4054,6 @@ routing = 1
 2, cdn.accounts.nintendo.com
 2, cdn.privacy.paramount.com
 2, cdn.registerdisney.go.com
-2, cdn.scripts.wtwhmedia.com
 2, changelog-widget.canny.io
 2, chunk-composing.canva.com
 2, components.justanswer.com
@@ -4108,7 +4106,6 @@ routing = 1
 2, snyk-widget.herokuapp.com
 2, socialpic.video.friday.tw
 2, static-ca-cdn.eporner.com
-2, static-cdn.bytegiftia.top
 2, static-files.bitchute.com
 2, static-images.aptoide.com
 2, static-sg-cdn.eporner.com
@@ -4510,7 +4507,6 @@ routing = 1
 2, static-assets-prod.unrealengine.com
 2, stubdownloader.services.mozilla.com
 2, cf-images.us-east-1.prod.boltdns.net
-2, chatwidgetmetrics-proxy.usepylon.com
 2, content-prod-live.cert.starbucks.com
 2, crashlyticsreports-pa.googleapis.com
 2, firebaseinstallations.googleapis.com
