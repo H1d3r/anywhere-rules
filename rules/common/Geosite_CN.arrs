@@ -2,8 +2,8 @@
 # GENERATED-FOR: Anywhere Routing Rule Set
 # DESCRIPTION: Geosite 中国大陆域名规则
 # GEOSITE-CODE: GEOLOCATION-CN
-# RULES: 4927
-# SOURCE-RULES: 4930
+# RULES: 4935
+# SOURCE-RULES: 4938
 # SKIPPED: 3
 # SKIPPED-TYPES: Regex=3
 # SOURCES:
@@ -1754,6 +1754,7 @@ routing = 1
 2, ganjiangvpn.com
 2, ganjistatic1.com
 2, gaodun.com
+2, gaojidata.com
 2, gaokao.com
 2, gaoshouyou.com
 2, gaoxiaojob.com
@@ -1920,6 +1921,7 @@ routing = 1
 2, gxtv.cn
 2, gxxmt.com
 2, gyzq.com.cn
+2, gzasc.com
 2, gzcqs.com
 2, gzctyiptv.cn
 2, gzlzfm.com
@@ -3528,6 +3530,8 @@ routing = 1
 2, qunjielong.com
 2, qunliao.info
 2, quyaoya.com
+2, qwapp.top
+2, qwdjapp.com
 2, qweather.com
 2, qweather.net
 2, qweatherapi.com
@@ -3574,6 +3578,8 @@ routing = 1
 2, routewize.com
 2, rqnoj.cn
 2, rrmj.plus
+2, rrsp.app
+2, rrsp.com.cn
 2, rsscc.cn
 2, rt-mart.com.cn
 2, rtbasia.com
@@ -4278,6 +4284,7 @@ routing = 1
 2, webankcdn.net
 2, webgame163.com
 2, webmasterhome.cn
+2, weboss.hk
 2, webportal.top
 2, webterren.com
 2, wegame.com
@@ -4587,6 +4594,7 @@ routing = 1
 2, yhfund.com.cn
 2, yicai.com
 2, yiche.com
+2, yichengwlkj.com
 2, yigao.com
 2, yigoonet.com
 2, yihaikerry.net.cn

@@ -3,14 +3,15 @@
 # SOURCE: https://github.com/blackmatrix7/ios_rule_script/blob/master/rule/Surge/Global/Global_All_No_Resolve.list
 # GENERATED-FOR: Anywhere Routing Rule Set
 # NOTE: DOMAIN rules are mapped to Anywhere domain suffix rules.
-# RULES: 34827
+# RULES: 34842
 # SKIPPED: 47
-# UPSTREAM-UPDATED: 2026-07-14 03:19:00
+# UPSTREAM-UPDATED: 2026-07-16 03:01:22
 # SKIPPED-TYPES: PROCESS-NAME=1, USER-AGENT=46
 
 name = Global
 2, 1password.drift.click
 2, adobeereg.com
+2, agb9r0ad.qllfkl.com
 2, angle.com.tw
 2, api-p.videomarket.jp
 2, apple.com.akadns.net
@@ -51,6 +52,7 @@ name = Global
 2, github-api.arkoselabs.com
 2, gog-cdn-lumen.secure2.footprint.net
 2, gog.qtlglb.com
+2, hb4bbbbb.pmhcjk.com
 2, holoxx.f5.si
 2, hpstore.corpmerchandise.com
 2, hub.slarker.me
@@ -62,6 +64,7 @@ name = Global
 2, medone-education.thieme.com
 2, muse.jhu.edu
 2, nationalaustraliaban.tt.omtrdc.net
+2, nbbb1bb7.pmhcjk.com
 2, ntp-c.colorado.edu
 2, ntp.time.nl
 2, ntp0.ntp-servers.net
@@ -84,6 +87,7 @@ name = Global
 2, practivate.adobe.ntp
 2, public-us-pingsx.api.clonoth.com
 2, push-apple.com.akadns.net
+2, q676790b.pmhcjk.com
 2, qualcomm.sc.omtrdc.net
 2, roovza-launches.appsflyersdk.com
 2, roovza.inapps.appsflyersdk.com
@@ -1439,7 +1443,6 @@ name = Global
 2, alexanderlondoncollege.ac.uk
 2, alexanderstreet.com
 2, alfa.me
-2, alfabank.oavdo.amc
 2, alfabank.ru
 2, alfabank.st
 2, alfadirect.ru
@@ -4495,6 +4498,7 @@ name = Global
 2, bnef.com
 2, bntrace.com
 2, bnu.ac.uk
+2, bnxz.net
 2, boa.ac.uk
 2, bobble.ac.uk
 2, boboporn.com
@@ -5039,6 +5043,7 @@ name = Global
 2, byjhd.com
 2, bymj.io
 2, byspotify.com
+2, bystys.tech
 2, bytick.com
 2, byzantine-ahrb-centre.ac.uk
 2, byzantium.ac.uk
@@ -5645,6 +5650,7 @@ name = Global
 2, chatango.com
 2, chatgpt.com
 2, chatgpt.livekit.cloud
+2, chatgpt.site
 2, chatgptvideo.xyz
 2, chatgptvideob.buzz
 2, chatsex.xxx
@@ -14374,6 +14380,7 @@ name = Global
 2, khotruyentranhx.com
 2, kiad.ac.uk
 2, kichikuou.com
+2, kick.com
 2, kickporn.com
 2, kickshatchannel.com
 2, kicksnike1.com
@@ -14915,6 +14922,11 @@ name = Global
 2, lightxxxtube.com
 2, lihe.ac.uk
 2, lihksnap.com
+2, like-video.com
+2, likee.com
+2, likeeapp.ru
+2, likeevideo.com
+2, likeevideo.ru
 2, likeseiyu.com
 2, liketruyen.net
 2, liketwice.com
@@ -18863,6 +18875,7 @@ name = Global
 2, overthumbs.com
 2, owl-elearning.ac.uk
 2, owsc.ac.uk
+2, owxd.xyz
 2, ox.ac.uk
 2, oxademy.ac.uk
 2, oxahsc.ac.uk
@@ -25054,6 +25067,7 @@ name = Global
 2, uxbridgecollege.ac.uk
 2, uxthemes.com
 2, uxxxporn.com
+2, uxzw.club
 2, uyghurcanadian.ca
 2, v-av.com
 2, v-has.com
@@ -27818,6 +27832,7 @@ name = Global
 2, ysvia.com
 2, yswet.com
 2, ysx-mm.com
+2, yucf.top
 2, yuenuge113.xyz
 2, yuenuge18.cc
 2, yugioh-card.com

@@ -3,9 +3,9 @@
 # SOURCE: https://github.com/blackmatrix7/ios_rule_script/blob/master/rule/Surge/ChinaIPs/ChinaIPs_No_IPv6_Resolve.list
 # GENERATED-FOR: Anywhere Routing Rule Set
 # NOTE: DOMAIN rules are mapped to Anywhere domain suffix rules.
-# RULES: 17328
+# RULES: 17330
 # SKIPPED: 0
-# UPSTREAM-UPDATED: 2026-07-12 02:52:43
+# UPSTREAM-UPDATED: 2026-07-16 03:02:02
 
 name = ChinaIPs
 0, 1.0.1.0/24
@@ -8197,6 +8197,7 @@ name = ChinaIPs
 0, 124.133.96.0/19
 0, 124.134.0.0/15
 0, 124.14.0.0/15
+0, 124.14.12.0/23
 0, 124.14.12.0/24
 0, 124.14.15.0/24
 0, 124.14.22.0/24
@@ -13225,7 +13226,8 @@ name = ChinaIPs
 0, 218.247.64.0/19
 0, 218.247.96.0/19
 0, 218.249.0.0/16
-0, 218.252.0.0/17
+0, 218.252.0.0/18
+0, 218.252.64.0/19
 0, 218.253.0.0/18
 0, 218.26.0.0/16
 0, 218.27.0.0/16
