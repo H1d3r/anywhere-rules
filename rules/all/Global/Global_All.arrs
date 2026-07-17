@@ -3,9 +3,9 @@
 # SOURCE: https://github.com/blackmatrix7/ios_rule_script/blob/master/rule/Surge/Global/Global_All.list
 # GENERATED-FOR: Anywhere Routing Rule Set
 # NOTE: DOMAIN rules are mapped to Anywhere domain suffix rules.
-# RULES: 34842
+# RULES: 34847
 # SKIPPED: 47
-# UPSTREAM-UPDATED: 2026-07-16 03:01:22
+# UPSTREAM-UPDATED: 2026-07-18 02:59:35
 # SKIPPED-TYPES: PROCESS-NAME=1, USER-AGENT=46
 
 name = Global
@@ -2957,6 +2957,7 @@ name = Global
 2, azuredns-prd.info
 2, azuredns-prd.org
 2, azureedge-test.net
+2, azureedge.us
 2, azurefd.net
 2, azureiotcentral.com
 2, azureiotsolutions.com
@@ -6316,6 +6317,7 @@ name = Global
 2, coova.net
 2, coova.org
 2, copac.ac.uk
+2, copilot-stg.com
 2, copilot.com
 2, copim.ac.uk
 2, copior.ac.uk
@@ -16043,6 +16045,7 @@ name = Global
 2, mhcb.ru
 2, mhcbr.ru
 2, mhdss.ac.uk
+2, mhgui.com
 2, mhhanman.xyz
 2, mhie.ac.uk
 2, mhqwe.xyz
@@ -17578,6 +17581,7 @@ name = Global
 2, netvideogirls.com
 2, netvigator.com
 2, netwise.ac.uk
+2, netxh.blog
 2, netzerobuildings.com
 2, netzerobuildingstudio.com
 2, netzwerkdeutsch.ac.uk
@@ -23039,6 +23043,7 @@ name = Global
 2, stargazer-games.com
 2, stark-verlag.ch
 2, starlink.ac.uk
+2, starlink.com
 2, starott.com
 2, starplus.com
 2, stars.ac.uk

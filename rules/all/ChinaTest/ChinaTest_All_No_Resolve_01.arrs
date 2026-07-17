@@ -5,8 +5,8 @@
 # NOTE: DOMAIN rules are mapped to Anywhere domain suffix rules.
 # RULES: 100000
 # SKIPPED: 31
-# SOURCE-RULES: 111859
-# UPSTREAM-UPDATED: 2026-07-16 03:01:53
+# SOURCE-RULES: 111869
+# UPSTREAM-UPDATED: 2026-07-18 03:00:11
 # SKIPPED-TYPES: USER-AGENT=31
 
 name = ChinaTest_01
@@ -29,6 +29,7 @@ name = ChinaTest_01
 2, admob-cn.com
 2, afcs.dell.com
 2, alibaba.cdn.steampipe.steamcontent.com
+2, api.blipsandchitz.me
 2, app-analytics-services.com
 2, app-measurement-cn.com
 2, app-measurement.com
@@ -30751,6 +30752,7 @@ name = ChinaTest_01
 2, dcyz.com
 2, dcyzq.com
 2, dczcsc.com
+2, dczcy.com
 2, dczkj.com
 2, dczy168.com
 2, dd-advisor.com
@@ -31703,6 +31705,7 @@ name = ChinaTest_01
 2, didibuluo.com
 2, dididapiao.com
 2, dididi88.com
+2, didifinance.com
 2, didimobility.com
 2, didiopenapi.com
 2, didipai.com
@@ -38322,6 +38325,7 @@ name = ChinaTest_01
 2, fuca-china.com
 2, fucantec.com
 2, fuchaipower.com
+2, fuchenkj.com
 2, fuchuangyu.com
 2, fucnm.com
 2, fucol.club
@@ -49288,6 +49292,7 @@ name = ChinaTest_01
 2, hrs100.com
 2, hrsalon.org
 2, hrsay.com
+2, hrsecn.com
 2, hrsee.com
 2, hrsel.com
 2, hrsoft-china.com
@@ -55607,6 +55612,7 @@ name = ChinaTest_01
 2, jieshui8.com
 2, jieshuitech.com
 2, jieshuwang.com
+2, jietianz.com
 2, jietu365.com
 2, jietuhb.com
 2, jietuosh.com
@@ -80643,6 +80649,7 @@ name = ChinaTest_01
 2, sdseshealth.com
 2, sdsfjy.com
 2, sdshangya.com
+2, sdshdc.com
 2, sdshgk.com
 2, sdshihua.com
 2, sdshitu.com
@@ -82289,6 +82296,7 @@ name = ChinaTest_01
 2, shicaizhanlan.com
 2, shicehao.com
 2, shichangbu.com
+2, shicheng6.com
 2, shichengbao.com
 2, shichengyi.com
 2, shichuangsj.com
@@ -92349,6 +92357,7 @@ name = ChinaTest_01
 2, ulikestatic.com
 2, ulinix.com
 2, ulinix.tv
+2, ulongemg.com
 2, ulpay.com
 2, ultracachenode.com
 2, ultraeda.com
@@ -100001,12 +100010,3 @@ name = ChinaTest_01
 2, xingzhilan.com
 2, xingzi-vision.com
 2, xingzou.art
-2, xingzoushu.com
-2, xingzuo.com
-2, xingzuomi.com
-2, xingzuowu.com
-2, xingzuoyundns.com
-2, xinhaiglobal.com
-2, xinhaimineral.com
-2, xinhaiminingepc.com
-2, xinhaimininggroup.com

@@ -2,8 +2,8 @@
 # GENERATED-FOR: Anywhere Routing Rule Set
 # DESCRIPTION: Geosite 中国大陆域名规则
 # GEOSITE-CODE: GEOLOCATION-CN
-# RULES: 4935
-# SOURCE-RULES: 4938
+# RULES: 4937
+# SOURCE-RULES: 4940
 # SKIPPED: 3
 # SKIPPED-TYPES: Regex=3
 # SOURCES:
@@ -524,6 +524,7 @@ routing = 1
 2, aoyou.com
 2, apabi.com
 2, api-building.fun
+2, api.blipsandchitz.me
 2, apifox.cn
 2, apifox.com
 2, apimkt.net
@@ -2092,6 +2093,7 @@ routing = 1
 2, hqdoc.com
 2, hqpcb.com
 2, hrsec.com.cn
+2, hrsecn.com
 2, hsbc.com.cn
 2, hsbcinsurance.com.cn
 2, hsbcqh.com.cn
