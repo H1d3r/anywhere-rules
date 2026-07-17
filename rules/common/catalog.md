@@ -34,7 +34,7 @@
 | WeChat | 339 | 2 | WeChat | [common/WeChat.arrs](./WeChat.arrs) |
 | ChinaDomain | 863 | 4 | 中国大陆常见域名直连 | [common/ChinaDomain.arrs](./ChinaDomain.arrs) |
 | CN_Additional | 43245 | 0 | 中国大陆域名补充 | [common/CN_Additional.arrs](./CN_Additional.arrs) |
-| ChinaIP | 5823 | 0 | 中国大陆 IP CIDR | [common/ChinaIP.arrs](./ChinaIP.arrs) |
+| ChinaIP | 5817 | 0 | 中国大陆 IP CIDR | [common/ChinaIP.arrs](./ChinaIP.arrs) |
 | Lan | 8 | 0 | 局域网和私有地址 | [common/Lan.arrs](./Lan.arrs) |
 | Game | 597 | 0 | 游戏平台集合 | [common/Game.arrs](./Game.arrs) |
 | Steam | 54 | 0 | Steam | [common/Steam.arrs](./Steam.arrs) |
@@ -42,5 +42,5 @@
 | Cloudflare | 65 | 0 | Cloudflare | [common/Cloudflare.arrs](./Cloudflare.arrs) |
 | CDN | 4574 | 58 | SukkaW CDN 直连辅助 | [common/CDN.arrs](./CDN.arrs) |
 | CN_Radar | 175 | 0 | Cloudflare Radar 中国大陆域名增强补充 | [common/CN_Radar.arrs](./CN_Radar.arrs) |
-| GeoIP_CN | 5996 | 0 | GeoIP 中国大陆 IP CIDR | [common/GeoIP_CN.arrs](./GeoIP_CN.arrs) |
-| Geosite_CN | 4935 | 3 | Geosite 中国大陆域名规则 | [common/Geosite_CN.arrs](./Geosite_CN.arrs) |
+| GeoIP_CN | 5990 | 0 | GeoIP 中国大陆 IP CIDR | [common/GeoIP_CN.arrs](./GeoIP_CN.arrs) |
+| Geosite_CN | 4937 | 3 | Geosite 中国大陆域名规则 | [common/Geosite_CN.arrs](./Geosite_CN.arrs) |
