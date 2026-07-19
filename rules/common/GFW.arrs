@@ -1,7 +1,7 @@
 # NAME: GFW
 # GENERATED-FOR: Anywhere Routing Rule Set
 # DESCRIPTION: GFW 域名列表
-# RULES: 4361
+# RULES: 4362
 # SKIPPED: 0
 # SOURCES:
 # - https://raw.githubusercontent.com/Loyalsoldier/v2ray-rules-dat/release/gfw.txt
@@ -22,6 +22,7 @@ name = GFW
 2, 173ng.com
 2, 18board.com
 2, 18comic.org
+2, 18comic.vip
 2, 18mh.net
 2, 1984bbs.com
 2, 1991way.com
