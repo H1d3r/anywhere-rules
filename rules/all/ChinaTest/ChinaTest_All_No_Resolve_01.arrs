@@ -5,8 +5,8 @@
 # NOTE: DOMAIN rules are mapped to Anywhere domain suffix rules.
 # RULES: 100000
 # SKIPPED: 31
-# SOURCE-RULES: 111869
-# UPSTREAM-UPDATED: 2026-07-18 03:00:11
+# SOURCE-RULES: 111870
+# UPSTREAM-UPDATED: 2026-07-20 02:59:22
 # SKIPPED-TYPES: USER-AGENT=31
 
 name = ChinaTest_01
@@ -68772,6 +68772,7 @@ name = ChinaTest_01
 2, mychunyan.net
 2, myckjr.com
 2, mycleanmymac.com
+2, mycloudnas.com
 2, mycloudstudy.com
 2, myclub2.com
 2, mycnc.org
@@ -100009,4 +100010,3 @@ name = ChinaTest_01
 2, xingzhige.com
 2, xingzhilan.com
 2, xingzi-vision.com
-2, xingzou.art

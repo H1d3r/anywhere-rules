@@ -3,9 +3,9 @@
 # SOURCE: https://github.com/blackmatrix7/ios_rule_script/blob/master/rule/Surge/Global/Global_All_No_Resolve.list
 # GENERATED-FOR: Anywhere Routing Rule Set
 # NOTE: DOMAIN rules are mapped to Anywhere domain suffix rules.
-# RULES: 34847
+# RULES: 34848
 # SKIPPED: 47
-# UPSTREAM-UPDATED: 2026-07-18 02:59:35
+# UPSTREAM-UPDATED: 2026-07-20 02:58:41
 # SKIPPED-TYPES: PROCESS-NAME=1, USER-AGENT=46
 
 name = Global
@@ -242,7 +242,6 @@ name = Global
 2, 18comic-god.xyz
 2, 18comic.cc
 2, 18comic.company
-2, 18comic.vip
 2, 18commic.com
 2, 18doujin.com
 2, 18doujinshi.xyz
@@ -20404,6 +20403,7 @@ name = Global
 2, qmw.ac.uk
 2, qmzdd.com
 2, qnap.com
+2, qnapsupport.net
 2, qobuz.com
 2, qombol.com
 2, qoo-app.com
@@ -28057,6 +28057,7 @@ name = Global
 2, 18board.com
 2, 18board.info
 2, 18comic.org
+2, 18comic.vip
 2, 18mh.net
 2, 18onlygirls.com
 2, 18p2p.com
