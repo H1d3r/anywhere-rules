@@ -3,9 +3,9 @@
 # SOURCE: https://github.com/blackmatrix7/ios_rule_script/blob/master/rule/Surge/ChinaMaxNoMedia/ChinaMaxNoMedia_Resolve.list
 # GENERATED-FOR: Anywhere Routing Rule Set
 # NOTE: DOMAIN rules are mapped to Anywhere domain suffix rules.
-# RULES: 12494
+# RULES: 12492
 # SKIPPED: 78
-# UPSTREAM-UPDATED: 2026-07-20 03:01:18
+# UPSTREAM-UPDATED: 2026-07-22 03:13:12
 # SKIPPED-TYPES: IP-ASN=1, PROCESS-NAME=12, USER-AGENT=65
 
 name = ChinaMaxNoMedia
@@ -3562,7 +3562,6 @@ name = ChinaMaxNoMedia
 0, 140.255.0.0/16
 0, 140.75.0.0/16
 0, 141.11.219.0/24
-0, 141.11.51.0/24
 0, 142.70.0.0/16
 0, 142.86.0.0/16
 0, 143.191.188.0/22
@@ -3711,6 +3710,7 @@ name = ChinaMaxNoMedia
 0, 150.248.0.0/16
 0, 150.255.0.0/16
 0, 151.243.189.0/24
+0, 151.244.135.0/24
 0, 151.246.184.0/24
 0, 151.247.148.0/23
 0, 151.249.90.0/23
@@ -7720,6 +7720,7 @@ name = ChinaMaxNoMedia
 0, 43.93.0.0/16
 0, 43.94.0.0/15
 0, 43.96.0.0/11
+0, 44.30.131.0/24
 0, 44.30.164.0/24
 0, 44.30.169.0/24
 0, 44.30.171.0/24
@@ -8003,7 +8004,6 @@ name = ChinaMaxNoMedia
 0, 45.87.53.0/24
 0, 45.87.54.0/24
 0, 45.9.11.0/24
-0, 45.91.139.0/24
 0, 46.102.251.0/25
 0, 46.151.180.0/23
 0, 46.151.182.0/24
@@ -8160,7 +8160,6 @@ name = ChinaMaxNoMedia
 0, 61.14.212.0/22
 0, 61.14.216.0/21
 0, 61.14.240.0/21
-0, 61.18.64.0/20
 0, 61.216.177.73/32
 0, 61.232.0.0/14
 0, 61.236.0.0/15
@@ -12243,9 +12242,8 @@ name = ChinaMaxNoMedia
 1, 2a0f:1cc5:110::/44
 1, 2a0f:1cc5:130::/44
 1, 2a0f:1cc5:1310::/44
-1, 2a0f:1cc5:140::/43
+1, 2a0f:1cc5:140::/42
 1, 2a0f:1cc5:14::/46
-1, 2a0f:1cc5:160::/44
 1, 2a0f:1cc5:1901::/48
 1, 2a0f:1cc5:1902::/48
 1, 2a0f:1cc5:1c00::/47

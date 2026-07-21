@@ -1,7 +1,7 @@
 # NAME: CDN
 # GENERATED-FOR: Anywhere Routing Rule Set
 # DESCRIPTION: SukkaW CDN 直连辅助
-# RULES: 4577
+# RULES: 4580
 # SKIPPED: 58
 # SKIPPED-TYPES: DOMAIN-WILDCARD=58
 # SOURCES:
@@ -989,6 +989,7 @@ routing = 1
 2, js.pusher.com
 2, js.stripe.com
 2, js.upscope.io
+2, kh.google.com
 2, kinja-img.com
 2, klarnacdn.net
 2, line-scdn.net
@@ -2055,6 +2056,7 @@ routing = 1
 2, tiles.mapbox.com
 2, tiles.planet.com
 2, tiles.strava.com
+2, tiles.zoom.earth
 2, time.windows.com
 2, townsquare.media
 2, trackerslist.com
@@ -3487,6 +3489,7 @@ routing = 1
 2, siloh-ns1.plutotv.net
 2, speedmedia2.jfrog.com
 2, ssl-images-amazon.com
+2, st3.depositphotos.com
 2, start-page.buffer.com
 2, static-1.bitchute.com
 2, static-2.bitchute.com

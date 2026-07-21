@@ -3,9 +3,9 @@
 # SOURCE: https://github.com/blackmatrix7/ios_rule_script/blob/master/rule/Surge/Global/Global_All.list
 # GENERATED-FOR: Anywhere Routing Rule Set
 # NOTE: DOMAIN rules are mapped to Anywhere domain suffix rules.
-# RULES: 34848
+# RULES: 34857
 # SKIPPED: 47
-# UPSTREAM-UPDATED: 2026-07-20 02:58:41
+# UPSTREAM-UPDATED: 2026-07-22 03:10:35
 # SKIPPED-TYPES: PROCESS-NAME=1, USER-AGENT=46
 
 name = Global
@@ -3560,6 +3560,7 @@ name = Global
 2, bess.ac.uk
 2, best-sex-games.com
 2, best.ac.uk
+2, best2pay.net
 2, best3dhere.com
 2, best4bim.com
 2, bestamateurcumshots.com
@@ -8940,6 +8941,8 @@ name = Global
 2, f-dro1d.org
 2, f-droid.com
 2, f-secure.com
+2, f1.com
+2, f1tv.com
 2, f5pf.com
 2, f6.dev
 2, f6.ru
@@ -9753,6 +9756,7 @@ name = Global
 2, formission.ac.uk
 2, formit360.com
 2, formitfactory.com
+2, formula1.com
 2, forpojie.pics
 2, forshtadt.ru
 2, forster.ac.uk
@@ -12498,6 +12502,7 @@ name = Global
 2, hutao.cloud
 2, hutpromos.com
 2, hutton.ac.uk
+2, hva.im
 2, hw.ac.uk
 2, hwcdn.net
 2, hwgo.com
@@ -20634,10 +20639,12 @@ name = Global
 2, rbnainternational.com
 2, rbplc.com
 2, rbrandlibrary.com
+2, rbsgate.com
 2, rbsgr.com
 2, rbsl.ac.uk
 2, rbslondon.ac.uk
 2, rbspeakup.com
+2, rbsuat.com
 2, rbth.com
 2, rbx.com
 2, rbxcdn.com
@@ -29141,6 +29148,7 @@ name = Global
 2, ck101.com
 2, cl.ly
 2, clarionproject.org
+2, clashyun.com
 2, classicalguitarblog.net
 2, claude.com
 2, clb.org.hk
@@ -33263,6 +33271,7 @@ name = Global
 2, synergyse.com
 2, syosetu.com
 2, sysresccd.org
+2, sysub.com
 2, sytes.net
 2, syx86.com
 2, szbbs.net
