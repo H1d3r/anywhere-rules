@@ -1,7 +1,7 @@
 # NAME: Ads_AWAvenue
 # GENERATED-FOR: Anywhere Routing Rule Set
 # DESCRIPTION: 秋风广告规则 AWAvenue
-# RULES: 899
+# RULES: 897
 # SKIPPED: 0
 # SOURCES:
 # - https://raw.githubusercontent.com/TG-Twilight/AWAvenue-Ads-Rule/main/Filters/AWAvenue-Ads-Rule-Surge.list
@@ -336,7 +336,6 @@ routing = 2
 2, dc.sigmob.cn
 2, de.tynt.com
 2, diagnosis.ad.xiaomi.com
-2, dig.bdurl.net
 2, dlogs.bwton.com
 2, dm.toutiao.com
 2, domain.aishengji.com
@@ -531,7 +530,6 @@ routing = 2
 2, masdkv6.3g.qq.com
 2, mazu.m.qq.com
 2, mbdlog.iqiyi.com
-2, mcs.zijieapi.com
 2, medproad.com
 2, metrics.data.hicloud.com
 2, metrics.icloud.com

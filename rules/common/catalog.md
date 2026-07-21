@@ -5,11 +5,11 @@
 | Name | Rules | Skipped | Description | File |
 | --- | ---: | ---: | --- | --- |
 | Reject | 6203 | 2 | 广告、恶意站点和跟踪拦截基础集合 | [common/Reject.arrs](./Reject.arrs) |
-| Ads_AWAvenue | 899 | 0 | 秋风广告规则 AWAvenue | [common/Ads_AWAvenue.arrs](./Ads_AWAvenue.arrs) |
+| Ads_AWAvenue | 897 | 0 | 秋风广告规则 AWAvenue | [common/Ads_AWAvenue.arrs](./Ads_AWAvenue.arrs) |
 | AI | 49 | 1 | 常见 AI 服务 | [common/AI.arrs](./AI.arrs) |
 | Proxy | 1562 | 2 | 常用代理域名集合 | [common/Proxy.arrs](./Proxy.arrs) |
 | ProxyGFW | 7600 | 1 | GFW 代理集合 | [common/ProxyGFW.arrs](./ProxyGFW.arrs) |
-| GFW | 4362 | 0 | GFW 域名列表 | [common/GFW.arrs](./GFW.arrs) |
+| GFW | 4364 | 0 | GFW 域名列表 | [common/GFW.arrs](./GFW.arrs) |
 | Direct | 35 | 1 | 常用直连补充 | [common/Direct.arrs](./Direct.arrs) |
 | AppleCN | 9 | 0 | 苹果中国和苹果 CDN 直连 | [common/AppleCN.arrs](./AppleCN.arrs) |
 | AppleProxy | 39 | 6 | 需要代理的苹果服务 | [common/AppleProxy.arrs](./AppleProxy.arrs) |

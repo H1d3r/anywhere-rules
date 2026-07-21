@@ -1,7 +1,7 @@
 # NAME: GFW
 # GENERATED-FOR: Anywhere Routing Rule Set
 # DESCRIPTION: GFW 域名列表
-# RULES: 4362
+# RULES: 4364
 # SKIPPED: 0
 # SOURCES:
 # - https://raw.githubusercontent.com/Loyalsoldier/v2ray-rules-dat/release/gfw.txt
@@ -792,6 +792,7 @@ name = GFW
 2, civitai.com
 2, cixiaoya.club
 2, ck101.com
+2, clashyun.com
 2, classicalguitarblog.net
 2, claude.ai
 2, claude.com
@@ -3445,6 +3446,7 @@ name = GFW
 2, syncback.com
 2, synergyse.com
 2, syosetu.com
+2, sysub.com
 2, t-g.com
 2, t.co
 2, t.me
