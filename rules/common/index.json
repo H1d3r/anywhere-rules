@@ -1,6 +1,6 @@
 {
   "total_files": 39,
-  "total_rules": 143859,
+  "total_rules": 143920,
   "total_skipped": 68,
   "files": [
     {
@@ -79,7 +79,7 @@
       "name": "GFW",
       "description": "GFW 域名列表",
       "output_path": "common/GFW.arrs",
-      "rule_count": 4364,
+      "rule_count": 4365,
       "skipped_count": 0,
       "unsupported_types": {},
       "sources": [
@@ -475,7 +475,7 @@
       "name": "Geosite_CN",
       "description": "Geosite 中国大陆域名规则",
       "output_path": "common/Geosite_CN.arrs",
-      "rule_count": 4937,
+      "rule_count": 4997,
       "skipped_count": 3,
       "unsupported_types": {
         "Regex": 3

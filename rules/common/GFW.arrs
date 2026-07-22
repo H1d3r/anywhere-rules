@@ -1,7 +1,7 @@
 # NAME: GFW
 # GENERATED-FOR: Anywhere Routing Rule Set
 # DESCRIPTION: GFW 域名列表
-# RULES: 4364
+# RULES: 4365
 # SKIPPED: 0
 # SOURCES:
 # - https://raw.githubusercontent.com/Loyalsoldier/v2ray-rules-dat/release/gfw.txt
@@ -4325,6 +4325,7 @@ name = GFW
 2, zello.com
 2, zenmate.com
 2, zenmate.com.ru
+2, zenmux.ai
 2, zerohedge.com
 2, zeronet.io
 2, zh-hans.cfsh99.com
