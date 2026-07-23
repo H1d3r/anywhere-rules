@@ -1,6 +1,6 @@
 {
   "total_files": 40,
-  "total_rules": 88400,
+  "total_rules": 88389,
   "total_skipped": 126,
   "files": [
     {
@@ -79,7 +79,7 @@
       "name": "GFW",
       "description": "GFW 域名列表",
       "output_path": "common/GFW.arrs",
-      "rule_count": 4365,
+      "rule_count": 4366,
       "skipped_count": 0,
       "unsupported_types": {},
       "sources": [
@@ -478,7 +478,7 @@
       "name": "GeoIP_CN",
       "description": "GeoIP 中国大陆 IP CIDR",
       "output_path": "common/GeoIP_CN.arrs",
-      "rule_count": 5990,
+      "rule_count": 5978,
       "skipped_count": 0,
       "unsupported_types": {},
       "sources": [

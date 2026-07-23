@@ -1,7 +1,7 @@
 # NAME: GFW
 # GENERATED-FOR: Anywhere Routing Rule Set
 # DESCRIPTION: GFW 域名列表
-# RULES: 4365
+# RULES: 4366
 # SKIPPED: 0
 # SOURCES:
 # - https://raw.githubusercontent.com/Loyalsoldier/v2ray-rules-dat/release/gfw.txt
@@ -3660,6 +3660,7 @@ name = GFW
 2, togetter.com
 2, token.im
 2, tokenlon.im
+2, tokenplus.app
 2, tokyo-porn-tube.com
 2, tokyocn.com
 2, tomp3.cc
