@@ -3,9 +3,9 @@
 # SOURCE: https://github.com/blackmatrix7/ios_rule_script/blob/master/rule/Surge/Proxy/Proxy_All.list
 # GENERATED-FOR: Anywhere Routing Rule Set
 # NOTE: DOMAIN rules are mapped to Anywhere domain suffix rules.
-# RULES: 6883
+# RULES: 6885
 # SKIPPED: 8
-# UPSTREAM-UPDATED: 2026-07-22 03:10:57
+# UPSTREAM-UPDATED: 2026-07-24 03:06:01
 # SKIPPED-TYPES: USER-AGENT=8
 
 name = Proxy
@@ -5669,6 +5669,7 @@ name = Proxy
 2, toh.info
 2, token.im
 2, tokenlon.im
+2, tokenplus.app
 2, tokyo-247.com
 2, tokyo-hot.com
 2, tokyocn.com
@@ -6701,6 +6702,7 @@ name = Proxy
 2, zengjinyan.org
 2, zenmate.com
 2, zenmate.com.ru
+2, zenmux.ai
 2, zerohedge.com
 2, zeronet.io
 2, zeutch.com

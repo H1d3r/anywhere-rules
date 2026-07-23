@@ -5,8 +5,8 @@
 # NOTE: DOMAIN rules are mapped to Anywhere domain suffix rules.
 # RULES: 100000
 # SKIPPED: 31
-# SOURCE-RULES: 111927
-# UPSTREAM-UPDATED: 2026-07-22 03:11:15
+# SOURCE-RULES: 111931
+# UPSTREAM-UPDATED: 2026-07-24 03:06:18
 # SKIPPED-TYPES: USER-AGENT=31
 
 name = ChinaTest_01
@@ -22624,6 +22624,7 @@ name = ChinaTest_01
 2, cd-zc.com
 2, cd00c44f211031.beer
 2, cd120.com
+2, cd120.info
 2, cd12371.com
 2, cd1958.com
 2, cd20.net
@@ -67920,6 +67921,7 @@ name = ChinaTest_01
 2, moe321.com
 2, moeclub.org
 2, moedot.net
+2, moedu.com
 2, moeelf.com
 2, moefactory.com
 2, moefantasy.com
@@ -91199,6 +91201,7 @@ name = ChinaTest_01
 2, tsingpost.com
 2, tsingshang.com
 2, tsingtek.com
+2, tsingtengms.com
 2, tsingtoo.com
 2, tsingtuo.com
 2, tsingyangroup.com
@@ -98581,6 +98584,7 @@ name = ChinaTest_01
 2, xcxymw.com
 2, xcxzww.com
 2, xcyg.net
+2, xcz.im
 2, xczhmzb.com
 2, xczhsh.com
 2, xczim.com
@@ -100006,7 +100010,3 @@ name = ChinaTest_01
 2, xingtai123.com
 2, xingtaishipping.com
 2, xingtan.one
-2, xingtangzp.com
-2, xingtu.com
-2, xingtui520.com
-2, xinguad.com
