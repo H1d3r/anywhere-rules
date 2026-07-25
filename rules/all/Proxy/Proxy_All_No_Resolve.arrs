@@ -3,9 +3,9 @@
 # SOURCE: https://github.com/blackmatrix7/ios_rule_script/blob/master/rule/Surge/Proxy/Proxy_All_No_Resolve.list
 # GENERATED-FOR: Anywhere Routing Rule Set
 # NOTE: DOMAIN rules are mapped to Anywhere domain suffix rules.
-# RULES: 6885
+# RULES: 6887
 # SKIPPED: 8
-# UPSTREAM-UPDATED: 2026-07-24 03:06:01
+# UPSTREAM-UPDATED: 2026-07-26 03:00:04
 # SKIPPED-TYPES: USER-AGENT=8
 
 name = Proxy
@@ -1132,6 +1132,7 @@ name = Proxy
 2, cienen.com
 2, cineastentreff.de
 2, cipfg.org
+2, circle19.org
 2, circlethebayfortibet.org
 2, cirosantilli.com
 2, citizencn.com
@@ -3164,6 +3165,7 @@ name = Proxy
 2, kanzhongguo.eu
 2, kaotic.com
 2, karayou.com
+2, kards.com
 2, karkhung.com
 2, karmapa-teachings.org
 2, karmapa.org

@@ -1,7 +1,7 @@
 # NAME: GFW
 # GENERATED-FOR: Anywhere Routing Rule Set
 # DESCRIPTION: GFW 域名列表
-# RULES: 4366
+# RULES: 4368
 # SKIPPED: 0
 # SOURCES:
 # - https://raw.githubusercontent.com/Loyalsoldier/v2ray-rules-dat/release/gfw.txt
@@ -780,6 +780,7 @@ name = GFW
 2, cia.gov
 2, cici.com
 2, ciciai.com
+2, circle19.org
 2, cirosantilli.com
 2, citizencn.com
 2, citizenlab.ca
@@ -2182,6 +2183,7 @@ name = GFW
 2, kantie.org
 2, kaotic.com
 2, karayou.com
+2, kards.com
 2, kathmandupost.com
 2, kawaiikawaii.jp
 2, kawase.com
