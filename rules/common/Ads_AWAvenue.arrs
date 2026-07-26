@@ -84,6 +84,7 @@ routing = 2
 2, ads-video-al.xhscdn.com
 2, ads-video-qc.xhscdn.com
 2, ads.95516.com
+2, ads.adfunlink.com
 2, ads.auctions.yahoo.com
 2, ads.cup.com.cn
 2, ads.google.cn
@@ -141,6 +142,7 @@ routing = 2
 2, adtago.s3.amazonaws.com
 2, adtech.yahooinc.com
 2, adtrack.quark.cn
+2, adtracker.adfunlink.com
 2, adtracker.medproad.com
 2, adui.tg.meitu.com
 2, adv-api.shenshiads.com
@@ -434,7 +436,6 @@ routing = 2
 2, image-ad.sm.cn
 2, image.hpplay.cn
 2, images.outbrainimg.com
-2, images.pinduoduo.com
 2, imdns.hpplay.cn
 2, img-c.heytapimage.com
 2, img-x.jd.com
@@ -889,7 +890,6 @@ routing = 2
 2, ykad-data.cp31.ott.cibntv.net
 2, ykad-data.youku.com
 2, ykad-gateway.youku.com
-2, youku-acs.m.taobao.com
 2, ytx-file.110route.cn
 2, zeus.ad.xiaomi.com
 2, zhihu-web-analytics.zhihu.com
