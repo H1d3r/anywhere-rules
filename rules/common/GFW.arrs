@@ -1,7 +1,7 @@
 # NAME: GFW
 # GENERATED-FOR: Anywhere Routing Rule Set
 # DESCRIPTION: GFW 域名列表
-# RULES: 4368
+# RULES: 4369
 # SKIPPED: 0
 # SOURCES:
 # - https://raw.githubusercontent.com/Loyalsoldier/v2ray-rules-dat/release/gfw.txt
@@ -3704,6 +3704,7 @@ name = GFW
 2, truebuddha-md.org
 2, trustwallet.com
 2, truthsocial.com
+2, tryai.dev
 2, tryheart.jp
 2, tsdr.uspto.gov
 2, tt1069.com
