@@ -1,6 +1,6 @@
 {
   "total_files": 40,
-  "total_rules": 88381,
+  "total_rules": 88411,
   "total_skipped": 126,
   "files": [
     {
@@ -51,7 +51,7 @@
       "name": "Proxy",
       "description": "常用代理域名集合",
       "output_path": "common/Proxy.arrs",
-      "rule_count": 1562,
+      "rule_count": 1564,
       "skipped_count": 2,
       "unsupported_types": {
         "USER-AGENT": 2
@@ -65,7 +65,7 @@
       "name": "ProxyGFW",
       "description": "GFW 代理集合",
       "output_path": "common/ProxyGFW.arrs",
-      "rule_count": 7600,
+      "rule_count": 7602,
       "skipped_count": 1,
       "unsupported_types": {
         "USER-AGENT": 1
@@ -382,7 +382,7 @@
       "name": "ChinaIP",
       "description": "中国大陆 IP CIDR",
       "output_path": "common/ChinaIP.arrs",
-      "rule_count": 5805,
+      "rule_count": 5806,
       "skipped_count": 0,
       "unsupported_types": {},
       "sources": [
@@ -450,7 +450,7 @@
       "name": "CDN",
       "description": "SukkaW CDN 直连辅助",
       "output_path": "common/CDN.arrs",
-      "rule_count": 4580,
+      "rule_count": 4588,
       "skipped_count": 58,
       "unsupported_types": {
         "DOMAIN-WILDCARD": 58
@@ -478,7 +478,7 @@
       "name": "GeoIP_CN",
       "description": "GeoIP 中国大陆 IP CIDR",
       "output_path": "common/GeoIP_CN.arrs",
-      "rule_count": 5979,
+      "rule_count": 5995,
       "skipped_count": 0,
       "unsupported_types": {},
       "sources": [
@@ -489,7 +489,7 @@
       "name": "Geosite_CN",
       "description": "Geosite 中国大陆域名规则",
       "output_path": "common/Geosite_CN.arrs",
-      "rule_count": 4997,
+      "rule_count": 4998,
       "skipped_count": 3,
       "unsupported_types": {
         "Regex": 3

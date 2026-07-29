@@ -1,7 +1,7 @@
 # NAME: Proxy
 # GENERATED-FOR: Anywhere Routing Rule Set
 # DESCRIPTION: 常用代理域名集合
-# RULES: 1562
+# RULES: 1564
 # SKIPPED: 2
 # SKIPPED-TYPES: USER-AGENT=2
 # SOURCES:
@@ -291,6 +291,7 @@ name = Proxy
 2, storj.io
 2, t66y.com
 2, time.com
+2, tmdb.org
 2, trakt.tv
 2, twimg.co
 2, v2ex.com
@@ -448,8 +449,10 @@ name = Proxy
 2, apk-dl.com
 2, apnews.com
 2, archive.li
+2, atmeta.com
 2, avtoday.io
 2, aweber.com
+2, bangumi.tv
 2, bet365.com
 2, binance.cc
 2, binance.me
@@ -1392,7 +1395,6 @@ name = Proxy
 2, theaustralian.com.au
 2, theconversation.com
 2, thediplomat.com
-2, tmdb.org
 2, track.tv
 2, torproject.org
 2, trello.com

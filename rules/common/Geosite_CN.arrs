@@ -2,8 +2,8 @@
 # GENERATED-FOR: Anywhere Routing Rule Set
 # DESCRIPTION: Geosite 中国大陆域名规则
 # GEOSITE-CODE: GEOLOCATION-CN
-# RULES: 4997
-# SOURCE-RULES: 5000
+# RULES: 4998
+# SOURCE-RULES: 5001
 # SKIPPED: 3
 # SKIPPED-TYPES: Regex=3
 # SOURCES:
@@ -4564,6 +4564,7 @@ routing = 1
 2, xkw.com
 2, xmcdn.com
 2, xmhouse.com
+2, xmoj.tech
 2, xn--fiq53l6wcx3kp9bc7joo6apn8a.cn
 2, xn--fiq53l6wcx3kp9bc7joo6apn8a.xn--fiqs8s
 2, xn--fiq53l90et9fpncc7joo6apn8a.cn

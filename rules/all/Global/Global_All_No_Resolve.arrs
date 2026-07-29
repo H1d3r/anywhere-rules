@@ -3,9 +3,9 @@
 # SOURCE: https://github.com/blackmatrix7/ios_rule_script/blob/master/rule/Surge/Global/Global_All_No_Resolve.list
 # GENERATED-FOR: Anywhere Routing Rule Set
 # NOTE: DOMAIN rules are mapped to Anywhere domain suffix rules.
-# RULES: 34864
+# RULES: 34871
 # SKIPPED: 47
-# UPSTREAM-UPDATED: 2026-07-26 02:59:42
+# UPSTREAM-UPDATED: 2026-07-30 03:04:17
 # SKIPPED-TYPES: PROCESS-NAME=1, USER-AGENT=46
 
 name = Global
@@ -4079,6 +4079,7 @@ name = Global
 2, bluestacks.com
 2, bluestone.ac.uk
 2, bluffyporn.com
+2, blurams.app
 2, blurams.com
 2, blws.ac.uk
 2, blylq.buzz
@@ -5561,6 +5562,7 @@ name = Global
 2, cemp.ac.uk
 2, cencoastbmw.com
 2, cenkei.com
+2, ceno.app
 2, censorship.ai
 2, censorship.no
 2, census-registration.ac.uk
@@ -10624,6 +10626,7 @@ name = Global
 2, githubnext.com
 2, githubpreview.dev
 2, githubstatus.com
+2, githubsupport.com
 2, githubuniverse.com
 2, githubusercontent.com
 2, gitlab-static.net
@@ -13711,6 +13714,7 @@ name = Global
 2, ius.io
 2, iutunes.com
 2, ivi.ru
+2, ivicdn.tv
 2, ivintageporn.com
 2, iw8j.cc
 2, iwank.tv
@@ -14439,6 +14443,7 @@ name = Global
 2, kindnudist.com
 2, kinds.ac.uk
 2, kindteenporn.com
+2, kinescopecdn.net
 2, king.ac.uk
 2, kingalfreds.ac.uk
 2, kingalfredsbasingstoke.ac.uk
@@ -21502,6 +21507,7 @@ name = Global
 2, sber.ru
 2, sberauto.com
 2, sberbank-insurance.ru
+2, sberbank-tele.com
 2, sberbank.com
 2, sberbank.ru
 2, sberbankaktivno.ru
@@ -33704,6 +33710,7 @@ name = Global
 2, truthontour.org
 2, truthsocial.com
 2, truveo.com
+2, tryai.dev
 2, tryheart.jp
 2, tsctv.net
 2, tsemtulku.com

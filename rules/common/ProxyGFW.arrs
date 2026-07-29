@@ -1,7 +1,7 @@
 # NAME: ProxyGFW
 # GENERATED-FOR: Anywhere Routing Rule Set
 # DESCRIPTION: GFW 代理集合
-# RULES: 7600
+# RULES: 7602
 # SKIPPED: 1
 # SKIPPED-TYPES: USER-AGENT=1
 # SOURCES:
@@ -7142,8 +7142,10 @@ name = ProxyGFW
 2, apernet.io
 2, apibay.org
 2, apnews.com
+2, atmeta.com
 2, avtoday.io
 2, aweber.com
+2, bangumi.tv
 2, binance.cc
 2, binance.me
 2, cangku.moe
