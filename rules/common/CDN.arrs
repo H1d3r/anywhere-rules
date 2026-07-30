@@ -1,7 +1,7 @@
 # NAME: CDN
 # GENERATED-FOR: Anywhere Routing Rule Set
 # DESCRIPTION: SukkaW CDN 直连辅助
-# RULES: 4588
+# RULES: 4589
 # SKIPPED: 58
 # SKIPPED-TYPES: DOMAIN-WILDCARD=58
 # SOURCES:
@@ -4454,6 +4454,7 @@ routing = 1
 2, cdn.playersupport.riotgames.com
 2, cdn.techcommunity.microsoft.com
 2, clientmetrics-pa.googleapis.com
+2, community-cdn.openstreetmap.org
 2, external-content.duckduckgo.com
 2, files.mastodon.ktachibana.party
 2, hhhhhhome86227170.wordpress.com

@@ -2,8 +2,8 @@
 # GENERATED-FOR: Anywhere Routing Rule Set
 # DESCRIPTION: Geosite 中国大陆域名规则
 # GEOSITE-CODE: GEOLOCATION-CN
-# RULES: 4998
-# SOURCE-RULES: 5001
+# RULES: 4999
+# SOURCE-RULES: 5002
 # SKIPPED: 3
 # SKIPPED-TYPES: Regex=3
 # SOURCES:
@@ -2891,6 +2891,7 @@ routing = 1
 2, ls66.cn
 2, lsplayer.com
 2, lu.com
+2, lubiao.wiki
 2, luckincoffeecdn.com
 2, luckyair.net
 2, ludashi.com
