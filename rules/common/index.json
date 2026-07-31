@@ -1,6 +1,6 @@
 {
   "total_files": 40,
-  "total_rules": 88429,
+  "total_rules": 88473,
   "total_skipped": 126,
   "files": [
     {
@@ -36,7 +36,7 @@
       "name": "AI",
       "description": "常见 AI 服务",
       "output_path": "common/AI.arrs",
-      "rule_count": 49,
+      "rule_count": 50,
       "skipped_count": 1,
       "unsupported_types": {
         "URL-REGEX": 1
@@ -51,7 +51,7 @@
       "name": "Proxy",
       "description": "常用代理域名集合",
       "output_path": "common/Proxy.arrs",
-      "rule_count": 1564,
+      "rule_count": 1565,
       "skipped_count": 2,
       "unsupported_types": {
         "USER-AGENT": 2
@@ -65,7 +65,7 @@
       "name": "ProxyGFW",
       "description": "GFW 代理集合",
       "output_path": "common/ProxyGFW.arrs",
-      "rule_count": 7602,
+      "rule_count": 7603,
       "skipped_count": 1,
       "unsupported_types": {
         "USER-AGENT": 1
@@ -79,7 +79,7 @@
       "name": "GFW",
       "description": "GFW 域名列表",
       "output_path": "common/GFW.arrs",
-      "rule_count": 4369,
+      "rule_count": 4371,
       "skipped_count": 0,
       "unsupported_types": {},
       "sources": [
@@ -103,7 +103,7 @@
       "name": "AppleCN",
       "description": "苹果中国和苹果 CDN 直连",
       "output_path": "common/AppleCN.arrs",
-      "rule_count": 9,
+      "rule_count": 10,
       "skipped_count": 0,
       "unsupported_types": {},
       "sources": [
@@ -142,7 +142,7 @@
       "name": "AppleServices",
       "description": "苹果系统服务",
       "output_path": "common/AppleServices.arrs",
-      "rule_count": 17,
+      "rule_count": 18,
       "skipped_count": 8,
       "unsupported_types": {
         "PROCESS-NAME": 8
@@ -357,7 +357,7 @@
       "name": "ChinaDomain",
       "description": "中国大陆常见域名直连",
       "output_path": "common/ChinaDomain.arrs",
-      "rule_count": 863,
+      "rule_count": 864,
       "skipped_count": 4,
       "unsupported_types": {
         "DOMAIN-WILDCARD": 1,
@@ -450,7 +450,7 @@
       "name": "CDN",
       "description": "SukkaW CDN 直连辅助",
       "output_path": "common/CDN.arrs",
-      "rule_count": 4589,
+      "rule_count": 4590,
       "skipped_count": 58,
       "unsupported_types": {
         "DOMAIN-WILDCARD": 58
@@ -489,7 +489,7 @@
       "name": "Geosite_CN",
       "description": "Geosite 中国大陆域名规则",
       "output_path": "common/Geosite_CN.arrs",
-      "rule_count": 4999,
+      "rule_count": 5034,
       "skipped_count": 3,
       "unsupported_types": {
         "Regex": 3

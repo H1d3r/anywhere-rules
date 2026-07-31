@@ -1,7 +1,7 @@
 # NAME: CDN
 # GENERATED-FOR: Anywhere Routing Rule Set
 # DESCRIPTION: SukkaW CDN 直连辅助
-# RULES: 4589
+# RULES: 4590
 # SKIPPED: 58
 # SKIPPED-TYPES: DOMAIN-WILDCARD=58
 # SOURCES:
@@ -10,6 +10,7 @@
 
 name = CDN
 routing = 1
+2, 7h15_ru1353t_1s_m4d3_by_5ukk4w.skk.moe
 2, 0x0.st
 2, eep.io
 2, esm.sh

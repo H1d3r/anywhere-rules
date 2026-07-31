@@ -1,7 +1,7 @@
 # NAME: ChinaDomain
 # GENERATED-FOR: Anywhere Routing Rule Set
 # DESCRIPTION: 中国大陆常见域名直连
-# RULES: 863
+# RULES: 864
 # SKIPPED: 4
 # SKIPPED-TYPES: DOMAIN-WILDCARD=1, USER-AGENT=3
 # SOURCES:
@@ -9,6 +9,7 @@
 
 name = ChinaDomain
 routing = 1
+2, 7h15_ru1353t_1s_m4d3_by_5ukk4w.skk.moe
 2, 3.cn
 2, 6.cn
 2, t.cn

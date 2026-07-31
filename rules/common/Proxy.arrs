@@ -1,7 +1,7 @@
 # NAME: Proxy
 # GENERATED-FOR: Anywhere Routing Rule Set
 # DESCRIPTION: 常用代理域名集合
-# RULES: 1564
+# RULES: 1565
 # SKIPPED: 2
 # SKIPPED-TYPES: USER-AGENT=2
 # SOURCES:
@@ -9,6 +9,7 @@
 # - https://raw.githubusercontent.com/Repcz/Tool/X/Surge/Custom/Proxy.list
 
 name = Proxy
+2, 7h15_ru1353t_1s_m4d3_by_5ukk4w.skk.moe
 2, ac
 2, ai
 2, at

@@ -3,17 +3,15 @@
 # SOURCE: https://github.com/blackmatrix7/ios_rule_script/blob/master/rule/Surge/WeTV/WeTV.list
 # GENERATED-FOR: Anywhere Routing Rule Set
 # NOTE: DOMAIN rules are mapped to Anywhere domain suffix rules.
-# RULES: 9
+# RULES: 7
 # SKIPPED: 3
-# UPSTREAM-UPDATED: 2025-06-06 09:17:00
+# UPSTREAM-UPDATED: 2026-08-01 03:15:15
 # SKIPPED-TYPES: PROCESS-NAME=2, USER-AGENT=1
 
 name = WeTV
 2, wetv.qq.com
 2, iflix-images.akamaized.net
 2, iflix.com
-2, v.smtcdns.com
-2, v.smtcdns.net
 2, vv.video.qq.com
 2, wetv.vip
 2, wetvinfo.com

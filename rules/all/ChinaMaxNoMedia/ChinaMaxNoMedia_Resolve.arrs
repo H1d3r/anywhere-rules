@@ -3,21 +3,22 @@
 # SOURCE: https://github.com/blackmatrix7/ios_rule_script/blob/master/rule/Surge/ChinaMaxNoMedia/ChinaMaxNoMedia_Resolve.list
 # GENERATED-FOR: Anywhere Routing Rule Set
 # NOTE: DOMAIN rules are mapped to Anywhere domain suffix rules.
-# RULES: 12487
+# RULES: 12492
 # SKIPPED: 78
-# UPSTREAM-UPDATED: 2026-07-30 03:07:03
+# UPSTREAM-UPDATED: 2026-08-01 03:17:10
 # SKIPPED-TYPES: IP-ASN=1, PROCESS-NAME=12, USER-AGENT=65
 
 name = ChinaMaxNoMedia
-2, alibaba
-2, tmall
 2, cn
 2, ms
+2, alibaba
 2, anquan
 2, citic
+2, icbc
 2, shouji
 2, sina
 2, sohu
+2, tmall
 2, unicom
 2, wang
 2, xihuan
@@ -55,7 +56,6 @@ name = ChinaMaxNoMedia
 2, xn--xhq521b
 2, xn--zfr164b
 2, yun
-2, icbc
 3, .tmall.com
 3, alicdn
 3, alipay
@@ -589,6 +589,7 @@ name = ChinaMaxNoMedia
 0, 103.142.28.0/23
 0, 103.142.58.0/23
 0, 103.142.82.0/23
+0, 103.142.84.0/24
 0, 103.142.96.0/23
 0, 103.143.120.0/23
 0, 103.143.124.0/23
@@ -2700,6 +2701,7 @@ name = ChinaMaxNoMedia
 0, 106.8.0.0/15
 0, 106.80.0.0/12
 0, 107.149.27.0/24
+0, 107.149.9.0/24
 0, 107.150.125.199/32
 0, 107.151.212.0/24
 0, 107.153.91.0/24
@@ -3536,7 +3538,6 @@ name = ChinaMaxNoMedia
 0, 14.196.0.0/15
 0, 14.204.0.0/15
 0, 14.208.0.0/12
-0, 14.238.34.0/24
 0, 14.255.16.0/24
 0, 14.255.238.0/24
 0, 14.255.249.0/24
@@ -4015,6 +4016,7 @@ name = ChinaMaxNoMedia
 0, 163.228.0.0/16
 0, 163.244.246.0/24
 0, 163.47.4.0/22
+0, 163.5.97.0/24
 0, 163.53.0.0/20
 0, 163.53.128.0/21
 0, 163.53.136.0/22
@@ -4056,6 +4058,7 @@ name = ChinaMaxNoMedia
 0, 168.159.156.0/23
 0, 168.159.158.0/24
 0, 168.160.0.0/16
+0, 168.222.18.0/24
 0, 168.230.0.0/24
 0, 17.127.128.0/23
 0, 17.127.130.0/24
@@ -8274,6 +8277,7 @@ name = ChinaMaxNoMedia
 0, 82.156.0.0/15
 0, 82.163.16.0/24
 0, 82.38.46.0/23
+0, 83.245.71.0/24
 0, 85.12.7.192/28
 0, 85.184.245.0/24
 0, 85.209.40.0/22
@@ -12131,6 +12135,7 @@ name = ChinaMaxNoMedia
 1, 2a0a:d681:e000::/40
 1, 2a0a:d681:fb00::/40
 1, 2a0a:d681:fc00::/38
+1, 2a0a:d685:1fd::/48
 1, 2a0a:d685:1fe::/47
 1, 2a0a:d685:200::/47
 1, 2a0a:d685:300::/40

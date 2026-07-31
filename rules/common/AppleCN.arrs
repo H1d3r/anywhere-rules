@@ -1,7 +1,7 @@
 # NAME: AppleCN
 # GENERATED-FOR: Anywhere Routing Rule Set
 # DESCRIPTION: 苹果中国和苹果 CDN 直连
-# RULES: 9
+# RULES: 10
 # SKIPPED: 0
 # SOURCES:
 # - https://ruleset.skk.moe/List/non_ip/apple_cn.conf
@@ -9,6 +9,7 @@
 
 name = AppleCN
 routing = 1
+2, 7h15_ru1353t_1s_m4d3_by_5ukk4w.skk.moe
 2, apple.com.cn
 2, cn.apple.com
 2, icloud.com.cn

@@ -1,7 +1,7 @@
 # NAME: ProxyGFW
 # GENERATED-FOR: Anywhere Routing Rule Set
 # DESCRIPTION: GFW 代理集合
-# RULES: 7602
+# RULES: 7603
 # SKIPPED: 1
 # SKIPPED-TYPES: USER-AGENT=1
 # SOURCES:
@@ -6892,6 +6892,7 @@ name = ProxyGFW
 2, ocnttv.com
 2, vikacg.com
 2, picjs.xyz
+2, 7h15_ru1353t_1s_m4d3_by_5ukk4w.skk.moe
 2, ac
 2, ai
 2, at

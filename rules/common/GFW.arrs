@@ -1,7 +1,7 @@
 # NAME: GFW
 # GENERATED-FOR: Anywhere Routing Rule Set
 # DESCRIPTION: GFW 域名列表
-# RULES: 4369
+# RULES: 4371
 # SKIPPED: 0
 # SOURCES:
 # - https://raw.githubusercontent.com/Loyalsoldier/v2ray-rules-dat/release/gfw.txt
@@ -2268,6 +2268,7 @@ name = GFW
 2, leonardo.ai
 2, lesoir.be
 2, letscorp.net
+2, level-plus.net
 2, lexica.art
 2, lhakar.org
 2, li.taipei
@@ -3886,6 +3887,7 @@ name = GFW
 2, uyghurtribunal.com
 2, uygur.fc2web.com
 2, uymaarip.com
+2, v.recipes
 2, v2.help
 2, v2.hysteria.network
 2, v2ex.com

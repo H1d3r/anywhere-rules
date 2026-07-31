@@ -3,9 +3,9 @@
 # SOURCE: https://github.com/blackmatrix7/ios_rule_script/blob/master/rule/Surge/Global/Global_All_No_Resolve.list
 # GENERATED-FOR: Anywhere Routing Rule Set
 # NOTE: DOMAIN rules are mapped to Anywhere domain suffix rules.
-# RULES: 34871
+# RULES: 34893
 # SKIPPED: 47
-# UPSTREAM-UPDATED: 2026-07-30 03:04:17
+# UPSTREAM-UPDATED: 2026-08-01 03:14:47
 # SKIPPED-TYPES: PROCESS-NAME=1, USER-AGENT=46
 
 name = Global
@@ -1951,6 +1951,7 @@ name = Global
 2, api-extractor.com
 2, api.nebula-emby.com
 2, api.news
+2, apiauto.ru
 2, apibay.org
 2, apina.biz
 2, apiok.ru
@@ -2638,6 +2639,7 @@ name = Global
 2, authorxml.com
 2, authpass.app
 2, authy.com
+2, auto.ru
 2, autocad-schulungen.com
 2, autocad.com
 2, autocad360.com
@@ -2775,6 +2777,7 @@ name = Global
 2, automaton-media.com
 2, automobile.fr
 2, automotive-cadcam.com
+2, autoru.me
 2, autosketch.com
 2, autosub.ac.uk
 2, autumn-jade.com
@@ -2868,6 +2871,7 @@ name = Global
 2, avstar6.com
 2, avstar8.com
 2, avstar9.com
+2, avto.ru
 2, avwong.com
 2, avwto.com
 2, avxde.org
@@ -5754,6 +5758,8 @@ name = Global
 2, cheshire.ac.uk
 2, cheshirecolleges.ac.uk
 2, cheshirehe.ac.uk
+2, chess.com
+2, chesscomfiles.com
 2, chest.ac.uk
 2, chester.ac.uk
 2, chesterfield.ac.uk
@@ -5842,6 +5848,9 @@ name = Global
 2, chyoa.com
 2, ci-en.net
 2, cia.ac.uk
+2, cian.ru
+2, cian.site
+2, ciangroup.ru
 2, cias.ac.uk
 2, ciattackers.com
 2, cib.ac.uk
@@ -6083,6 +6092,7 @@ name = Global
 2, clusterconnection.com
 2, clydebank.ac.uk
 2, clzz2.xyz
+2, cm.expert
 2, cmac.ac.uk
 2, cmcnet.ac.uk
 2, cmcsm.ac.uk
@@ -7505,6 +7515,7 @@ name = Global
 2, dm-event.net
 2, dmed.technology
 2, dmgmediaprivacy.co.uk
+2, dmir.ru
 2, dmit.io
 2, dmit.sh
 2, dml-lang.org
@@ -7744,6 +7755,7 @@ name = Global
 2, drnastran.com
 2, drns.ac.uk
 2, drobbox.pro
+2, drom.ru
 2, dropbox-dns.com
 2, dropbox.com
 2, dropbox.tech
@@ -18460,6 +18472,7 @@ name = Global
 2, nytlog.com
 2, nyu.ac.uk
 2, o-courier.ru
+2, o-uchi.ru
 2, o2action.co.kr
 2, o3.ru
 2, o365weve-dev.com
@@ -20078,6 +20091,7 @@ name = Global
 2, potenza.jp
 2, potteries.ac.uk
 2, potterieseducationaltrust.ac.uk
+2, poudobnee.com
 2, poverty.ac.uk
 2, povpornonly.com
 2, povr.com
@@ -20694,6 +20708,7 @@ name = Global
 2, rdio.com
 2, rdmrsc.ac.uk
 2, rdnet.ac.uk
+2, rdrom.ru
 2, rds-yes.buzz
 2, re-net.ac.uk
 2, re25.vip
@@ -20769,6 +20784,7 @@ name = Global
 2, realtor.com
 2, realtype.co.jp
 2, realtype.jp
+2, realtyverif.ru
 2, realvision.com
 2, realviz.com
 2, realzoomovies.com
@@ -24694,6 +24710,7 @@ name = Global
 2, ucfb.ac.uk
 2, ucg.ac.uk
 2, uchi.ru
+2, uchilk.ru
 2, ucisa.ac.uk
 2, ucl-status.ac.uk
 2, ucl.ac.uk
@@ -26867,6 +26884,7 @@ name = Global
 2, xn----8sbeoy5bze.com
 2, xn----8sbkfzespdwig.xn--p1ai
 2, xn----8sbwjbxyd.xn--p1ai
+2, xn----otbzjdu.xn--p1ai
 2, xn--096-4g6em5t.com
 2, xn--201-4g6em5t.com
 2, xn--202-4g6em5t.com
@@ -26883,7 +26901,9 @@ name = Global
 2, xn--74q434dwff.net
 2, xn--7hv594h.com
 2, xn--80a9a4b.xn--p1ai
+2, xn--80aaafbpzn5blfby1p.xn--p1ai
 2, xn--80aaazx1an0a.lol
+2, xn--80aaeib8abrryx4k.xn--p1ai
 2, xn--80aafgovrgbc7am.xn--p1ai
 2, xn--80acbjgmges7ca.xn--p1ai
 2, xn--80acbjgsdq2cl.xn--p1ai
@@ -27525,6 +27545,7 @@ name = Global
 2, ymhsf.top
 2, ymhsf1.top
 2, ync.ne.jp
+2, yndx.net
 2, ynoproject.net
 2, yo-star.com
 2, yo1health.com
@@ -34017,6 +34038,7 @@ name = Global
 2, uygur.org
 2, uymaarip.com
 2, v.gd
+2, v.recipes
 2, v.roucdn
 2, v2.help
 2, v2.hysteria.network

@@ -2,8 +2,8 @@
 # GENERATED-FOR: Anywhere Routing Rule Set
 # DESCRIPTION: Geosite 中国大陆域名规则
 # GEOSITE-CODE: GEOLOCATION-CN
-# RULES: 4999
-# SOURCE-RULES: 5002
+# RULES: 5034
+# SOURCE-RULES: 5037
 # SKIPPED: 3
 # SKIPPED-TYPES: Regex=3
 # SOURCES:
@@ -58,6 +58,7 @@ routing = 1
 2, 123624.com
 2, 123641.com
 2, 12365auto.com
+2, 12371.cn
 2, 12377.cn
 2, 123842.com
 2, 123860.com
@@ -98,6 +99,7 @@ routing = 1
 2, 1905.com
 2, 19yxw.com
 2, 1hai.cn
+2, 1kkk.com
 2, 1nongjing.com
 2, 1ppt.com
 2, 1ting.com
@@ -112,6 +114,7 @@ routing = 1
 2, 2345.cn
 2, 2345.com
 2, 2345cdn.net
+2, 2345tianqi.cn
 2, 258.com
 2, 263.net
 2, 289.com
@@ -818,6 +821,7 @@ routing = 1
 2, cc-pay.cn
 2, ccf.org.cn
 2, ccfund.com.cn
+2, ccidcom.com
 2, ccnew.com
 2, ccrgt.com
 2, ccspeed.cn
@@ -841,6 +845,7 @@ routing = 1
 2, cdn20.com
 2, cdn30.org
 2, cdncl.net
+2, cdndm5.com
 2, cdndo.com
 2, cdnmama.com
 2, cdnmg.com
@@ -998,6 +1003,8 @@ routing = 1
 2, chugou360.com
 2, chuimg.com
 2, chujingapp.com
+2, chunyu.mobi
+2, chunyuyisheng.com
 2, chushi.cool
 2, chushou.tv
 2, chuyu.me
@@ -1146,6 +1153,7 @@ routing = 1
 2, cravatar.cn
 2, cravatar.com
 2, crggcn.com
+2, cri.cn
 2, crscm.com
 2, crsky.com
 2, cryuantafund.com
@@ -1232,6 +1240,7 @@ routing = 1
 2, cup.com.cn
 2, cup62.cn
 2, cvte.com
+2, cww.net.cn
 2, cwxzx.com
 2, cxbiji.com
 2, cxmt.com
@@ -1269,6 +1278,7 @@ routing = 1
 2, daocloud.io
 2, daocloud.vip
 2, daodoc.com
+2, daogou.ai
 2, daojia.com
 2, daovoice.io
 2, datacon.org.cn
@@ -1364,6 +1374,9 @@ routing = 1
 2, dlgslb.net
 2, dlnel.com
 2, dlnel.org
+2, dm5.cn
+2, dm5.com
+2, dm9.com
 2, dmall.com
 2, dmallcdn.com
 2, dmhmusic.com
@@ -1525,6 +1538,7 @@ routing = 1
 2, eeyy.com
 2, eflycloud.com
 2, efunds.com.cn
+2, egsea.com
 2, ehaier.com
 2, ejoy.com
 2, elecfans.com
@@ -1838,6 +1852,7 @@ routing = 1
 2, glsc.com.cn
 2, glxcc.net
 2, gm86.com
+2, gmanhua.com
 2, gmdaily.cn
 2, gmw.cn
 2, gmz88.com
@@ -1933,8 +1948,11 @@ routing = 1
 2, gwm.com.cn
 2, gxairlines.com
 2, gxb.io
+2, gxnews.com.cn
+2, gxrb.com.cn
 2, gxtv.cn
 2, gxxmt.com
+2, gxxw.com
 2, gyzq.com.cn
 2, gzasc.com
 2, gzcqs.com
@@ -2067,6 +2085,7 @@ routing = 1
 2, hjapi.com
 2, hjfile.cn
 2, hkgcloudcs.com
+2, hkmanga.com
 2, hktheone.com
 2, hlgdata.com
 2, hlzqgs.com
@@ -2348,6 +2367,7 @@ routing = 1
 2, itpub.net
 2, itsk.com
 2, ivwen.com
+2, iwangding.com
 2, ixiaochuan.cn
 2, iyiou.com
 2, iyunmu.com
@@ -2374,6 +2394,7 @@ routing = 1
 2, jetlogistic.com
 2, jfcoop.com
 2, jfdaily.com
+2, jfdaily.com.cn
 2, jhwan.com.cn
 2, jhzq.com.cn
 2, jia.com
@@ -2642,6 +2663,7 @@ routing = 1
 2, kouclo.com
 2, koudai.com
 2, koudai8.com
+2, koudaitong.com
 2, kq7.com
 2, ks-cdn.com
 2, ks-cdn1.com
@@ -2944,6 +2966,9 @@ routing = 1
 2, mamayz.cn
 2, mamayz.com
 2, mamecn.com
+2, manben.com
+2, manbenapi.com
+2, manhuaren.com
 2, manhuatai.com
 2, manmanbuy.com
 2, manmankan.com
@@ -3546,6 +3571,7 @@ routing = 1
 2, qqrizhi.com
 2, qqshuoshuo.com
 2, qschou.com
+2, qstheory.cn
 2, qtfm.cn
 2, qtlcdn.cn
 2, qtlcdn.com
@@ -3561,6 +3587,7 @@ routing = 1
 2, quklive.com
 2, qunjielong.com
 2, qunliao.info
+2, quntuantuan.cn
 2, quyaoya.com
 2, quyixian.com
 2, qwapp.top
@@ -3605,8 +3632,10 @@ routing = 1
 2, rockyenglish.com
 2, roco.qq.com
 2, rong360.com
+2, rongcloud.cn
 2, rongdeji.cn
 2, rongechain.com
+2, ronghub.com
 2, roomeet.cn
 2, route53.cn
 2, routewize.com
@@ -3747,6 +3776,7 @@ routing = 1
 2, shipin520.com
 2, shixiseng.com
 2, shmetro.com
+2, shobserver.cn
 2, shobserver.com
 2, shopss.com
 2, shouji
@@ -3824,6 +3854,7 @@ routing = 1
 2, sohucs.com
 2, sojson.com
 2, sojump.com
+2, solepic.com
 2, solidot.org
 2, somode.com
 2, sootoo.com
@@ -4426,6 +4457,7 @@ routing = 1
 2, worldoftank.cn
 2, worldoftanks.cn
 2, worldoftanks.com.cn
+2, wosaimg.com
 2, woshipm.com
 2, wostatic.cn
 2, wotgame.cn
@@ -4540,6 +4572,7 @@ routing = 1
 2, xingyeai.com
 2, xinhuanet.com
 2, xinhuaxmt.com
+2, xinlingshou.com
 2, xinlishumeng.com
 2, xinmeng.info
 2, xinmin.cn
@@ -4591,6 +4624,7 @@ routing = 1
 2, xuekanba.com
 2, xueqiu.com
 2, xuetangx.com
+2, xuexi.cn
 2, xuexi365.com
 2, xuexi365.com.cn
 2, xuexi365.net
@@ -4796,6 +4830,7 @@ routing = 1
 2, yunpian.com
 2, yunqishi.net
 2, yunshipei.com
+2, yunxi.tv
 2, yunxiao.com
 2, yunzhijia.com
 2, yunzhuxue.com
