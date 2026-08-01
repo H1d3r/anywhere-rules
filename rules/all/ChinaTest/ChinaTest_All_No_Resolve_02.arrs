@@ -3,12 +3,54 @@
 # SOURCE: https://github.com/blackmatrix7/ios_rule_script/blob/master/rule/Surge/ChinaTest/ChinaTest_All_No_Resolve.list
 # GENERATED-FOR: Anywhere Routing Rule Set
 # NOTE: DOMAIN rules are mapped to Anywhere domain suffix rules.
-# RULES: 11655
+# RULES: 11705
 # SKIPPED: 0
-# SOURCE-RULES: 111655
-# UPSTREAM-UPDATED: 2026-08-01 03:15:24
+# SOURCE-RULES: 111705
+# UPSTREAM-UPDATED: 2026-08-02 03:02:37
 
 name = ChinaTest_02
+2, xinray.com
+2, xinray.net
+2, xinri.com
+2, xinrong88.com
+2, xinrui-games.com
+2, xinrui-pharm.com
+2, xinrui.biz
+2, xinruipiao.com
+2, xinruiweb.com
+2, xinsanbanbao.com
+2, xinsankeji.com
+2, xinsannong.com
+2, xinsdn.com
+2, xinsenz.com
+2, xinsf.cc
+2, xinshangmeng.com
+2, xinshangshangxin.com
+2, xinshengdagroup.com
+2, xinshengku.com
+2, xinshengsemi.com
+2, xinshi525.com
+2, xinshiba.com
+2, xinshishen.com
+2, xinshouyou.com
+2, xinshouzhanzhang.com
+2, xinshuge.net
+2, xinshuiny.com
+2, xinshuru.com
+2, xinsilu.com
+2, xinsource.com
+2, xinss.com
+2, xinss.net
+2, xinstall.com
+2, xinstatic.com
+2, xinszy.com
+2, xintaikeji.com
+2, xintairen.com
+2, xintairencai.com
+2, xintaizhou.com
+2, xinteenergy.com
+2, xintengmenchuang.com
+2, xintheme.com
 2, xintiandi.com
 2, xintianw.com
 2, xintianya.net
@@ -91,6 +133,7 @@ name = ChinaTest_02
 2, xinyoudui.com
 2, xinyour.com
 2, xinyu-tam.com
+2, xinyu1234.xyz
 2, xinyu19.com
 2, xinyuanclub.com
 2, xinyuanf.com
@@ -824,6 +867,7 @@ name = ChinaTest_02
 2, xn--fjq720a
 2, xn--g2xx48c
 2, xn--glr604k.com
+2, xn--gmq22ktps713c.cc
 2, xn--gmq238c5fy.com
 2, xn--gmqr9gdtrhuf56g.com
 2, xn--h5qy75o.vip
@@ -4139,6 +4183,7 @@ name = ChinaTest_02
 2, yizeseafood.com
 2, yizhanapp.com
 2, yizhang8.com
+2, yizhangtu.com
 2, yizhanhulian.com
 2, yizhanzx.com
 2, yizhaopin.com
@@ -4799,6 +4844,7 @@ name = ChinaTest_02
 2, yoseleather.com
 2, yostar.net
 2, yostatic.com
+2, yosulife.com
 2, yotopic.com
 2, you-mi.net
 2, you03.com
@@ -6307,6 +6353,7 @@ name = ChinaTest_02
 2, yunzz.net
 2, yuoucn.com
 2, yupao.com
+2, yupaoad.com
 2, yupaowang.com
 2, yupeiholdings.com
 2, yupinny.com
@@ -6673,6 +6720,7 @@ name = ChinaTest_02
 2, yyh78.com
 2, yyha168.com
 2, yyhao.com
+2, yyhdadx.com
 2, yyhh.com
 2, yyhn365.com
 2, yyhybz.com
@@ -9025,6 +9073,7 @@ name = ChinaTest_02
 2, zhuangbutong.com
 2, zhuanghebm.com
 2, zhuangji.net
+2, zhuangjidiy.com
 2, zhuangjinshanhe.com
 2, zhuangjizhuli.net
 2, zhuangkou.com
@@ -11465,6 +11514,7 @@ name = ChinaTest_02
 2, zzcdnx.com
 2, zzcjby.com
 2, zzcjxy.com
+2, zzclass.com
 2, zzcmjn.com
 2, zzcomm.com
 2, zzcrcgas.com

@@ -4,7 +4,7 @@
 
 | Name | Rules | Skipped | Description | File |
 | --- | ---: | ---: | --- | --- |
-| Reject | 6203 | 2 | 广告、恶意站点和跟踪拦截基础集合 | [common/Reject.arrs](./Reject.arrs) |
+| Reject | 6197 | 1 | 广告、恶意站点和跟踪拦截基础集合 | [common/Reject.arrs](./Reject.arrs) |
 | Ads_AWAvenue | 897 | 0 | 秋风广告规则 AWAvenue | [common/Ads_AWAvenue.arrs](./Ads_AWAvenue.arrs) |
 | AI | 50 | 1 | 常见 AI 服务 | [common/AI.arrs](./AI.arrs) |
 | Proxy | 1565 | 2 | 常用代理域名集合 | [common/Proxy.arrs](./Proxy.arrs) |
@@ -40,7 +40,7 @@
 | Steam | 54 | 0 | Steam | [common/Steam.arrs](./Steam.arrs) |
 | PayPal | 247 | 1 | PayPal | [common/PayPal.arrs](./PayPal.arrs) |
 | Cloudflare | 65 | 0 | Cloudflare | [common/Cloudflare.arrs](./Cloudflare.arrs) |
-| CDN | 4590 | 58 | SukkaW CDN 直连辅助 | [common/CDN.arrs](./CDN.arrs) |
+| CDN | 4593 | 58 | SukkaW CDN 直连辅助 | [common/CDN.arrs](./CDN.arrs) |
 | CN_Radar | 175 | 0 | Cloudflare Radar 中国大陆域名增强补充 | [common/CN_Radar.arrs](./CN_Radar.arrs) |
 | GeoIP_CN | 5995 | 0 | GeoIP 中国大陆 IP CIDR | [common/GeoIP_CN.arrs](./GeoIP_CN.arrs) |
-| Geosite_CN | 5034 | 3 | Geosite 中国大陆域名规则 | [common/Geosite_CN.arrs](./Geosite_CN.arrs) |
+| Geosite_CN | 5151 | 3 | Geosite 中国大陆域名规则 | [common/Geosite_CN.arrs](./Geosite_CN.arrs) |

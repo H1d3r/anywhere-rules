@@ -1,9 +1,9 @@
 # NAME: Reject
 # GENERATED-FOR: Anywhere Routing Rule Set
 # DESCRIPTION: 广告、恶意站点和跟踪拦截基础集合
-# RULES: 6203
-# SKIPPED: 2
-# SKIPPED-TYPES: AND=1, USER-AGENT=1
+# RULES: 6197
+# SKIPPED: 1
+# SKIPPED-TYPES: AND=1
 # SOURCES:
 # - https://raw.githubusercontent.com/ConnersHua/RuleGo/master/Surge/Ruleset/Extra/Reject/Advertising.list
 # - https://raw.githubusercontent.com/ConnersHua/RuleGo/master/Surge/Ruleset/Extra/Reject/Malicious.list
@@ -985,12 +985,6 @@ routing = 2
 2, ads.finance.yahoo.com
 2, ads.yahoo.com
 2, ads.yahoo.de
-2, appcloud2.in.zhihu.com
-2, mqtt.zhihu.com
-2, sugar.zhihu.com
-2, 118.89.204.198
-0, 118.89.204.198/32
-1, 2402:4e00:1200:ed00:0:9089:6dac:96b6/128
 2, apppv.zol.com.cn
 2, pvnapp.zol.com.cn
 2, 51.la
