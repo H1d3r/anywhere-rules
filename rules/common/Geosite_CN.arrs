@@ -2,8 +2,8 @@
 # GENERATED-FOR: Anywhere Routing Rule Set
 # DESCRIPTION: Geosite 中国大陆域名规则
 # GEOSITE-CODE: GEOLOCATION-CN
-# RULES: 5151
-# SOURCE-RULES: 5154
+# RULES: 5152
+# SOURCE-RULES: 5155
 # SKIPPED: 3
 # SKIPPED-TYPES: Regex=3
 # SOURCES:
@@ -1167,6 +1167,7 @@ routing = 1
 2, cqn.com.cn
 2, cqnews.net
 2, cqsjb.com
+2, cqtk.com.cn
 2, cqvip.com
 2, cr-cts.com
 2, cr173.com

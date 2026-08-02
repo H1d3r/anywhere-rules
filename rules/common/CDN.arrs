@@ -1,7 +1,7 @@
 # NAME: CDN
 # GENERATED-FOR: Anywhere Routing Rule Set
 # DESCRIPTION: SukkaW CDN 直连辅助
-# RULES: 4593
+# RULES: 4595
 # SKIPPED: 58
 # SKIPPED-TYPES: DOMAIN-WILDCARD=58
 # SOURCES:
@@ -1951,6 +1951,7 @@ routing = 1
 2, magic.scalar.com
 2, mangadex.network
 2, maps.gstatic.com
+2, maps.hereapi.com
 2, maps.wplace.live
 2, mcdns.vrporn.com
 2, media-amazon.com
@@ -4333,6 +4334,7 @@ routing = 1
 2, cms-assets.webediamovies.pro
 2, code.buywithprime.amazon.com
 2, components.cyclingfactory.be
+2, connectcache20.azureedge.net
 2, csp-reporting.cloudflare.com
 2, doppler-config.cbsivideo.com
 2, fastly-cloud.typenetwork.com

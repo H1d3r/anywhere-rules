@@ -1,7 +1,7 @@
 # NAME: GFW
 # GENERATED-FOR: Anywhere Routing Rule Set
 # DESCRIPTION: GFW 域名列表
-# RULES: 4371
+# RULES: 4372
 # SKIPPED: 0
 # SOURCES:
 # - https://raw.githubusercontent.com/Loyalsoldier/v2ray-rules-dat/release/gfw.txt
@@ -2687,6 +2687,7 @@ name = GFW
 2, ntdtv.com
 2, ntdtv.com.tw
 2, ntdtv.cz
+2, nthlink.com
 2, nuexpo.com
 2, nurgo-software.com
 2, nusatrip.com
