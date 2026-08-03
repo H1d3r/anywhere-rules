@@ -5,7 +5,7 @@
 # NOTE: DOMAIN rules are mapped to Anywhere domain suffix rules.
 # RULES: 6889
 # SKIPPED: 8
-# UPSTREAM-UPDATED: 2026-08-01 03:15:08
+# UPSTREAM-UPDATED: 2026-08-04 03:25:57
 # SKIPPED-TYPES: USER-AGENT=8
 
 name = Proxy
@@ -991,6 +991,7 @@ name = Proxy
 2, centerforhumanreprod.com
 2, centralnation.com
 2, centurys.net
+2, cerebras.ai
 2, certificate-transparency.org
 2, cex.io
 2, cfhks.org.hk
@@ -1119,6 +1120,7 @@ name = Proxy
 2, chromercise.com
 2, chromestatus.com
 2, chromium.org
+2, cht.com.tw
 2, chuang-yen.org
 2, chubold.com
 2, chubun.com
@@ -3743,7 +3745,6 @@ name = Proxy
 2, movements.org
 2, moves-export.com
 2, moviefap.com
-2, mozilla.ai
 2, mozilla.org
 2, moztw.org
 2, mp3buscador.com
@@ -4066,6 +4067,7 @@ name = Proxy
 2, ntdtv.jp
 2, ntdtv.ru
 2, ntdtvla.com
+2, nthlink.com
 2, ntrfun.com
 2, ntu.edu.tw
 2, nu.nl
@@ -4631,7 +4633,6 @@ name = Proxy
 2, radio.garden
 2, radioaustralia.net.au
 2, radiohilight.net
-2, radiojar.com
 2, radioline.co
 2, radiotime.com
 2, radiovaticana.org
@@ -6454,7 +6455,6 @@ name = Proxy
 2, wuyanblog.com
 2, wwe.com
 2, wwitv.com
-2, www.clashverge.dev
 2, www.lamenhu.com
 2, www.orchidbbs.com
 2, www.taup.org.tw

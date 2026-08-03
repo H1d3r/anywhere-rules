@@ -1,7 +1,7 @@
 # NAME: CDN
 # GENERATED-FOR: Anywhere Routing Rule Set
 # DESCRIPTION: SukkaW CDN 直连辅助
-# RULES: 4595
+# RULES: 4597
 # SKIPPED: 58
 # SKIPPED-TYPES: DOMAIN-WILDCARD=58
 # SOURCES:
@@ -3760,6 +3760,7 @@ routing = 1
 2, weather.istatmenus.app
 2, web-assets.zendesk.com
 2, web-static.archive.org
+2, webdist.data.apnic.net
 2, website-media.deel.com
 2, widget.prod.equally.ai
 2, widgets.automizely.com
@@ -3953,6 +3954,7 @@ routing = 1
 2, assets.nationbuilder.com
 2, assets.prowritingaid.com
 2, assets.static-upwork.com
+2, assets.trainingpeaks.com
 2, assets10.lottiefiles.com
 2, atl-global.atlassian.com
 2, axiecdn.axieinfinity.com

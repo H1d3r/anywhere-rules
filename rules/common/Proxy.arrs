@@ -1,7 +1,7 @@
 # NAME: Proxy
 # GENERATED-FOR: Anywhere Routing Rule Set
 # DESCRIPTION: 常用代理域名集合
-# RULES: 1565
+# RULES: 1566
 # SKIPPED: 2
 # SKIPPED-TYPES: USER-AGENT=2
 # SOURCES:
@@ -1199,6 +1199,7 @@ name = Proxy
 2, stackexchange.com
 2, stackoverflow.com
 2, thaiheadlines.com
+2, trainingpeaks.com
 2, trycloudflare.com
 2, videodelivery.net
 2, wikifunctions.org

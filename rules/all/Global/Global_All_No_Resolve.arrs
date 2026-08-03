@@ -3,9 +3,9 @@
 # SOURCE: https://github.com/blackmatrix7/ios_rule_script/blob/master/rule/Surge/Global/Global_All_No_Resolve.list
 # GENERATED-FOR: Anywhere Routing Rule Set
 # NOTE: DOMAIN rules are mapped to Anywhere domain suffix rules.
-# RULES: 34893
+# RULES: 34902
 # SKIPPED: 47
-# UPSTREAM-UPDATED: 2026-08-01 03:14:47
+# UPSTREAM-UPDATED: 2026-08-04 03:25:35
 # SKIPPED-TYPES: PROCESS-NAME=1, USER-AGENT=46
 
 name = Global
@@ -844,6 +844,7 @@ name = Global
 2, acsis.ac.uk
 2, actalis.com
 2, actalis.it
+2, actifio.com
 2, activatelearning.ac.uk
 2, activelearnprimary.co.uk
 2, activelearnprimary.com.au
@@ -5596,7 +5597,6 @@ name = Global
 2, ceramics-cadcam.com
 2, cercia.ac.uk
 2, cerdas.com
-2, cerebras.ai
 2, ceredigion.ac.uk
 2, ceri.ac.uk
 2, cerlim.ac.uk
@@ -5828,7 +5828,6 @@ name = Global
 2, chroniclesec.com
 2, chrysaliscourses.ac.uk
 2, chs.ac.uk
-2, cht.com.tw
 2, chtf.org.tw
 2, chuangb15.xyz
 2, chubbypornonly.com
@@ -13977,7 +13976,10 @@ name = Global
 2, jetbrains.ai
 2, jetbrains.cloud
 2, jetbrains.com
+2, jetbrains.dev
 2, jetbrains.net
+2, jetbrains.org
+2, jetbrains.ru
 2, jetbrains.space
 2, jetbrains.team
 2, jetfuelapp.com
@@ -14564,6 +14566,8 @@ name = Global
 2, koshelek.app
 2, koskade.com
 2, kostenlosepornoclips.com
+2, kotl.in
+2, kotlinconf.com
 2, kotlinlang.org
 2, koubaibu.jp
 2, koukoku.jp
@@ -14590,6 +14594,7 @@ name = Global
 2, kssdeanery.ac.uk
 2, ksyp10.com
 2, ktech.team
+2, ktor.io
 2, ktvu.com
 2, ku77.xyz
 2, kuaimao-app.com
@@ -16883,6 +16888,7 @@ name = Global
 2, mozilla-europe.org
 2, mozilla-hispano.org
 2, mozilla-mexico.org
+2, mozilla.ai
 2, mozilla.com
 2, mozilla.community
 2, mozilla.cz
@@ -17180,6 +17186,7 @@ name = Global
 2, myhulu.com
 2, myicloud.net
 2, myipod.net
+2, myjetbrains.com
 2, myjkwd.com
 2, mylabnotebook.ac.uk
 2, mylcb.ac.uk
@@ -18779,6 +18786,7 @@ name = Global
 2, openweather.co.uk
 2, openweathermap.org
 2, openweave.io
+2, openxla.org
 2, opera-archive.ac.uk
 2, opera-mini.net
 2, opinionjournal.com
@@ -23616,6 +23624,7 @@ name = Global
 2, talentlens.com
 2, taleofthenight.com
 2, talkinghealthmatters.ac.uk
+2, talkingkotlin.com
 2, talksport.com
 2, tamescol.ac.uk
 2, tameside-acl.ac.uk
@@ -29018,6 +29027,7 @@ name = Global
 2, centerforhumanreprod.com
 2, centralnation.com
 2, centurys.net
+2, cerebras.ai
 2, certificate-transparency.org
 2, cex.io
 2, cfhks.org.hk
@@ -29142,6 +29152,7 @@ name = Global
 2, chromercise.com
 2, chromestatus.com
 2, chromium.org
+2, cht.com.tw
 2, chuang-yen.org
 2, chubold.com
 2, chubun.com
@@ -31746,7 +31757,6 @@ name = Global
 2, movements.org
 2, moves-export.com
 2, moviefap.com
-2, mozilla.ai
 2, mozilla.org
 2, moztw.org
 2, mp3buscador.com
@@ -32067,6 +32077,7 @@ name = Global
 2, ntdtv.jp
 2, ntdtv.ru
 2, ntdtvla.com
+2, nthlink.com
 2, ntrfun.com
 2, ntu.edu.tw
 2, nu.nl
@@ -32627,7 +32638,6 @@ name = Global
 2, radio.garden
 2, radioaustralia.net.au
 2, radiohilight.net
-2, radiojar.com
 2, radioline.co
 2, radiotime.com
 2, radiovaticana.org
@@ -34434,7 +34444,6 @@ name = Global
 2, wuyanblog.com
 2, wwe.com
 2, wwitv.com
-2, www.clashverge.dev
 2, www1.biz
 2, wwwhost.biz
 2, wxw.cat

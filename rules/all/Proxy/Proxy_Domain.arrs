@@ -5,7 +5,7 @@
 # NOTE: DOMAIN rules are mapped to Anywhere domain suffix rules.
 # RULES: 0
 # SKIPPED: 6766
-# UPSTREAM-UPDATED: 2026-08-01 03:15:08
+# UPSTREAM-UPDATED: 2026-08-04 03:25:57
 # SKIPPED-TYPES: UNKNOWN=6766
 
 name = Proxy

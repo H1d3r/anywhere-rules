@@ -1,7 +1,7 @@
 # NAME: GFW
 # GENERATED-FOR: Anywhere Routing Rule Set
 # DESCRIPTION: GFW 域名列表
-# RULES: 4372
+# RULES: 4369
 # SKIPPED: 0
 # SOURCES:
 # - https://raw.githubusercontent.com/Loyalsoldier/v2ray-rules-dat/release/gfw.txt
@@ -696,6 +696,7 @@ name = GFW
 2, centerforhumanreprod.com
 2, centralnation.com
 2, centurys.net
+2, cerebras.ai
 2, certificate-transparency.org
 2, certificate.revocationcheck.com
 2, cfr.org
@@ -776,6 +777,7 @@ name = GFW
 2, chromecast.com
 2, chromeexperiments.com
 2, chromestatus.com
+2, cht.com.tw
 2, ci-en.jp
 2, cia.gov
 2, cici.com
@@ -2532,7 +2534,6 @@ name = GFW
 2, motherless.com
 2, movements.org
 2, moviefap.com
-2, mozilla.ai
 2, mpettis.com
 2, mpfinance.com
 2, mpinews.com
@@ -3002,7 +3003,6 @@ name = GFW
 2, pullfolio.co
 2, pure18.com
 2, pureconcepts.net
-2, puredns.org
 2, pureinsight.org
 2, purepdf.com
 2, purevpn.com
@@ -3047,7 +3047,6 @@ name = GFW
 2, radio.garden
 2, radioaustralia.net.au
 2, radiohilight.net
-2, radiojar.com
 2, radioline.co
 2, radiovaticana.org
 2, radiovncr.com
@@ -3160,7 +3159,6 @@ name = GFW
 2, safechat.com
 2, safeguarddefenders.com
 2, safervpn.com
-2, sagernet.org
 2, saintyculture.com
 2, sakuralive.com
 2, salvation.org.hk
@@ -4154,7 +4152,6 @@ name = GFW
 2, www.antd.org
 2, www.aolnews.com
 2, www.bing.com
-2, www.clashverge.dev
 2, www.cmoinc.org
 2, www.dmm.com
 2, www.eastturkistan.net
