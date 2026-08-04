@@ -1,6 +1,6 @@
 {
   "total_files": 40,
-  "total_rules": 88592,
+  "total_rules": 88593,
   "total_skipped": 125,
   "files": [
     {
@@ -449,7 +449,7 @@
       "name": "CDN",
       "description": "SukkaW CDN 直连辅助",
       "output_path": "common/CDN.arrs",
-      "rule_count": 4597,
+      "rule_count": 4598,
       "skipped_count": 58,
       "unsupported_types": {
         "DOMAIN-WILDCARD": 58
