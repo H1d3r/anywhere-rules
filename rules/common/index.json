@@ -1,6 +1,6 @@
 {
   "total_files": 40,
-  "total_rules": 88593,
+  "total_rules": 88604,
   "total_skipped": 125,
   "files": [
     {
@@ -392,7 +392,7 @@
       "name": "Lan",
       "description": "局域网和私有地址",
       "output_path": "common/Lan.arrs",
-      "rule_count": 8,
+      "rule_count": 14,
       "skipped_count": 0,
       "unsupported_types": {},
       "sources": [
@@ -449,7 +449,7 @@
       "name": "CDN",
       "description": "SukkaW CDN 直连辅助",
       "output_path": "common/CDN.arrs",
-      "rule_count": 4598,
+      "rule_count": 4603,
       "skipped_count": 58,
       "unsupported_types": {
         "DOMAIN-WILDCARD": 58

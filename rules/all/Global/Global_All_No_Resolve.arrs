@@ -3,9 +3,9 @@
 # SOURCE: https://github.com/blackmatrix7/ios_rule_script/blob/master/rule/Surge/Global/Global_All_No_Resolve.list
 # GENERATED-FOR: Anywhere Routing Rule Set
 # NOTE: DOMAIN rules are mapped to Anywhere domain suffix rules.
-# RULES: 34902
+# RULES: 34916
 # SKIPPED: 47
-# UPSTREAM-UPDATED: 2026-08-04 03:25:35
+# UPSTREAM-UPDATED: 2026-08-06 03:20:26
 # SKIPPED-TYPES: PROCESS-NAME=1, USER-AGENT=46
 
 name = Global
@@ -6901,6 +6901,8 @@ name = Global
 2, deepfreeze.tech
 2, deeping.ac.uk
 2, deepl.com
+2, deepwiki.com
+2, deepwiki.org
 2, deeside.ac.uk
 2, defac.ac.uk
 2, defenceacademy.ac.uk
@@ -9722,8 +9724,11 @@ name = Global
 2, fluids.ac.uk
 2, flutter.dev
 2, flutterapp.com
+2, fly.dev
+2, fly.io
 2, flyflv.com
 2, flyingjizz.com
+2, flyio.net
 2, flyyindh-cc.sbs
 2, fm4.jp
 2, fmav.top
@@ -10675,6 +10680,7 @@ name = Global
 2, glenfife.ac.uk
 2, glenrothes-college.ac.uk
 2, glhl.ac.uk
+2, glitchwave.com
 2, gllm.ac.uk
 2, global-sci.org
 2, global.market.xiaomi.com
@@ -18951,14 +18957,17 @@ name = Global
 2, ozon-credit.ru
 2, ozon-dostavka.ru
 2, ozon-tech.ru
+2, ozon.app
 2, ozon.by
 2, ozon.com
 2, ozon.com.by
 2, ozon.com.kz
 2, ozon.dev
 2, ozon.express
+2, ozon.global
 2, ozon.kz
 2, ozon.li
+2, ozon.market
 2, ozon.ru
 2, ozon.tech
 2, ozon.tm
@@ -21343,6 +21352,7 @@ name = Global
 2, rutracker.me
 2, rutracker.nl
 2, rutrecker.net
+2, rutube.sport
 2, rutubelist.ru
 2, ruvideos.net
 2, rvc.ac.uk
@@ -21351,6 +21361,7 @@ name = Global
 2, rwbautomation.tech
 2, rwbgeo.ru
 2, rwcmd.ac.uk
+2, rym.fm
 2, ryokoyomiuri.co.jp
 2, ryukyubank.co.jp
 2, rzr.to
@@ -22556,6 +22567,7 @@ name = Global
 2, snk-corp.co.jp
 2, snk-corp.info
 2, snkplaymore.info
+2, snmc.io
 2, snow.me
 2, snowcorp.com
 2, snowmiku.com
@@ -22630,6 +22642,8 @@ name = Global
 2, somanylolies.com
 2, somerset.ac.uk
 2, somersetcolleges.ac.uk
+2, sonematic.net
+2, sonemic.com
 2, sonorousporn.com
 2, sony-africa.com
 2, sony-asia.com
