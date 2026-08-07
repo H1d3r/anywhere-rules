@@ -6,10 +6,10 @@
 | --- | ---: | ---: | --- | --- |
 | Reject | 6197 | 1 | 广告、恶意站点和跟踪拦截基础集合 | [common/Reject.arrs](./Reject.arrs) |
 | Ads_AWAvenue | 897 | 0 | 秋风广告规则 AWAvenue | [common/Ads_AWAvenue.arrs](./Ads_AWAvenue.arrs) |
-| AI | 50 | 1 | 常见 AI 服务 | [common/AI.arrs](./AI.arrs) |
+| AI | 51 | 1 | 常见 AI 服务 | [common/AI.arrs](./AI.arrs) |
 | Proxy | 1566 | 2 | 常用代理域名集合 | [common/Proxy.arrs](./Proxy.arrs) |
 | ProxyGFW | 7604 | 1 | GFW 代理集合 | [common/ProxyGFW.arrs](./ProxyGFW.arrs) |
-| GFW | 4369 | 0 | GFW 域名列表 | [common/GFW.arrs](./GFW.arrs) |
+| GFW | 4368 | 0 | GFW 域名列表 | [common/GFW.arrs](./GFW.arrs) |
 | Direct | 35 | 1 | 常用直连补充 | [common/Direct.arrs](./Direct.arrs) |
 | AppleCN | 10 | 0 | 苹果中国和苹果 CDN 直连 | [common/AppleCN.arrs](./AppleCN.arrs) |
 | AppleProxy | 39 | 6 | 需要代理的苹果服务 | [common/AppleProxy.arrs](./AppleProxy.arrs) |
@@ -34,13 +34,13 @@
 | WeChat | 339 | 2 | WeChat | [common/WeChat.arrs](./WeChat.arrs) |
 | ChinaDomain | 864 | 4 | 中国大陆常见域名直连 | [common/ChinaDomain.arrs](./ChinaDomain.arrs) |
 | CN_Additional | 43245 | 0 | 中国大陆域名补充 | [common/CN_Additional.arrs](./CN_Additional.arrs) |
-| ChinaIP | 5822 | 0 | 中国大陆 IP CIDR | [common/ChinaIP.arrs](./ChinaIP.arrs) |
+| ChinaIP | 5814 | 0 | 中国大陆 IP CIDR | [common/ChinaIP.arrs](./ChinaIP.arrs) |
 | Lan | 14 | 0 | 局域网和私有地址 | [common/Lan.arrs](./Lan.arrs) |
 | Game | 597 | 0 | 游戏平台集合 | [common/Game.arrs](./Game.arrs) |
 | Steam | 54 | 0 | Steam | [common/Steam.arrs](./Steam.arrs) |
 | PayPal | 247 | 1 | PayPal | [common/PayPal.arrs](./PayPal.arrs) |
 | Cloudflare | 65 | 0 | Cloudflare | [common/Cloudflare.arrs](./Cloudflare.arrs) |
-| CDN | 4603 | 58 | SukkaW CDN 直连辅助 | [common/CDN.arrs](./CDN.arrs) |
+| CDN | 4607 | 58 | SukkaW CDN 直连辅助 | [common/CDN.arrs](./CDN.arrs) |
 | CN_Radar | 175 | 0 | Cloudflare Radar 中国大陆域名增强补充 | [common/CN_Radar.arrs](./CN_Radar.arrs) |
 | GeoIP_CN | 5979 | 0 | GeoIP 中国大陆 IP CIDR | [common/GeoIP_CN.arrs](./GeoIP_CN.arrs) |
 | Geosite_CN | 5165 | 3 | Geosite 中国大陆域名规则 | [common/Geosite_CN.arrs](./Geosite_CN.arrs) |

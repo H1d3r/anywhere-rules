@@ -1,7 +1,7 @@
 # NAME: CDN
 # GENERATED-FOR: Anywhere Routing Rule Set
 # DESCRIPTION: SukkaW CDN 直连辅助
-# RULES: 4603
+# RULES: 4607
 # SKIPPED: 58
 # SKIPPED-TYPES: DOMAIN-WILDCARD=58
 # SOURCES:
@@ -220,6 +220,7 @@ routing = 1
 2, ant.design
 2, aolcdn.com
 2, avximg.com
+2, awxcdn.com
 2, badgen.net
 2, balley.top
 2, bblcdn.com
@@ -662,6 +663,7 @@ routing = 1
 2, e3.365dm.com
 2, eightcha.com
 2, eslint.style
+2, fast-sfc.com
 2, favicone.com
 2, fembeqv2.xyz
 2, file.ahu.moe
@@ -2804,6 +2806,7 @@ routing = 1
 2, before.good-apps.co
 2, bundle.trysavvy.com
 2, cdn-blocks.karte.io
+2, cdn-city.livere.com
 2, cdn-fck.tnaflix.com
 2, cdn.amgreatness.com
 2, cdn.announcekit.app
@@ -4253,6 +4256,7 @@ routing = 1
 2, app-static-prod.posthog.com
 2, article-image-ix.nikkei.com
 2, assets.braintreegateway.com
+2, assets.weather-forecast.com
 2, cdn-lfs-us-1.huggingface.co
 2, cdn-live.foreignaffairs.com
 2, cdn-static-push.porndig.com

@@ -5,8 +5,8 @@
 # NOTE: DOMAIN rules are mapped to Anywhere domain suffix rules.
 # RULES: 100000
 # SKIPPED: 31
-# SOURCE-RULES: 111312
-# UPSTREAM-UPDATED: 2026-08-04 03:26:15
+# SOURCE-RULES: 111315
+# UPSTREAM-UPDATED: 2026-08-08 02:47:40
 # SKIPPED-TYPES: USER-AGENT=31
 
 name = ChinaTest_01
@@ -65029,6 +65029,7 @@ name = ChinaTest_01
 2, madajiefood.com
 2, madaomall.com
 2, madboxi.com
+2, made-in-china.com
 2, madefuns.com
 2, madeinchinastone.com
 2, madewei.com
@@ -66705,6 +66706,7 @@ name = ChinaTest_01
 2, microxiang.com
 2, microyan.com
 2, microzuji.com
+2, micstatic.com
 2, mictormedical.com
 2, micu.hk
 2, micun.com
@@ -74093,6 +74095,7 @@ name = ChinaTest_01
 2, powerchinayun.com
 2, powerde.com
 2, powereasy.net
+2, poweremarket.com
 2, powerex1.com
 2, powerflow-tech.com
 2, powerfulchina.com
@@ -100007,6 +100010,3 @@ name = ChinaTest_01
 2, xizhang.com
 2, xizhengtouzi.com
 2, xizhi.com
-2, xizi.com
-2, xizice.com
-2, xiziiparking.com
