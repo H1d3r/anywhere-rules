@@ -2,8 +2,8 @@
 # GENERATED-FOR: Anywhere Routing Rule Set
 # DESCRIPTION: Geosite 中国大陆域名规则
 # GEOSITE-CODE: GEOLOCATION-CN
-# RULES: 5152
-# SOURCE-RULES: 5155
+# RULES: 5165
+# SOURCE-RULES: 5168
 # SKIPPED: 3
 # SKIPPED-TYPES: Regex=3
 # SOURCES:
@@ -379,6 +379,8 @@ routing = 1
 2, 95516.com
 2, 95516.net
 2, 9553.com
+2, 95598.cn
+2, 95598pay.com
 2, 962.net
 2, 9718.com
 2, 97ting.com
@@ -1188,6 +1190,7 @@ routing = 1
 2, csdn.net.cn
 2, csdnimg.cn
 2, csfounder.com
+2, csg.cn
 2, csmjzs.com
 2, cspro.org
 2, csqaq.com
@@ -1545,9 +1548,11 @@ routing = 1
 2, ebscn.com
 2, ebtrust.com
 2, eceshi.com
+2, echargenet.com
 2, ecjobhome.com
 2, ecloud-gdu.com
 2, ecns.cn
+2, ecsg.com.cn
 2, ecukwai.com
 2, eda.cn
 2, edgecloudx.cn
@@ -1592,6 +1597,7 @@ routing = 1
 2, erp321.com
 2, erp321.net
 2, ersjk.com
+2, esgcc.com.cn
 2, essence.com.cn
 2, et-api.com
 2, et001.com
@@ -1695,6 +1701,7 @@ routing = 1
 2, fnos.net
 2, focus-img.cn
 2, focus.cn
+2, focuschina.com
 2, fofa.info
 2, fofa.so
 2, fofuai.com
@@ -3010,6 +3017,7 @@ routing = 1
 2, lzpipi.com
 2, m1905.cn
 2, m1905.com
+2, made-in-china.com
 2, mafengwo.cn
 2, mafengwo.com
 2, mafengwo.net
@@ -3128,6 +3136,7 @@ routing = 1
 2, miaotixing.com
 2, miaoyanai.com
 2, miaozhen.com
+2, micstatic.com
 2, micun.com
 2, midasbuy.com
 2, midea.cn
@@ -3522,6 +3531,7 @@ routing = 1
 2, postfund.com.cn
 2, postmail.cn
 2, postoa.com.cn
+2, poweremarket.com
 2, ppkankan01.com
 2, pplive.cn
 2, pplive.com
@@ -3822,6 +3832,7 @@ routing = 1
 2, sffix.cn
 2, sfgy.org
 2, sgamer.com
+2, sgcc.com.cn
 2, shanbay.com
 2, shang360.com
 2, shangc.net
@@ -4234,6 +4245,7 @@ routing = 1
 2, tpyzq.com
 2, tq121.com.cn
 2, tracup.com
+2, trademessenger.com
 2, trae.cn
 2, trae.com.cn
 2, trae.guru
@@ -4400,6 +4412,7 @@ routing = 1
 2, vcimg.com
 2, vdolady.com
 2, veeqi.net
+2, vemic.com
 2, veryhuo.com
 2, veryzhun.com
 2, vgtime.com

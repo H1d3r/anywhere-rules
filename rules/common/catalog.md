@@ -42,5 +42,5 @@
 | Cloudflare | 65 | 0 | Cloudflare | [common/Cloudflare.arrs](./Cloudflare.arrs) |
 | CDN | 4603 | 58 | SukkaW CDN 直连辅助 | [common/CDN.arrs](./CDN.arrs) |
 | CN_Radar | 175 | 0 | Cloudflare Radar 中国大陆域名增强补充 | [common/CN_Radar.arrs](./CN_Radar.arrs) |
-| GeoIP_CN | 5995 | 0 | GeoIP 中国大陆 IP CIDR | [common/GeoIP_CN.arrs](./GeoIP_CN.arrs) |
-| Geosite_CN | 5152 | 3 | Geosite 中国大陆域名规则 | [common/Geosite_CN.arrs](./Geosite_CN.arrs) |
+| GeoIP_CN | 5979 | 0 | GeoIP 中国大陆 IP CIDR | [common/GeoIP_CN.arrs](./GeoIP_CN.arrs) |
+| Geosite_CN | 5165 | 3 | Geosite 中国大陆域名规则 | [common/Geosite_CN.arrs](./Geosite_CN.arrs) |
