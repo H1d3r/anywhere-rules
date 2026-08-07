@@ -1,7 +1,7 @@
 # NAME: GFW
 # GENERATED-FOR: Anywhere Routing Rule Set
 # DESCRIPTION: GFW 域名列表
-# RULES: 4369
+# RULES: 4368
 # SKIPPED: 0
 # SOURCES:
 # - https://raw.githubusercontent.com/Loyalsoldier/v2ray-rules-dat/release/gfw.txt
@@ -304,7 +304,6 @@ name = GFW
 2, atnext.com
 2, auctions.yahoo.co.jp
 2, audacy.com
-2, auntology.fandom.com
 2, autodraw.com
 2, av.movie
 2, av01.tv
@@ -1215,6 +1214,7 @@ name = GFW
 2, falunhr.org
 2, famunion.com
 2, fanbox.cc
+2, fandom.com
 2, fangeqiang.com
 2, fanglizhi.info
 2, fangong.org
@@ -1906,7 +1906,6 @@ name = GFW
 2, home.saxo
 2, homedepot.com
 2, homeservershow.com
-2, hongkong.fandom.com
 2, hongkongfp.com
 2, hongzhi.li
 2, honven.xyz

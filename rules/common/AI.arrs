@@ -1,7 +1,7 @@
 # NAME: AI
 # GENERATED-FOR: Anywhere Routing Rule Set
 # DESCRIPTION: 常见 AI 服务
-# RULES: 50
+# RULES: 51
 # SKIPPED: 1
 # SKIPPED-TYPES: URL-REGEX=1
 # SOURCES:
@@ -27,6 +27,7 @@ name = AI
 2, openart.ai
 2, chatgpt.com
 2, clipdrop.co
+2, chatgpt.site
 2, deepmind.com
 2, ai.google.dev
 2, anthropic.com

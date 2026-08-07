@@ -3,9 +3,9 @@
 # SOURCE: https://github.com/blackmatrix7/ios_rule_script/blob/master/rule/Surge/Global/Global_All_No_Resolve.list
 # GENERATED-FOR: Anywhere Routing Rule Set
 # NOTE: DOMAIN rules are mapped to Anywhere domain suffix rules.
-# RULES: 34916
+# RULES: 34956
 # SKIPPED: 47
-# UPSTREAM-UPDATED: 2026-08-06 03:20:26
+# UPSTREAM-UPDATED: 2026-08-08 02:46:58
 # SKIPPED-TYPES: PROCESS-NAME=1, USER-AGENT=46
 
 name = Global
@@ -324,6 +324,7 @@ name = Global
 2, 2022.dev
 2, 2023aga.oen.tw
 2, 2025copy.com
+2, 20thcenturystudios.com
 2, 20thcenturystudios.com.au
 2, 20thcenturystudios.com.br
 2, 20thcenturystudios.jp
@@ -350,10 +351,14 @@ name = Global
 2, 2bit8.com
 2, 2buybeatsbydre.com
 2, 2ch.hk
+2, 2ch.life
 2, 2ch.net
+2, 2ch.org
+2, 2ch.su
 2, 2chav.com
 2, 2dgen.com
 2, 2drdrebeats.com
+2, 2dust.link
 2, 2gayboys.com
 2, 2gis.ae
 2, 2gis.am
@@ -709,6 +714,7 @@ name = Global
 2, abcheadphones.com
 2, abclider.com
 2, abclite.net
+2, abcnews.com
 2, abcol.ac.uk
 2, abcolstudents.ac.uk
 2, abdn-access-biomedical.ac.uk
@@ -1776,6 +1782,7 @@ name = Global
 2, amiibo.com
 2, amity.ac.uk
 2, amlg.io
+2, amnezia.org
 2, amodoll.com
 2, amof.ac.uk
 2, amourangels.com
@@ -3053,6 +3060,7 @@ name = Global
 2, baltnews.lt
 2, bam.ac.uk
 2, bams.ac.uk
+2, bamtech.net
 2, bamtoki.com
 2, banan.tv
 2, bananacall.ru
@@ -5968,9 +5976,12 @@ name = Global
 2, clarendon.ac.uk
 2, clarin.ac.uk
 2, clash.com
+2, clashmi.app
 2, clashmini.com
 2, clashofclans.com
+2, clashparty.org
 2, clashroyale.com
+2, clashverge.dev
 2, clasporno.org
 2, classicnike.com
 2, classics.ac.uk
@@ -6037,8 +6048,10 @@ name = Global
 2, cloudflare-gateway.com
 2, cloudflare-quic.com
 2, cloudflare-terms-of-service-abuse.com
+2, cloudflare.app
 2, cloudflare.dev
 2, cloudflare.net
+2, cloudflare.pay
 2, cloudflare.tv
 2, cloudflareaccess.com
 2, cloudflareapps.com
@@ -7146,6 +7159,7 @@ name = Global
 2, detaliczny.com
 2, detentiongirls.com
 2, detodosparatodos.org
+2, detpress.com
 2, dettol-prize.com
 2, dettol.at
 2, dettol.be
@@ -7429,7 +7443,9 @@ name = Global
 2, disney.ru
 2, disney.se
 2, disney.sg
+2, disneyaccount.com
 2, disneyadsales.com
+2, disneyanimation.com
 2, disneyarena.com
 2, disneyaulani.com
 2, disneybaby.com
@@ -7445,6 +7461,7 @@ name = Global
 2, disneyinternationalhd.com
 2, disneyjunior.com
 2, disneyjuniortreataday.com
+2, disneylandparis.com
 2, disneylatino.com
 2, disneymagicmoments.co.il
 2, disneymagicmoments.co.uk
@@ -7465,11 +7482,13 @@ name = Global
 2, disneynow.com
 2, disneypeoplesurveys.com
 2, disneyplus.bn5x.net
+2, disneyprivacycenter.com
 2, disneyredirects.com
 2, disneysrivieraresort.com
 2, disneystore.com
 2, disneystreaming.com
 2, disneysubscription.com
+2, disneytermsofuse.com
 2, disneytickets.co.uk
 2, disneyturkiye.com.tr
 2, disneytvajobs.com
@@ -9693,6 +9712,7 @@ name = Global
 2, flatt.tech
 2, flavournetwork.ac.uk
 2, flbjc.net
+2, flclashx.app
 2, fldz8.buzz
 2, fleshlyx.com
 2, flexsig.com
@@ -9716,6 +9736,7 @@ name = Global
 2, flowfront.com
 2, flowfront.net
 2, flowtype.org
+2, flowvy.io
 2, flowwow-images.com
 2, flowwow.com
 2, fluffychat.im
@@ -10039,6 +10060,7 @@ name = Global
 2, freefacebookads.net
 2, freefblikes.com
 2, freefbx.com
+2, freeform.com
 2, freegaypornfinder.com
 2, freegaypornhdtube.com
 2, freegaysexgames.com
@@ -12086,6 +12108,7 @@ name = Global
 2, honey-monitoring.ac.uk
 2, hongjie10.xyz
 2, hongjie11.xyz
+2, hongkongdisneyland.com
 2, hongkongdoll.tv
 2, hongkongdollvideo.org
 2, hongkongpost.gov.hk
@@ -13060,6 +13083,7 @@ name = Global
 2, inclusion.ac.uk
 2, inclusivegrowthscore.com
 2, incommon-rsa.org
+2, incy.cc
 2, ind.sh
 2, indazn.com
 2, indaznlab.com
@@ -14301,6 +14325,7 @@ name = Global
 2, karafarinbank.ir
 2, karechat.ai
 2, karinahart.com
+2, karing.app
 2, karlajames.com
 2, karmahelp.ru
 2, karta-banka-rf.ru
@@ -15334,6 +15359,7 @@ name = Global
 2, lubetube.com
 2, lucahmelayu.club
 2, lucasentertainment.com
+2, lucasfilm.com
 2, lucbjtu.ac.uk
 2, lucid.ac.uk
 2, luckyissue.com
@@ -17495,6 +17521,7 @@ name = Global
 2, neicad.com
 2, neiexplicit.com
 2, neifea.com
+2, neigbuy.com
 2, neimotion.com
 2, neinastranincad.com
 2, neipdg.ac.uk
@@ -18224,6 +18251,7 @@ name = Global
 2, nsfwmemes.com
 2, nsimg.net
 2, nsirc.ac.uk
+2, nsloon.com
 2, nso.ac.uk
 2, nspcr.ac.uk
 2, nspk.ru
@@ -18687,6 +18715,7 @@ name = Global
 2, oneteamconference.com
 2, onetrust.com
 2, oneworldmanystories.com
+2, onexray.com
 2, onfinality.io
 2, onindiansex.com
 2, oninstagram.com
@@ -19550,6 +19579,7 @@ name = Global
 2, piwheels.org
 2, pixanalytics.com
 2, pixapp.net
+2, pixar.com
 2, pixate.com
 2, pixfs.net
 2, pixhost.to
@@ -20238,6 +20268,7 @@ name = Global
 2, privelt.ac.uk
 2, privilege.hk
 2, privilege.tw
+2, prizrak.app
 2, procat.ac.uk
 2, procatdigital.ac.uk
 2, procatstudent.ac.uk
@@ -21769,6 +21800,7 @@ name = Global
 2, seaporn.org
 2, search.ac.uk
 2, search25.ac.uk
+2, searchlightpictures.com
 2, seas.ac.uk
 2, seasidestory.tokyo
 2, seattlespheres.com
@@ -22116,6 +22148,7 @@ name = Global
 2, sh83.xyz
 2, shadbase.com
 2, shadowcomplex.com
+2, shadowlaunch.com
 2, shadowslaves.com
 2, shadowsocks.nl
 2, shadowverse-evolve.com
@@ -23115,6 +23148,8 @@ name = Global
 2, starwarsjedifallenorder.com
 2, starwarskids.com
 2, starwarstheoldrepublic.com
+2, stash.wiki
+2, stash.ws
 2, stat.gov.tw
 2, stateofthemap.com
 2, stateofthemap.org
@@ -24060,6 +24095,7 @@ name = Global
 2, thetype.com
 2, theuab.net
 2, thevirtualsexreview.com
+2, thewaltdisneycompany.com
 2, theweek.in
 2, thewomenslibrary.ac.uk
 2, thewonderful101.com
@@ -24233,6 +24269,7 @@ name = Global
 2, tokyo-porn-tube.com
 2, tokyo-sports.co.jp
 2, tokyo-tosho.net
+2, tokyodisneyresort.jp
 2, tokyomotion.com
 2, tokyomotion.net
 2, tokyonightstyle.com
@@ -26078,6 +26115,7 @@ name = Global
 2, walmartimages.com
 2, walsall-coce.ac.uk
 2, walsallcollege.ac.uk
+2, waltdisneystudios.com
 2, waltham.ac.uk
 2, walthamintcollege.ac.uk
 2, wana-tv.sbs
@@ -26316,6 +26354,7 @@ name = Global
 2, wfm.com
 2, wgcdn.co
 2, wgcrowd.io
+2, wgtunnel.com
 2, wgu.ac.uk
 2, whasil.xyz
 2, what-fan.net
@@ -26514,6 +26553,7 @@ name = Global
 2, wirelessreach.com
 2, wiremoneytoirelandwithxoomeasierandcheaper.com
 2, wireshark.org
+2, wiresock.net
 2, wirralmet.ac.uk
 2, wise-research.com
 2, wise.com

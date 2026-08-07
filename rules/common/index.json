@@ -1,6 +1,6 @@
 {
   "total_files": 39,
-  "total_rules": 144098,
+  "total_rules": 144090,
   "total_skipped": 67,
   "files": [
     {
@@ -35,7 +35,7 @@
       "name": "AI",
       "description": "常见 AI 服务",
       "output_path": "common/AI.arrs",
-      "rule_count": 50,
+      "rule_count": 51,
       "skipped_count": 1,
       "unsupported_types": {
         "URL-REGEX": 1
@@ -78,7 +78,7 @@
       "name": "GFW",
       "description": "GFW 域名列表",
       "output_path": "common/GFW.arrs",
-      "rule_count": 4369,
+      "rule_count": 4368,
       "skipped_count": 0,
       "unsupported_types": {},
       "sources": [
@@ -381,7 +381,7 @@
       "name": "ChinaIP",
       "description": "中国大陆 IP CIDR",
       "output_path": "common/ChinaIP.arrs",
-      "rule_count": 5822,
+      "rule_count": 5814,
       "skipped_count": 0,
       "unsupported_types": {},
       "sources": [
