@@ -1,7 +1,7 @@
 # NAME: CDN
 # GENERATED-FOR: Anywhere Routing Rule Set
 # DESCRIPTION: SukkaW CDN 直连辅助
-# RULES: 4607
+# RULES: 4633
 # SKIPPED: 58
 # SKIPPED-TYPES: DOMAIN-WILDCARD=58
 # SOURCES:
@@ -398,6 +398,7 @@ routing = 1
 2, amaicdn.com
 2, angular.dev
 2, app-spm.com
+2, app.shop.pe
 2, at.cbsi.com
 2, bdzybf7.com
 2, bftuvip.com
@@ -597,6 +598,7 @@ routing = 1
 2, aimg.fc2.com
 2, ajax.cat.net
 2, apperoni.top
+2, axis-cdn.net
 2, b.peatio.com
 2, b.sf-syn.com
 2, badoocdn.com
@@ -899,6 +901,7 @@ routing = 1
 2, dd-static.net
 2, disconnect.me
 2, disquscdn.com
+2, dm-static.com
 2, doppiocdn.com
 2, doppiocdn.net
 2, doppiocdn.org
@@ -1191,6 +1194,7 @@ routing = 1
 2, cms.replit.com
 2, codeforces.org
 2, consent.dw.com
+2, consent.fmm.io
 2, cursor-cdn.com
 2, d.newsweek.com
 2, dc-cdn.cdw.com
@@ -1237,6 +1241,7 @@ routing = 1
 2, image.nmb.best
 2, image.tmdb.org
 2, images.991.com
+2, images.gog.com
 2, images.loox.io
 2, images.rss.app
 2, images.spot.im
@@ -1357,6 +1362,7 @@ routing = 1
 2, static.itch.io
 2, static.j51.net
 2, static.lwn.net
+2, static.okx.cab
 2, static.okx.com
 2, static.reo.dev
 2, static.snyk.io
@@ -1404,6 +1410,7 @@ routing = 1
 2, a57.foxnews.com
 2, abebookscdn.com
 2, addons.business
+2, aexp-static.com
 2, ancestrycdn.com
 2, api.bintray.com
 2, api.weather.com
@@ -1414,6 +1421,7 @@ routing = 1
 2, assets.canny.io
 2, assets.cello.so
 2, assets.clibo.tw
+2, assets.game8.co
 2, assets.goat.com
 2, assets.habr.com
 2, assets.jable.tv
@@ -1558,6 +1566,7 @@ routing = 1
 2, gannett-cdn.com
 2, gauthstatic.com
 2, gdb.voanews.com
+2, gog-statics.com
 2, hello.zonos.com
 2, himeko.iwara.tv
 2, hsappstatic.net
@@ -1883,6 +1892,7 @@ routing = 1
 2, gravatar.cat.net
 2, htv-hydaelyn.com
 2, hubspotlinks.com
+2, i.skiplagged.com
 2, i2.hentaifox.com
 2, ichef.bbci.co.uk
 2, icon.icepanel.io
@@ -2257,6 +2267,7 @@ routing = 1
 2, highwinds-cdn.com
 2, i.dailymail.co.uk
 2, i.kickstarter.com
+2, i.macsecurity.net
 2, i.mydramalist.com
 2, i2.bahamut.com.tw
 2, icdn.missav123.to
@@ -2391,6 +2402,7 @@ routing = 1
 2, static.meiguo.com
 2, static.missav.com
 2, static.moomoo.com
+2, static.mul-pay.jp
 2, static.oklink.com
 2, static.oracle.com
 2, static.peatio.com
@@ -2793,6 +2805,7 @@ routing = 1
 2, assets.quillbot.com
 2, assets.scaleway.com
 2, assets.stickpng.com
+2, assets.swiftkey.com
 2, assets.tvtropes.org
 2, assets.unifi-ai.com
 2, assets2.blubrry.com
@@ -3360,11 +3373,17 @@ routing = 1
 2, assets.unredacted.org
 2, assets.vodafone.co.uk
 2, assets0.headwayapp.co
+2, assets2.freshdesk.com
+2, assets3.freshdesk.com
+2, assets5.freshdesk.com
+2, assets7.freshdesk.com
+2, assets9.freshdesk.com
 2, badges.greenkeeper.io
 2, banners.chessbase.com
 2, beta.eslint-react.xyz
 2, bundler.nice-team.net
 2, c.speedtestcustom.com
+2, cache.mapcomplete.org
 2, cdn-client.medium.com
 2, cdn-front.freepik.com
 2, cdn-longterm.mee6.xyz
@@ -3585,6 +3604,7 @@ routing = 1
 2, assets.tangled.network
 2, assets.transfernow.net
 2, assets.video.yahoo.net
+2, assets10.freshdesk.com
 2, attachments.office.net
 2, avatar.stefanjudis.com
 2, avatar2.bahamut.com.tw
@@ -3752,6 +3772,7 @@ routing = 1
 2, tile.openstreetmap.org
 2, tile.thunderforest.com
 2, tile2.opencyclemap.org
+2, tile3.opencyclemap.org
 2, tiles.arcticconnect.ca
 2, tiles.openstreetmap.us
 2, tiles.virtualearth.net
@@ -3957,6 +3978,7 @@ routing = 1
 2, assets-docs.circleci.com
 2, assets-next.matters.news
 2, assets.as2.amazonaws.com
+2, assets.create.roblox.com
 2, assets.cyberghostvpn.com
 2, assets.documentcloud.org
 2, assets.geeksforgeeks.org
@@ -4364,6 +4386,7 @@ routing = 1
 2, p16-hera-sg.larksuitecdn.com
 2, p16-hera-va.larksuitecdn.com
 2, pg2dhpc3p5ec22g3.jkforum.net
+2, privacyguidesusercontent.com
 2, renderer-assets.typeform.com
 2, sf19-scmcdn.larksuitecdn.com
 2, social-reaction-api.hk01.com
@@ -4411,6 +4434,7 @@ routing = 1
 2, na-library.klarnaservices.com
 2, oct8neproxy.azurewebsites.net
 2, pic-bstarstatic.akamaized.net
+2, prod.docsiteassets.roblox.com
 2, public-assets.postmarkapp.com
 2, resources.help.salesforce.com
 2, s3.eu-central-2.wasabisys.com
@@ -4533,6 +4557,7 @@ routing = 1
 2, blade-public-static.blade-group.com
 2, ecommplugins-scripts.trustpilot.com
 2, firebaseremoteconfig.googleapis.com
+2, gamesapps-assets.ghub.logitechg.com
 2, ledger-wp-website-s3-prd.ledger.com
 2, listing-thumbnail.live.nicovideo.jp
 2, optimizationguide-pa.googleapis.com
@@ -4543,6 +4568,7 @@ routing = 1
 2, cf-images.us-east-1.prod.boltdns.net
 2, content-prod-live.cert.starbucks.com
 2, crashlyticsreports-pa.googleapis.com
+2, crossborder-integration.global-e.com
 2, firebaseinstallations.googleapis.com
 2, interactive-examples.mdn.mozilla.net
 2, pro2-ui-assets-s3-fy.myportfolio.com
