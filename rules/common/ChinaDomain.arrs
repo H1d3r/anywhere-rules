@@ -1,7 +1,7 @@
 # NAME: ChinaDomain
 # GENERATED-FOR: Anywhere Routing Rule Set
 # DESCRIPTION: 中国大陆常见域名直连
-# RULES: 864
+# RULES: 865
 # SKIPPED: 4
 # SKIPPED-TYPES: DOMAIN-WILDCARD=1, USER-AGENT=3
 # SOURCES:
@@ -693,6 +693,7 @@ routing = 1
 2, bytedance.com
 2, bytegoofy.com
 2, caiyunapp.com
+2, caiyuncdn.com
 2, camera360.com
 2, chaoxingv.com
 2, chazidian.com

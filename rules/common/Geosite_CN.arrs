@@ -2,8 +2,8 @@
 # GENERATED-FOR: Anywhere Routing Rule Set
 # DESCRIPTION: Geosite 中国大陆域名规则
 # GEOSITE-CODE: GEOLOCATION-CN
-# RULES: 5165
-# SOURCE-RULES: 5168
+# RULES: 5172
+# SOURCE-RULES: 5175
 # SKIPPED: 3
 # SKIPPED-TYPES: Regex=3
 # SOURCES:
@@ -458,8 +458,6 @@ routing = 1
 2, aiqicha.com
 2, air-matters.com
 2, airchangan.com
-2, airchina.com.cn
-2, airchinacargo.com
 2, airguilin.com
 2, airitilibrary.cn
 2, airnut.com
@@ -1442,6 +1440,7 @@ routing = 1
 2, douyinact.com
 2, douyinact.net
 2, douyincdn.com
+2, douyinec.com
 2, douyinfe.com
 2, douyinliving.com
 2, douyinpay.com
@@ -2922,6 +2921,7 @@ routing = 1
 2, lietou-static.com
 2, lietou.com
 2, lieyunwang.com
+2, lifexue.com
 2, lightmake.site
 2, lightonus.com
 2, likuso.com
@@ -3317,6 +3317,7 @@ routing = 1
 2, nextstudios.com
 2, nextvid.net
 2, nextworkshop.net
+2, nfcos.cn
 2, nffund.com
 2, nfpeople.com
 2, nga.cn
@@ -3751,6 +3752,7 @@ routing = 1
 2, runningcheese.com
 2, runoob.com
 2, ruseer.com
+2, ruubypay.com
 2, rwkv.cn
 2, rwkv.com
 2, rzrc114.com
@@ -3793,6 +3795,7 @@ routing = 1
 2, scratch5.com
 2, scsentry.cn
 2, scsjb.cn
+2, sctcd.com
 2, sctv-tf.com
 2, sctv.com
 2, scyol.com
@@ -3859,6 +3862,7 @@ routing = 1
 2, shengyizhuanjia.com
 2, shenmayouxi.com
 2, shenzhenair.com
+2, shenzhentong.com
 2, sheui.com
 2, shfft.com
 2, shgsec.com
@@ -3940,6 +3944,7 @@ routing = 1
 2, snodehome.cn
 2, snodehome.com
 2, snowballsecurities.com
+2, snowballtech.com
 2, snxw.com
 2, so-quick.cn
 2, so.com
@@ -3972,6 +3977,7 @@ routing = 1
 2, speiyou.com
 2, springairlines.com
 2, springtour.com
+2, sptcc.com
 2, sq.cc
 2, sqqnh.cn
 2, sqqnh.org
@@ -4345,6 +4351,7 @@ routing = 1
 2, ule.com
 2, ulecdn.com
 2, ulife.group
+2, ulpay.com
 2, ultimatemusic.cn
 2, ultracachenode.com
 2, umajor.net
