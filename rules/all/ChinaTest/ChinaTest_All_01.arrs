@@ -5,8 +5,8 @@
 # NOTE: DOMAIN rules are mapped to Anywhere domain suffix rules.
 # RULES: 100000
 # SKIPPED: 31
-# SOURCE-RULES: 111315
-# UPSTREAM-UPDATED: 2026-08-08 02:47:40
+# SOURCE-RULES: 111316
+# UPSTREAM-UPDATED: 2026-08-10 02:31:10
 # SKIPPED-TYPES: USER-AGENT=31
 
 name = ChinaTest_01
@@ -62404,6 +62404,7 @@ name = ChinaTest_01
 2, lifevc.com
 2, lifevccdn.com
 2, lifeweeker.com
+2, lifexue.com
 2, lifeyk.com
 2, lifeyn.net
 2, lifezb.com
@@ -100009,4 +100010,3 @@ name = ChinaTest_01
 2, xizhai2021.com
 2, xizhang.com
 2, xizhengtouzi.com
-2, xizhi.com

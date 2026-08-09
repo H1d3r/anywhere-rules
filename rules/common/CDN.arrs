@@ -1,9 +1,9 @@
 # NAME: CDN
 # GENERATED-FOR: Anywhere Routing Rule Set
 # DESCRIPTION: SukkaW CDN 直连辅助
-# RULES: 4633
-# SKIPPED: 58
-# SKIPPED-TYPES: DOMAIN-WILDCARD=58
+# RULES: 4634
+# SKIPPED: 59
+# SKIPPED-TYPES: DOMAIN-WILDCARD=59
 # SOURCES:
 # - https://ruleset.skk.moe/List/domainset/cdn.conf
 # - https://ruleset.skk.moe/List/non_ip/cdn.conf
@@ -435,7 +435,6 @@ routing = 1
 2, cdn.roof.ai
 2, cdn.skk.moe
 2, cdn.tolt.io
-2, cdn.tuk.dev
 2, cdn.ubi.com
 2, cdn.usd.fan
 2, cdn.you.com
@@ -531,6 +530,7 @@ routing = 1
 2, ovp.itv.com
 2, p-smith.com
 2, p.depot.dev
+2, p.dmm.co.jp
 2, pbc.wsj.com
 2, permaweb.io
 2, phprcdn.com
@@ -879,7 +879,6 @@ routing = 1
 2, cdn.sprig.com
 2, cdn.stash.com
 2, cdn.super.com
-2, cdn.tabarn.ap
 2, cdn.unwire.hk
 2, cdn.vector.co
 2, cdn.veeam.com
@@ -1018,6 +1017,7 @@ routing = 1
 2, oaistatic.com
 2, oculuscdn.com
 2, p.typekit.net
+2, panda.dmm.com
 2, pba.apple.com
 2, phishing.army
 2, pics.vpdmm.cc
@@ -1144,7 +1144,6 @@ routing = 1
 2, cdn.ipwhois.io
 2, cdn.jitbit.com
 2, cdn.kinsta.com
-2, cdn.koala.live
 2, cdn.logbase.io
 2, cdn.masto.host
 2, cdn.mcr.ea.com
@@ -1175,6 +1174,7 @@ routing = 1
 2, cdn.workos.com
 2, cdn.xeiaso.net
 2, cdn.xvidzz.com
+2, cdn.yandex.net
 2, cdn.zapier.com
 2, cdn.zeabur.com
 2, cdn1.plesk.com
@@ -1252,14 +1252,12 @@ routing = 1
 2, img.fzf404.art
 2, img.icons8.com
 2, img.manyse.com
-2, img.ml0987.com
 2, img.moedog.org
 2, img.moegirl.tw
 2, img.mresou.com
 2, img.supjav.com
 2, img.timero.xyz
 2, img.utdstc.com
-2, img.vim-cn.com
 2, img.xbooru.com
 2, img.xhacgn.com
 2, img0.yna.co.kr
@@ -1280,6 +1278,7 @@ routing = 1
 2, imgcn.bgmbk.tv
 2, imgikuncdn.com
 2, imgs.plurk.com
+2, imgsrc.dmm.com
 2, infura-ipfs.io
 2, int.mwbbiz.com
 2, intercomcdn.io
@@ -1449,7 +1448,6 @@ routing = 1
 2, c13.patreon.com
 2, c14.patreon.com
 2, c16.patreon.com
-2, c17.patreon.com
 2, cafe.github.com
 2, canny-assets.io
 2, cartastatic.com
@@ -1584,14 +1582,12 @@ routing = 1
 2, img.177pica.com
 2, img.appledb.dev
 2, img.apponic.com
-2, img.catwvod.xyz
 2, img.freepik.com
 2, img.javynow.com
 2, img.logokit.com
 2, img.ltyears.com
 2, img.perfops.net
 2, img.redbull.com
-2, img.telemetr.io
 2, img.voguehk.com
 2, img.youtube.com
 2, imgcn2.bgmbk.tv
@@ -1995,6 +1991,7 @@ routing = 1
 2, openinframap.org
 2, opentelemetry.io
 2, origin.picgo.net
+2, p.book.dmm.co.jp
 2, perf.hsforms.com
 2, pics.hentai.name
 2, pics.javhd.today
@@ -2139,6 +2136,7 @@ routing = 1
 2, avatar.tangled.sh
 2, avatars.plurk.com
 2, aweber-static.com
+2, awsimgsrc.dmm.com
 2, bcdn.alotporn.com
 2, bhl.scpwikicn.com
 2, brightcovecdn.com
@@ -2156,11 +2154,11 @@ routing = 1
 2, cdn.blogarama.com
 2, cdn.brandfetch.io
 2, cdn.buttercms.com
+2, cdn.cds.dmm.co.jp
 2, cdn.changelog.com
 2, cdn.cloudcraft.co
 2, cdn.configcat.com
 2, cdn.cookielaw.org
-2, cdn.dap.dmm.co.jp
 2, cdn.doofinder.com
 2, cdn.engagement.ai
 2, cdn.episode.ninja
@@ -2235,6 +2233,7 @@ routing = 1
 2, digikeyassets.com
 2, discourse-cdn.com
 2, divhunt.b-cdn.net
+2, dmm-extension.com
 2, dropboxstatic.com
 2, dz2cdn1.dzone.com
 2, e.calibermind.com
@@ -2339,6 +2338,7 @@ routing = 1
 2, pa1.aninoapps.com
 2, paypalobjects.com
 2, ph.northflank.com
+2, pix.cds.dmm.co.jp
 2, play.modujx11.com
 2, plus.unsplash.com
 2, pm1.aninoapps.com
@@ -2492,7 +2492,6 @@ routing = 1
 2, cdn.allkeyshop.com
 2, cdn.artstation.com
 2, cdn.autoketing.org
-2, cdn.bigcloud.click
 2, cdn.boldmethod.com
 2, cdn.britannica.com
 2, cdn.bullwhip.cloud
@@ -2817,6 +2816,7 @@ routing = 1
 2, badge.buildkite.com
 2, badges.frapsoft.com
 2, before.good-apps.co
+2, buildkiteassets.com
 2, bundle.trysavvy.com
 2, cdn-blocks.karte.io
 2, cdn-city.livere.com
@@ -2827,6 +2827,7 @@ routing = 1
 2, cdn.arcade.software
 2, cdn.arstechnica.net
 2, cdn.calibermind.com
+2, cdn.catch.dmm.co.jp
 2, cdn.cloud.unity.com
 2, cdn.comparitech.com
 2, cdn.devolutions.net
@@ -3399,7 +3400,6 @@ routing = 1
 2, cdn.joincommunity.xyz
 2, cdn.printfriendly.com
 2, cdn.prowritingaid.com
-2, cdn.recovermycart.com
 2, cdn.shoppinggives.com
 2, cdn.simplelocalize.io
 2, cdn.sitesearch360.com
@@ -3486,6 +3486,7 @@ routing = 1
 2, luminaire.railway.com
 2, m3u8.girigirilove.com
 2, media.cleanshot.cloud
+2, media.games.dmm.co.jp
 2, media.gettyimages.com
 2, media.graphassets.com
 2, media.hentaifreak.org
@@ -3516,7 +3517,6 @@ routing = 1
 2, resource-accel.fs.com
 2, resource.logitech.com
 2, rest.happierleads.com
-2, s3-zen.mds.yandex.net
 2, scontent.whatsapp.net
 2, scorecardresearch.com
 2, seccdn.libravatar.org
@@ -3659,6 +3659,7 @@ routing = 1
 2, designsystem.brevo.com
 2, divhunt-site.b-cdn.net
 2, downloads.coindesk.com
+2, ebook-assets.dmm.co.jp
 2, embed.culturalspot.org
 2, eu-proxy.startpage.com
 2, experience-ap.piano.io
@@ -3773,7 +3774,6 @@ routing = 1
 2, tile.thunderforest.com
 2, tile2.opencyclemap.org
 2, tile3.opencyclemap.org
-2, tiles.arcticconnect.ca
 2, tiles.openstreetmap.us
 2, tiles.virtualearth.net
 2, tileserver.memomaps.de
@@ -3990,6 +3990,7 @@ routing = 1
 2, atl-global.atlassian.com
 2, axiecdn.axieinfinity.com
 2, brick.freetls.fastly.net
+2, buildkiteusercontent.com
 2, bundle.thimatic-apps.com
 2, cache.omnicalculator.com
 2, cdn-image01.casetify.com
@@ -4011,7 +4012,6 @@ routing = 1
 2, cookie-cdn.cookiepro.com
 2, css.blackmagicdesign.com
 2, detectportal.firefox.com
-2, domain.expiring-soon.xyz
 2, dynamic-cdn.cms.ayoba.me
 2, ecn.dev.virtualearth.net
 2, edgestatic.azureedge.net
@@ -4629,6 +4629,7 @@ routing = 1
 3, -thumbs.pornhost.com
 3, -cdn.eporner.com
 3, cdn.adultempire.com
+3, -assets.dmm.co.jp
 3, static.trustpilot.com
 3, scripts.trustpilot.com
 3, images.trustpilot.com
