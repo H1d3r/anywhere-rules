@@ -1,7 +1,7 @@
 # NAME: CDN
 # GENERATED-FOR: Anywhere Routing Rule Set
 # DESCRIPTION: SukkaW CDN 直连辅助
-# RULES: 4634
+# RULES: 4642
 # SKIPPED: 59
 # SKIPPED-TYPES: DOMAIN-WILDCARD=59
 # SOURCES:
@@ -494,6 +494,7 @@ routing = 1
 2, img.agrd.eu
 2, img.skk.moe
 2, img.toto.im
+2, imgcdn8.com
 2, imgikzy.com
 2, imglink.win
 2, imgsmail.ru
@@ -1561,6 +1562,7 @@ routing = 1
 2, fonts.bunny.net
 2, fonts.gishan.cc
 2, fonts.upset.dev
+2, fonts.wd40.info
 2, gannett-cdn.com
 2, gauthstatic.com
 2, gdb.voanews.com
@@ -1619,6 +1621,7 @@ routing = 1
 2, media.licdn.com
 2, media.smooch.io
 2, media.tenor.com
+2, media.wd40.asia
 2, media.webtoo.ls
 2, media.wired.com
 2, metrics.kapa.ai
@@ -1778,6 +1781,7 @@ routing = 1
 2, bugly.qcloud.com
 2, bundlephobia.com
 2, cache.ip-api.com
+2, cache.sgvafs.com
 2, capcutstatic.com
 2, cdn-1.porn87.com
 2, cdn-1.strava.com
@@ -1883,6 +1887,7 @@ routing = 1
 2, getaroom-cdn.com
 2, gis.pinkbike.org
 2, githubassets.com
+2, githubstatus.com
 2, glass.adidas.com
 2, glyph.medium.com
 2, gravatar.cat.net
@@ -2413,6 +2418,8 @@ routing = 1
 2, static.vinted.com
 2, static.vocadb.net
 2, static.zaobao.com
+2, status.claude.com
+2, status.openai.com
 2, stbff.newfold.com
 2, steemitimages.com
 2, storage.ko-fi.com
@@ -3156,6 +3163,7 @@ routing = 1
 2, cdnjs.cloudflare.com
 2, chart.googleapis.com
 2, cloud.influxdata.com
+2, cloudflarestatus.com
 2, cloudflarestream.com
 2, cloudinary.vpsvc.com
 2, cms.socialinsider.io

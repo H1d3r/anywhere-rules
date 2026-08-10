@@ -1,7 +1,7 @@
 # NAME: GFW
 # GENERATED-FOR: Anywhere Routing Rule Set
 # DESCRIPTION: GFW 域名列表
-# RULES: 4368
+# RULES: 4372
 # SKIPPED: 0
 # SOURCES:
 # - https://raw.githubusercontent.com/Loyalsoldier/v2ray-rules-dat/release/gfw.txt
@@ -137,6 +137,7 @@ name = GFW
 2, agro.hk
 2, ai.dev
 2, ai.studio
+2, aihub.top
 2, aiosearch.com
 2, aiph.net
 2, airconsole.com
@@ -351,6 +352,7 @@ name = GFW
 2, barnabu.co.uk
 2, bartender.dowjones.com
 2, barton.de
+2, basemaps.arcgis.com
 2, bastillepost.com
 2, bayvoice.net
 2, bb-chat.tv
@@ -1153,6 +1155,7 @@ name = GFW
 2, eromangadouzin.com
 2, eromon.net
 2, esg.t91y.com
+2, esim.redteago.com
 2, eslite.com
 2, esurance.com
 2, etherdelta.com
@@ -1175,6 +1178,7 @@ name = GFW
 2, expatshield.com
 2, expecthim.com
 2, expekt.com
+2, experience.arcgis.com
 2, exploader.net
 2, expressnews.com
 2, expressvpn.com
