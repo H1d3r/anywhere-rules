@@ -3,16 +3,27 @@
 # SOURCE: https://github.com/blackmatrix7/ios_rule_script/blob/master/rule/Surge/TigerFintech/TigerFintech.list
 # GENERATED-FOR: Anywhere Routing Rule Set
 # NOTE: DOMAIN rules are mapped to Anywhere domain suffix rules.
-# RULES: 8
+# RULES: 19
 # SKIPPED: 0
-# UPSTREAM-UPDATED: 2025-06-06 09:17:38
+# UPSTREAM-UPDATED: 2026-08-12 02:55:06
 
 name = TigerFintech
+2, ftfast.com
+2, iotaskyt.com
+2, iotaskyty.com
 2, itiger.com
+2, itigergrowtha.com
+2, itigerup.com
 2, laohu8.com
+2, play-analytics.com
+2, skytigris.cn
+2, tbdesk.com
 2, tigerbbs.cn
 2, tigerbbs.com
+2, tigerbrokers.net
 2, tigerfintech.com
+2, tigertcp.cn
+2, tigr.link
 2, xiaohu8.com
 2, zhijianfengyi.cn
 2, zhijianfengyi.com

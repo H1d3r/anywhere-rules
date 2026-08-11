@@ -1,7 +1,7 @@
 # NAME: GFW
 # GENERATED-FOR: Anywhere Routing Rule Set
 # DESCRIPTION: GFW 域名列表
-# RULES: 4372
+# RULES: 4373
 # SKIPPED: 0
 # SOURCES:
 # - https://raw.githubusercontent.com/Loyalsoldier/v2ray-rules-dat/release/gfw.txt
@@ -1006,6 +1006,7 @@ name = GFW
 2, disp.cc
 2, disqus.com
 2, dit-inc.us
+2, divdyn.com
 2, diyin.org
 2, dizhuzhishang.com
 2, dl-laby.jp
