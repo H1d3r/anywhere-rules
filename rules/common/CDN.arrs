@@ -1,7 +1,7 @@
 # NAME: CDN
 # GENERATED-FOR: Anywhere Routing Rule Set
 # DESCRIPTION: SukkaW CDN 直连辅助
-# RULES: 4642
+# RULES: 4645
 # SKIPPED: 59
 # SKIPPED-TYPES: DOMAIN-WILDCARD=59
 # SOURCES:
@@ -1311,6 +1311,7 @@ routing = 1
 2, newscdn.com.au
 2, nincontent.com
 2, ninjastream.to
+2, node.windy.com
 2, null.jsbin.com
 2, optimizely.com
 2, patientpop.com
@@ -2602,6 +2603,7 @@ routing = 1
 2, img.fastcybers.com
 2, img.hellofresh.com
 2, img.sparknotes.com
+2, imgproxy.windy.com
 2, imgrs.apkcombo.com
 2, imgs3.hcaptcha.com
 2, intercomassets.com
@@ -3380,6 +3382,7 @@ routing = 1
 2, assets.tatlerasia.com
 2, assets.unicorn.studio
 2, assets.unredacted.org
+2, assets.userstyles.org
 2, assets.vodafone.co.uk
 2, assets0.headwayapp.co
 2, assets2.freshdesk.com

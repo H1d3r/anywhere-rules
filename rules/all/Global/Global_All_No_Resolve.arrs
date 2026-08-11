@@ -3,9 +3,9 @@
 # SOURCE: https://github.com/blackmatrix7/ios_rule_script/blob/master/rule/Surge/Global/Global_All_No_Resolve.list
 # GENERATED-FOR: Anywhere Routing Rule Set
 # NOTE: DOMAIN rules are mapped to Anywhere domain suffix rules.
-# RULES: 34956
+# RULES: 34959
 # SKIPPED: 47
-# UPSTREAM-UPDATED: 2026-08-08 02:46:58
+# UPSTREAM-UPDATED: 2026-08-12 02:53:57
 # SKIPPED-TYPES: PROCESS-NAME=1, USER-AGENT=46
 
 name = Global
@@ -28348,6 +28348,7 @@ name = Global
 2, ai-wen.net
 2, ai.dev
 2, ai.studio
+2, aihub.top
 2, aiosearch.com
 2, aiph.net
 2, airasia.com
@@ -29565,6 +29566,7 @@ name = Global
 2, disqus.com
 2, disquscdn.com
 2, dit-inc.us
+2, divdyn.com
 2, diyin.org
 2, dizhidizhi.com
 2, dizhuzhishang.com
@@ -29834,6 +29836,7 @@ name = Global
 2, eromon.net
 2, eroprofile.com
 2, eroticsaloon.net
+2, esim.redteago.com
 2, eslite.com
 2, esmtp.biz
 2, esurance.com
