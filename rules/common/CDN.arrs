@@ -1,7 +1,7 @@
 # NAME: CDN
 # GENERATED-FOR: Anywhere Routing Rule Set
 # DESCRIPTION: SukkaW CDN 直连辅助
-# RULES: 4645
+# RULES: 4651
 # SKIPPED: 59
 # SKIPPED-TYPES: DOMAIN-WILDCARD=59
 # SOURCES:
@@ -421,6 +421,7 @@ routing = 1
 2, cdn.cuty.io
 2, cdn.fera.ai
 2, cdn.gist.ai
+2, cdn.id.life
 2, cdn.mer.run
 2, cdn.mida.so
 2, cdn.nba.com
@@ -1459,6 +1460,7 @@ routing = 1
 2, cdn.adsninja.ca
 2, cdn.apponic.com
 2, cdn.aptoide.com
+2, cdn.bitrix24.eu
 2, cdn.bsky.social
 2, cdn.craft.cloud
 2, cdn.daradara.me
@@ -2292,6 +2294,7 @@ routing = 1
 2, images-amazon.com
 2, images.carfax.com
 2, images.mattel.net
+2, images.motion.dev
 2, images.now-tv.com
 2, images.nvidia.com
 2, images.pexels.com
@@ -2380,6 +2383,7 @@ routing = 1
 2, simplecastcdn.com
 2, slidesharecdn.com
 2, sp.streamlabs.com
+2, spaceship-cdn.com
 2, st.codeforces.com
 2, st.deviantart.net
 2, static-id.fc2.com
@@ -3308,6 +3312,7 @@ routing = 1
 2, static.infomaniak.ch
 2, static.macupdate.com
 2, static.mediafire.com
+2, static.meteoblue.com
 2, static.mocortech.com
 2, static.newsbreak.com
 2, static.parallels.com
@@ -4249,6 +4254,7 @@ routing = 1
 2, images4.cmp.optimizely.com
 2, imgssl.constantcontact.com
 2, launchercontent.mojang.com
+2, maps-api-cdn.meteoblue.com
 2, mgx-backend-cdn.metadl.com
 2, mobilecenter.azureedge.net
 2, myanalytics.cdn.office.net
