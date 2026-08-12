@@ -1,0 +1,18 @@
+# 百度地图去广告 - Anywhere Testing 候选
+# 唯一主上游: 墨鱼 bdmap.ads.js v1.0.6；不混入奶思或 HAR 派生语义。
+
+name = 百度地图去广告
+hostname = newclient.map.baidu.com, httpdns.baidubce.com, ugc.map.baidu.com, 180.76.76.200
+
+0, 0, ^https?://newclient\.map\.baidu\.com/client/phpui.*[?&]qt=hw(?:&|$), 2,
+0, 0, ^https?://newclient\.map\.baidu\.com/client/phpui2/\?qt=ads(?:&|$), 2,
+0, 0, ^https?://newclient\.map\.baidu\.com/client/crossmarketing(?:[/?]|$), 2,
+0, 0, ^https?://newclient\.map\.baidu\.com/client/usersystem/home/dynamic(?:[/?]|$), 2,
+0, 0, ^https?://newclient\.map\.baidu\.com/contributor-bus/bounty/tips(?:[/?]|$), 2,
+1, 5, ^https?://.*map\.baidu\.com/.*govui/rich_content(?:[/?]|$), replace, $.data.posts.content, []
+1, 5, ^https?://newclient\.map\.baidu\.com/usercenter/mine/page(?:[/?]|$), delete, $.data.sport_card
+1, 5, ^https?://newclient\.map\.baidu\.com/usercenter/mine/page(?:[/?]|$), delete, $.data.gold
+1, 5, ^https?://newclient\.map\.baidu\.com/usercenter/mine/page(?:[/?]|$), delete, $.data.gold_coin_card
+1, 5, ^https?://newclient\.map\.baidu\.com/usercenter/mine/page(?:[/?]|$), delete, $.data.shop
+1, 5, ^https?://newclient\.map\.baidu\.com/living/nearby/hot-words(?:[/?]|$), replace, $.Result.data, []
+1, 100, ^https?://(?:httpdns\.baidubce\.com|180\.76\.76\.200)(?:[/:?]|$), ZnVuY3Rpb24gcHJvY2VzcyhjdHgpIHsKICBpZiAoY3R4LnBoYXNlICE9PSAicmVzcG9uc2UiIHx8ICFjdHgudXJsIHx8ICFjdHguYm9keSkgcmV0dXJuOwogIHZhciBob3N0OwogIHRyeSB7IGhvc3QgPSBuZXcgVVJMKGN0eC51cmwpLmhvc3RuYW1lOyB9IGNhdGNoIChfKSB7IHJldHVybjsgfQogIGlmIChob3N0ICE9PSAiaHR0cGRucy5iYWlkdWJjZS5jb20iICYmIGhvc3QgIT09ICIxODAuNzYuNzYuMjAwIikgcmV0dXJuOwogIHZhciByb290OwogIHRyeSB7IHJvb3QgPSBKU09OLnBhcnNlKEFueXdoZXJlLmNvZGVjLnV0ZjguZGVjb2RlKGN0eC5ib2R5KSk7IH0gY2F0Y2ggKF8pIHsgcmV0dXJuOyB9CiAgaWYgKCFyb290IHx8ICFyb290LmRhdGEgfHwgdHlwZW9mIHJvb3QuZGF0YSAhPT0gIm9iamVjdCIpIHJldHVybjsKICByb290LmRhdGFbIm5ld2NsaWVudC5tYXAuYmFpZHUuY29tIl0gPSB7fTsKICBjdHguYm9keSA9IEFueXdoZXJlLmNvZGVjLnV0ZjguZW5jb2RlKEpTT04uc3RyaW5naWZ5KHJvb3QpKTsKICBBbnl3aGVyZS5kb25lKCk7Cn0K

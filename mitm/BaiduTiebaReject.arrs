@@ -1,0 +1,7 @@
+# 百度贴吧广告 IP 拒绝 - Anywhere Testing 候选
+# Loon 的 DOMAIN 数字字面量与 IP-CIDR /32 指向同一 IP；Anywhere 原生化为唯一精确 IPv4 CIDR。
+
+name = 百度贴吧广告 IP 拒绝
+routing = 2
+
+0, 180.76.76.200/32

@@ -1,0 +1,11 @@
+# Soul 广告域名与 IP Reject - Anywhere Routing RuleSet
+# 仅转换 Anywhere 可精确表达的上游 DOMAIN-SUFFIX 与 IP-CIDR；三个精确 DOMAIN 不做 suffix 放宽。
+
+name = Soul Reject
+routing = 2
+2, cdn.soulapp.cn
+0, 47.56.131.76/32
+0, 47.97.215.55/32
+0, 47.99.42.29/32
+0, 120.27.235.201/32
+0, 121.196.197.147/32

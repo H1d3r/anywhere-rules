@@ -14,7 +14,8 @@ hostname = weibo.cn, weibo.com, uve.weibo.com, api-cloudim.api.weibo.com, card.w
 0, 0, ^https?://weibomingzi\.com(?:[/:?]|$), 2, {}
 0, 0, ^https?://api\.weibo\.cn/2/(?:push/active|client/addlog_batch|ad/preload)(?:[/?#]|$), 2, {}
 0, 0, ^https?://api-cloudim\.api\.weibo\.com/v1/log/, 2, {}
-0, 0, ^https?://api\.weibo\.c(?:n|om)/\d/(?:cardlist\?v_f=\d|ad/weibointl\?), 2, {}
+0, 0, ^https?://api\.weibo\.cn/\d/cardlist\?v_f=[^&#]*Weibo_intl[^&#]*(?:[&#]|$), 2, {}
+0, 0, ^https?://api\.weibo\.c(?:n|om)/\d/ad/weibointl\?, 2, {}
 0, 0, ^https?://weibointl\.api\.weibo\.c(?:n|om)/portal\.php\?a=(?:hot_search_users|get_searching_info|treehole&auth=), 2, {}
 0, 0, ^https?://m?api\.weibo\.c(?:n|om)/\d/push/daily, 2, {}
 0, 0, ^https?://m?api\.weibo\.c(?:n|om)/2/!/huati/(?:discovery_home_bottom_getdotinfo|mobile_discovery_searchchange)\?, 2, {}

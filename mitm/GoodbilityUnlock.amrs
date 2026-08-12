@@ -3,7 +3,6 @@
 
 name = Goodbility
 hostname = goodnotes.com, notability.com
-content-type = application/json; charset=utf-8
 
 0, 2, ^https://isi\.csan\.[^/]+/.+/(?:receipts|subscribers)(?:[/?#]|$), X-RevenueCat-ETag
 0, 1, ^https://isi\.csan\.[^/]+/.+/(?:receipts|subscribers)(?:[/?#]|$), X-RevenueCat-ETag,
