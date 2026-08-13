@@ -1,0 +1,8 @@
+# 滴滴出行去广告轻量版 - Anywhere 部分支持候选
+# 主上游: 奶思 fmz200/wool_scripts@c02a9525。
+# 新版主接口无法被 MITM；仅保留实测有效的开屏/弹窗固定 JSON mock。
+
+name = 滴滴出行去广告轻量版
+hostname = hd.xiaojukeji.com
+
+0, 100, ^https?://hd\.xiaojukeji\.com/d, ZnVuY3Rpb24gcHJvY2VzcyhjdHgpIHsKICBpZiAoY3R4LnBoYXNlICE9PSAicmVxdWVzdCIpIHJldHVybjsKICBBbnl3aGVyZS5yZXNwb25kKHsKICAgIHN0YXR1czogMjAwLAogICAgaGVhZGVyczogW1siQ29udGVudC1UeXBlIiwgImFwcGxpY2F0aW9uL2pzb24iXV0sCiAgICBib2R5OiBBbnl3aGVyZS5jb2RlYy51dGY4LmVuY29kZSgie30iKQogIH0pOwp9Cg==

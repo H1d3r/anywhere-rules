@@ -1,0 +1,10 @@
+# Keep HTTPDNS、广告下发与遥测域名 - Anywhere Routing RuleSet
+# Anywhere 仅支持 label-aligned suffix；以下均使用源 DOMAIN 的叶子主机作为最窄可表达值。
+
+name = Keep去广告 Reject
+routing = 2
+2, httpdns.n.netease.com
+2, httpdns.calorietech.com
+2, hc-ssp.sm.cn
+2, apm.gotokeep.com
+2, kad.gotokeep.com

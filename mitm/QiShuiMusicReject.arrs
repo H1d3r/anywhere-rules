@@ -1,0 +1,11 @@
+# 汽水音乐广告域名拦截 - Anywhere Testing 候选
+# 仅保留与上游 DOMAIN-KEYWORD 完全等价的规则。
+# AND/OR、精确 DOMAIN、IP+端口及 URL-REGEX 均未放宽转换。
+
+name = 汽水音乐去广告 Reject
+routing = 2
+3, -ad-sign.byteimg.com
+3, log-api.pangolin-sdk-toutiao
+3, -ad.byteoversea.com
+3, video-cn.snssdk.com
+3, asiad.byteactivity

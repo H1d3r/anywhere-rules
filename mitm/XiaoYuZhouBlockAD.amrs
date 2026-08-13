@@ -1,0 +1,9 @@
+# 小宇宙FM去广告 - Anywhere Testing 候选
+# 主上游: 奶思 fmz200/wool_scripts@c02a9525；墨鱼 V1.0.3 补充精确广告端点。
+# 全部使用 Anywhere 原生规则；AI 总结和宽泛搜索/分类拦截明确排除。
+
+name = 小宇宙FM去广告
+hostname = api.xiaoyuzhoufm.com
+
+1, 5, ^https?://api\.xiaoyuzhoufm\.com/v1/discovery-feed/list(?:[/?#]|$), remove-where-field-in, $.data, type, "[""DISCOVERY_HEADER"",""DISCOVERY_BANNER""]"
+0, 0, ^https?://api\.xiaoyuzhoufm\.com/v\d+/(?:flash(?:-screen)?(?:/list)?|search/(?:get-express|get-preset)|category/list-daily-suggestion)(?:[/?#]|$), 2, {}

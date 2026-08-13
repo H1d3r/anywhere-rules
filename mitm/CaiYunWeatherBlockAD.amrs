@@ -1,0 +1,18 @@
+# 彩云天气去广告 - Anywhere Testing 候选
+# 主上游: 奶思 + Keywos mock；墨鱼仅补充广告净化语义，会员逻辑已排除。
+# 固定响应使用原生规则，仅两个依赖原响应内容的数组过滤保留 JavaScript。
+
+name = 彩云天气去广告
+hostname = wrapper.cyapi.cn, api.caiyunapp.com, starplucker.cyapi.cn, ad.cyapi.cn
+
+0, 0, ^https?://api\.caiyunapp\.com/v1/activity(?:[/?#]|$), 2, {}
+0, 0, ^https?://wrapper\.cyapi\.cn/v1/activity(?:[/?#]|$), 2, "{""status"":""ok"",""interval"":99999999999999,""id"":""65313ba218edd12649a73027"",""activities"":[{""items"":[{""text"":"""",""image_light"":""https://raw.githubusercontent.com/Keywos/rule/main/mocks/reject-img.gif"",""link"":"""",""activity_name"":"""",""id"":""1"",""image_dark"":""""}],""type"":""activity_icon"",""name"":"""",""carousel"":""5000""}]}"
+0, 0, ^https?://(?:wrapper\.cyapi\.cn|api\.caiyunapp\.com)/v\d+/activity\?[^#]*type_id=A03(?:[&#]|$), 2, "{""status"":""ok"",""activities"":[{""type"":""tabbar"",""name"":""aichat"",""feature"":false}]}"
+0, 0, ^https?://(?:wrapper\.cyapi\.cn|api\.caiyunapp\.com)/v\d+/activity(?:[/?#]|$), 2, "{""status"":""ok"",""activities"":[{""items"":[{}]}]}"
+0, 0, ^https?://starplucker\.cyapi\.cn/v\d+/operation/homefeatures(?:[/?#]|$), 2, "{""data"":[]}"
+0, 0, ^https?://starplucker\.cyapi\.cn/v\d+/operation/banners(?:[/?#]|$), 2, "{""data"":[{""avatar"":""https://cdn-w.caiyunapp.com/p/app/operation/prod/banner/668502d5c3a2362582a2a5da/d9f198473e7f387d13ea892719959ddb.jpg"",""url"":""https://cdn-w.caiyunapp.com/p/app/operation/prod/article/66850143c3a2362582a2a5d9/index.html"",""title"":""暴雨来袭，这些避险“秘籍”你学会了吗？"",""banner_type"":""article""}]}"
+0, 0, ^https?://starplucker\.cyapi\.cn/v\d+/campaigns(?:[/?#]|$), 2, "{""campaigns"":[{""name"":""driveweather"",""title"":""驾驶天气新功能"",""url"":""cy://page_driving_weather"",""cover"":""https://cdn-w.caiyunapp.com/p/banner/test/668d442c4fe75aca7251c161.png""}]}"
+0, 0, ^https?://starplucker\.cyapi\.cn/v\d+/notification/message_center(?:[/?#]|$), 2, "{""messages"":[]}"
+0, 0, ^https?://starplucker\.cyapi\.cn/v\d+/config/cypage(?:[/?#]|$), 2, "{""popups"":[],""actions"":[]}"
+0, 0, ^https?://ad\.cyapi\.cn/v\d+(?:[/?#]|$), 2, {}
+1, 100, ^https?://starplucker\.cyapi\.cn/v\d+/operation/(?:feeds|features)(?:[/?#]|$), ZnVuY3Rpb24gcHJvY2VzcyhjdHgpIHsKICBpZiAoY3R4LnBoYXNlICE9PSAicmVzcG9uc2UiIHx8ICFjdHguYm9keSkgcmV0dXJuOwogIHZhciB1cmwgPSBTdHJpbmcoY3R4LnVybCB8fCBjdHgub3JpZ2luYWxVcmwgfHwgIiIpOwogIHZhciBib2R5OwogIHRyeSB7IGJvZHkgPSBKU09OLnBhcnNlKEFueXdoZXJlLmNvZGVjLnV0ZjguZGVjb2RlKGN0eC5ib2R5KSk7IH0gY2F0Y2ggKF8pIHsgcmV0dXJuOyB9CiAgdmFyIGNoYW5nZWQgPSBmYWxzZTsKCiAgaWYgKC9cL29wZXJhdGlvblwvZmVlZHMoPzpbLz8jXXwkKS8udGVzdCh1cmwpICYmIEFycmF5LmlzQXJyYXkoYm9keS5kYXRhKSkgewogICAgdmFyIGZlZWRzID0gYm9keS5kYXRhLmZpbHRlcihmdW5jdGlvbiAoaXRlbSkgewogICAgICByZXR1cm4gaXRlbSAmJiB0eXBlb2YgaXRlbS5jYXRlZ29yeV90aW1lc190ZXh0ID09PSAic3RyaW5nIiAmJiBpdGVtLmNhdGVnb3J5X3RpbWVzX3RleHQuaW5kZXhPZigi5Lq65p+l55yLIikgIT09IC0xOwogICAgfSk7CiAgICBpZiAoZmVlZHMubGVuZ3RoICE9PSBib2R5LmRhdGEubGVuZ3RoKSB7IGJvZHkuZGF0YSA9IGZlZWRzOyBjaGFuZ2VkID0gdHJ1ZTsgfQogIH0gZWxzZSBpZiAoL1wvb3BlcmF0aW9uXC9mZWF0dXJlcyg/OlsvPyNdfCQpLy50ZXN0KHVybCkgJiYgQXJyYXkuaXNBcnJheShib2R5LmRhdGEpKSB7CiAgICB2YXIgZmVhdHVyZXMgPSBib2R5LmRhdGEuZmlsdGVyKGZ1bmN0aW9uIChpdGVtKSB7CiAgICAgIHJldHVybiBpdGVtICYmIHR5cGVvZiBpdGVtLnVybCA9PT0gInN0cmluZyIgJiYgaXRlbS51cmwuaW5kZXhPZigiY3k6Ly8iKSAhPT0gLTE7CiAgICB9KTsKICAgIGlmIChmZWF0dXJlcy5sZW5ndGggIT09IGJvZHkuZGF0YS5sZW5ndGgpIHsgYm9keS5kYXRhID0gZmVhdHVyZXM7IGNoYW5nZWQgPSB0cnVlOyB9CiAgfQoKICBpZiAoY2hhbmdlZCkgewogICAgY3R4LmJvZHkgPSBBbnl3aGVyZS5jb2RlYy51dGY4LmVuY29kZShKU09OLnN0cmluZ2lmeShib2R5KSk7CiAgICBBbnl3aGVyZS5kb25lKCk7CiAgfQp9Cg==

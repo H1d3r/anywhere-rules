@@ -1,0 +1,6 @@
+# 中国联通广告域名拦截
+
+name = 中国联通 Reject
+routing = 2
+2, m1.ad.10010.com
+2, ad.10010.com

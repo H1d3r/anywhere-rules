@@ -1,0 +1,45 @@
+# 上游 DOMAIN 在 Anywhere Routing 中按域后缀表达；精确域名的子域范围差异见语义报告。
+
+name = 爱奇艺去广告 Reject
+routing = 2
+2, api.iqiyi.com
+2, cr-status.iqiyi.com
+2, f74f7f7765f8a2f6.ngaa.net.cn
+2, ef-dongfeng.tanx.com
+2, iqiyim.adtrack.enlightent.cn
+2, dig.bdurl.net
+2, t7z.cupid.ptqy.gitv.tv
+2, static-s.iqiyi.com
+2, a.ckm.iqiyi.com
+2, ad.m.iqiyi.com
+2, afp.iqiyi.com
+2, api.cupid.iqiyi.com
+2, api.cupid.qiyi.com
+2, c.uaa.iqiyi.com
+2, cloudpush.iqiyi.com
+2, cm.passport.iqiyi.com
+2, count.game.pps.tv
+2, emoticon.sns.iqiyi.com
+2, gamecenter.iqiyi.com
+2, mbdlog.iqiyi.com
+2, msg.iqiyi.com
+2, msg.video.qiyi.com
+2, msg2.video.qiyi.com
+2, static.g.iqiyi.com
+2, static.g.ppstream.com
+2, store.iqiyi.com
+2, tracker.sns.iqiyi.com
+2, yuedu.iqiyi.com
+2, msga.cupid.iqiyi.com
+2, nl.notice.iqiyi.com
+2, nl.rcd.iqiyi.com
+2, notice.iqiyi.com
+2, noxagile.duapp.com
+2, paopao.iqiyi.com
+2, policy.video.iqiyi.com
+2, ifacelog.iqiyi.com
+0, 203.107.63.154/32
+0, 101.227.97.240/32
+0, 101.227.200.11/32
+0, 101.227.200.28/32
+0, 124.192.153.42/32

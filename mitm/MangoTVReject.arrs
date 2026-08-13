@@ -1,0 +1,33 @@
+# 上游 DOMAIN 在 Anywhere Routing 中按域后缀表达；精确域名的子域范围差异见语义报告。
+
+name = 芒果TV去广告 Reject
+routing = 2
+2, dflow.bz.mgtv.com
+2, encounter.bz.mgtv.com
+2, floor.bz.mgtv.com
+2, img.da.mgtv.com
+2, layer.bz.mgtv.com
+2, mob.bz.mgtv.com
+2, mobile.da.mgtv.com
+2, rc-topic-api.bz.mgtv.com
+2, v2.da.mgtv.com
+2, video.da.mgtv.com
+2, vip.bz.mgtv.com
+2, ys.da.mgtv.com
+2, mobile2.da.mgtv.com
+2, cdn.cmop.mgtv.com
+2, cmop.mgtv.com
+2, imgaliyun.da.mgtv.com
+2, imgaliyun.res.mgtv.com
+2, m2.da.mgtv.com
+2, mobaliyun.res.mgtv.com
+2, pc.da.mgtv.com
+2, pc1.da.mgtv.com
+2, pcvideoaliyun.titan.mgtv.com
+2, pcvideoyd.titan.mgtv.com
+2, pcweb.v1.mgtv.com
+2, py.da.mgtv.com
+2, web.da.mgtv.com
+2, x.da.mgtv.com
+2, y.da.mgtv.com
+2, da.mgtv.com

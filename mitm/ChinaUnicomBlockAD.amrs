@@ -1,0 +1,16 @@
+# 中国联通去广告 - Anywhere Testing 候选
+# 奶思为主来源，墨鱼补充页面精简。跨任意域名广告正则因误伤风险明确排除。
+
+name = 中国联通去广告
+hostname = m.client.10010.com, res.mall.10010.cn, img.client.10010.com
+
+0, 0, ^https?://m\.client\.10010\.com/mobileService/(?:activity|customer)/(?:accountListData|get_client_adv|get_startadv)(?:[/?#]|$), 3
+0, 0, ^https?://m\.client\.10010\.com/uniAdmsInterface/(?:getHomePageAd|getWelcomeAd)(?:[/?#]|$), 3
+0, 0, ^https?://res\.mall\.10010\.cn/mall/common/js/fa\.js(?:[?#]|$), 3
+0, 0, ^https?://m\.client\.10010\.com/mobileService/customer/getclientconfig\.htm(?:[/?#]|$), 2, {}
+0, 0, ^https?://m\.client\.10010\.com/(?:mobileserviceimportant/customer/querySmartServicekhd\.htm|clientIndex/api/v1/index/queryIndexExclusiveOffers)(?:[/?#]|$), 2, {}
+0, 0, ^https?://img\.client\.10010\.com/homejingxuan12/js/(?:pubuliu|1homeView)(?:[/?#]|$), 2, "/* blocked */"
+1, 5, ^https?://m\.client\.10010\.com/search_service/search/searchScrollWord(?:[/?#]|$), add, $["113000004"], []
+1, 5, ^https?://m\.client\.10010\.com/clientIndex/homefusion/fuInter(?:[/?#]|$), delete, $["HomeFusion.backGroundQuery"]
+1, 5, ^https?://m\.client\.10010\.com/clientIndex/homefusion/fuInter(?:[/?#]|$), delete, $["HomeFusion.bottomLabel"].bottomMallKey
+1, 5, ^https?://m\.client\.10010\.com/clientMyPage/v\d+/api/(?:myWallet|myPoints|myColorfulRingtone|newUserInfo|getDeviceInfo)(?:[/?#]|$), replace, $.data, {}

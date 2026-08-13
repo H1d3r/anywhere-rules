@@ -1,0 +1,13 @@
+# 汽水音乐去广告 - Anywhere Testing 候选
+# 主来源: 奶思 fmz200/wool_scripts@c02a9525
+# 精确 JSON mock 使用窄 request script；响应 JSON 修改全部原生化。
+# 直接断连 reject 与通配 hostname 当前无法等价表达，未静默改成 200/502 或宽泛 suffix。
+
+name = 汽水音乐去广告
+hostname = webcast-open.douyin.com, beta-luna.douyin.com
+
+0, 100, ^https://(?:webcast-open\.douyin\.com/webcast/openapi/feed/|beta-luna\.douyin\.com/luna/commerce/v2/commerce_info)\?, ZnVuY3Rpb24gcHJvY2VzcyhjdHgpIHsKICBBbnl3aGVyZS5yZXNwb25kKHsKICAgIHN0YXR1czogMjAwLAogICAgaGVhZGVyczogW1siQ29udGVudC1UeXBlIiwgImFwcGxpY2F0aW9uL2pzb24iXV0sCiAgICBib2R5OiAie30iCiAgfSk7Cn0K
+1, 5, ^https://beta-luna\.douyin\.com/luna/card\?, replace, $.card_items[0].priority_display, false
+1, 5, ^https://beta-luna\.douyin\.com/luna/card\?, replace, $.card_items[0].is_show, false
+1, 5, ^https://beta-luna\.douyin\.com/luna/card\?, replace, $.preview_guide, null
+1, 5, ^https://beta-luna\.douyin\.com/luna/more-panel\?, delete, $.blocks[1]
