@@ -3,9 +3,9 @@
 # SOURCE: https://github.com/blackmatrix7/ios_rule_script/blob/master/rule/Surge/Global/Global_All_No_Resolve.list
 # GENERATED-FOR: Anywhere Routing Rule Set
 # NOTE: DOMAIN rules are mapped to Anywhere domain suffix rules.
-# RULES: 34959
+# RULES: 34999
 # SKIPPED: 47
-# UPSTREAM-UPDATED: 2026-08-12 02:53:57
+# UPSTREAM-UPDATED: 2026-08-14 02:55:25
 # SKIPPED-TYPES: PROCESS-NAME=1, USER-AGENT=46
 
 name = Global
@@ -856,6 +856,9 @@ name = Global
 2, activelearnprimary.com.au
 2, activematter.game
 2, activeteachonline.com
+2, activision.com
+2, activisionblizzard.com
+2, activisionblizzardmedia.com
 2, actofunion.ac.uk
 2, actris.ac.uk
 2, actual.ac.uk
@@ -3553,6 +3556,7 @@ name = Global
 2, bemix.ac.uk
 2, benaughty.fun
 2, benc.ac.uk
+2, benefitsforeveryworld.com
 2, bengalisexvideos.com
 2, benliton.com
 2, bentobox.tv
@@ -4926,6 +4930,7 @@ name = Global
 2, building3dcontent.com
 2, builtenvsigns.ac.uk
 2, builtfromebay.com
+2, builtwithnix.org
 2, bukkake-jav.com
 2, bukkake.link
 2, bululusexdoll.com
@@ -5136,6 +5141,11 @@ name = Global
 2, callbackkiller.com
 2, callersbane.com
 2, callhulu.com
+2, callofduty.com
+2, callofdutyendowment.com
+2, callofdutyendowment.org
+2, callofdutyleague.com
+2, callofdutymobile.com
 2, calls.ac.uk
 2, callywith.ac.uk
 2, caltech.edu
@@ -5211,6 +5221,7 @@ name = Global
 2, candi.ac.uk
 2, candidforum-videos.com
 2, cando.ac.uk
+2, candycrush.com
 2, candycumcity.com
 2, candypleasure.com
 2, cannington.ac.uk
@@ -6450,6 +6461,7 @@ name = Global
 2, cranfield.ac.uk
 2, crankplayer.com
 2, crash.ac.uk
+2, crashbandicoot.com
 2, crates.io
 2, craven-college.ac.uk
 2, crawley-college.ac.uk
@@ -7104,6 +7116,7 @@ name = Global
 2, demfhz.xyz
 2, democracy.earth
 2, demonoid.is
+2, demonware.net
 2, demoprint.com
 2, demos.ac.uk
 2, den.ac.uk
@@ -7233,7 +7246,9 @@ name = Global
 2, dhi.ac.uk
 2, dhlestudio.com.co
 2, diabetes-healthnet.ac.uk
+2, diablo.com
 2, diablo3.com
+2, diablo4.com
 2, diabloimmortal.com
 2, diabrowser.com
 2, diabrowser.engineering
@@ -8886,6 +8901,7 @@ name = Global
 2, europeansustainabledesign.net
 2, europeansustainabledesigncouncil.com
 2, europeansustainabledesigncouncil.net
+2, europeanwarzoneseries.com
 2, europepmc.org
 2, europeunit.ac.uk
 2, europornstar.com
@@ -11972,6 +11988,7 @@ name = Global
 2, highfieldscentre.ac.uk
 2, highlands-jersey.ac.uk
 2, highlands.ac.uk
+2, highmoonstudios.com
 2, highpeak.ac.uk
 2, highporn.net
 2, hightopnikes.com
@@ -13113,6 +13130,7 @@ name = Global
 2, industrialtoys.com
 2, infinitetoons.com
 2, infinitetube.com
+2, infinityward.com
 2, influencersgonewild.com
 2, infocert.digital
 2, infocert.it
@@ -14490,6 +14508,7 @@ name = Global
 2, kindteenporn.com
 2, kinescopecdn.net
 2, king.ac.uk
+2, king.com
 2, kingalfreds.ac.uk
 2, kingalfredsbasingstoke.ac.uk
 2, kingcomix.com
@@ -17239,6 +17258,7 @@ name = Global
 2, mynescol.ac.uk
 2, mynetname.net
 2, mynike.com
+2, mynixos.com
 2, myoctocat.com
 2, mypearson.com
 2, mypearsonenglish.ch
@@ -18071,7 +18091,15 @@ name = Global
 2, nivod.tv
 2, nivodi.tv
 2, nivodz.com
+2, nix-community.org
+2, nix.dev
+2, nix.store
+2, nixcon.org
+2, nixcon2017.org
+2, nixlang.com
 2, nixos.org
+2, nixos.wiki
+2, nixpkgs.org
 2, niziero.info
 2, njav.tv
 2, njavtv.com
@@ -20674,6 +20702,7 @@ name = Global
 2, ravemedia.ac.uk
 2, ravensbourne.ac.uk
 2, ravensbourneuniversitylondon.ac.uk
+2, ravensoftware.com
 2, ravm.tv
 2, rawgithub.com
 2, raxcdn.com
@@ -21844,6 +21873,7 @@ name = Global
 2, seiron-sankei.com
 2, sejie80.com
 2, sekai.colorfulpalette.org
+2, sekirothegame.com
 2, seksmet.nl
 2, sekswebsite.nl
 2, sekur1213.guru
@@ -22336,6 +22366,7 @@ name = Global
 2, side.ac.uk
 2, sie.ac.uk
 2, siege-amazon.com
+2, sierragames.com
 2, sifa.ac.uk
 2, sigcomm.org
 2, sigma-cetl.ac.uk
@@ -22462,6 +22493,7 @@ name = Global
 2, skunkgirl.cc
 2, sky.com
 2, skyassets.com
+2, skylanders.com
 2, skymansion.net
 2, skymatter.com
 2, skyoceanrescue.com
@@ -22501,6 +22533,7 @@ name = Global
 2, sldolls.com
 2, sleaford.ac.uk
 2, sleazyneasy.com
+2, sledgehammergames.com
 2, sleepandwakefulnessresearch.ac.uk
 2, slg.ac.uk
 2, sli-institute.ac.uk
@@ -22665,6 +22698,7 @@ name = Global
 2, solentuniversity.ac.uk
 2, solid.ru
 2, solidifi.app
+2, solidstate.com
 2, solihull.ac.uk
 2, solihullsfc.ac.uk
 2, solostudioksale.com
@@ -22956,6 +22990,7 @@ name = Global
 2, sputnikmediabank.com
 2, sputniknews.com
 2, spyjinx.com
+2, spyrothedragon.com
 2, sqhwesternconsortium.ac.uk
 2, sqlite.org
 2, sqlserveronlinux.com
@@ -24285,6 +24320,8 @@ name = Global
 2, toncenter.com
 2, tonec.com
 2, tonicmovies.com
+2, tonyhawk.com
+2, tonyhawkthegame.com
 2, toolforge.org
 2, toolmaking-cadcam.com
 2, toomadporn.pro
@@ -24441,6 +24478,7 @@ name = Global
 2, trendmicro.com
 2, trendyporn.com
 2, tresham.ac.uk
+2, treyarch.com
 2, trezor.io
 2, tri-london.ac.uk
 2, triballo.net
@@ -26674,6 +26712,7 @@ name = Global
 2, worldpornvideos.com
 2, worldsecureemail.com
 2, worldsecuresystems.com
+2, worldseriesofwarzone.com
 2, worldsex.com
 2, worldsfastestgamer.net
 2, wortech.ac.uk
@@ -27507,6 +27546,7 @@ name = Global
 2, yandex.eu
 2, yandex.fi
 2, yandex.fr
+2, yandex.it
 2, yandex.jobs
 2, yandex.kg
 2, yandex.kz

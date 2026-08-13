@@ -3,12 +3,19 @@
 # SOURCE: https://github.com/blackmatrix7/ios_rule_script/blob/master/rule/Surge/ChinaTest/ChinaTest_All.list
 # GENERATED-FOR: Anywhere Routing Rule Set
 # NOTE: DOMAIN rules are mapped to Anywhere domain suffix rules.
-# RULES: 11316
+# RULES: 11323
 # SKIPPED: 0
-# SOURCE-RULES: 111316
-# UPSTREAM-UPDATED: 2026-08-10 02:31:10
+# SOURCE-RULES: 111323
+# UPSTREAM-UPDATED: 2026-08-14 02:56:02
 
 name = ChinaTest_02
+2, xizangmaoniunai.com
+2, xizangqinglv.com
+2, xizangzl.com
+2, xizexiao.com
+2, xizhai2021.com
+2, xizhang.com
+2, xizhengtouzi.com
 2, xizhi.com
 2, xizi.com
 2, xizice.com
