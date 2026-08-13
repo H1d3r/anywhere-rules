@@ -1,0 +1,8 @@
+# 墨迹天气明确广告域名 - Anywhere Routing RuleSet
+# 墨鱼提供 adlaunch；奶思只补充两个明确广告叶子域名，不引入 CDN、日志或第三方宽拦截。
+
+name = 墨迹天气去广告 Reject
+routing = 2
+2, ad.api.moji.com
+2, adlaunch.moji.com
+2, ads.mojicdn.com

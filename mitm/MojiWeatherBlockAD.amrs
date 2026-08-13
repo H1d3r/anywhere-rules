@@ -1,0 +1,14 @@
+# 墨迹天气去广告 - Anywhere Testing 候选
+# 主上游: 墨鱼 MoJiWeatherAds.conf V1.0.2；奶思仅补充安全的明确广告域名，可莉 Beta 只用于交叉验证。
+# reject-200 严格映射为 Anywhere 原生空 HTTP 200；页面结构净化使用单次 JSON 响应脚本。
+# 墨鱼 tnc*-*.zijieapi.com 无法由 Anywhere hostname 后缀精确表达，避免 MITM 整个 zijieapi.com，暂不转换该 DNS 规则。
+
+name = 墨迹天气去广告
+hostname = api.moji.com
+
+0, 0, ^https?://[^/]*api\.moji\.com/flycard/flyCard(?:[/?#]|$), 2,
+0, 0, ^https?://[^/]*api\.moji\.com/shortvideo(?:[/?#]|$), 2,
+0, 0, ^https?://[^/]*api\.moji\.com/json/advertising_goods(?:[/?#]|$), 2,
+0, 0, ^https?://[^/]*api\.moji\.com/forum(?:[/?#]|$), 2,
+0, 0, ^https?://[^/]*api\.moji\.com/user/dynamic_v\d+/json/someone_interest(?:[/?#]|$), 2,
+1, 100, ^https?://[^/]*api\.moji\.com/json/entrance/list(?:[?#]|$), ZnVuY3Rpb24gcHJvY2VzcyhjdHgpIHsKICBpZiAoY3R4LnBoYXNlICE9PSAicmVzcG9uc2UiIHx8ICFjdHguYm9keSkgcmV0dXJuOwogIHRyeSB7CiAgICB2YXIgYm9keSA9IEpTT04ucGFyc2UoQW55d2hlcmUuY29kZWMudXRmOC5kZWNvZGUoY3R4LmJvZHkpKTsKICAgIHZhciByZWdpb25zID0gYm9keS5lbnRyYW5jZV9yZWdpb25fcmVzX2xpc3Q7CiAgICBpZiAoIUFycmF5LmlzQXJyYXkocmVnaW9ucykpIHJldHVybjsKICAgIGJvZHkuZW50cmFuY2VfcmVnaW9uX3Jlc19saXN0ID0gcmVnaW9ucy5maWx0ZXIoZnVuY3Rpb24gKHJlZ2lvbikgewogICAgICByZXR1cm4gIXJlZ2lvbiB8fCAocmVnaW9uLnJlZ2lvbl9uYW1lICE9PSAi5bel5YW35Yy6IiAmJiByZWdpb24ucmVnaW9uX25hbWUgIT09ICLmiJHpobXpnaLnga/ms6EiICYmIHJlZ2lvbi5yZWdpb25fbmFtZSAhPT0gImJhbm5lcuWMuiIpOwogICAgfSk7CiAgICBjdHguYm9keSA9IEFueXdoZXJlLmNvZGVjLnV0ZjguZW5jb2RlKEpTT04uc3RyaW5naWZ5KGJvZHkpKTsKICAgIEFueXdoZXJlLmRvbmUoKTsKICB9IGNhdGNoIChfKSB7CiAgICByZXR1cm47CiAgfQp9Cg==
