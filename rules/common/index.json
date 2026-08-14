@@ -1,6 +1,6 @@
 {
   "total_files": 40,
-  "total_rules": 88281,
+  "total_rules": 87848,
   "total_skipped": 126,
   "files": [
     {
@@ -381,7 +381,7 @@
       "name": "ChinaIP",
       "description": "中国大陆 IP CIDR",
       "output_path": "common/ChinaIP.arrs",
-      "rule_count": 5814,
+      "rule_count": 5380,
       "skipped_count": 0,
       "unsupported_types": {},
       "sources": [
@@ -449,7 +449,7 @@
       "name": "CDN",
       "description": "SukkaW CDN 直连辅助",
       "output_path": "common/CDN.arrs",
-      "rule_count": 4653,
+      "rule_count": 4654,
       "skipped_count": 59,
       "unsupported_types": {
         "DOMAIN-WILDCARD": 59
