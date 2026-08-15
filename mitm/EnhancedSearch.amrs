@@ -1,0 +1,29 @@
+# 强化搜索 - Anywhere Testing 候选
+# 自行整理；全部使用 Anywhere 原生 302 rewrite，无 JavaScript 和兼容层。
+# Safari 默认搜索引擎需设为百度。指令支持前置或后置；无指令时转到 Google。
+# Google CN 跳转由独立插件维护，避免 hostname 重叠。
+
+name = 强化搜索
+hostname = www.baidu.com, m.baidu.com
+
+0, 0, ^https?://(?:m\.baidu\.com/s\?.*word|www\.baidu\.com/s\?.*wd)=db\+([^&]+)(?:&.*)?$, 1, https://m.douban.com/search?query=$1
+0, 0, ^https?://(?:m\.baidu\.com/s\?.*word|www\.baidu\.com/s\?.*wd)=([^+&]+)\+db(?:&.*)?$, 1, https://m.douban.com/search?query=$1
+0, 0, ^https?://(?:m\.baidu\.com/s\?.*word|www\.baidu\.com/s\?.*wd)=zh\+([^&]+)(?:&.*)?$, 1, https://www.zhihu.com/search?q=$1
+0, 0, ^https?://(?:m\.baidu\.com/s\?.*word|www\.baidu\.com/s\?.*wd)=([^+&]+)\+zh(?:&.*)?$, 1, https://www.zhihu.com/search?q=$1
+0, 0, ^https?://(?:m\.baidu\.com/s\?.*word|www\.baidu\.com/s\?.*wd)=wb\+([^&]+)(?:&.*)?$, 1, https://s.weibo.com/weibo/$1
+0, 0, ^https?://(?:m\.baidu\.com/s\?.*word|www\.baidu\.com/s\?.*wd)=([^+&]+)\+wb(?:&.*)?$, 1, https://s.weibo.com/weibo/$1
+0, 0, ^https?://(?:m\.baidu\.com/s\?.*word|www\.baidu\.com/s\?.*wd)=gh\+([^&]+)(?:&.*)?$, 1, https://github.com/search?q=$1
+0, 0, ^https?://(?:m\.baidu\.com/s\?.*word|www\.baidu\.com/s\?.*wd)=([^+&]+)\+gh(?:&.*)?$, 1, https://github.com/search?q=$1
+0, 0, ^https?://(?:m\.baidu\.com/s\?.*word|www\.baidu\.com/s\?.*wd)=yt\+([^&]+)(?:&.*)?$, 1, https://www.youtube.com/results?search_query=$1
+0, 0, ^https?://(?:m\.baidu\.com/s\?.*word|www\.baidu\.com/s\?.*wd)=([^+&]+)\+yt(?:&.*)?$, 1, https://www.youtube.com/results?search_query=$1
+0, 0, ^https?://(?:m\.baidu\.com/s\?.*word|www\.baidu\.com/s\?.*wd)=bli\+([^&]+)(?:&.*)?$, 1, https://m.bilibili.com/search?keyword=$1
+0, 0, ^https?://(?:m\.baidu\.com/s\?.*word|www\.baidu\.com/s\?.*wd)=([^+&]+)\+bli(?:&.*)?$, 1, https://m.bilibili.com/search?keyword=$1
+0, 0, ^https?://(?:m\.baidu\.com/s\?.*word|www\.baidu\.com/s\?.*wd)=ph\+([^&]+)(?:&.*)?$, 1, https://cn.pornhub.com/video/search?search=$1
+0, 0, ^https?://(?:m\.baidu\.com/s\?.*word|www\.baidu\.com/s\?.*wd)=([^+&]+)\+ph(?:&.*)?$, 1, https://cn.pornhub.com/video/search?search=$1
+0, 0, ^https?://(?:m\.baidu\.com/s\?.*word|www\.baidu\.com/s\?.*wd)=wk\+([^&]+)(?:&.*)?$, 1, https://zh.wikipedia.org/wiki/$1
+0, 0, ^https?://(?:m\.baidu\.com/s\?.*word|www\.baidu\.com/s\?.*wd)=([^+&]+)\+wk(?:&.*)?$, 1, https://zh.wikipedia.org/wiki/$1
+0, 0, ^https?://(?:m\.baidu\.com/s\?.*word|www\.baidu\.com/s\?.*wd)=gi\+([^&]+)(?:&.*)?$, 1, https://www.google.com/search?&tbm=isch&q=$1
+0, 0, ^https?://(?:m\.baidu\.com/s\?.*word|www\.baidu\.com/s\?.*wd)=([^+&]+)\+gi(?:&.*)?$, 1, https://www.google.com/search?&tbm=isch&q=$1
+0, 0, ^https?://(?:m\.baidu\.com/s\?.*word|www\.baidu\.com/s\?.*wd)=by\+([^&]+)(?:&.*)?$, 1, https://www.bing.com/search?q=$1
+0, 0, ^https?://(?:m\.baidu\.com/s\?.*word|www\.baidu\.com/s\?.*wd)=([^+&]+)\+by(?:&.*)?$, 1, https://www.bing.com/search?q=$1
+0, 0, ^https?://(?:m\.baidu\.com/s\?.*word|www\.baidu\.com/s\?.*wd)=([^&]+)(?:&.*)?$, 1, https://www.google.com/search?q=$1
