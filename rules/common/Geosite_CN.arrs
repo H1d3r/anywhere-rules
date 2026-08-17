@@ -2,8 +2,8 @@
 # GENERATED-FOR: Anywhere Routing Rule Set
 # DESCRIPTION: Geosite 中国大陆域名规则
 # GEOSITE-CODE: GEOLOCATION-CN
-# RULES: 5231
-# SOURCE-RULES: 5234
+# RULES: 5237
+# SOURCE-RULES: 5240
 # SKIPPED: 3
 # SKIPPED-TYPES: Regex=3
 # SOURCES:
@@ -1358,6 +1358,7 @@ routing = 1
 2, ddzn.tech
 2, dearedu.com
 2, debugmode.cn
+2, dedao.cn
 2, dedecms.com
 2, deepepg.com
 2, deepinos.org
@@ -1460,6 +1461,7 @@ routing = 1
 2, douyinec.com
 2, douyinfe.com
 2, douyinliving.com
+2, douyinmusicpromotion.com
 2, douyinpay.com
 2, douyinpic.com
 2, douyinstatic.com
@@ -1566,6 +1568,7 @@ routing = 1
 2, eceshi.com
 2, echargenet.com
 2, ecjobhome.com
+2, eckwai.com
 2, ecloud-gdu.com
 2, ecns.cn
 2, ecsg.com.cn
@@ -2703,7 +2706,6 @@ routing = 1
 2, keniu.com
 2, kepuchina.cn
 2, keruyun.com
-2, kesong.co
 2, ketangpai.com
 2, kexinshe.com
 2, keyoo.com
@@ -2809,6 +2811,9 @@ routing = 1
 2, kuyinyun.com
 2, kuyiso.com
 2, kwaicdn.com
+2, kwaishop.com
+2, kwaixiaodian.com
+2, kwaiying.com
 2, kwaizt.com
 2, kwimgs.com
 2, kysec.cn
@@ -3227,6 +3232,7 @@ routing = 1
 2, mojicdn.com
 2, mojichina.com
 2, mojidict.com
+2, mojidoc.com
 2, mokahr.com
 2, moleecel.com
 2, moliranran.com
@@ -3631,6 +3637,7 @@ routing = 1
 2, qianuni.com
 2, qianwen.aliyun.com
 2, qianwen.com
+2, qianwenai.com
 2, qianxin.com
 2, qianxincdn.com
 2, qianxuecloud.com
@@ -4342,9 +4349,6 @@ routing = 1
 2, txrjy.com
 2, u-cdn.net
 2, u.tools
-2, u17.com
-2, u17i.com
-2, u17t.com
 2, u3d.cn
 2, ubssdic.com
 2, ubuntukylin.com
@@ -4405,6 +4409,7 @@ routing = 1
 2, umetrip.com
 2, umetrip.com.cn
 2, umetrip.net.cn
+2, umiwi.com
 2, unaming.cn
 2, unaming.info
 2, unaming.net
@@ -4650,6 +4655,7 @@ routing = 1
 2, wsglb.com
 2, wsglb.net
 2, wsjqnmmrmv.world
+2, wskwai.com
 2, wsoso.com
 2, wss.cc
 2, wss.email

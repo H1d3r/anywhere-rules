@@ -3,9 +3,9 @@
 # SOURCE: https://github.com/blackmatrix7/ios_rule_script/blob/master/rule/Surge/Global/Global_All_No_Resolve.list
 # GENERATED-FOR: Anywhere Routing Rule Set
 # NOTE: DOMAIN rules are mapped to Anywhere domain suffix rules.
-# RULES: 35002
+# RULES: 35003
 # SKIPPED: 47
-# UPSTREAM-UPDATED: 2026-08-16 02:21:22
+# UPSTREAM-UPDATED: 2026-08-18 02:30:16
 # SKIPPED-TYPES: PROCESS-NAME=1, USER-AGENT=46
 
 name = Global
@@ -21412,6 +21412,7 @@ name = Global
 2, rutracker.cr
 2, rutracker.me
 2, rutracker.nl
+2, rutracker.wiki
 2, rutrecker.net
 2, rutube.sport
 2, rutubelist.ru
