@@ -17,6 +17,7 @@ from convert_blackmatrix7 import convert_line, fetch_bytes, split_rule_line
 
 MAX_RULES_PER_SET = 100000
 PRESERVED_COMMON_RULE_GLOBS = ("CN_Accelerated*.arrs",)
+ICON_HEADER_RE = re.compile(r"^icon-(?:light|dark)\s*=\s*\S+\s*$")
 
 
 COMMON_RULE_SETS: list[dict[str, object]] = [
@@ -316,6 +317,16 @@ def preserve_external_common_rules(output_dir: Path) -> dict[str, bytes]:
     return preserved
 
 
+def read_icon_headers(path: Path) -> list[str]:
+    if not path.is_file():
+        return []
+    return [
+        line.strip()
+        for line in path.read_text(encoding="utf-8", errors="replace").splitlines()
+        if ICON_HEADER_RE.fullmatch(line.strip())
+    ]
+
+
 def parse_existing_rule_set(output_dir: Path, path: Path) -> BuiltCommonRuleSet:
     headers: dict[str, str] = {}
     sources: list[str] = []
@@ -336,6 +347,8 @@ def parse_existing_rule_set(output_dir: Path, path: Path) -> BuiltCommonRuleSet:
             in_sources = False
             continue
         if line and not line.startswith("#") and not line.startswith("name") and not line.startswith("routing"):
+            if ICON_HEADER_RE.fullmatch(line):
+                continue
             rule_count += 1
 
     name = headers.get("NAME", path.stem)
@@ -463,8 +476,11 @@ def write_rule_set_file(
     unsupported: dict[str, int] | None = None,
     total_rules: int | None = None,
     routing: int | None = None,
+    icon_headers: list[str] | None = None,
 ) -> None:
     output.parent.mkdir(parents=True, exist_ok=True)
+    if icon_headers is None:
+        icon_headers = read_icon_headers(output)
     body = [
         f"# NAME: {name}",
         "# GENERATED-FOR: Anywhere Routing Rule Set",
@@ -481,7 +497,7 @@ def write_rule_set_file(
         )
     body.append("# SOURCES:")
     body.extend(f"# - {source}" for source in sources)
-    body.extend(["", f"name = {name}"])
+    body.extend(["", f"name = {name}", *icon_headers])
     if routing is not None:
         body.append(f"routing = {routing}")
     body.extend(f"{rule_type}, {value}" for rule_type, value in rules)
@@ -496,10 +512,21 @@ def build_rule_set_outputs(
     sources: list[str],
     output_dir: Path,
     routing: int | None,
+    preserved_icons: dict[str, list[str]] | None = None,
 ) -> list[BuiltCommonRuleSet]:
+    preserved_icons = preserved_icons or {}
     if len(rules) <= MAX_RULES_PER_SET:
         output = output_dir / f"{name}.arrs"
-        write_rule_set_file(output, name, description, rules, sources, unsupported, routing=routing)
+        write_rule_set_file(
+            output,
+            name,
+            description,
+            rules,
+            sources,
+            unsupported,
+            routing=routing,
+            icon_headers=preserved_icons.get(output.name),
+        )
         return [
             BuiltCommonRuleSet(
                 name=name,
@@ -531,6 +558,7 @@ def build_rule_set_outputs(
             part_unsupported,
             total_rules=len(rules),
             routing=routing,
+            icon_headers=preserved_icons.get(output.name),
         )
         built.append(
             BuiltCommonRuleSet(
@@ -546,7 +574,11 @@ def build_rule_set_outputs(
     return built
 
 
-def build_rule_set(config: dict[str, object], output_dir: Path) -> list[BuiltCommonRuleSet]:
+def build_rule_set(
+    config: dict[str, object],
+    output_dir: Path,
+    preserved_icons: dict[str, list[str]] | None = None,
+) -> list[BuiltCommonRuleSet]:
     name = str(config["name"])
     description = str(config.get("description", ""))
     routing_value = config.get("routing")
@@ -558,7 +590,16 @@ def build_rule_set(config: dict[str, object], output_dir: Path) -> list[BuiltCom
         all_lines.append("")
 
     rules, unsupported = convert_lines(all_lines)
-    return build_rule_set_outputs(name, description, rules, unsupported, sources, output_dir, routing)
+    return build_rule_set_outputs(
+        name,
+        description,
+        rules,
+        unsupported,
+        sources,
+        output_dir,
+        routing,
+        preserved_icons,
+    )
 
 
 def write_catalog(output_dir: Path, built: list[BuiltCommonRuleSet]) -> None:
@@ -587,13 +628,18 @@ def main() -> int:
     dist = Path(args.dist)
     output_dir = dist / "common"
     preserved = preserve_external_common_rules(output_dir)
+    preserved_icons = {
+        path.name: read_icon_headers(path)
+        for path in output_dir.glob("*.arrs")
+        if path.is_file()
+    }
     if output_dir.exists():
         shutil.rmtree(output_dir)
     output_dir.mkdir(parents=True, exist_ok=True)
 
     built: list[BuiltCommonRuleSet] = []
     for config in COMMON_RULE_SETS:
-        built.extend(build_rule_set(config, output_dir))
+        built.extend(build_rule_set(config, output_dir, preserved_icons))
     for name, data in preserved.items():
         restored = output_dir / name
         restored.write_bytes(data)

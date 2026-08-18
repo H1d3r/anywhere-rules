@@ -5,6 +5,7 @@ from __future__ import annotations
 
 import argparse
 import json
+import re
 import tempfile
 from dataclasses import dataclass
 from pathlib import Path
@@ -17,6 +18,7 @@ from convert_blackmatrix7 import fetch_bytes
 
 MAX_RULES_PER_SET = 100000
 DEFAULT_SOURCE_URL = "https://raw.githubusercontent.com/Loyalsoldier/geoip/release/Country.mmdb"
+ICON_HEADER_RE = re.compile(r"^icon-(?:light|dark)\s*=\s*\S+\s*$")
 
 
 @dataclass
@@ -28,6 +30,16 @@ class GeoIPRuleSet:
     skipped_count: int
     unsupported_types: dict[str, int]
     sources: list[str]
+
+
+def read_icon_headers(path: Path) -> list[str]:
+    if not path.is_file():
+        return []
+    return [
+        line.strip()
+        for line in path.read_text(encoding="utf-8", errors="replace").splitlines()
+        if ICON_HEADER_RE.fullmatch(line.strip())
+    ]
 
 
 def country_code(data: dict[str, object]) -> str | None:
@@ -57,8 +69,11 @@ def write_rule_file(
     rules: list[tuple[int, str]],
     source_url: str,
     total_rules: int | None = None,
+    icon_headers: list[str] | None = None,
 ) -> None:
     output.parent.mkdir(parents=True, exist_ok=True)
+    if icon_headers is None:
+        icon_headers = read_icon_headers(output)
     body = [
         f"# NAME: {name}",
         "# GENERATED-FOR: Anywhere Routing Rule Set",
@@ -73,6 +88,7 @@ def write_rule_file(
         f"# - {source_url}",
         "",
         f"name = {name}",
+        *icon_headers,
         "routing = 1",
     ])
     body.extend(f"{rule_type}, {value}" for rule_type, value in rules)
@@ -84,6 +100,11 @@ def build_outputs(
     rules: list[tuple[int, str]],
     source_url: str,
 ) -> list[GeoIPRuleSet]:
+    preserved_icons = {
+        stale.name: read_icon_headers(stale)
+        for stale in output_dir.glob("GeoIP_CN*.arrs")
+        if stale.is_file()
+    }
     for stale in output_dir.glob("GeoIP_CN*.arrs"):
         stale.unlink()
 
@@ -91,7 +112,14 @@ def build_outputs(
     if len(rules) <= MAX_RULES_PER_SET:
         name = "GeoIP_CN"
         output = output_dir / f"{name}.arrs"
-        write_rule_file(output, name, description, rules, source_url)
+        write_rule_file(
+            output,
+            name,
+            description,
+            rules,
+            source_url,
+            icon_headers=preserved_icons.get(output.name),
+        )
         return [
             GeoIPRuleSet(
                 name=name,
@@ -113,7 +141,15 @@ def build_outputs(
         name = f"GeoIP_CN_{index:02d}"
         part_description = f"{description}（分片 {index}/{len(chunks)}）"
         output = output_dir / f"{name}.arrs"
-        write_rule_file(output, name, part_description, chunk, source_url, total_rules=len(rules))
+        write_rule_file(
+            output,
+            name,
+            part_description,
+            chunk,
+            source_url,
+            total_rules=len(rules),
+            icon_headers=preserved_icons.get(output.name),
+        )
         built.append(
             GeoIPRuleSet(
                 name=name,

@@ -38,6 +38,7 @@ DEFAULT_ANYWHERE_RULES_DB_URL = (
 )
 DNSMASQ_DOMAIN_RE = re.compile(r"^server=/([^/]+)/")
 VALID_DOMAIN_RE = re.compile(r"^(?=.{1,253}$)(?!-)[a-z0-9.-]+(?<!-)$")
+ICON_HEADER_RE = re.compile(r"^icon-(?:light|dark)\s*=\s*\S+\s*$")
 THREAD_STATE = threading.local()
 
 
@@ -55,6 +56,16 @@ class DomainResult:
 class ExclusionRules:
     suffixes: frozenset[str]
     keywords: frozenset[str]
+
+
+def read_icon_headers(path: Path) -> list[str]:
+    if not path.is_file():
+        return []
+    return [
+        line.strip()
+        for line in path.read_text(encoding="utf-8", errors="replace").splitlines()
+        if ICON_HEADER_RE.fullmatch(line.strip())
+    ]
 
 
 def normalize_domain(value: str, allow_tld: bool = False) -> str | None:
@@ -331,6 +342,7 @@ def evaluate_domain_with_doh(
 
 def write_rule_file(output: Path, rules: list[str], stats: dict[str, int | float | str]) -> None:
     output.parent.mkdir(parents=True, exist_ok=True)
+    icon_headers = read_icon_headers(output)
     body = [
         "# NAME: CN_Accelerated",
         "# GENERATED-FOR: Anywhere Routing Rule Set",
@@ -349,6 +361,7 @@ def write_rule_file(output: Path, rules: list[str], stats: dict[str, int | float
         f"# - {stats['anywhere_rules_db_url']}",
         "",
         "name = CN_Accelerated",
+        *icon_headers,
         "routing = 1",
     ]
     body.extend(f"2, {domain}" for domain in rules)

@@ -5,6 +5,7 @@ from __future__ import annotations
 
 import argparse
 import json
+import re
 import tempfile
 from dataclasses import dataclass
 from pathlib import Path
@@ -16,6 +17,7 @@ from convert_blackmatrix7 import fetch_bytes
 MAX_RULES_PER_SET = 100000
 DEFAULT_SOURCE_URL = "https://github.com/Loyalsoldier/v2ray-rules-dat/releases/latest/download/geosite.dat"
 DEFAULT_CODE = "GEOLOCATION-CN"
+ICON_HEADER_RE = re.compile(r"^icon-(?:light|dark)\s*=\s*\S+\s*$")
 
 GEOSITE_TYPE_NAMES = {
     0: "Plain",
@@ -34,6 +36,16 @@ class GeositeRuleSet:
     skipped_count: int
     unsupported_types: dict[str, int]
     sources: list[str]
+
+
+def read_icon_headers(path: Path) -> list[str]:
+    if not path.is_file():
+        return []
+    return [
+        line.strip()
+        for line in path.read_text(encoding="utf-8", errors="replace").splitlines()
+        if ICON_HEADER_RE.fullmatch(line.strip())
+    ]
 
 
 def read_varint(data: bytes, offset: int) -> tuple[int, int]:
@@ -143,8 +155,11 @@ def write_rule_file(
     source_count: int,
     unsupported: dict[str, int],
     total_rules: int | None = None,
+    icon_headers: list[str] | None = None,
 ) -> None:
     output.parent.mkdir(parents=True, exist_ok=True)
+    if icon_headers is None:
+        icon_headers = read_icon_headers(output)
     skipped_count = sum(unsupported.values())
     body = [
         f"# NAME: {name}",
@@ -165,6 +180,7 @@ def write_rule_file(
         f"# - {source_url}",
         "",
         f"name = {name}",
+        *icon_headers,
         "routing = 1",
     ])
     body.extend(f"{rule_type}, {value}" for rule_type, value in rules)
@@ -179,6 +195,11 @@ def build_outputs(
     geosite_code: str,
     source_count: int,
 ) -> list[GeositeRuleSet]:
+    preserved_icons = {
+        stale.name: read_icon_headers(stale)
+        for stale in output_dir.glob("Geosite_CN*.arrs")
+        if stale.is_file()
+    }
     for stale in output_dir.glob("Geosite_CN*.arrs"):
         stale.unlink()
 
@@ -186,7 +207,17 @@ def build_outputs(
     if len(rules) <= MAX_RULES_PER_SET:
         name = "Geosite_CN"
         output = output_dir / f"{name}.arrs"
-        write_rule_file(output, name, description, rules, source_url, geosite_code, source_count, unsupported)
+        write_rule_file(
+            output,
+            name,
+            description,
+            rules,
+            source_url,
+            geosite_code,
+            source_count,
+            unsupported,
+            icon_headers=preserved_icons.get(output.name),
+        )
         return [
             GeositeRuleSet(
                 name=name,
@@ -219,6 +250,7 @@ def build_outputs(
             source_count,
             part_unsupported,
             total_rules=len(rules),
+            icon_headers=preserved_icons.get(output.name),
         )
         built.append(
             GeositeRuleSet(
