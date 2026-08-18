@@ -1,7 +1,7 @@
 # NAME: GFW
 # GENERATED-FOR: Anywhere Routing Rule Set
 # DESCRIPTION: GFW 域名列表
-# RULES: 4373
+# RULES: 4374
 # SKIPPED: 0
 # SOURCES:
 # - https://raw.githubusercontent.com/Loyalsoldier/v2ray-rules-dat/release/gfw.txt
@@ -2321,6 +2321,7 @@ name = GFW
 2, livemint.com
 2, livestream.com
 2, livevideo.com
+2, livingatlas.arcgis.com
 2, livingstream.com
 2, lmarena.ai
 2, localbitcoins.com
