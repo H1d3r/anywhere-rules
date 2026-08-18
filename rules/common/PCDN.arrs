@@ -1,0 +1,48 @@
+# NAME: PCDN
+# GENERATED-FOR: Anywhere Routing Rule Set
+# DESCRIPTION: PCDN 拦截
+# RULES: 37
+# SKIPPED: 6
+# SKIPPED-TYPES: DOMAIN-WILDCARD=6
+# SOURCES:
+# - https://ruleset.skk.moe/Clash/non_ip/reject-no-drop.txt
+
+name = PCDN
+routing = 2
+2, bvmlt.top
+2, gjfzpt.cn
+2, p2cdn.com
+2, uhabo.com
+2, xycdn.com
+2, yfcdn.net
+2, yfp2p.net
+2, bsccdn.net
+2, p2p.qq.com
+2, ppio.cloud
+2, szbdyd.com
+2, saxysec.com
+2, yfcloud.com
+2, kuiniuca.com
+2, p2p.huya.com
+2, pkoplink.com
+2, cdnnodedns.cn
+2, p2ptun.qq.com
+2, tianwenca.com
+2, mountaintoys.cn
+2, nexusedgeio.com
+2, onethingpcs.com
+2, pcdn.yximgs.com
+2, ietheivaicai.com
+2, stun.douyucdn.cn
+2, mcdn.bilivideo.cn
+2, stun1.douyucdn.cn
+2, p2plog.douyucdn.cn
+2, p2perrorlog.douyucdn.cn
+2, p2pupdate.gamedl.qq.com
+2, p2pupgrade.gamedl.qq.com
+2, livewebbs2pcdn.msstatic.com
+2, qn-cdnfile1pcdn.msstatic.com
+2, upos-sz-302kodo.bilivideo.com
+2, upos-sz-302ppio.bilivideo.com
+3, -p2p.pull.yximgs.com
+3, -p2p-v2.pull.yximgs.com

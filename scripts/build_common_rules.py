@@ -16,7 +16,11 @@ from convert_blackmatrix7 import convert_line, fetch_bytes, split_rule_line
 
 
 MAX_RULES_PER_SET = 100000
-PRESERVED_COMMON_RULE_GLOBS = ("CN_Accelerated*.arrs",)
+PRESERVED_COMMON_RULE_GLOBS = (
+    "CN_Accelerated*.arrs",
+    "GeoIP_CN*.arrs",
+    "Geosite_CN*.arrs",
+)
 ICON_HEADER_RE = re.compile(r"^icon-(?:light|dark)\s*=\s*\S+\s*$")
 
 
@@ -39,6 +43,17 @@ COMMON_RULE_SETS: list[dict[str, object]] = [
         "routing": 2,
         "sources": [
             "https://raw.githubusercontent.com/TG-Twilight/AWAvenue-Ads-Rule/main/Filters/AWAvenue-Ads-Rule-Surge.list",
+        ],
+    },
+    {
+        "name": "PCDN",
+        "description": "PCDN 拦截",
+        "routing": 2,
+        "excluded_values": [
+            "7h15.ru1353t.1s.m4d3.by.5ukk4w.skk.moe",
+        ],
+        "sources": [
+            "https://ruleset.skk.moe/Clash/non_ip/reject-no-drop.txt",
         ],
     },
     {
@@ -290,6 +305,18 @@ COMMON_RULE_SETS: list[dict[str, object]] = [
         "description": "Cloudflare",
         "sources": [
             "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Cloudflare/Cloudflare.list",
+        ],
+    },
+]
+
+
+COPIED_COMMON_RULE_SETS: list[dict[str, object]] = [
+    {
+        "name": "Emby",
+        "description": "Emby",
+        "source_path": "all/Emby/Emby.arrs",
+        "sources": [
+            "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Emby/Emby.list",
         ],
     },
 ]
@@ -590,6 +617,65 @@ def build_rule_set(
         all_lines.append("")
 
     rules, unsupported = convert_lines(all_lines)
+    excluded_values = {
+        str(value).lower()
+        for value in config.get("excluded_values", [])
+    }
+    if excluded_values:
+        rules = [rule for rule in rules if rule[1].lower() not in excluded_values]
+    return build_rule_set_outputs(
+        name,
+        description,
+        rules,
+        unsupported,
+        sources,
+        output_dir,
+        routing,
+        preserved_icons,
+    )
+
+
+def read_converted_rules(path: Path) -> tuple[list[tuple[int, str]], dict[str, int]]:
+    """Read rule lines and skipped-type metadata from an Anywhere .arrs file."""
+    rules: list[tuple[int, str]] = []
+    unsupported: dict[str, int] = {}
+
+    for raw in path.read_text(encoding="utf-8", errors="replace").splitlines():
+        line = raw.strip()
+        if line.startswith("# SKIPPED-TYPES:"):
+            for item in line.removeprefix("# SKIPPED-TYPES:").split(","):
+                key, separator, value = item.strip().partition("=")
+                if not separator:
+                    continue
+                try:
+                    unsupported[key] = int(value)
+                except ValueError:
+                    continue
+            continue
+
+        match = re.fullmatch(r"([0-3]),\s*(.+)", line)
+        if match:
+            rules.append((int(match.group(1)), match.group(2)))
+
+    if not rules:
+        raise ValueError(f"No Anywhere rules found in copied source: {path}")
+    return rules, unsupported
+
+
+def build_copied_rule_set(
+    config: dict[str, object],
+    dist: Path,
+    output_dir: Path,
+    preserved_icons: dict[str, list[str]] | None = None,
+) -> list[BuiltCommonRuleSet]:
+    """Publish a Common Rule set from an already-converted BM7 output."""
+    name = str(config["name"])
+    description = str(config.get("description", ""))
+    source_path = dist / str(config["source_path"])
+    sources = [str(url) for url in config.get("sources", [])]
+    routing_value = config.get("routing")
+    routing = int(routing_value) if routing_value is not None else None
+    rules, unsupported = read_converted_rules(source_path)
     return build_rule_set_outputs(
         name,
         description,
@@ -640,6 +726,8 @@ def main() -> int:
     built: list[BuiltCommonRuleSet] = []
     for config in COMMON_RULE_SETS:
         built.extend(build_rule_set(config, output_dir, preserved_icons))
+    for config in COPIED_COMMON_RULE_SETS:
+        built.extend(build_copied_rule_set(config, dist, output_dir, preserved_icons))
     for name, data in preserved.items():
         restored = output_dir / name
         restored.write_bytes(data)

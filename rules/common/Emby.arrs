@@ -1,0 +1,61 @@
+# NAME: Emby
+# GENERATED-FOR: Anywhere Routing Rule Set
+# DESCRIPTION: Emby
+# RULES: 51
+# SKIPPED: 1
+# SKIPPED-TYPES: PROCESS-NAME=1
+# SOURCES:
+# - https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Emby/Emby.list
+
+name = Emby
+2, emby.enjoyit.eu.org
+2, emby.lcloud.wiki
+2, notnetflix.cos.cat
+2, 123456.al
+2, 285286.xyz
+2, agahk1.jmsooo.com
+2, agajp1.jmsooo.com
+2, agasg1.jmsooo.com
+2, aws.jmsooo.com
+2, cf1.jmsooo.com
+2, cristiamo.xyz
+2, emby.cjpc.cc
+2, emby.cjpc.tv
+2, emby.cjpc.xyz
+2, emby.cristiamo.top
+2, emby.flowercloud.yt
+2, emby.immtel.com
+2, emby.maying.club
+2, emby.mcwy.me
+2, emby.mdss.cloud
+2, emby.neko.edu.rs
+2, emby.nexitally.com
+2, emby.nyancat.net
+2, emby.ok.edu.hk
+2, emby.paoche.ooo
+2, emby.prprcloud.com
+2, emby.wtf
+2, emby.xeton.dev
+2, emby.ytoo.li
+2, embymv.tk
+2, embyplus.org
+2, embyserver.ga
+2, hinet.jmsooo.com
+2, imetyou.top
+2, jellyfin.asia
+2, jellyfin.xeton.dev
+2, line.emby.men
+2, mickeycloud.com
+2, movie.xeton.dev
+2, ntt1.jmsooo.com
+2, ohhhh.org
+2, peachmv.me
+2, pilipiliultra.com
+2, plusmedia.site
+2, poloemby.xyz
+2, pornemby.club
+2, servers.xeton.dev
+2, xmsl.org
+3, emby.wtf
+3, jmsooo
+3, odysseyplus
