@@ -1,0 +1,6 @@
+# Cursor service domains not covered by the existing AI rule sources.
+# api2.cursor.sh and other Cursor subdomains are covered by cursor.sh.
+DOMAIN-SUFFIX,cursor.sh
+DOMAIN-SUFFIX,cursor.com
+DOMAIN-SUFFIX,cursorapi.com
+DOMAIN-SUFFIX,cursor-cdn.com
