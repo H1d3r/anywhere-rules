@@ -1,7 +1,7 @@
 {
   "total_files": 40,
   "total_rules": 87855,
-  "total_skipped": 126,
+  "total_skipped": 125,
   "files": [
     {
       "name": "Reject",
@@ -78,7 +78,7 @@
       "name": "GFW",
       "description": "GFW 域名列表",
       "output_path": "common/GFW.arrs",
-      "rule_count": 4374,
+      "rule_count": 4376,
       "skipped_count": 0,
       "unsupported_types": {},
       "sources": [
@@ -449,10 +449,10 @@
       "name": "CDN",
       "description": "SukkaW CDN 直连辅助",
       "output_path": "common/CDN.arrs",
-      "rule_count": 4654,
-      "skipped_count": 59,
+      "rule_count": 4652,
+      "skipped_count": 58,
       "unsupported_types": {
-        "DOMAIN-WILDCARD": 59
+        "DOMAIN-WILDCARD": 58
       },
       "sources": [
         "https://ruleset.skk.moe/List/domainset/cdn.conf",
