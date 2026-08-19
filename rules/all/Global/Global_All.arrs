@@ -3,9 +3,9 @@
 # SOURCE: https://github.com/blackmatrix7/ios_rule_script/blob/master/rule/Surge/Global/Global_All.list
 # GENERATED-FOR: Anywhere Routing Rule Set
 # NOTE: DOMAIN rules are mapped to Anywhere domain suffix rules.
-# RULES: 35003
+# RULES: 35004
 # SKIPPED: 47
-# UPSTREAM-UPDATED: 2026-08-18 02:30:16
+# UPSTREAM-UPDATED: 2026-08-20 02:26:58
 # SKIPPED-TYPES: PROCESS-NAME=1, USER-AGENT=46
 
 name = Global
@@ -18161,6 +18161,7 @@ name = Global
 2, nonstopfap.com
 2, noodlemagazine.com
 2, noosferabank.ru
+2, nordcdn.com
 2, norfolkcove.ac.uk
 2, norland.ac.uk
 2, normanmanagedservices.ac.uk
@@ -26576,7 +26577,6 @@ name = Global
 2, windsor-forest.ac.uk
 2, windsurf.build
 2, windsurf.com
-2, windy.com
 2, wing.com
 2, winhec.com
 2, winhec.net
@@ -34470,6 +34470,7 @@ name = Global
 2, wilsoncenter.org
 2, windowsphoneme.com
 2, windscribe.com
+2, windy.com
 2, wingamestore.com
 2, wingy.site
 2, winning11.com
