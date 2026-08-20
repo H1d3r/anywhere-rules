@@ -1,7 +1,7 @@
 # NAME: CDN
 # GENERATED-FOR: Anywhere Routing Rule Set
 # DESCRIPTION: SukkaW CDN 直连辅助
-# RULES: 4652
+# RULES: 4651
 # SKIPPED: 58
 # SKIPPED-TYPES: DOMAIN-WILDCARD=58
 # SOURCES:
@@ -553,7 +553,6 @@ routing = 1
 2, s.gishan.cc
 2, s.imgur.com
 2, s.plurk.com
-2, s3.aaaaa.io
 2, s3.masto.ai
 2, skypack.dev
 2, smilecdn.co
@@ -1480,6 +1479,7 @@ routing = 1
 2, cdn.javmiku.com
 2, cdn.jetboost.io
 2, cdn.jolipage.co
+2, cdn.leonardo.ai
 2, cdn.mathjax.org
 2, cdn.mcp-use.com
 2, cdn.mercury.com
@@ -1566,6 +1566,7 @@ routing = 1
 2, fontawesome.com
 2, fonts.bunny.net
 2, fonts.gishan.cc
+2, fonts.reown.com
 2, fonts.upset.dev
 2, fonts.wd40.info
 2, gannett-cdn.com
@@ -1676,7 +1677,6 @@ routing = 1
 2, ssl.gstatic.com
 2, stack.imgur.com
 2, stackassets.com
-2, static.bad.news
 2, static.blip.net
 2, static.fboom.me
 2, static.ietf.org
@@ -1812,6 +1812,7 @@ routing = 1
 2, cdn.firebase.com
 2, cdn.foxycart.com
 2, cdn.getkoala.com
+2, cdn.getmerlin.in
 2, cdn.ghostery.com
 2, cdn.gofundme.com
 2, cdn.hashnode.com
@@ -2478,7 +2479,6 @@ routing = 1
 2, assets.mailgun.com
 2, assets.nflxext.com
 2, assets.nxtrace.org
-2, assets.onestore.ms
 2, assets.ontrack.com
 2, assets.pingone.com
 2, assets.porndig.com
@@ -2510,7 +2510,6 @@ routing = 1
 2, cdn.britannica.com
 2, cdn.bullwhip.cloud
 2, cdn.cmcmarkets.com
-2, cdn.commandbar.com
 2, cdn.contentful.com
 2, cdn.convertbox.com
 2, cdn.conveythis.com
@@ -4172,6 +4171,7 @@ routing = 1
 2, ravencoinipfs-gateway.com
 2, report-uri.cloudflare.com
 2, resource.tnlmediagene.com
+2, s3.beta.coinmarketcap.com
 2, scripts.scriptwrapper.com
 2, simplicity.trustpilot.com
 2, smartscreen.microsoft.com
@@ -4600,7 +4600,6 @@ routing = 1
 2, cdn.us-east-1.prod.moon.dubai.aws.dev
 2, content-storage-upload.googleapis.com
 2, firefox.settings.services.mozilla.com
-2, frames-commandbar-prod.commandbar.com
 2, frontend-apps-multi-region.workos.com
 2, pplx-next-static-public.perplexity.ai
 2, prod-packager-packages.codesandbox.io

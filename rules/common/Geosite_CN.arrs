@@ -2,8 +2,8 @@
 # GENERATED-FOR: Anywhere Routing Rule Set
 # DESCRIPTION: Geosite 中国大陆域名规则
 # GEOSITE-CODE: GEOLOCATION-CN
-# RULES: 5237
-# SOURCE-RULES: 5240
+# RULES: 5236
+# SOURCE-RULES: 5239
 # SKIPPED: 3
 # SKIPPED-TYPES: Regex=3
 # SOURCES:
@@ -3240,7 +3240,6 @@ routing = 1
 2, mooc.cn
 2, moocollege.com
 2, moocs.unipus.cn
-2, moonshot.ai
 2, moonshot.cn
 2, moonvy.com
 2, moonvy.cool

@@ -1,7 +1,7 @@
 # NAME: GFW
 # GENERATED-FOR: Anywhere Routing Rule Set
 # DESCRIPTION: GFW 域名列表
-# RULES: 4376
+# RULES: 4377
 # SKIPPED: 0
 # SOURCES:
 # - https://raw.githubusercontent.com/Loyalsoldier/v2ray-rules-dat/release/gfw.txt
@@ -2738,6 +2738,7 @@ name = GFW
 2, okpool.me
 2, okx.com
 2, old.honeynet.org
+2, oldmapsonline.org
 2, olehdtv.com
 2, olelive.com
 2, olevod.com
