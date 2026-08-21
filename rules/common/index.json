@@ -1,6 +1,6 @@
 {
   "total_files": 41,
-  "total_rules": 143398,
+  "total_rules": 143402,
   "total_skipped": 74,
   "files": [
     {
@@ -395,7 +395,7 @@
       "name": "ChinaIP",
       "description": "中国大陆 IP CIDR",
       "output_path": "common/ChinaIP.arrs",
-      "rule_count": 5380,
+      "rule_count": 5384,
       "skipped_count": 0,
       "unsupported_types": {},
       "sources": [
