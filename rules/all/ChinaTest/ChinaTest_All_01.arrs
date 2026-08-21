@@ -5,8 +5,8 @@
 # NOTE: DOMAIN rules are mapped to Anywhere domain suffix rules.
 # RULES: 100000
 # SKIPPED: 31
-# SOURCE-RULES: 111324
-# UPSTREAM-UPDATED: 2026-08-18 02:30:55
+# SOURCE-RULES: 111295
+# UPSTREAM-UPDATED: 2026-08-22 02:30:42
 # SKIPPED-TYPES: USER-AGENT=31
 
 name = ChinaTest_01
@@ -27,7 +27,6 @@ name = ChinaTest_01
 2, activate.activation-v2.kaspersky.com
 2, activation-v2.kaspersky.com
 2, admob-cn.com
-2, afcs.dell.com
 2, alibaba.cdn.steampipe.steamcontent.com
 2, api.blipsandchitz.me
 2, app-analytics-services.com
@@ -44,37 +43,21 @@ name = ChinaTest_01
 2, cdn.globalsigncdn.com.cdn.cloudflare.net
 2, clickserve.cc-dt.com
 2, clickserve.dartsearch.net
-2, clientperipherals.dell.com
 2, cn.download.nvidia.com
 2, cn.widevine.com
 2, crl.pki.goog
 2, crls.pki.goog
-2, customization-cdn.dell.com
 2, dartsearch-cn.net
-2, dds.dell.com
 2, developer.microsoft.com
-2, dl.dell.com
 2, doubleclick-cn.net
 2, doubleclick.net
-2, ea2cn-dev-outlet.dell.com
-2, ea2cn-prod-outlet.dell.com
-2, ea2cn-staging-outlet.dell.com
-2, emoi-cncdn.bing.com
 2, end-api.shallow.ink
 2, end.shallow.ink
-2, fcs.dell.com
 2, firebase-settings.crashlytics.com
-2, fta.dell.com
-2, ftaapj.dell.com
-2, ftaemea.dell.com
-2, ftasitapj.dell.com
-2, gbxgateway-dev.dell.com
-2, gbxgateway.dell.com
 2, gonglchuangl.net
 2, gongyichuangyi.net
 2, gstatic-cn.com
 2, gtm.oasisfeng.com
-2, i.dell.com
 2, i.pki.goog
 2, images-cn-8.ssl-images-amazon.com
 2, izattime.qcomgeo2.com
@@ -90,10 +73,8 @@ name = ChinaTest_01
 2, ksn-tcert.geoksn.kaspersky.com
 2, ksn-url.geoksn.kaspersky.com
 2, ksn-verdict.geoksn.kaspersky.com
-2, nexus.dell.com
 2, o.pki.goog
 2, ocsp.pki.goog
-2, p.cdn.persaas.dell.com
 2, prod-controlbe.floonet.goog
 2, prod-databe.floonet.goog
 2, prod.databe.floonet.goog
@@ -107,23 +88,13 @@ name = ChinaTest_01
 2, redirector.snap.gvt1.com
 2, redirector.xn--ngstr-lra8j.com
 2, refresh-bkg.activation-v2.kaspersky.com
-2, scene7-cdn.dell.com
 2, service.urchin.com
-2, si.cdn.dell.com
-2, sm.dell.com
-2, snp.cdn.dell.com
-2, snpi.dell.com
 2, staging-controlbe.floonet.goog
 2, staging-databe.floonet.goog
 2, staging.databe.floonet.goog
 2, storeedgefd.dsx.mp.microsoft.com
-2, supportassist.dell.com
 2, time.xtracloud.net
-2, tp.louisvuitton.com
 2, update.crashlytics.com
-2, uplaypc-s-ubisoft.cdn.ubi.com
-2, www-csb.dell.com
-2, www.dell.com
 2, www.destinationurl.com
 2, www.pxcc.com
 2, www.recaptcha-cn.net
@@ -100010,3 +99981,32 @@ name = ChinaTest_01
 2, xiyufine.com
 2, xiyun.net
 2, xizanggames.com
+2, xizangguolv.net
+2, xizangmaoniunai.com
+2, xizangqinglv.com
+2, xizangzl.com
+2, xizexiao.com
+2, xizhai2021.com
+2, xizhang.com
+2, xizhengtouzi.com
+2, xizhi.com
+2, xizi.com
+2, xizice.com
+2, xiziiparking.com
+2, xiziquan.com
+2, xj-etyy.com
+2, xj-tianye.com
+2, xj-zp.com
+2, xj120.com
+2, xj123.info
+2, xj169.com
+2, xj5152.com
+2, xj5u.com
+2, xj71.com
+2, xj917.com
+2, xj96596.com
+2, xjabc.net
+2, xjauto.net
+2, xjbank.com
+2, xjbaoyouge.com
+2, xjbdf.net

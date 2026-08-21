@@ -3,41 +3,12 @@
 # SOURCE: https://github.com/blackmatrix7/ios_rule_script/blob/master/rule/Surge/ChinaTest/ChinaTest_All_No_Resolve.list
 # GENERATED-FOR: Anywhere Routing Rule Set
 # NOTE: DOMAIN rules are mapped to Anywhere domain suffix rules.
-# RULES: 11324
+# RULES: 11295
 # SKIPPED: 0
-# SOURCE-RULES: 111324
-# UPSTREAM-UPDATED: 2026-08-18 02:30:55
+# SOURCE-RULES: 111295
+# UPSTREAM-UPDATED: 2026-08-22 02:30:42
 
 name = ChinaTest_02
-2, xizangguolv.net
-2, xizangmaoniunai.com
-2, xizangqinglv.com
-2, xizangzl.com
-2, xizexiao.com
-2, xizhai2021.com
-2, xizhang.com
-2, xizhengtouzi.com
-2, xizhi.com
-2, xizi.com
-2, xizice.com
-2, xiziiparking.com
-2, xiziquan.com
-2, xj-etyy.com
-2, xj-tianye.com
-2, xj-zp.com
-2, xj120.com
-2, xj123.info
-2, xj169.com
-2, xj5152.com
-2, xj5u.com
-2, xj71.com
-2, xj917.com
-2, xj96596.com
-2, xjabc.net
-2, xjauto.net
-2, xjbank.com
-2, xjbaoyouge.com
-2, xjbdf.net
 2, xjbhc.net
 2, xjbuluo.com
 2, xjc18.com

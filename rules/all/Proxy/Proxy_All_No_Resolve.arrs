@@ -3,9 +3,9 @@
 # SOURCE: https://github.com/blackmatrix7/ios_rule_script/blob/master/rule/Surge/Proxy/Proxy_All_No_Resolve.list
 # GENERATED-FOR: Anywhere Routing Rule Set
 # NOTE: DOMAIN rules are mapped to Anywhere domain suffix rules.
-# RULES: 6892
+# RULES: 6893
 # SKIPPED: 8
-# UPSTREAM-UPDATED: 2026-08-20 02:27:21
+# UPSTREAM-UPDATED: 2026-08-22 02:30:24
 # SKIPPED-TYPES: USER-AGENT=8
 
 name = Proxy
@@ -4145,6 +4145,7 @@ name = Proxy
 2, okpool.me
 2, okx.com
 2, old-cat.net
+2, oldmapsonline.org
 2, olehdtv.com
 2, olelive.com
 2, olevod.com

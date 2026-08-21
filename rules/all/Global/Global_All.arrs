@@ -3,9 +3,9 @@
 # SOURCE: https://github.com/blackmatrix7/ios_rule_script/blob/master/rule/Surge/Global/Global_All.list
 # GENERATED-FOR: Anywhere Routing Rule Set
 # NOTE: DOMAIN rules are mapped to Anywhere domain suffix rules.
-# RULES: 35004
+# RULES: 35014
 # SKIPPED: 47
-# UPSTREAM-UPDATED: 2026-08-20 02:26:58
+# UPSTREAM-UPDATED: 2026-08-22 02:30:00
 # SKIPPED-TYPES: PROCESS-NAME=1, USER-AGENT=46
 
 name = Global
@@ -517,6 +517,7 @@ name = Global
 2, 59mvmv.com
 2, 5axis-machining.com
 2, 5beatsbydre.com
+2, 5ch.io
 2, 5ch.net
 2, 5fang.cc
 2, 5itv.tv
@@ -1755,6 +1756,7 @@ name = Global
 2, amazontrust.com
 2, amazonvideo.cc
 2, amazonvideodirect.com
+2, amazonwebservices.com
 2, amazonworkdocs.com
 2, ambs.ac.uk
 2, amc.com
@@ -7741,6 +7743,7 @@ name = Global
 2, dream-cdt.ac.uk
 2, dreambmw.ca
 2, dreamforce.com
+2, dreamgen.com
 2, dreammovies.com
 2, dreamorder.com
 2, dreamteamfc.com
@@ -9331,6 +9334,7 @@ name = Global
 2, fans17.com
 2, fans66.tw
 2, fansking.tw
+2, fansly.com
 2, fansnudes.com
 2, fansone.co
 2, fanspot.jp
@@ -17870,6 +17874,8 @@ name = Global
 2, nicis.ac.uk
 2, nickscipio.com
 2, nicky.xxx
+2, nico.ms
+2, nicochannel.jp
 2, nicodic.jp
 2, nicolepeters.com
 2, nicomanga.jp
@@ -18201,6 +18207,7 @@ name = Global
 2, northumbria.ac.uk
 2, norton.com
 2, norwichresearchpark.ac.uk
+2, notegpt.io
 2, noticias-rt.com
 2, notimundo.press
 2, notion-static.com
@@ -18224,6 +18231,7 @@ name = Global
 2, nottinghamtrentadfs.ac.uk
 2, nottm-coll.ac.uk
 2, nottsmaternity.ac.uk
+2, novelai.net
 2, novella.ac.uk
 2, noveltrove.com
 2, novids.com
@@ -23712,6 +23720,7 @@ name = Global
 2, talantix.ru
 2, talentlens.com
 2, taleofthenight.com
+2, talkai.info
 2, talkinghealthmatters.ac.uk
 2, talkingkotlin.com
 2, talksport.com
@@ -32252,6 +32261,7 @@ name = Global
 2, okpool.me
 2, okx.com
 2, old-cat.net
+2, oldmapsonline.org
 2, olehdtv.com
 2, olelive.com
 2, olevod.com
