@@ -1,7 +1,7 @@
 # NAME: CDN
 # GENERATED-FOR: Anywhere Routing Rule Set
 # DESCRIPTION: SukkaW CDN 直连辅助
-# RULES: 4652
+# RULES: 4657
 # SKIPPED: 58
 # SKIPPED-TYPES: DOMAIN-WILDCARD=58
 # SOURCES:
@@ -916,6 +916,7 @@ routing = 1
 2, ensighten.com
 2, eu.cdnbye.com
 2, fastlycdn.com
+2, fe.indazn.com
 2, feedercdn.com
 2, fiverrcdn.com
 2, flagpedia.net
@@ -2403,6 +2404,7 @@ routing = 1
 2, static.cracked.ax
 2, static.cracked.sh
 2, static.crypto.com
+2, static.dazndn.com
 2, static.flickr.com
 2, static.frame.work
 2, static.garmin.com
@@ -4247,6 +4249,7 @@ routing = 1
 2, hubspotusercontent-eu1.net
 2, hubspotusercontent-na1.net
 2, idportal-cdn-prd.unity.com
+2, image.discovery.indazn.com
 2, images.applegamingwiki.com
 2, images.ecomm.microsoft.com
 2, images.financemagnates.com
@@ -4537,6 +4540,7 @@ routing = 1
 2, cmtycdn.powerpages.microsoft.com
 2, commondatastorage.googleapis.com
 2, crash-reports.browser.yandex.net
+2, dazn-content-proxy.sd.indazn.com
 2, detectportal.brave-http-only.com
 2, edge-mobile-static.azureedge.net
 2, nbcnewsdigital-static.nbcuni.com
@@ -4588,6 +4592,7 @@ routing = 1
 2, stubdownloader.services.mozilla.com
 2, cf-images.us-east-1.prod.boltdns.net
 2, content-prod-live.cert.starbucks.com
+2, contentful-asset-proxy.sd.indazn.com
 2, crashlyticsreports-pa.googleapis.com
 2, crossborder-integration.global-e.com
 2, firebaseinstallations.googleapis.com

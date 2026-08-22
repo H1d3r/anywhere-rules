@@ -1,7 +1,7 @@
 # NAME: GFW
 # GENERATED-FOR: Anywhere Routing Rule Set
 # DESCRIPTION: GFW 域名列表
-# RULES: 4377
+# RULES: 4379
 # SKIPPED: 0
 # SOURCES:
 # - https://raw.githubusercontent.com/Loyalsoldier/v2ray-rules-dat/release/gfw.txt
@@ -571,6 +571,7 @@ name = GFW
 2, breakgfw.com
 2, breakingtweets.com
 2, breakwall.net
+2, briarproject.org
 2, brill.com
 2, brizzly.com
 2, broadpressinc.com
@@ -713,6 +714,7 @@ name = GFW
 2, chat.com
 2, chat.lmsys.org
 2, chatgpt.com
+2, chatgpt.site
 2, chatpdf.com
 2, chaturbate.com
 2, checkgfw.com
