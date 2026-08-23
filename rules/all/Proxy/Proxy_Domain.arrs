@@ -4,8 +4,8 @@
 # GENERATED-FOR: Anywhere Routing Rule Set
 # NOTE: DOMAIN rules are mapped to Anywhere domain suffix rules.
 # RULES: 0
-# SKIPPED: 6770
-# UPSTREAM-UPDATED: 2026-08-22 02:30:24
-# SKIPPED-TYPES: UNKNOWN=6770
+# SKIPPED: 6776
+# UPSTREAM-UPDATED: 2026-08-24 02:23:41
+# SKIPPED-TYPES: UNKNOWN=6776
 
 name = Proxy

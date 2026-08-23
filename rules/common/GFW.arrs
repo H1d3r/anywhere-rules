@@ -1,7 +1,7 @@
 # NAME: GFW
 # GENERATED-FOR: Anywhere Routing Rule Set
 # DESCRIPTION: GFW 域名列表
-# RULES: 4379
+# RULES: 4383
 # SKIPPED: 0
 # SOURCES:
 # - https://raw.githubusercontent.com/Loyalsoldier/v2ray-rules-dat/release/gfw.txt
@@ -1874,6 +1874,7 @@ name = GFW
 2, himemix.com
 2, hindustantimes.com
 2, hinet.net
+2, historylines.net
 2, hitbtc.com
 2, hitomi.la
 2, hive.blog
@@ -2216,6 +2217,7 @@ name = GFW
 2, kinmen.travel
 2, kinokuniya.com
 2, kiwi.kz
+2, kiwix.org
 2, kk-whys.co.jp
 2, kkbox.com
 2, kknews.cc
@@ -2411,6 +2413,7 @@ name = GFW
 2, maven.neoforged.net
 2, mcadforums.com
 2, mcaf.ee
+2, mceindex.com
 2, mcusercontent.com
 2, md-t.org
 2, me.me
@@ -3180,6 +3183,7 @@ name = GFW
 2, savetibet.org
 2, savetibetstore.org
 2, saveuighur.org
+2, sb.sb
 2, sbme.me
 2, sbti.unun.dev
 2, schema.org

@@ -5,20 +5,20 @@
 # NOTE: DOMAIN rules are mapped to Anywhere domain suffix rules.
 # RULES: 12224
 # SKIPPED: 78
-# UPSTREAM-UPDATED: 2026-08-22 02:32:40
+# UPSTREAM-UPDATED: 2026-08-24 02:26:01
 # SKIPPED-TYPES: IP-ASN=1, PROCESS-NAME=12, USER-AGENT=65
 
 name = ChinaMaxNoMedia
-2, alibaba
-2, tmall
 2, cn
 2, ms
+2, alibaba
 2, anquan
 2, citic
 2, icbc
 2, shouji
 2, sina
 2, sohu
+2, tmall
 2, unicom
 2, wang
 2, xihuan
@@ -3566,7 +3566,7 @@ name = ChinaMaxNoMedia
 0, 140.250.0.0/16
 0, 140.255.0.0/16
 0, 140.75.0.0/16
-0, 141.11.50.0/23
+0, 141.11.51.0/24
 0, 142.70.0.0/16
 0, 142.86.0.0/16
 0, 143.191.188.0/22
@@ -4429,7 +4429,7 @@ name = ChinaMaxNoMedia
 0, 192.23.191.0/24
 0, 192.232.97.0/24
 0, 192.240.127.34/32
-0, 192.51.173.0/24
+0, 192.51.172.0/23
 0, 192.51.188.0/24
 0, 192.55.10.0/23
 0, 192.55.40.0/24
