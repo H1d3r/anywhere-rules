@@ -3,9 +3,9 @@
 # SOURCE: https://github.com/blackmatrix7/ios_rule_script/blob/master/rule/Surge/Proxy/Proxy_All_No_Resolve.list
 # GENERATED-FOR: Anywhere Routing Rule Set
 # NOTE: DOMAIN rules are mapped to Anywhere domain suffix rules.
-# RULES: 6893
+# RULES: 6899
 # SKIPPED: 8
-# UPSTREAM-UPDATED: 2026-08-22 02:30:24
+# UPSTREAM-UPDATED: 2026-08-24 02:23:41
 # SKIPPED-TYPES: USER-AGENT=8
 
 name = Proxy
@@ -802,6 +802,7 @@ name = Proxy
 2, breaking911.com
 2, breakingtweets.com
 2, breakwall.net
+2, briarproject.org
 2, briefdream.com
 2, briian.com
 2, brill.com
@@ -1019,6 +1020,7 @@ name = Proxy
 2, character.ai
 2, chat.com
 2, chat.openai.com
+2, chatgpt.site
 2, chatnook.com
 2, chatpdf.com
 2, chaturbate.com
@@ -2596,6 +2598,7 @@ name = Proxy
 2, himemix.net
 2, hindustantimes.com
 2, hinet.net
+2, historylines.net
 2, hitbtc.com
 2, hitomi.la
 2, hitun.io
@@ -3211,6 +3214,7 @@ name = Proxy
 2, kir.jp
 2, kissjav.com
 2, kiwi.kz
+2, kiwix.org
 2, kk-whys.co.jp
 2, kkbox.com
 2, kknews.cc
@@ -3541,6 +3545,7 @@ name = Proxy
 2, mayimayi.com
 2, mcadforums.com
 2, mcaf.ee
+2, mceindex.com
 2, mcfog.com
 2, mcreasite.com
 2, mcusercontent.com
@@ -4845,6 +4850,7 @@ name = Proxy
 2, savevid.com
 2, say2.info
 2, sb-cd.com
+2, sb.sb
 2, sbme.me
 2, sbs.com.au
 2, sbti.unun.dev
