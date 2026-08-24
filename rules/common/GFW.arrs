@@ -1,7 +1,7 @@
 # NAME: GFW
 # GENERATED-FOR: Anywhere Routing Rule Set
 # DESCRIPTION: GFW 域名列表
-# RULES: 4383
+# RULES: 4385
 # SKIPPED: 0
 # SOURCES:
 # - https://raw.githubusercontent.com/Loyalsoldier/v2ray-rules-dat/release/gfw.txt
@@ -233,6 +233,7 @@ icon-light = iVBORw0KGgoAAAANSUhEUgAAAJAAAACQCAYAAADnRuK4AAAAAXNSR0IArs4c6QAAAAl
 2, api.palworldgame.com
 2, api.pureapk.com
 2, api.recaptcha.net
+2, api.shuaiapi.com
 2, api.steampowered.com
 2, api5.futunn.com
 2, apiary.io
@@ -4202,6 +4203,7 @@ icon-light = iVBORw0KGgoAAAANSUhEUgAAAJAAAACQCAYAAADnRuK4AAAAAXNSR0IArs4c6QAAAAl
 2, x.com
 2, x.company
 2, x3guide.com
+2, x86.fr
 2, xbabe.com
 2, xbookcn.com
 2, xbtce.com
