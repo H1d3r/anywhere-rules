@@ -3,9 +3,9 @@
 # SOURCE: https://github.com/blackmatrix7/ios_rule_script/blob/master/rule/Surge/Global/Global_All_No_Resolve.list
 # GENERATED-FOR: Anywhere Routing Rule Set
 # NOTE: DOMAIN rules are mapped to Anywhere domain suffix rules.
-# RULES: 35018
+# RULES: 35019
 # SKIPPED: 47
-# UPSTREAM-UPDATED: 2026-08-24 02:23:17
+# UPSTREAM-UPDATED: 2026-08-26 02:33:53
 # SKIPPED-TYPES: PROCESS-NAME=1, USER-AGENT=46
 
 name = Global
@@ -12249,7 +12249,6 @@ name = Global
 2, hp-mns.com
 2, hp-printing.com
 2, hp-webplatform.com
-2, hp-ww.com
 2, hp.company
 2, hp.io
 2, hp3d.com
@@ -28556,6 +28555,7 @@ name = Global
 2, api.ai
 2, api.mixpanel.com
 2, api.moomoobull.com
+2, api.shuaiapi.com
 2, apiary.io
 2, apigee.com
 2, apk-dl.com
@@ -34576,6 +34576,7 @@ name = Global
 2, x24hr.com
 2, x365x.com
 2, x3guide.com
+2, x86.fr
 2, xanga.com
 2, xbabe.com
 2, xbookcn.com

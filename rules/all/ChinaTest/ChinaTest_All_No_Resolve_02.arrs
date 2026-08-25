@@ -3,12 +3,67 @@
 # SOURCE: https://github.com/blackmatrix7/ios_rule_script/blob/master/rule/Surge/ChinaTest/ChinaTest_All_No_Resolve.list
 # GENERATED-FOR: Anywhere Routing Rule Set
 # NOTE: DOMAIN rules are mapped to Anywhere domain suffix rules.
-# RULES: 11295
+# RULES: 11361
 # SKIPPED: 0
-# SOURCE-RULES: 111295
-# UPSTREAM-UPDATED: 2026-08-22 02:30:42
+# SOURCE-RULES: 111361
+# UPSTREAM-UPDATED: 2026-08-26 02:34:35
 
 name = ChinaTest_02
+2, xiyi-jt.com
+2, xiyijiang.com
+2, xiyin.life
+2, xiyiqq.com
+2, xiyogo.com
+2, xiyongpark.com
+2, xiyoo.com
+2, xiyou-g.com
+2, xiyoucdn.com
+2, xiyouchat.com
+2, xiyouence.com
+2, xiyouji.com
+2, xiyouji.work
+2, xiyoulinux.com
+2, xiyoupark.com
+2, xiyouquan.com
+2, xiyousdk.com
+2, xiyouwebgame.com
+2, xiyouxi.com
+2, xiyouyingyu.com
+2, xiyuanshuke.com
+2, xiyuege.com
+2, xiyuegr.com
+2, xiyufine.com
+2, xiyun.net
+2, xizanggames.com
+2, xizangguolv.net
+2, xizangmaoniunai.com
+2, xizangqinglv.com
+2, xizangzl.com
+2, xizexiao.com
+2, xizhai2021.com
+2, xizhang.com
+2, xizhengtouzi.com
+2, xizhi.com
+2, xizi.com
+2, xizice.com
+2, xiziiparking.com
+2, xiziquan.com
+2, xj-etyy.com
+2, xj-tianye.com
+2, xj-zp.com
+2, xj120.com
+2, xj123.info
+2, xj169.com
+2, xj5152.com
+2, xj5u.com
+2, xj71.com
+2, xj917.com
+2, xj96596.com
+2, xjabc.net
+2, xjauto.net
+2, xjbank.com
+2, xjbaoyouge.com
+2, xjbdf.net
 2, xjbhc.net
 2, xjbuluo.com
 2, xjc18.com
@@ -419,6 +474,7 @@ name = ChinaTest_02
 2, xn--55qzsxj5y4ozkz93dswptmau4jc88dg75ctid8raf29c.com
 2, xn--5kv317c.com
 2, xn--5tzm5g
+2, xn--65qy41j.com
 2, xn--6fr40zm5ai2go3cnse89dtttbrb.com
 2, xn--6fr61zj8c92fg34d.com
 2, xn--6frz82g
@@ -520,6 +576,7 @@ name = ChinaTest_02
 2, xn--n5q75cia631gba51vx4ag2a008o08l1t0adzay2skp4b.com
 2, xn--n6qy1xeobw60f.net
 2, xn--ncym25ahib.net
+2, xn--nlya.cc
 2, xn--nmqp78hmufjwu.com
 2, xn--ntso8dsz1borbzvfm5h.com
 2, xn--ntsp37j.net
@@ -576,6 +633,7 @@ name = ChinaTest_02
 2, xn--w9qr0k.com
 2, xn--w9qy23cc6adz7d.net
 2, xn--wbsz85a2a.com
+2, xn--wlq49r6tr7zal0u.com
 2, xn--wxtr44c.live
 2, xn--xcry9n251cvcar5xj6r.com
 2, xn--xhq521b
@@ -827,6 +885,7 @@ name = ChinaTest_02
 2, xsnsyh.com
 2, xsool.com
 2, xsp0311.com
+2, xspacexx.org
 2, xsphs.com
 2, xspinfo.com
 2, xspio.com
@@ -1056,6 +1115,7 @@ name = ChinaTest_02
 2, xuelema.com
 2, xueleyun.com
 2, xueli9.com
+2, xuelian.live
 2, xueliedu.com
 2, xueming.li
 2, xuenarui.com
@@ -2497,6 +2557,7 @@ name = ChinaTest_02
 2, yd-tec.com
 2, yd126.com
 2, yd166.com
+2, yd666cdn.com
 2, ydadmob.com
 2, ydalison.com
 2, ydayc.com
@@ -2727,6 +2788,7 @@ name = ChinaTest_02
 2, yetianlian.info
 2, yettos.com
 2, yetu.net
+2, yew734.com
 2, yewanba.com
 2, yewen.us
 2, yewuyuan.com
@@ -5024,6 +5086,7 @@ name = ChinaTest_02
 2, yscq.com
 2, yscro.com
 2, ysczw.com
+2, ysdp.online
 2, ysdwe.asia
 2, ysedu.com
 2, ysej.com
@@ -5953,6 +6016,7 @@ name = ChinaTest_02
 2, yunzhu100.com
 2, yunzhuan.com
 2, yunzhuangbei.com
+2, yunzhuru.com
 2, yunzhuxue.com
 2, yunzitraining.com
 2, yunzmall.com
@@ -10070,6 +10134,7 @@ name = ChinaTest_02
 2, znlerp.com
 2, znlh.com
 2, znmq.com
+2, znncb372.com
 2, znnu.com
 2, znonline.net
 2, znp9.com
@@ -11143,6 +11208,7 @@ name = ChinaTest_02
 2, zzjdgcxx.com
 2, zzjianyun.com
 2, zzjidi.com
+2, zzjjyzx.com
 2, zzjldsx.com
 2, zzjob88.com
 2, zzjsled.com
