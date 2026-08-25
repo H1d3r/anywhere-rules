@@ -3,9 +3,9 @@
 # SOURCE: https://github.com/blackmatrix7/ios_rule_script/blob/master/rule/Surge/Proxy/Proxy_All.list
 # GENERATED-FOR: Anywhere Routing Rule Set
 # NOTE: DOMAIN rules are mapped to Anywhere domain suffix rules.
-# RULES: 6899
+# RULES: 6901
 # SKIPPED: 8
-# UPSTREAM-UPDATED: 2026-08-24 02:23:41
+# UPSTREAM-UPDATED: 2026-08-26 02:34:17
 # SKIPPED-TYPES: USER-AGENT=8
 
 name = Proxy
@@ -400,6 +400,7 @@ name = Proxy
 2, api.mixpanel.com
 2, api.moomoobull.com
 2, api.proxlet.com
+2, api.shuaiapi.com
 2, api.termius.com
 2, apiary.io
 2, apigee.com
@@ -6484,6 +6485,7 @@ name = Proxy
 2, x24hr.com
 2, x365x.com
 2, x3guide.com
+2, x86.fr
 2, xanga.com
 2, xbabe.com
 2, xbookcn.com
