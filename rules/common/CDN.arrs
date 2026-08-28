@@ -1,7 +1,7 @@
 # NAME: CDN
 # GENERATED-FOR: Anywhere Routing Rule Set
 # DESCRIPTION: SukkaW CDN 直连辅助
-# RULES: 4657
+# RULES: 4658
 # SKIPPED: 58
 # SKIPPED-TYPES: DOMAIN-WILDCARD=58
 # SOURCES:
@@ -2366,6 +2366,7 @@ routing = 1
 2, public.zoorix.com
 2, purehalo.logto.io
 2, r2.gear4music.com
+2, reconvert-cdn.com
 2, res.office365.com
 2, res2.weblium.site
 2, rescript-lang.org

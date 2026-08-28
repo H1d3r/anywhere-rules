@@ -2,8 +2,8 @@
 # GENERATED-FOR: Anywhere Routing Rule Set
 # DESCRIPTION: Geosite 中国大陆域名规则
 # GEOSITE-CODE: GEOLOCATION-CN
-# RULES: 5236
-# SOURCE-RULES: 5239
+# RULES: 5237
+# SOURCE-RULES: 5240
 # SKIPPED: 3
 # SKIPPED-TYPES: Regex=3
 # SOURCES:
@@ -3154,6 +3154,7 @@ routing = 1
 2, meta.law
 2, metalrevolution.com
 2, metaso.cn
+2, metax-tech.com
 2, mfcteda.com
 2, mfk.com
 2, mfuns.cn
