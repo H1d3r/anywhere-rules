@@ -1,7 +1,7 @@
 # NAME: CDN
 # GENERATED-FOR: Anywhere Routing Rule Set
 # DESCRIPTION: SukkaW CDN 直连辅助
-# RULES: 4658
+# RULES: 4665
 # SKIPPED: 58
 # SKIPPED-TYPES: DOMAIN-WILDCARD=58
 # SOURCES:
@@ -1032,6 +1032,7 @@ routing = 1
 2, r2cdn.c7d.dev
 2, randomuser.me
 2, rawgithub.com
+2, rcsobjects.it
 2, rdr.windy.com
 2, runkitcdn.com
 2, s-nbcnews.com
@@ -2584,6 +2585,7 @@ routing = 1
 2, files.gempages.net
 2, flows.trysavvy.com
 2, fonts.codeberg.org
+2, gazzettaobjects.it
 2, genesis-cdn.ff.com
 2, global.divhunt.com
 2, graph.facebook.com
@@ -2921,6 +2923,7 @@ routing = 1
 2, event.ithome.com.tw
 2, events.backtrace.io
 2, favicons.nextdns.io
+2, files.blocktempo.ai
 2, files.namecheap.com
 2, files.wordpress.com
 2, geoserveis.icgc.cat
@@ -3213,6 +3216,7 @@ routing = 1
 2, hubspotonwebflow.com
 2, icons.duckduckgo.com
 2, image-us.samsung.com
+2, image.blocktempo.com
 2, imageproxy.ifunny.co
 2, images.anandtech.com
 2, images.blockscan.com
@@ -3359,6 +3363,7 @@ routing = 1
 2, variations.brave.com
 2, vice-prod.sdiapi.com
 2, video-meta.humix.com
+2, video.giroditalia.it
 2, vodvideo.cbsnews.com
 2, vpncdn.protonweb.com
 2, wandi-6402.kxcdn.com
@@ -3783,6 +3788,7 @@ routing = 1
 2, static.tryprofound.com
 2, static.underhentai.net
 2, static.webclicks24.com
+2, static2.giroditalia.it
 2, static2cdn.hubspot.com
 2, statics.streamable.com
 2, storage.googleapis.com
@@ -4033,6 +4039,7 @@ routing = 1
 2, conf.config-security.com
 2, cookie-cdn.cookiepro.com
 2, css.blackmagicdesign.com
+2, delivery.twentythree.com
 2, detectportal.firefox.com
 2, dynamic-cdn.cms.ayoba.me
 2, ecn.dev.virtualearth.net

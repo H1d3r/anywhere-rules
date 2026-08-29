@@ -3,24 +3,24 @@
 # SOURCE: https://github.com/blackmatrix7/ios_rule_script/blob/master/rule/Surge/ChinaMax/ChinaMax.list
 # GENERATED-FOR: Anywhere Routing Rule Set
 # NOTE: DOMAIN rules are mapped to Anywhere domain suffix rules.
-# RULES: 12522
+# RULES: 12520
 # SKIPPED: 78
-# UPSTREAM-UPDATED: 2026-08-28 10:01:37
+# UPSTREAM-UPDATED: 2026-08-30 04:18:12
 # SKIPPED-TYPES: IP-ASN=1, PROCESS-NAME=12, USER-AGENT=65
 
 name = ChinaMax
+2, alipay
+2, alibaba
+2, taobao
+2, tmall
 2, cn
 2, ms
-2, alibaba
-2, alipay
 2, anquan
 2, baidu
 2, citic
 2, shouji
 2, sina
 2, sohu
-2, taobao
-2, tmall
 2, unicom
 2, wang
 2, weibo
@@ -69,10 +69,10 @@ name = ChinaMax
 3, officecdn
 3, taobao
 3, bilibili
+3, qiyi
 3, hnagroup
 3, stripe
 3, weibo
-3, qiyi
 0, 0.0.0.0/32
 0, 1.0.1.0/24
 0, 1.0.2.0/23
@@ -212,6 +212,7 @@ name = ChinaMax
 0, 101.76.0.0/15
 0, 101.78.0.0/22
 0, 101.78.32.0/19
+0, 101.79.220.0/24
 0, 101.80.0.0/12
 0, 101.96.0.0/21
 0, 101.96.128.0/17
@@ -3463,6 +3464,7 @@ name = ChinaMax
 0, 132.237.134.0/24
 0, 133.226.32.0/20
 0, 134.175.0.0/16
+0, 134.49.240.0/22
 0, 134.73.240.0/20
 0, 134.75.107.10/31
 0, 134.75.107.14/31
@@ -4043,6 +4045,7 @@ name = ChinaMax
 0, 163.244.246.0/24
 0, 163.47.4.0/22
 0, 163.52.28.0/23
+0, 163.52.76.0/23
 0, 163.53.0.0/20
 0, 163.53.128.0/21
 0, 163.53.136.0/22
@@ -4075,7 +4078,6 @@ name = ChinaMax
 0, 165.154.192.0/19
 0, 165.156.30.0/24
 0, 165.99.4.0/24
-0, 166.0.97.0/24
 0, 166.111.0.0/16
 0, 166.118.227.88/32
 0, 167.139.0.0/16
@@ -9081,9 +9083,7 @@ name = ChinaMax
 1, 2401:f860:6::/48
 1, 2401:f860:8000::/33
 1, 2401:f860:800::/37
-1, 2401:f860:80::/46
-1, 2401:f860:84::/48
-1, 2401:f860:86::/47
+1, 2401:f860:80::/45
 1, 2401:f860:89::/48
 1, 2401:f860:8::/47
 1, 2401:f860:8a::/47
@@ -9276,6 +9276,7 @@ name = ChinaMax
 1, 2402:7140::/32
 1, 2402:71c0::/32
 1, 2402:7240::/32
+1, 2402:72a0::/32
 1, 2402:72c0::/32
 1, 2402:7540::/32
 1, 2402:75c0::/32
@@ -12297,10 +12298,7 @@ name = ChinaMax
 1, 2a0a:d681:e200::/39
 1, 2a0a:d681:e400::/38
 1, 2a0a:d681:e800::/37
-1, 2a0a:d681:f000::/37
-1, 2a0a:d681:f800::/39
-1, 2a0a:d681:fa00::/40
-1, 2a0a:d681:fd00::/40
+1, 2a0a:d681:f000::/36
 1, 2a0a:d682:8000::/34
 1, 2a0a:d682::/33
 1, 2a0a:d682:c000::/36

@@ -3,9 +3,9 @@
 # SOURCE: https://github.com/blackmatrix7/ios_rule_script/blob/master/rule/Surge/Global/Global_All_No_Resolve.list
 # GENERATED-FOR: Anywhere Routing Rule Set
 # NOTE: DOMAIN rules are mapped to Anywhere domain suffix rules.
-# RULES: 35023
+# RULES: 35027
 # SKIPPED: 47
-# UPSTREAM-UPDATED: 2026-08-28 10:00:36
+# UPSTREAM-UPDATED: 2026-08-30 04:17:09
 # SKIPPED-TYPES: PROCESS-NAME=1, USER-AGENT=46
 
 name = Global
@@ -664,6 +664,7 @@ name = Global
 2, 9anime.id
 2, 9anime.to
 2, 9anime.ws
+2, 9cao9.com
 2, 9ccms.me
 2, 9cdn.net
 2, 9hentai.ru
@@ -20972,6 +20973,7 @@ name = Global
 2, relu.ac.uk
 2, rememberingslavery.ac.uk
 2, remirepo.net
+2, remna.st
 2, rems-cdt.ac.uk
 2, renaissanceskin.ac.uk
 2, rencapbank.ru
@@ -24360,6 +24362,7 @@ name = Global
 2, toperoticartsites.com
 2, topescort.nl
 2, topescortbabes.com
+2, topexhib.net
 2, topface.com
 2, topfantasyart.com
 2, topfreepornvideos.com
@@ -34547,6 +34550,7 @@ name = Global
 2, wqyd.org
 2, wrchina.org
 2, wretch.cc
+2, write.as
 2, writesonic.com
 2, wsj.com
 2, wsj.net
