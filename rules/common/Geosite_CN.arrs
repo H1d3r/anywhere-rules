@@ -2,8 +2,8 @@
 # GENERATED-FOR: Anywhere Routing Rule Set
 # DESCRIPTION: Geosite 中国大陆域名规则
 # GEOSITE-CODE: GEOLOCATION-CN
-# RULES: 5237
-# SOURCE-RULES: 5240
+# RULES: 5241
+# SOURCE-RULES: 5244
 # SKIPPED: 3
 # SKIPPED-TYPES: Regex=3
 # SOURCES:
@@ -108,6 +108,7 @@ routing = 1
 2, 1tyy.cn
 2, 1xhh.cn
 2, 1zhe.com
+2, 20130123.com
 2, 21cnjy.com
 2, 21jingji.com
 2, 2265.com
@@ -451,6 +452,7 @@ routing = 1
 2, aidream.website
 2, aiemy.com
 2, aiganggu.com
+2, aigefurniture.com
 2, aigodlike.com
 2, aihst8.com
 2, aihuishou.com
@@ -2966,6 +2968,7 @@ routing = 1
 2, lingkou.com
 2, lingkou.xyz
 2, lingxigames.com
+2, lingxing.com
 2, linka2a.net
 2, linkflowtech.com
 2, linkheer.com
@@ -5174,6 +5177,7 @@ routing = 1
 2, zhuoyou.com
 2, zhuoyuegame.com
 2, zhuye.kim
+2, ziniao.com
 2, ziroom.com
 2, ziroomapartment.com
 2, zixiaomao.com
