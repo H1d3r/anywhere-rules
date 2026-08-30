@@ -1,7 +1,7 @@
 {
   "total_files": 41,
   "total_rules": 151984,
-  "total_skipped": 74,
+  "total_skipped": 75,
   "files": [
     {
       "name": "Reject",
@@ -36,9 +36,9 @@
       "description": "PCDN 拦截",
       "output_path": "common/PCDN.arrs",
       "rule_count": 37,
-      "skipped_count": 6,
+      "skipped_count": 7,
       "unsupported_types": {
-        "DOMAIN-WILDCARD": 6
+        "DOMAIN-WILDCARD": 7
       },
       "sources": [
         "https://ruleset.skk.moe/Clash/non_ip/reject-no-drop.txt"

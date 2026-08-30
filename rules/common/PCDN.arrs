@@ -2,8 +2,8 @@
 # GENERATED-FOR: Anywhere Routing Rule Set
 # DESCRIPTION: PCDN 拦截
 # RULES: 37
-# SKIPPED: 6
-# SKIPPED-TYPES: DOMAIN-WILDCARD=6
+# SKIPPED: 7
+# SKIPPED-TYPES: DOMAIN-WILDCARD=7
 # SOURCES:
 # - https://ruleset.skk.moe/Clash/non_ip/reject-no-drop.txt
 
