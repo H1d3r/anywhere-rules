@@ -1,7 +1,7 @@
 # NAME: GFW
 # GENERATED-FOR: Anywhere Routing Rule Set
 # DESCRIPTION: GFW 域名列表
-# RULES: 4386
+# RULES: 4388
 # SKIPPED: 0
 # SOURCES:
 # - https://raw.githubusercontent.com/Loyalsoldier/v2ray-rules-dat/release/gfw.txt
@@ -1461,6 +1461,7 @@ name = GFW
 2, getlantern.org
 2, getmalus.com
 2, getmdl.io
+2, getmonero.org
 2, getoutline.org
 2, getsession.org
 2, getsync.com
@@ -2659,6 +2660,7 @@ name = GFW
 2, nhentai.net
 2, nic.cz.cc
 2, nic.gov
+2, nicoseiga.jp
 2, nicovideo.jp
 2, nightswatch.top
 2, nikke-en.com

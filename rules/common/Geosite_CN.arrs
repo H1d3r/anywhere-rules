@@ -2,8 +2,8 @@
 # GENERATED-FOR: Anywhere Routing Rule Set
 # DESCRIPTION: Geosite 中国大陆域名规则
 # GEOSITE-CODE: GEOLOCATION-CN
-# RULES: 5241
-# SOURCE-RULES: 5244
+# RULES: 5289
+# SOURCE-RULES: 5292
 # SKIPPED: 3
 # SKIPPED-TYPES: Regex=3
 # SOURCES:
@@ -119,6 +119,7 @@ routing = 1
 2, 2345cdn.net
 2, 2345tianqi.cn
 2, 258.com
+2, 25mao.com
 2, 263.net
 2, 289.com
 2, 2cto.com
@@ -281,6 +282,7 @@ routing = 1
 2, 52pk.com
 2, 52pojie.cn
 2, 52ppt.com
+2, 52youzai.com
 2, 52z.com
 2, 53kf.com
 2, 55.com
@@ -291,6 +293,7 @@ routing = 1
 2, 56.com
 2, 56img.com
 2, 56laile.com
+2, 56tvc.com
 2, 56xiniao.com
 2, 58.com
 2, 58.com.cn
@@ -423,13 +426,16 @@ routing = 1
 2, acfunchina.cn
 2, acfunchina.com
 2, acfunchina.net
+2, acgdraw.com
 2, activity-wbsj.com
 2, activity-zhendingtech.com
 2, acwifi.net
 2, acwing.com
 2, adacpp.com
+2, adhuanxiao.com
 2, admin5.com
 2, admincdn.com
+2, adosmo.com
 2, adxvip.com
 2, afdian.com
 2, afdian.net
@@ -532,6 +538,7 @@ routing = 1
 2, antpedia.com
 2, antutu.com
 2, antutu.net
+2, anvnjmc.com
 2, anxia.com
 2, anycubic.com
 2, anytocopy.com
@@ -560,6 +567,7 @@ routing = 1
 2, appjiagu.com
 2, applysquare.com
 2, applysquare.net
+2, appracle.com
 2, appsimg.com
 2, appvipshop.com
 2, arcaea.cn
@@ -598,6 +606,7 @@ routing = 1
 2, b3log.org
 2, b3logfile.com
 2, b612kaji.com
+2, ba-hospital.com
 2, babytree.com
 2, babytreeimg.com
 2, badou.com
@@ -788,6 +797,7 @@ routing = 1
 2, bosera.com
 2, bosszhipin.com
 2, bouffalolab.com
+2, bowenkj.com
 2, boxdouyin.com
 2, boyuemobile.com
 2, brawlstars.cn
@@ -809,6 +819,7 @@ routing = 1
 2, burningvocabulary.com
 2, butterfly-static.cn
 2, butterflyai.cn
+2, bvmlt.top
 2, bx1k.com
 2, bxexpress.com.cn
 2, byd.com
@@ -876,6 +887,7 @@ routing = 1
 2, cdndo.com
 2, cdnmama.com
 2, cdnmg.com
+2, cdut.top
 2, ce.cn
 2, ceair.com
 2, ceati.org.cn
@@ -1289,6 +1301,7 @@ routing = 1
 2, cy.com
 2, cyagen.com
 2, cybtc.com
+2, cydiabc.top
 2, cyol.com
 2, cyol.net
 2, cyts.com
@@ -1698,6 +1711,7 @@ routing = 1
 2, fengsutb.com
 2, fengxian110.com
 2, ffbuddy.com
+2, fffff.games
 2, fgo.wiki
 2, fhldns.com
 2, fhyx.com
@@ -1804,6 +1818,7 @@ routing = 1
 2, frp-tag.com
 2, fsfund.com
 2, fshark.cn
+2, fsjiaoyubang.com
 2, fspcdn.com
 2, ftfund.com
 2, fugetech.com
@@ -1812,6 +1827,7 @@ routing = 1
 2, funcdn.com
 2, fund123.cn
 2, funjsq.com
+2, funmob.top
 2, funnycore.com
 2, funshion.com
 2, funshion.net
@@ -1870,6 +1886,7 @@ routing = 1
 2, geetest.com
 2, geetest.datasink.sensorsdata.cn
 2, gefund.com.cn
+2, gei6.com
 2, geilicdn.com
 2, gelaiyun.net
 2, geossl.cn
@@ -2028,6 +2045,7 @@ routing = 1
 2, gzasc.com
 2, gzcqs.com
 2, gzctyiptv.cn
+2, gzjkoa.com
 2, gzlzfm.com
 2, gztv.com
 2, gzurl.cn
@@ -2055,6 +2073,7 @@ routing = 1
 2, hangjiayun.com
 2, hangzhouyq.cn
 2, hangzhouyq.com
+2, hanqiuming888.com
 2, hanyi.com
 2, hanyi.com.cn
 2, hao123.com
@@ -2129,6 +2148,7 @@ routing = 1
 2, hiascend.com
 2, hiclc.com
 2, hifuntv.com
+2, higgsweb.com
 2, hihocoder.com
 2, hihonor.cn
 2, hihonor.com
@@ -2145,6 +2165,7 @@ routing = 1
 2, hikunpeng.com.cn
 2, hikunpeng.net
 2, hikvision.com
+2, hiocloud.com
 2, hisense-home.com
 2, hisense.com
 2, hisensehitachi.com
@@ -2692,6 +2713,7 @@ routing = 1
 2, kc9.cn
 2, kcbebank.com
 2, kcdnvip.com
+2, kcttpa.com
 2, kd100.com
 2, kdocs.cn
 2, kdslife.com
@@ -2730,6 +2752,7 @@ routing = 1
 2, kingsoft-office-service.com
 2, kingsoft.com
 2, kiwa-tech.com
+2, kiwiot.com
 2, kiyuu.club
 2, kjcdn.com
 2, kjrb.com.cn
@@ -2792,6 +2815,7 @@ routing = 1
 2, kuaizhan.com
 2, kuajing84.com
 2, kuangxiangit.com
+2, kudashi.com
 2, kugoo.com
 2, kugou.com
 2, kugou.net
@@ -2806,6 +2830,7 @@ routing = 1
 2, kugouyouth.com
 2, kujiale.com
 2, kujiang.com
+2, kukongjian.com
 2, kuqin.com
 2, kuwo.cn
 2, kuyin123.com
@@ -3012,6 +3037,7 @@ routing = 1
 2, lotpc.com
 2, loupan.com
 2, lovestu.com
+2, loveutips.com
 2, lppz.com
 2, lppzimg.com
 2, lrts.me
@@ -3130,6 +3156,7 @@ routing = 1
 2, meican.com
 2, meicanstatic.com
 2, meifang.com
+2, meijian.com
 2, meika360.com
 2, meilishuo.com
 2, meimingteng.com
@@ -3218,6 +3245,7 @@ routing = 1
 2, mnw.cn
 2, mob.com
 2, mobsdks.com
+2, modaiyun.com
 2, modelers.cn
 2, modex.com.cn
 2, moedu.com
@@ -3255,6 +3283,7 @@ routing = 1
 2, motieimg.com
 2, moulem.com
 2, moyubuluo.com
+2, mrtdephoto.net
 2, mryys.cn
 2, mryys.com
 2, ms-bank.cn
@@ -3463,6 +3492,7 @@ routing = 1
 2, opdown.com
 2, open-douyin.com
 2, opencourse.pku.edu.cn
+2, openevai.com
 2, openinstall.com
 2, openinstall.io
 2, openjudge.cn
@@ -3474,6 +3504,7 @@ routing = 1
 2, oray.net
 2, orayer.com
 2, orayimg.com
+2, orence.net
 2, orient-fund.com
 2, osbdf.com
 2, oschina.net
@@ -3518,6 +3549,7 @@ routing = 1
 2, pchpic.net
 2, pconline.com.cn
 2, pcpop.com
+2, pcwatch.com
 2, pddcdn.com
 2, pddim.com
 2, pddpic.com
@@ -3582,6 +3614,7 @@ routing = 1
 2, ppkankan01.com
 2, pplive.cn
 2, pplive.com
+2, ppt28.com
 2, pptbest.com
 2, pptv.com
 2, privateapi.xyz
@@ -3667,6 +3700,7 @@ routing = 1
 2, qingcloud.com
 2, qingdaochina.org
 2, qingdaonews.com
+2, qingjiansoft.com
 2, qinglue.com
 2, qingping.co
 2, qingque.cn
@@ -3865,9 +3899,11 @@ routing = 1
 2, seewo.com
 2, segmentfault.com
 2, segwayrobotics.com
+2, senachina.com
 2, sencdn.com
 2, seniverse.com
 2, senlinjimore.com
+2, senmuse.com
 2, sensorsdata.cn
 2, sf-airlines.com
 2, sf-cityrush.com
@@ -4216,6 +4252,7 @@ routing = 1
 2, thmnet.com
 2, threatbook.cn
 2, threatbook.com
+2, threep.top
 2, ths123.com
 2, thsi.cn
 2, thtf.com.cn
@@ -4234,6 +4271,7 @@ routing = 1
 2, tianpeng.com
 2, tianqi.com
 2, tianqistatic.com
+2, tianruo.xyz
 2, tianshucup.com
 2, tianxiajiameng.cn
 2, tianxiajiameng.com
@@ -4416,6 +4454,8 @@ routing = 1
 2, unaming.cn
 2, unaming.info
 2, unaming.net
+2, uneed.com
+2, uneedx.com
 2, unicloud.com
 2, unigroup.com.cn
 2, unihan.com.cn
@@ -4496,6 +4536,7 @@ routing = 1
 2, voc.com.cn
 2, voicecloud.cn
 2, vpgame.com
+2, vpsjyz.com
 2, vpsvs.com
 2, vrzwk.cn
 2, vrzwk.com
@@ -4877,6 +4918,7 @@ routing = 1
 2, ygduoyi.com
 2, yh31.com
 2, yhfund.com.cn
+2, yibanbianji.com
 2, yicai.com
 2, yiche.com
 2, yichengwlkj.com
@@ -4926,6 +4968,7 @@ routing = 1
 2, ynet.com.cn
 2, ynhr.com
 2, ynjtyiptv.cn
+2, ynsj001.com
 2, yocajr.com
 2, yokaverse.com
 2, yoma.cn
@@ -5182,6 +5225,7 @@ routing = 1
 2, ziroomapartment.com
 2, zixiaomao.com
 2, zixuntop.com
+2, zjjslawyer.com
 2, zjlib.cn
 2, zjol.com.cn
 2, zjshulong.com
@@ -5190,6 +5234,7 @@ routing = 1
 2, zjzs.net
 2, zjzsa.com
 2, zlfund.cn
+2, zllinks.com
 2, zmengzhu.com
 2, zmtqsh.cn
 2, zmtqsh.com
@@ -5249,6 +5294,9 @@ routing = 1
 2, zyhe.com.cn
 2, zysn.net
 2, zysou.com
+2, zyyct.com
 2, zzclass.com
 2, zzdtec.com
 2, zztfly.com
+2, zzzcaculator.top
+2, zzzmap.com

@@ -1,7 +1,7 @@
 # NAME: CDN
 # GENERATED-FOR: Anywhere Routing Rule Set
 # DESCRIPTION: SukkaW CDN 直连辅助
-# RULES: 4671
+# RULES: 4672
 # SKIPPED: 58
 # SKIPPED-TYPES: DOMAIN-WILDCARD=58
 # SOURCES:
@@ -4586,6 +4586,7 @@ routing = 1
 2, categoriespages-cdn.trustpilot.net
 2, cdn-a.sonyentertainmentnetwork.com
 2, cdn.prod.ext.web.purview.azure.com
+2, client-log-forwarder.1password.com
 2, consumersite-assets.trustpilot.net
 2, content-management-files.canva.com
 2, disco-static.productessentials.app
