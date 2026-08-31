@@ -3,9 +3,9 @@
 # SOURCE: https://github.com/blackmatrix7/ios_rule_script/blob/master/rule/Surge/Proxy/Proxy_All.list
 # GENERATED-FOR: Anywhere Routing Rule Set
 # NOTE: DOMAIN rules are mapped to Anywhere domain suffix rules.
-# RULES: 6902
+# RULES: 6904
 # SKIPPED: 8
-# UPSTREAM-UPDATED: 2026-08-30 04:17:26
+# UPSTREAM-UPDATED: 2026-09-01 06:20:03
 # SKIPPED-TYPES: USER-AGENT=8
 
 name = Proxy
@@ -2273,6 +2273,7 @@ name = Proxy
 2, getlantern.org
 2, getmalus.com
 2, getmdl.io
+2, getmonero.org
 2, getoutline.org
 2, getpricetag.com
 2, getsession.org
@@ -3992,6 +3993,7 @@ name = Proxy
 2, nhncorp.jp
 2, nianticlabs.com
 2, nic.gov
+2, nicoseiga.jp
 2, nicovideo.jp
 2, nighost.org
 2, nightlife141.com

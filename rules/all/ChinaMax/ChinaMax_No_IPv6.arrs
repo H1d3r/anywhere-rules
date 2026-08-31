@@ -3,21 +3,22 @@
 # SOURCE: https://github.com/blackmatrix7/ios_rule_script/blob/master/rule/Surge/ChinaMax/ChinaMax_No_IPv6.list
 # GENERATED-FOR: Anywhere Routing Rule Set
 # NOTE: DOMAIN rules are mapped to Anywhere domain suffix rules.
-# RULES: 8308
+# RULES: 8310
 # SKIPPED: 78
-# UPSTREAM-UPDATED: 2026-08-30 04:18:12
+# UPSTREAM-UPDATED: 2026-09-01 06:21:19
 # SKIPPED-TYPES: IP-ASN=1, PROCESS-NAME=12, USER-AGENT=65
 
 name = ChinaMax
-2, alipay
 2, alibaba
 2, taobao
 2, tmall
 2, cn
 2, ms
+2, alipay
 2, anquan
 2, baidu
 2, citic
+2, icbc
 2, shouji
 2, sina
 2, sohu
@@ -59,7 +60,6 @@ name = ChinaMax
 2, xn--xhq521b
 2, xn--zfr164b
 2, yun
-2, icbc
 3, .tmall.com
 3, alicdn
 3, alipay
@@ -4433,6 +4433,7 @@ name = ChinaMax
 0, 185.175.100.0/22
 0, 185.183.84.0/24
 0, 185.188.32.0/22
+0, 185.192.56.0/22
 0, 185.194.148.0/24
 0, 185.196.210.68/30
 0, 185.196.211.68/30
@@ -6053,6 +6054,7 @@ name = ChinaMax
 0, 205.204.96.0/19
 0, 205.234.238.46/32
 0, 205.252.239.0/24
+0, 206.109.70.0/23
 0, 206.109.75.0/24
 0, 206.232.68.0/22
 0, 206.232.72.0/22
