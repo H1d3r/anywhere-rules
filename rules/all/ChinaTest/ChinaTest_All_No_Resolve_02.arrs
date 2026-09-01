@@ -3,86 +3,12 @@
 # SOURCE: https://github.com/blackmatrix7/ios_rule_script/blob/master/rule/Surge/ChinaTest/ChinaTest_All_No_Resolve.list
 # GENERATED-FOR: Anywhere Routing Rule Set
 # NOTE: DOMAIN rules are mapped to Anywhere domain suffix rules.
-# RULES: 11130
+# RULES: 11047
 # SKIPPED: 0
-# SOURCE-RULES: 111130
-# UPSTREAM-UPDATED: 2026-09-01 06:20:22
+# SOURCE-RULES: 111047
+# UPSTREAM-UPDATED: 2026-09-02 04:27:05
 
 name = ChinaTest_02
-2, xljnjy.com
-2, xljsci.com
-2, xlkdyf.com
-2, xlkorganic.com
-2, xlkshop.com
-2, xlkty.com
-2, xlm258.com
-2, xlmarathon.com
-2, xlmr.com
-2, xlmz.net
-2, xlndt.com
-2, xlobo.com
-2, xlongm.com
-2, xloveyoux.com
-2, xlpai.com
-2, xlpan.com
-2, xlps.site
-2, xlqeai.com
-2, xlqzh.com
-2, xlread.com
-2, xlreads.com
-2, xlsdn.com
-2, xlsemi.com
-2, xlshou.com
-2, xlsxmj.com
-2, xltll.com
-2, xltnjslfd.com
-2, xlwl95.com
-2, xlxkgjt.com
-2, xlxqsgf.com
-2, xlxslny.com
-2, xlyap.com
-2, xlyfhw.com
-2, xlykzz.com
-2, xlyouxi.com
-2, xlyouxi.net
-2, xlysauc.com
-2, xlysauc.net
-2, xlysoft.net
-2, xlyx3.com
-2, xlyxo.com
-2, xlyxp.com
-2, xlzfpt.com
-2, xlzhao.com
-2, xlzyd.com
-2, xlzys.com
-2, xm-ais.net
-2, xm-chuang.com
-2, xm-gzf.com
-2, xm-olympic-museum.org
-2, xm200.com
-2, xm51.com
-2, xm5156.com
-2, xm680.com
-2, xm6wpp.com
-2, xm9.co
-2, xm909.com
-2, xm9m.com
-2, xmac.app
-2, xmafkj.com
-2, xmaibu.com
-2, xmalaya.com
-2, xmamiga.com
-2, xmanblog.net
-2, xmasg.com
-2, xmayitxt.com
-2, xmbankonline.com
-2, xmbhw.com
-2, xmbike.com
-2, xmbus.com
-2, xmccb.com
-2, xmchong.com
-2, xmcimg.com
-2, xmcord.com
 2, xmcp.ltd
 2, xmcwh.com
 2, xmcx.net
@@ -381,7 +307,6 @@ name = ChinaTest_02
 2, xn--tlqz3aj77agil76ww4ni2k.com
 2, xn--tqq89g2tjj5x8xs.com
 2, xn--unup4y
-2, xn--vcso1ukuz.net
 2, xn--vcsu51b3zccpm.com
 2, xn--vhq3m33sbqhpsmtnuxfq.com
 2, xn--vhq3mr8b802a.net
@@ -1240,6 +1165,7 @@ name = ChinaTest_02
 2, xxlsmqzs.com
 2, xxlwin.com
 2, xxmac.com
+2, xxmlyy.com
 2, xxmyf.com
 2, xxnet.vip
 2, xxnets.net
@@ -1532,6 +1458,7 @@ name = ChinaTest_02
 2, xzdag.com
 2, xzdfcd.com
 2, xzdfyy.com
+2, xzdkyq.com
 2, xzdtjt.com
 2, xzep.net
 2, xzepa.com
@@ -2191,7 +2118,6 @@ name = ChinaTest_02
 2, yc9y.com
 2, ycait.com
 2, ycamlyy.com
-2, ycandyz.com
 2, ycangels.com
 2, ycaqr.com
 2, ycb.com
@@ -2373,7 +2299,6 @@ name = ChinaTest_02
 2, ydl-sh.com
 2, ydl.com
 2, ydlcdn.com
-2, ydlut.com
 2, ydmel.com
 2, ydmeng.com
 2, ydmob.com
@@ -2382,7 +2307,6 @@ name = ChinaTest_02
 2, ydr.me
 2, ydsaso.com
 2, ydscan.net
-2, ydsjjs.com
 2, ydsjpt.com
 2, ydsrmyy.com
 2, ydsyyy.com
@@ -2500,7 +2424,6 @@ name = ChinaTest_02
 2, yemacaijing.com
 2, yemadai.com
 2, yemajun.com
-2, yemancomic.com
 2, yemaosheji.com
 2, yemaosoft.com
 2, yemayun.com
@@ -2639,6 +2562,7 @@ name = ChinaTest_02
 2, yffzkl.com
 2, yfgg.com
 2, yfgj68.com
+2, yfhcname2.com
 2, yfhex.com
 2, yfhl.net
 2, yfhospital.com
@@ -2647,7 +2571,6 @@ name = ChinaTest_02
 2, yfiot.com
 2, yfisher.com
 2, yfjiakao.com
-2, yfjnjc.com
 2, yfklxz.com
 2, yflcloud.online
 2, yfldocker.com
@@ -3648,7 +3571,6 @@ name = ChinaTest_02
 2, yizhanzx.com
 2, yizhaopin.com
 2, yizhedian.com
-2, yizhengwx.com
 2, yizhibi.com
 2, yizhifubj.com
 2, yizhijia.com
@@ -4009,7 +3931,6 @@ name = ChinaTest_02
 2, ynfmly.com
 2, ynfww.com
 2, ynfwyy.com
-2, ynfxw.com
 2, yngas.net
 2, yngp.com
 2, yngsxy.net
@@ -4963,7 +4884,6 @@ name = ChinaTest_02
 2, ytccr.com
 2, ytchangyang.com
 2, ytcj.com
-2, ytcnc.net
 2, ytcutv.com
 2, ytdaily.com
 2, ytdcloud.com
@@ -5438,6 +5358,7 @@ name = ChinaTest_02
 2, yun-kai.com
 2, yun-live.com
 2, yun-wp.com
+2, yun.wtf
 2, yun123.com
 2, yun163.net
 2, yun5.vip
@@ -5448,6 +5369,7 @@ name = ChinaTest_02
 2, yunannet.com
 2, yunarm.com
 2, yunassess.com
+2, yunauth.com
 2, yunaw.com
 2, yunban.com
 2, yunbaolai.com
@@ -6079,7 +6001,6 @@ name = ChinaTest_02
 2, yxrb.net
 2, yxrcw.com
 2, yxrj.com
-2, yxsc33.com
 2, yxsea.com
 2, yxsos.com
 2, yxss.com
@@ -6144,7 +6065,6 @@ name = ChinaTest_02
 2, yydl-china.com
 2, yyds.pink
 2, yyds.space
-2, yydsmh.com
 2, yydsok.com
 2, yydsym.com
 2, yydszp.com
@@ -6157,7 +6077,6 @@ name = ChinaTest_02
 2, yyfdcw.com
 2, yyfqm.com
 2, yyfunning.com
-2, yyg.com
 2, yyg120.com
 2, yygamedev.com
 2, yyge.com
@@ -7560,7 +7479,6 @@ name = ChinaTest_02
 2, zhaosheng365.com
 2, zhaoshixi.com
 2, zhaoshizhou.xyz
-2, zhaosifang.com
 2, zhaosuliao.com
 2, zhaosw.com
 2, zhaota8.com
@@ -8456,7 +8374,6 @@ name = ChinaTest_02
 2, zhoujifood.com
 2, zhoujunji.com
 2, zhoukaiwen.com
-2, zhoulaoshi.club
 2, zhoulingjie.com
 2, zhoulishan.site
 2, zhoupu123.com
@@ -9490,7 +9407,6 @@ name = ChinaTest_02
 2, zjsw.org
 2, zjswxpx.com
 2, zjsxkj.com
-2, zjsxlt.com
 2, zjsxrz.com
 2, zjsxss.com
 2, zjsyyhyxh.com
@@ -9688,6 +9604,7 @@ name = ChinaTest_02
 2, zkrdlab.com
 2, zkrsks.com
 2, zksbxhyxh.com
+2, zkscaiot.com
 2, zkscgj.com
 2, zksglaser.com
 2, zkshare.com

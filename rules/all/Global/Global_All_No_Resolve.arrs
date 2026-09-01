@@ -3,9 +3,9 @@
 # SOURCE: https://github.com/blackmatrix7/ios_rule_script/blob/master/rule/Surge/Global/Global_All_No_Resolve.list
 # GENERATED-FOR: Anywhere Routing Rule Set
 # NOTE: DOMAIN rules are mapped to Anywhere domain suffix rules.
-# RULES: 35028
+# RULES: 35035
 # SKIPPED: 47
-# UPSTREAM-UPDATED: 2026-09-01 06:19:39
+# UPSTREAM-UPDATED: 2026-09-02 04:26:27
 # SKIPPED-TYPES: PROCESS-NAME=1, USER-AGENT=46
 
 name = Global
@@ -3930,6 +3930,7 @@ name = Global
 2, blackboxgames.com
 2, blackburn.ac.uk
 2, blackcountryandmarchesiot.ac.uk
+2, blackedraw.com
 2, blackfridaydrebeatsnew.com
 2, blackfridaydrebeatsshop.com
 2, blackhomeporn.com
@@ -10363,6 +10364,8 @@ name = Global
 2, gastrointestinalexam.com
 2, gate.ac.uk
 2, gate.cc
+2, gate.tv
+2, gateapi.io
 2, gatedata.org
 2, gateimg.com
 2, gateio.live
@@ -16309,6 +16312,7 @@ name = Global
 2, milftube.pro
 2, milftugs.com
 2, milfvr.com
+2, milfy.com
 2, milfzr.com
 2, miliav.com
 2, milkmanbook.com
@@ -22539,6 +22543,7 @@ name = Global
 2, slashdot.org
 2, slavbank.ru
 2, slavicstar.com
+2, slayed.com
 2, slc.ac.uk
 2, slc.tl
 2, slcollege.ac.uk
@@ -24672,6 +24677,7 @@ name = Global
 2, turn.livekit.cloud
 2, tusco.ru
 2, tushy.com
+2, tushyraw.com
 2, tuta.com
 2, tuta.io
 2, tutamail.com
@@ -25765,6 +25771,7 @@ name = Global
 2, vitukali.com
 2, vivaxnxx.com
 2, vixen.com
+2, vixengroup.com
 2, vixvids.to
 2, viznet.ac.uk
 2, vk-apps.com

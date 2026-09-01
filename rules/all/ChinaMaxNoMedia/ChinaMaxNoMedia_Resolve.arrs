@@ -3,9 +3,9 @@
 # SOURCE: https://github.com/blackmatrix7/ios_rule_script/blob/master/rule/Surge/ChinaMaxNoMedia/ChinaMaxNoMedia_Resolve.list
 # GENERATED-FOR: Anywhere Routing Rule Set
 # NOTE: DOMAIN rules are mapped to Anywhere domain suffix rules.
-# RULES: 12513
+# RULES: 12512
 # SKIPPED: 78
-# UPSTREAM-UPDATED: 2026-09-01 06:22:28
+# UPSTREAM-UPDATED: 2026-09-02 04:28:52
 # SKIPPED-TYPES: IP-ASN=1, PROCESS-NAME=12, USER-AGENT=65
 
 name = ChinaMaxNoMedia
@@ -15,7 +15,6 @@ name = ChinaMaxNoMedia
 2, ms
 2, anquan
 2, citic
-2, icbc
 2, shouji
 2, sina
 2, sohu
@@ -56,6 +55,7 @@ name = ChinaMaxNoMedia
 2, xn--xhq521b
 2, xn--zfr164b
 2, yun
+2, icbc
 3, .tmall.com
 3, alicdn
 3, alipay
@@ -206,7 +206,6 @@ name = ChinaMaxNoMedia
 0, 101.76.0.0/15
 0, 101.78.0.0/22
 0, 101.78.32.0/19
-0, 101.79.220.0/24
 0, 101.80.0.0/12
 0, 101.96.0.0/21
 0, 101.96.128.0/17
