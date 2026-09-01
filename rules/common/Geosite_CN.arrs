@@ -2,8 +2,8 @@
 # GENERATED-FOR: Anywhere Routing Rule Set
 # DESCRIPTION: Geosite 中国大陆域名规则
 # GEOSITE-CODE: GEOLOCATION-CN
-# RULES: 5289
-# SOURCE-RULES: 5292
+# RULES: 5294
+# SOURCE-RULES: 5297
 # SKIPPED: 3
 # SKIPPED-TYPES: Regex=3
 # SOURCES:
@@ -163,6 +163,7 @@ routing = 1
 2, 360pay.cn
 2, 360qhcdn.com
 2, 360safe.com
+2, 360scdn.com
 2, 360shouji.com
 2, 360sjyh.cn
 2, 360so.com
@@ -1378,6 +1379,7 @@ routing = 1
 2, deepepg.com
 2, deepinos.org
 2, deepseek.com
+2, deepseeksvc.com
 2, dengguobi.com
 2, deppon.com
 2, deppon.com.cn
@@ -4202,6 +4204,7 @@ routing = 1
 2, tclai.top
 2, tcltech.com
 2, tcp5.com
+2, tctpwebankcdn.net
 2, tcwqqdy.guru
 2, te5.com
 2, teachblog.net
@@ -4568,6 +4571,7 @@ routing = 1
 2, wasu.cn
 2, wasu.tv
 2, wasumedia.cn
+2, wbweilicai.com
 2, wcbygame.com
 2, wch-ic.com
 2, wch.cn
@@ -4668,6 +4672,7 @@ routing = 1
 2, woodo.cn
 2, wooyun.org
 2, woozooo.com
+2, workbuddy.cn
 2, workercn.cn
 2, worktile.com
 2, worldofship.cn
