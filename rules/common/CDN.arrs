@@ -1,7 +1,7 @@
 # NAME: CDN
 # GENERATED-FOR: Anywhere Routing Rule Set
 # DESCRIPTION: SukkaW CDN 直连辅助
-# RULES: 4672
+# RULES: 4676
 # SKIPPED: 58
 # SKIPPED-TYPES: DOMAIN-WILDCARD=58
 # SOURCES:
@@ -165,6 +165,7 @@ routing = 1
 2, m.wsj.net
 2, missuo.ru
 2, mlcdn.com
+2, mqcdn.com
 2, nest.land
 2, npmfs.com
 2, nsimg.net
@@ -1016,6 +1017,7 @@ routing = 1
 2, media2.dev.to
 2, myvideos.info
 2, nhentaimg.com
+2, nodeimage.com
 2, npm.antfu.dev
 2, oaistatic.com
 2, oculuscdn.com
@@ -1295,6 +1297,7 @@ routing = 1
 2, js.pngtree.com
 2, js.recurly.com
 2, js.rtoaster.jp
+2, layers.mapq.st
 2, lc.nssurge.com
 2, liangzipic.com
 2, live-video.net
@@ -1507,6 +1510,7 @@ routing = 1
 2, cdn.st-note.com
 2, cdn.svgator.com
 2, cdn.svgporn.com
+2, cdn.system1.com
 2, cdn.termius.com
 2, cdn.uptimia.com
 2, cdn.userway.org
@@ -2194,7 +2198,6 @@ routing = 1
 2, cdn.lgrckt-in.com
 2, cdn.lineicons.com
 2, cdn.miohentai.com
-2, cdn.nodeimage.com
 2, cdn.onesignal.com
 2, cdn.pagerduty.com
 2, cdn.permutive.com
@@ -2761,6 +2764,7 @@ routing = 1
 2, uploads.guim.co.uk
 2, uploads.linear.app
 2, v2uploads.zopim.io
+2, vector.hereapi.com
 2, video3.mingpao.com
 2, videos.elephas.app
 2, videos.ohentai.org
