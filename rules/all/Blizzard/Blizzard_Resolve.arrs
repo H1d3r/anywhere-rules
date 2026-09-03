@@ -5,7 +5,7 @@
 # NOTE: DOMAIN rules are mapped to Anywhere domain suffix rules.
 # RULES: 62
 # SKIPPED: 0
-# UPSTREAM-UPDATED: 2026-09-02 04:25:02
+# UPSTREAM-UPDATED: 2026-09-04 04:23:31
 
 name = Blizzard
 2, battle.net
@@ -64,9 +64,9 @@ name = Blizzard
 0, 203.66.81.98/32
 0, 211.234.110.1/32
 0, 54.207.107.12/32
-0, 185.60.114.159/32
 0, 202.9.67.254/32
 0, 222.231.22.1/32
 0, 137.221.105.2/32
+0, 185.60.114.159/32
 0, 210.71.148.11/32
 0, 211.115.104.1/32
