@@ -1,6 +1,6 @@
 {
   "total_files": 41,
-  "total_rules": 152039,
+  "total_rules": 152633,
   "total_skipped": 75,
   "files": [
     {
@@ -384,7 +384,7 @@
       "name": "CN_Additional",
       "description": "中国大陆域名补充",
       "output_path": "common/CN_Additional.arrs",
-      "rule_count": 43245,
+      "rule_count": 43869,
       "skipped_count": 0,
       "unsupported_types": {},
       "sources": [
@@ -490,7 +490,7 @@
       "name": "GeoIP_CN",
       "description": "GeoIP 中国大陆 IP CIDR",
       "output_path": "common/GeoIP_CN.arrs",
-      "rule_count": 9850,
+      "rule_count": 9820,
       "skipped_count": 0,
       "unsupported_types": {},
       "sources": [

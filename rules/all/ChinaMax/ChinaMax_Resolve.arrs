@@ -3,9 +3,9 @@
 # SOURCE: https://github.com/blackmatrix7/ios_rule_script/blob/master/rule/Surge/ChinaMax/ChinaMax_Resolve.list
 # GENERATED-FOR: Anywhere Routing Rule Set
 # NOTE: DOMAIN rules are mapped to Anywhere domain suffix rules.
-# RULES: 12518
+# RULES: 12521
 # SKIPPED: 78
-# UPSTREAM-UPDATED: 2026-09-02 04:27:53
+# UPSTREAM-UPDATED: 2026-09-04 04:26:21
 # SKIPPED-TYPES: IP-ASN=1, PROCESS-NAME=12, USER-AGENT=65
 
 name = ChinaMax
@@ -10538,7 +10538,7 @@ name = ChinaMax
 1, 2406:840:80::/41
 1, 2406:840:810::/44
 1, 2406:840:820::/43
-1, 2406:840:840::/47
+1, 2406:840:840::/48
 1, 2406:840:843::/48
 1, 2406:840:844::/46
 1, 2406:840:848::/45
@@ -10556,7 +10556,10 @@ name = ChinaMax
 1, 2406:840:8c0::/42
 1, 2406:840:9000::/37
 1, 2406:840:900::/40
-1, 2406:840:9800::/40
+1, 2406:840:9800::/42
+1, 2406:840:9850::/44
+1, 2406:840:9860::/43
+1, 2406:840:9880::/41
 1, 2406:840:9900::/41
 1, 2406:840:9981::/48
 1, 2406:840:9982::/47

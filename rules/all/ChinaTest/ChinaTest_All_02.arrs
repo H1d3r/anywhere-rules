@@ -3,128 +3,12 @@
 # SOURCE: https://github.com/blackmatrix7/ios_rule_script/blob/master/rule/Surge/ChinaTest/ChinaTest_All.list
 # GENERATED-FOR: Anywhere Routing Rule Set
 # NOTE: DOMAIN rules are mapped to Anywhere domain suffix rules.
-# RULES: 11047
+# RULES: 10927
 # SKIPPED: 0
-# SOURCE-RULES: 111047
-# UPSTREAM-UPDATED: 2026-09-02 04:27:05
+# SOURCE-RULES: 110927
+# UPSTREAM-UPDATED: 2026-09-04 04:25:33
 
 name = ChinaTest_02
-2, xmcp.ltd
-2, xmcwh.com
-2, xmcx.net
-2, xmcy.com
-2, xmdh.com
-2, xmeasygo.com
-2, xmecard.com
-2, xmerak.com
-2, xmeye.net
-2, xmf.com
-2, xmfc.com
-2, xmferry.com
-2, xmfev.com
-2, xmfish.com
-2, xmfls.net
-2, xmfunny.com
-2, xmgd.com
-2, xmgps.com
-2, xmgsd.com
-2, xmgslx.com
-2, xmguoyi.com
-2, xmgwbn.com
-2, xmhaicangmarathon.com
-2, xmheigu.com
-2, xmheitu.com
-2, xmhitek.com
-2, xmhlcs.org
-2, xmhljx.net
-2, xmht.com
-2, xmhx.com
-2, xmigc.com
-2, xmindchina.net
-2, xminfoport.com
-2, xming.ai
-2, xminnov.com
-2, xmisp.com
-2, xmitic.com
-2, xmj1688.com
-2, xmjchyxh.com
-2, xmjiaruan.com
-2, xmjim.com
-2, xmjj3d.com
-2, xmjkbd.com
-2, xmjled.com
-2, xmjsci.com
-2, xmjslh.com
-2, xmjyw.com
-2, xmjzykj.com
-2, xmkanshu.com
-2, xmkj.beer
-2, xml-journal.net
-2, xmldz4.com
-2, xmlhifi.com
-2, xmlib.net
-2, xmlvbarcode.com
-2, xmmade.com
-2, xmmama.com
-2, xmmeiyou.com
-2, xmmtu.com
-2, xmmuye.com
-2, xmnjdwx.com
-2, xmocloud01.com
-2, xmoj.tech
-2, xmonecode.com
-2, xmos.tv
-2, xmov.ai
-2, xmpaoyou.com
-2, xmparking.net
-2, xmpbjl.com
-2, xmpcba.com
-2, xmqianzun.com
-2, xmqxy.com
-2, xmr-zh.com
-2, xmrb.com
-2, xmrbi.com
-2, xmrdtx.com
-2, xmruanci.com
-2, xmruiyou.com
-2, xmseaview.com
-2, xmseeyouyima.com
-2, xmsgame.com
-2, xmsixian.com
-2, xmsiyb.com
-2, xmsj.org
-2, xmsme.com
-2, xmsmjk.com
-2, xmsoft.com
-2, xmsouhu.com
-2, xmsoushu.com
-2, xmspace.net
-2, xmssie.com
-2, xmsssyy.com
-2, xmsumi.com
-2, xmsuperlite.com
-2, xmswim.com
-2, xmtbang.com
-2, xmtcm.com
-2, xmtyy.net
-2, xmuli.tech
-2, xmwan.com
-2, xmwes.com
-2, xmwsrc.com
-2, xmx023.com
-2, xmxc.com
-2, xmxdev.com
-2, xmxfxh.com
-2, xmxgame.com
-2, xmxsapp.com
-2, xmxwl.net
-2, xmxwz.com
-2, xmyeditor.com
-2, xmylhy.com
-2, xmyouma.com
-2, xmyzm.com
-2, xmzangao.com
-2, xmzdls.com
 2, xmzgxcl.com
 2, xmzhdz.com
 2, xmzhkt.com
@@ -2296,6 +2180,7 @@ name = ChinaTest_02
 2, ydjwy.net
 2, ydjy.net
 2, ydkj2019.com
+2, ydkkej.com
 2, ydl-sh.com
 2, ydl.com
 2, ydlcdn.com
@@ -4025,7 +3910,6 @@ name = ChinaTest_02
 2, ynztrq.com
 2, ynztzh.com
 2, ynzy-tobacco.com
-2, ynzzwl.com
 2, yo4399.com
 2, yoagoa.com
 2, yobo.ink
@@ -4325,7 +4209,6 @@ name = ChinaTest_02
 2, youked.com
 2, youkeda.com
 2, youkego.com
-2, youkexueyuan.com
 2, youkia.com
 2, youkia.net
 2, youking.com
@@ -5318,7 +5201,6 @@ name = ChinaTest_02
 2, yulinhuaran.com
 2, yulinjue.com
 2, yulinqj.com
-2, yulins.com
 2, yulinshidefu.com
 2, yulinyw.com
 2, yuliqx.com
@@ -6171,7 +6053,6 @@ name = ChinaTest_02
 2, yyzqta.com
 2, yyzqtb.com
 2, yyzsoft.com
-2, yyzxcj.com
 2, yyzzqk.com
 2, yyzzsem.com
 2, yz-iot.com
@@ -6524,7 +6405,6 @@ name = ChinaTest_02
 2, zbcars.com
 2, zbchem.com
 2, zbcyrq.com
-2, zbczce.com
 2, zbdedu.com
 2, zbdzy.com
 2, zbgarden.cc
@@ -10579,6 +10459,7 @@ name = ChinaTest_02
 2, zxblinux.com
 2, zxbook.net
 2, zxbzr.com
+2, zxc123zxc123.xyz
 2, zxchemgroup.com
 2, zxcmk.com
 2, zxcoder.com
@@ -10826,7 +10707,6 @@ name = ChinaTest_02
 2, zz-invest.com
 2, zz.ci
 2, zz123456789.xyz
-2, zz2024.com
 2, zz2z.com
 2, zz314.com
 2, zz34.com
