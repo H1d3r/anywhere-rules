@@ -1,7 +1,7 @@
 # NAME: GFW
 # GENERATED-FOR: Anywhere Routing Rule Set
 # DESCRIPTION: GFW 域名列表
-# RULES: 4391
+# RULES: 4400
 # SKIPPED: 0
 # SOURCES:
 # - https://raw.githubusercontent.com/Loyalsoldier/v2ray-rules-dat/release/gfw.txt
@@ -13,6 +13,8 @@ name = GFW
 2, 1000giri.net
 2, 10beasts.net
 2, 10musume.com
+2, 123av.com
+2, 123av.me
 2, 12bet.com
 2, 12vpn.com
 2, 12vpn.net
@@ -1852,6 +1854,7 @@ name = GFW
 2, helpeachpeople.com
 2, helpster.de
 2, hembed.com
+2, hentai.tv
 2, heqinglian.net
 2, heritage.org
 2, herokuapp.com
@@ -3135,6 +3138,7 @@ name = GFW
 2, rmbl.ws
 2, roblox.com
 2, robustnessiskey.com
+2, roc-taiwan.org
 2, rocket-inc.net
 2, rocket.chat
 2, rocksdb.org
@@ -3144,6 +3148,7 @@ name = GFW
 2, rolsociety.org
 2, ronjoneswriter.com
 2, rou.video
+2, roushuwo.com
 2, rsdlmonitor.com
 2, rsf-chinese.org
 2, rsf.org
@@ -3446,6 +3451,7 @@ name = GFW
 2, superpages.com
 2, supervpn.net
 2, superzooi.com
+2, supjav.com
 2, support.futunn.com
 2, supremecourt.gov
 2, suprememastertv.com
@@ -3476,10 +3482,12 @@ name = GFW
 2, taaze.tw
 2, taedp.org.tw
 2, tagwalk.com
+2, taiav.com
 2, tails.net
 2, taipeisociety.org
 2, taipeitimes.com
 2, taisounds.com
+2, taiwanembassy.org
 2, taiwanhot.net
 2, taiwanjustice.net
 2, taiwanncf.org.tw
@@ -4163,6 +4171,7 @@ name = GFW
 2, writesonic.com
 2, wsj.com
 2, wsj.net
+2, wtfpass.com
 2, wufafangwen.com
 2, wufi.org.tw
 2, wujieliulan.com
