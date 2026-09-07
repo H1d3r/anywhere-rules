@@ -3,12 +3,27 @@
 # SOURCE: https://github.com/blackmatrix7/ios_rule_script/blob/master/rule/Surge/ChinaTest/ChinaTest_All_No_Resolve.list
 # GENERATED-FOR: Anywhere Routing Rule Set
 # NOTE: DOMAIN rules are mapped to Anywhere domain suffix rules.
-# RULES: 10947
+# RULES: 10964
 # SKIPPED: 0
-# SOURCE-RULES: 110947
-# UPSTREAM-UPDATED: 2026-09-06 03:53:35
+# SOURCE-RULES: 110964
+# UPSTREAM-UPDATED: 2026-09-08 05:03:47
 
 name = ChinaTest_02
+2, xmsme.com
+2, xmsmjk.com
+2, xmsoft.com
+2, xmsouhu.com
+2, xmsoushu.com
+2, xmspace.net
+2, xmssie.com
+2, xmsssyy.com
+2, xmsumi.com
+2, xmsuperlite.com
+2, xmswim.com
+2, xmtbang.com
+2, xmtcm.com
+2, xmtyy.net
+2, xmuli.tech
 2, xmwan.com
 2, xmwes.com
 2, xmwsrc.com
@@ -2395,6 +2410,7 @@ name = ChinaTest_02
 2, yetu.net
 2, yew734.com
 2, yewanba.com
+2, yewcdn.com
 2, yewen.us
 2, yewuyuan.com
 2, yexinggroup.com
@@ -8068,6 +8084,7 @@ name = ChinaTest_02
 2, zhongguowangshi.com
 2, zhongguoym.com
 2, zhonggushipping.com
+2, zhonghaiqishengkeji.xyz
 2, zhonghaitech.com
 2, zhonghaojituan.com
 2, zhonghengyiyao.com

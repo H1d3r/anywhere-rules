@@ -5,8 +5,8 @@
 # NOTE: DOMAIN rules are mapped to Anywhere domain suffix rules.
 # RULES: 100000
 # SKIPPED: 31
-# SOURCE-RULES: 110947
-# UPSTREAM-UPDATED: 2026-09-06 03:53:35
+# SOURCE-RULES: 110964
+# UPSTREAM-UPDATED: 2026-09-08 05:03:47
 # SKIPPED-TYPES: USER-AGENT=31
 
 name = ChinaTest_01
@@ -10196,6 +10196,7 @@ name = ChinaTest_01
 2, 602ab6ff810251.beer
 2, 602img.com
 2, 60301c31eca86940.com
+2, 60353595.com
 2, 603603b.com
 2, 603603d.com
 2, 603966.com
@@ -34924,6 +34925,7 @@ name = ChinaTest_01
 2, eqxiul.com
 2, eqxiuzhan.com
 2, eqyn.com
+2, er3w.com
 2, eraclean.com
 2, eraedu.com
 2, eral.com
@@ -40725,6 +40727,7 @@ name = ChinaTest_01
 2, gomegj.com
 2, gomeholdings.com
 2, gomehome.com
+2, gomeishop.com
 2, gomeplus.com
 2, gomo.com
 2, gomocdn.com
@@ -41462,6 +41465,7 @@ name = ChinaTest_01
 2, gu166.com
 2, gu360.com
 2, gua123.com
+2, gua9.com
 2, guaguay.com
 2, guahao-inc.com
 2, guahao.com
@@ -50525,6 +50529,7 @@ name = ChinaTest_01
 2, hyhro.com
 2, hyhscm.com
 2, hyht.fun
+2, hyhudong.com
 2, hyhuo.com
 2, hyhxt.net
 2, hyhy.cc
@@ -52389,6 +52394,7 @@ name = ChinaTest_01
 2, img168.net
 2, img16888.com
 2, img898.com
+2, img9g2026.com
 2, imgbed.link
 2, imgcdc.com
 2, imgchr.com
@@ -59842,6 +59848,7 @@ name = ChinaTest_01
 2, kscloudapi.com
 2, ksco.cc
 2, ksdedu.com
+2, ksdyob.store
 2, ksecit.com
 2, ksedt.com
 2, kseibitools.com
@@ -64278,6 +64285,7 @@ name = ChinaTest_01
 2, lygsgt.com
 2, lygshjd.com
 2, lygshlxh.com
+2, lygtylk.com
 2, lygxwmarathon.com
 2, lygxwxqrmyy.com
 2, lygyyjt.com
@@ -65447,6 +65455,7 @@ name = ChinaTest_01
 2, mcfun.tv
 2, mcfxw.com
 2, mcgsjt.com
+2, mcgyaht1023.com
 2, mchifi.com
 2, mchim.net
 2, mchost.guru
@@ -65584,6 +65593,7 @@ name = ChinaTest_01
 2, mediatek.com
 2, mediaxinan.com
 2, medical-union.com
+2, medicalimagecloud.com
 2, medicalqc.com
 2, mediecogroup.com
 2, medifinit.com
@@ -70596,6 +70606,7 @@ name = ChinaTest_01
 2, nordkete.com
 2, nordonfire.com
 2, nordritools.com
+2, norglo.com
 2, norinco-vehicle.com
 2, norinco.com
 2, norincogroup-ebuy.com
@@ -81963,6 +81974,7 @@ name = ChinaTest_01
 2, shougongke.net
 2, shougoumingbiao.com
 2, shouhaoche.com
+2, shouhou.xin
 2, shouhougou.com
 2, shouhui.com
 2, shouhuigroup.com
@@ -93238,6 +93250,7 @@ name = ChinaTest_01
 2, vvbin.com
 2, vvebo.vip
 2, vvfeng.com
+2, vvghj1023.com
 2, vvgroup.com
 2, vvhan.com
 2, vvhunter.com
@@ -95179,6 +95192,7 @@ name = ChinaTest_01
 2, whjuren.com
 2, whjxbaby.com
 2, whjy.net
+2, whjyapp.com
 2, whjyx.com
 2, whjyxh.com
 2, whjyxx.com
@@ -99901,6 +99915,7 @@ name = ChinaTest_01
 2, xmalaya.com
 2, xmamiga.com
 2, xmanblog.net
+2, xmaosms.com
 2, xmasg.com
 2, xmayitxt.com
 2, xmbankonline.com
@@ -99995,18 +100010,3 @@ name = ChinaTest_01
 2, xmsixian.com
 2, xmsiyb.com
 2, xmsj.org
-2, xmsme.com
-2, xmsmjk.com
-2, xmsoft.com
-2, xmsouhu.com
-2, xmsoushu.com
-2, xmspace.net
-2, xmssie.com
-2, xmsssyy.com
-2, xmsumi.com
-2, xmsuperlite.com
-2, xmswim.com
-2, xmtbang.com
-2, xmtcm.com
-2, xmtyy.net
-2, xmuli.tech

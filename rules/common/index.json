@@ -1,6 +1,6 @@
 {
   "total_files": 40,
-  "total_rules": 97104,
+  "total_rules": 97105,
   "total_skipped": 125,
   "files": [
     {
@@ -35,7 +35,7 @@
       "name": "AI",
       "description": "常见 AI 服务",
       "output_path": "common/AI.arrs",
-      "rule_count": 51,
+      "rule_count": 52,
       "skipped_count": 1,
       "unsupported_types": {
         "URL-REGEX": 1

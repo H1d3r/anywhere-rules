@@ -1,7 +1,7 @@
 # NAME: AI
 # GENERATED-FOR: Anywhere Routing Rule Set
 # DESCRIPTION: 常见 AI 服务
-# RULES: 51
+# RULES: 52
 # SKIPPED: 1
 # SKIPPED-TYPES: URL-REGEX=1
 # SOURCES:
@@ -22,6 +22,7 @@ name = AI
 2, groq.com
 2, sora.com
 2, claude.ai
+2, cursor.sh
 2, jasper.ai
 2, claude.com
 2, openart.ai
