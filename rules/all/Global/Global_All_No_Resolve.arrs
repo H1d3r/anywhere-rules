@@ -3,9 +3,9 @@
 # SOURCE: https://github.com/blackmatrix7/ios_rule_script/blob/master/rule/Surge/Global/Global_All_No_Resolve.list
 # GENERATED-FOR: Anywhere Routing Rule Set
 # NOTE: DOMAIN rules are mapped to Anywhere domain suffix rules.
-# RULES: 35036
+# RULES: 35042
 # SKIPPED: 47
-# UPSTREAM-UPDATED: 2026-09-06 03:52:54
+# UPSTREAM-UPDATED: 2026-09-08 05:03:07
 # SKIPPED-TYPES: PROCESS-NAME=1, USER-AGENT=46
 
 name = Global
@@ -11766,7 +11766,6 @@ name = Global
 2, hentai.pink
 2, hentai.pro
 2, hentai.toys
-2, hentai.tv
 2, hentai0.com
 2, hentai01.com
 2, hentai2.net
@@ -23483,7 +23482,6 @@ name = Global
 2, superstem.ac.uk
 2, supertop.co
 2, superuser.com
-2, supjav.com
 2, supply-chain.ac.uk
 2, supplybestjerseys.com
 2, support-uber.com
@@ -23702,7 +23700,6 @@ name = Global
 2, tagapie.com.tw
 2, tagbank.ru
 2, tags.ac.uk
-2, taiav.com
 2, taiko.xyz
 2, tail-f.com
 2, tailf.com
@@ -28203,6 +28200,8 @@ name = Global
 2, 10conditionsoflove.com
 2, 10musume.com
 2, 111666.best
+2, 123av.com
+2, 123av.me
 2, 123rf.com
 2, 12bet.com
 2, 12vpn.com
@@ -30690,6 +30689,7 @@ name = Global
 2, helpzhuling.org
 2, hembed.com
 2, hentai.to
+2, hentai.tv
 2, hentaitube.tv
 2, hentaivideoworld.com
 2, heqinglian.net
@@ -32887,6 +32887,7 @@ name = Global
 2, roblox.com
 2, roboforex.com
 2, robustnessiskey.com
+2, roc-taiwan.org
 2, rocket-inc.net
 2, rocket.chat
 2, rocketbbs.com
@@ -32902,6 +32903,7 @@ name = Global
 2, rotten.com
 2, rou.video
 2, roucdn.link
+2, roushuwo.com
 2, rpglogs.com
 2, rsdlmonitor.com
 2, rsf-chinese.org
@@ -33416,6 +33418,7 @@ name = Global
 2, superpages.com
 2, supervpn.net
 2, superzooi.com
+2, supjav.com
 2, suppig.net
 2, supremecourt.gov
 2, suprememastertv.com
@@ -33466,6 +33469,7 @@ name = Global
 2, tagwa.org.au
 2, tagwalk.com
 2, tahr.org.tw
+2, taiav.com
 2, tails.net
 2, taipeisociety.org
 2, taipeitimes.com
@@ -33475,6 +33479,7 @@ name = Global
 2, taiwancon.com
 2, taiwandaily.net
 2, taiwandc.org
+2, taiwanembassy.org
 2, taiwanhot.net
 2, taiwanjustice.com
 2, taiwanjustice.net
@@ -34565,6 +34570,7 @@ name = Global
 2, wsj.net
 2, wsjhk.com
 2, wtbn.org
+2, wtfpass.com
 2, wtfpeople.com
 2, wuerkaixi.com
 2, wufafangwen.com
