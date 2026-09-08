@@ -1,7 +1,7 @@
 # NAME: Ads_AWAvenue
 # GENERATED-FOR: Anywhere Routing Rule Set
 # DESCRIPTION: 秋风广告规则 AWAvenue
-# RULES: 896
+# RULES: 940
 # SKIPPED: 0
 # SOURCES:
 # - https://raw.githubusercontent.com/TG-Twilight/AWAvenue-Ads-Rule/main/Filters/AWAvenue-Ads-Rule-Surge.list
@@ -17,7 +17,9 @@ routing = 2
 2, a0.app.xiaomi.com
 2, aaid.umeng.com
 2, abtest-ch.snssdk.com
+2, ad-api.4pyun.com
 2, ad-cdn.qingting.fm
+2, ad-files.4pyun.com
 2, ad-scope.com
 2, ad-scope.com.cn
 2, ad-sdk-config.youdao.com
@@ -26,16 +28,20 @@ routing = 2
 2, ad.12306.cn
 2, ad.51wnl.com
 2, ad.api.3g.youku.com
+2, ad.bn.netease.com
 2, ad.bwton.com
 2, ad.cctv.com
 2, ad.cyapi.cn
 2, ad.doubleclick.net
+2, ad.duoduo.link
 2, ad.gameley.com
 2, ad.hpplay.cn
 2, ad.iot.360.cn
 2, ad.jia.360.cn
 2, ad.life.360.cn
+2, ad.maoyan.com
 2, ad.partner.gifshow.com
+2, ad.player.baidu.com
 2, ad.qingting.fm
 2, ad.qq.com
 2, ad.richmob.cn
@@ -49,12 +55,16 @@ routing = 2
 2, ad.ximalaya.com
 2, ad.xunkids.com
 2, ad.zijieapi.com
+2, ad4.sina.com.cn
 2, adapi.izuiyou.com
 2, adapi.yynetwk.com
+2, adash-emas.cn-hangzhou.aliyuncs.com
 2, adashbc.ut.taobao.com
 2, adashx.m.taobao.com
 2, adashxgc.ut.taobao.com
+2, adbox.sina.com.cn
 2, adc.hpplay.cn
+2, adcanvas.com
 2, adcdn.hpplay.cn
 2, adcdn.tencentmusic.com
 2, adclick.g.doubleclick.net
@@ -73,6 +83,8 @@ routing = 2
 2, adks.hpplay.cn
 2, adlink-api.huan.tv
 2, adm.funshion.com
+2, admarketing.yahoo.net
+2, admobile.top
 2, ads-api-o.api.leiniao.com
 2, ads-api.tiktok.com
 2, ads-api.twitter.com
@@ -82,17 +94,20 @@ routing = 2
 2, ads-marketing-vivofs.vivo.com.cn
 2, ads-sdk-api.ranfenghd.com
 2, ads-sg.tiktok.com
+2, ads-shopping.shouqianba.com
 2, ads-video-al.xhscdn.com
 2, ads-video-qc.xhscdn.com
 2, ads.95516.com
 2, ads.adfunlink.com
 2, ads.auctions.yahoo.com
 2, ads.cup.com.cn
+2, ads.finance.yahoo.com
 2, ads.google.cn
 2, ads.huan.tv
 2, ads.huantest.com
 2, ads.icloseli.cn
 2, ads.inmobi.com
+2, ads.ishansong.com
 2, ads.linkedin.com
 2, ads.pinterest.com
 2, ads.pubmatic.com
@@ -111,6 +126,7 @@ routing = 2
 2, ads5-normal-lf.zijieapi.com
 2, ads5-normal-lq.zijieapi.com
 2, ads5-normal.zijieapi.com
+2, adscdn.baidu.com
 2, adsdk.vivo.com.cn
 2, adse.test.ximalaya.com
 2, adse.wsa.ximalaya.com
@@ -132,9 +148,12 @@ routing = 2
 2, adsmart.konka.com
 2, adsmind.gdtimg.com
 2, adsmind.ugdtimg.com
+2, adsmoloco.com
 2, adsp.xunlei.com
+2, adspecs.yahoo.com
 2, adstat.izuiyou.com
 2, adstats.tencentmusic.com
+2, adstextview.qq.com
 2, adstore-1252524079.file.myqcloud.com
 2, adstore-index-1252524079.file.myqcloud.com
 2, adstrategy.biz.weibo.com
@@ -165,6 +184,7 @@ routing = 2
 2, adx-drcn.op.dbankcloud.cn
 2, adx-open-service.youku.com
 2, adx-os.anythinktech.com
+2, adx-os.bridgeoos.com
 2, adx-saas.advlion.com
 2, adx-strategy-api-cn.statisticslinks.com
 2, adx.ads.heytapmobi.com
@@ -183,6 +203,7 @@ routing = 2
 2, ali-p2p-v2.pull.yximgs.com
 2, alicoccdncnc-xn.inter.71edge.com
 2, alicoccdnct-xn.inter.71edge.com
+2, alltbcsp2p.baidu.com
 2, alog.umeng.com
 2, alogus.umeng.com
 2, als.baidu.com
@@ -317,6 +338,7 @@ routing = 2
 2, cnzz.com
 2, collect.kugou.com
 2, commdata.v.qq.com
+2, commercial.shouji.360.cn
 2, conf.hpplay.cn
 2, config.chsmarttv.com
 2, config.inmobi.com
@@ -362,6 +384,7 @@ routing = 2
 2, events-drcn.op.dbankcloud.cn
 2, events.reddit.com
 2, events.redditmedia.com
+2, eventv1.leidong.rayenergytech.com
 2, fancyapi.com
 2, fclog.baidu.com
 2, feed-image.baidu.com
@@ -396,6 +419,8 @@ routing = 2
 2, grs.hicloud.com
 2, gslb.hpplay.cn
 2, gvideo.qpic.cn
+2, gw5.push.mcp.weibo.cn
+2, gw6.push.mcp.weibo.cn
 2, h-adashx.ut.taobao.com
 2, h.trace.qq.com
 2, h5.analytics.126.net
@@ -416,6 +441,8 @@ routing = 2
 2, hugelog.fcbox.com
 2, huichuan-mc.sm.cn
 2, huichuan.sm.cn
+2, huodong.ios.shouji.360.cn
+2, huodong.weibo.cn
 2, hw-ot-ad.a.yximgs.com
 2, hw-p2p-pull.video-voip.com
 2, hw-p2p.pull.yximgs.com
@@ -427,7 +454,9 @@ routing = 2
 2, i.l.inmobicdn.net
 2, iad.apple.com
 2, iad.g.163.com
+2, iadcontent.apple.com
 2, iadctest.qwapi.com
+2, iadmoo.apple.com
 2, iadmusicmat.music.126.net
 2, iadsdk.apple.com
 2, iadworkbench.apple.com
@@ -446,6 +475,8 @@ routing = 2
 2, impression-asia.liftoff.io
 2, impression.appsflyer.com
 2, in.treasuredata.com
+2, init.supersonicads.com
+2, inner-hw.huazirc.com
 2, ios.bugly.qq.com
 2, iot-eu-logser.realme.com
 2, iot-logser.realme.com
@@ -468,6 +499,7 @@ routing = 2
 2, ks-p2p.pull.yximgs.com
 2, ks.ferlytc.com
 2, ks.pull.yximgs.com
+2, kwpush.kuwo.cn
 2, l6.fancyapi.com
 2, launcher.smart-tv.cn
 2, launcherimg.smart-tv.cn
@@ -517,17 +549,21 @@ routing = 2
 2, logbak.hicloud.com
 2, logrcv.aiclk.com
 2, logrcv.yunxish.com
+2, logs-bigdata.yeehaw.com.cn
 2, logs.amap.com
 2, logservice.hicloud.com
 2, logservice1.hicloud.com
 2, logtj.kugou.com
 2, logupdate.avlyun.sec.miui.com
+2, logv2.ireader.com
 2, logwebs.kugou.com
+2, lookup.api.bsb.baidu.com
 2, luimg.baidu.com
 2, m-adnet.hiaiabc.com
 2, m.ad.zhangyue.com
 2, m.atm.youku.com
 2, m.shenshiads.com
+2, m1.ad.10010.com
 2, mapi.m.jd.com
 2, masdkv6.3g.qq.com
 2, mazu.m.qq.com
@@ -634,6 +670,7 @@ routing = 2
 2, policy.video.ptqy.gitv.tv
 2, pos.baidu.com
 2, prod-mediate-events.applovin.com
+2, prom-sdkv2.jysper.net
 2, promotion-partner.kuaishou.com
 2, proxy.advp.apple.com
 2, public.gdtimg.com
@@ -644,6 +681,8 @@ routing = 2
 2, qqdata.ab.qq.com
 2, qzs.gdtimg.com
 2, recommend-drcn.hms.dbankcloud.cn
+2, report.dxunion.cn
+2, report.tencentmusic.com
 2, report.tv.kohesport.qq.com
 2, res.hubcloud.com.cn
 2, res1.applovin.com
@@ -793,6 +832,7 @@ routing = 2
 2, tracelog-debug.yunxish.com
 2, track.lc.quark.cn
 2, track.uc.cn
+2, tracker-prd.aldi.com.cn
 2, tracker.ai.xiaomi.com
 2, tracker.gitee.com
 2, tracking.miui.com
@@ -819,8 +859,10 @@ routing = 2
 2, umengjmacs.m.taobao.com
 2, umini.shujupie.com
 2, union-mlog.bigda.com
+2, union-record.oss-cn-zhangjiakou.aliyuncs.com
 2, union.baidu.cn
 2, union.baidu.com
+2, unityads.unity3d.com
 2, update.avlyun.sec.miui.com
 2, update.lejiao.tv
 2, update0.aiclk.com
@@ -869,6 +911,7 @@ routing = 2
 2, wn.x.jd.com
 2, ws-keyboard.shouji.sogou.com
 2, ws.sj.qq.com
+2, ws.tapjoyads.com
 2, wv.inner-active.mobi
 2, wwads.cn
 2, wxa.wxs.qq.com
@@ -892,6 +935,7 @@ routing = 2
 2, ykad-data.youku.com
 2, ykad-gateway.youku.com
 2, ytx-file.110route.cn
+2, yumao.puata.info
 2, zeus.ad.xiaomi.com
 2, zhihu-web-analytics.zhihu.com
 2, zjres-ad.kajicam.com
