@@ -5,7 +5,7 @@
 | Name | Rules | Skipped | Description | File |
 | --- | ---: | ---: | --- | --- |
 | Reject | 6197 | 1 | 广告、恶意站点和跟踪拦截基础集合 | [common/Reject.arrs](./Reject.arrs) |
-| Ads_AWAvenue | 940 | 0 | 秋风广告规则 AWAvenue | [common/Ads_AWAvenue.arrs](./Ads_AWAvenue.arrs) |
+| Ads_AWAvenue | 945 | 0 | 秋风广告规则 AWAvenue | [common/Ads_AWAvenue.arrs](./Ads_AWAvenue.arrs) |
 | AI | 52 | 1 | 常见 AI 服务 | [common/AI.arrs](./AI.arrs) |
 | Proxy | 1566 | 2 | 常用代理域名集合 | [common/Proxy.arrs](./Proxy.arrs) |
 | ProxyGFW | 7604 | 1 | GFW 代理集合 | [common/ProxyGFW.arrs](./ProxyGFW.arrs) |
@@ -43,4 +43,4 @@
 | CDN | 4679 | 58 | SukkaW CDN 直连辅助 | [common/CDN.arrs](./CDN.arrs) |
 | CN_Radar | 175 | 0 | Cloudflare Radar 中国大陆域名增强补充 | [common/CN_Radar.arrs](./CN_Radar.arrs) |
 | GeoIP_CN | 9821 | 0 | GeoIP 中国大陆 IP CIDR | [common/GeoIP_CN.arrs](./GeoIP_CN.arrs) |
-| Geosite_CN | 5294 | 3 | Geosite 中国大陆域名规则 | [common/Geosite_CN.arrs](./Geosite_CN.arrs) |
+| Geosite_CN | 5296 | 3 | Geosite 中国大陆域名规则 | [common/Geosite_CN.arrs](./Geosite_CN.arrs) |
