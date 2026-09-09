@@ -1,7 +1,7 @@
 # NAME: Ads_AWAvenue
 # GENERATED-FOR: Anywhere Routing Rule Set
 # DESCRIPTION: 秋风广告规则 AWAvenue
-# RULES: 940
+# RULES: 945
 # SKIPPED: 0
 # SOURCES:
 # - https://raw.githubusercontent.com/TG-Twilight/AWAvenue-Ads-Rule/main/Filters/AWAvenue-Ads-Rule-Surge.list
@@ -50,7 +50,6 @@ routing = 2
 2, ad.tencentmusic.com
 2, ad.toutiao.com
 2, ad.v3mh.com
-2, ad.weibo.com
 2, ad.winrar.com.cn
 2, ad.ximalaya.com
 2, ad.xunkids.com
@@ -82,9 +81,11 @@ routing = 2
 2, adjust.com
 2, adks.hpplay.cn
 2, adlink-api.huan.tv
+2, adlog.vivo.com.cn
 2, adm.funshion.com
 2, admarketing.yahoo.net
 2, admobile.top
+2, adreq.vivo.com.cn
 2, ads-api-o.api.leiniao.com
 2, ads-api.tiktok.com
 2, ads-api.twitter.com
@@ -193,7 +194,9 @@ routing = 2
 2, adx.sogaha.cn
 2, adx.tuia.cn
 2, adxlog-adnet.vivo.com.cn
+2, adxlog.vivo.com.cn
 2, adxserver.ad.cmvideo.cn
+2, adxstatic.vivo.com.cn
 2, aegis.qq.com
 2, aem.dentsuchina.cn
 2, afs.googlesyndication.com
@@ -294,6 +297,7 @@ routing = 2
 2, bj.ad.track.66mobi.com
 2, books-analytics-events.apple.com
 2, bootpreload.uve.weibo.com
+2, brandadsstatic.vivo.com.cn
 2, browser.events.data.msn.cn
 2, browser.events.data.msn.com
 2, browsercfg-drcn.cloud.dbankcloud.cn
@@ -369,6 +373,7 @@ routing = 2
 2, downloadxml.changhong.upgrade2.huan.tv
 2, dsp-x.jd.com
 2, dsp.fcbox.com
+2, dsplog-adnet.vivo.com.cn
 2, dualstack-logs.amap.com
 2, dxp.baidu.com
 2, dyp2p-ali.douyucdn.cn
@@ -459,7 +464,6 @@ routing = 2
 2, iadmoo.apple.com
 2, iadmusicmat.music.126.net
 2, iadsdk.apple.com
-2, iadworkbench.apple.com
 2, ifacelog.iqiyi.com
 2, ifs.tanx.com
 2, ii.gdt.qq.com
@@ -706,7 +710,7 @@ routing = 2
 2, s8t.teads.tv
 2, saad.ms.zhangyue.net
 2, saas.hpplay.cn
-2, safebrowsing.urlsec.gg.com
+2, safebrowsing.urlsec.qq.com
 2, samsung-com.112.2o7.net
 2, samsungads.com
 2, saxysec.com
@@ -835,6 +839,7 @@ routing = 2
 2, tracker-prd.aldi.com.cn
 2, tracker.ai.xiaomi.com
 2, tracker.gitee.com
+2, tracking-adnet.vivo.com.cn
 2, tracking.miui.com
 2, tracking.rus.miui.com
 2, tuiguang.meitu.com

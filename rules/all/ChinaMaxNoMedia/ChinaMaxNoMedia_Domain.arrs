@@ -4,8 +4,8 @@
 # GENERATED-FOR: Anywhere Routing Rule Set
 # NOTE: DOMAIN rules are mapped to Anywhere domain suffix rules.
 # RULES: 0
-# SKIPPED: 110837
-# UPSTREAM-UPDATED: 2026-09-08 05:05:48
-# SKIPPED-TYPES: UNKNOWN=110837
+# SKIPPED: 110838
+# UPSTREAM-UPDATED: 2026-09-10 04:23:02
+# SKIPPED-TYPES: UNKNOWN=110838
 
 name = ChinaMaxNoMedia

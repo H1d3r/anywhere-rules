@@ -2,8 +2,8 @@
 # GENERATED-FOR: Anywhere Routing Rule Set
 # DESCRIPTION: Geosite 中国大陆域名规则
 # GEOSITE-CODE: GEOLOCATION-CN
-# RULES: 5294
-# SOURCE-RULES: 5297
+# RULES: 5296
+# SOURCE-RULES: 5299
 # SKIPPED: 3
 # SKIPPED-TYPES: Regex=3
 # SOURCES:
@@ -5043,6 +5043,7 @@ routing = 1
 2, yuanbei.biz
 2, yuanfudao.com
 2, yuanqi.tencent.com
+2, yuanqidesk.com
 2, yuanshen.com
 2, yuansouti.com
 2, yuantiku.com
@@ -5179,6 +5180,7 @@ routing = 1
 2, zhcw.com
 2, zhenai.com
 2, zhfund.com
+2, zhhainiao.com
 2, zhi10.com
 2, zhibo8.cc
 2, zhibo8.com
