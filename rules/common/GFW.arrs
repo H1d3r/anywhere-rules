@@ -1,7 +1,7 @@
 # NAME: GFW
 # GENERATED-FOR: Anywhere Routing Rule Set
 # DESCRIPTION: GFW 域名列表
-# RULES: 4400
+# RULES: 4384
 # SKIPPED: 0
 # SOURCES:
 # - https://raw.githubusercontent.com/Loyalsoldier/v2ray-rules-dat/release/gfw.txt
@@ -225,19 +225,15 @@ icon-light = iVBORw0KGgoAAAANSUhEUgAAAJAAAACQCAYAAADnRuK4AAAAAXNSR0IArs4c6QAAAAl
 2, apartmentratings.com
 2, apartments.com
 2, apat1989.org
-2, api-gl.lbkrs.com
 2, api-secure.recaptcha.net
 2, api-verify.recaptcha.net
 2, api.ai
-2, api.futunn.com
-2, api.lbkrs.com
 2, api.moomoobull.com
 2, api.palworldgame.com
 2, api.pureapk.com
 2, api.recaptcha.net
 2, api.shuaiapi.com
 2, api.steampowered.com
-2, api5.futunn.com
 2, apiary.io
 2, apigee.com
 2, apk.support
@@ -681,7 +677,6 @@ icon-light = iVBORw0KGgoAAAANSUhEUgAAAJAAAACQCAYAAADnRuK4AAAAAXNSR0IArs4c6QAAAAl
 2, cdn-images.mailchimp.com
 2, cdn-telegram.org
 2, cdn.arstechnica.net
-2, cdn.futustatic.com
 2, cdn.jwplayer.com
 2, cdn.printfriendly.com
 2, cdn.seatguru.com
@@ -831,7 +826,6 @@ icon-light = iVBORw0KGgoAAAANSUhEUgAAAJAAAACQCAYAAADnRuK4AAAAAXNSR0IArs4c6QAAAAl
 2, cn.sandscotaicentral.com
 2, cn.shafaqna.com
 2, cn.theaustralian.com.au
-2, cn.uptodown.com
 2, cna.com.tw
 2, cnbbnews.wordpress.com
 2, cnbeta.com.tw
@@ -1060,7 +1054,6 @@ icon-light = iVBORw0KGgoAAAANSUhEUgAAAJAAAACQCAYAAADnRuK4AAAAAXNSR0IArs4c6QAAAAl
 2, doujincafe.com
 2, dowjones.io
 2, download.dappcdn.com
-2, download.futunn.com
 2, dpool.top
 2, dpp.org.tw
 2, dpr.info
@@ -2376,7 +2369,6 @@ icon-light = iVBORw0KGgoAAAANSUhEUgAAAJAAAACQCAYAAADnRuK4AAAAAXNSR0IArs4c6QAAAAl
 2, lyfhk.net
 2, lzjscript.com
 2, lzmtnews.org
-2, m.hkgalden.com
 2, m.me
 2, m.moegirl.org
 2, macgamestore.com
@@ -2785,12 +2777,8 @@ icon-light = iVBORw0KGgoAAAANSUhEUgAAAJAAAACQCAYAAADnRuK4AAAAAXNSR0IArs4c6QAAAAl
 2, open.firstory.me
 2, openai.com
 2, openapi-quote.longbridge.cn
-2, openapi-quote.longbridge.com
 2, openapi-trade.longbridge.cn
-2, openapi-trade.longbridge.com
-2, openapi.futunn.com
 2, openapi.longbridge.cn
-2, openapi.longbridge.com
 2, openart.ai
 2, opencritic.com
 2, opendemocracy.net
@@ -3046,9 +3034,8 @@ icon-light = iVBORw0KGgoAAAANSUhEUgAAAJAAAACQCAYAAADnRuK4AAAAAXNSR0IArs4c6QAAAAl
 2, qoos.com
 2, qq.co.za
 2, qstatus.com
-2, qtcard.futunn.com
-2, qtcardfthk.futufin.com
 2, qtrac.eu
+2, quakemachinex.com
 2, questvisual.com
 2, quitccp.org
 2, quiz.directory
@@ -3453,7 +3440,6 @@ icon-light = iVBORw0KGgoAAAANSUhEUgAAAJAAAACQCAYAAADnRuK4AAAAAXNSR0IArs4c6QAAAAl
 2, supervpn.net
 2, superzooi.com
 2, supjav.com
-2, support.futunn.com
 2, supremecourt.gov
 2, suprememastertv.com
 2, surfeasy.com
@@ -3717,8 +3703,6 @@ icon-light = iVBORw0KGgoAAAANSUhEUgAAAJAAAACQCAYAAADnRuK4AAAAAXNSR0IArs4c6QAAAAl
 2, tou.tv
 2, tpi.org.tw
 2, tracfone.com
-2, trade.futunn.com
-2, trade.longportapp.com
 2, tradeup.com
 2, tradingview.com
 2, translate.goog
