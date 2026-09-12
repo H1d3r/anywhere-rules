@@ -1,7 +1,7 @@
 # NAME: CDN
 # GENERATED-FOR: Anywhere Routing Rule Set
 # DESCRIPTION: SukkaW CDN 直连辅助
-# RULES: 4679
+# RULES: 4681
 # SKIPPED: 58
 # SKIPPED-TYPES: DOMAIN-WILDCARD=58
 # SOURCES:
@@ -3079,6 +3079,7 @@ routing = 1
 2, sync.getpublica.com
 2, tag.unifyintent.com
 2, tags.nationwide.com
+2, thumb.wikimedia.org
 2, thumbs.onlyfans.com
 2, thumbs2.sendvid.com
 2, tile2.intervals.icu
@@ -3293,6 +3294,7 @@ routing = 1
 2, rapid-cdn.yottaa.com
 2, reload.getsentry.net
 2, res-3.cdn.office.net
+2, resources.redbull.tv
 2, resources.whatwg.org
 2, rs-cdn.splashtop.com
 2, rules1.clearurls.xyz
