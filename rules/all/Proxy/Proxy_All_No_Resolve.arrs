@@ -3,9 +3,9 @@
 # SOURCE: https://github.com/blackmatrix7/ios_rule_script/blob/master/rule/Surge/Proxy/Proxy_All_No_Resolve.list
 # GENERATED-FOR: Anywhere Routing Rule Set
 # NOTE: DOMAIN rules are mapped to Anywhere domain suffix rules.
-# RULES: 6915
+# RULES: 6916
 # SKIPPED: 8
-# UPSTREAM-UPDATED: 2026-09-08 05:03:30
+# UPSTREAM-UPDATED: 2026-09-14 04:08:54
 # SKIPPED-TYPES: USER-AGENT=8
 
 name = Proxy
@@ -4620,6 +4620,7 @@ name = Proxy
 2, qstatus.com
 2, qtrac.eu
 2, qtweeter.com
+2, quakemachinex.com
 2, quannengshen.org
 2, quantumbooter.net
 2, quay.io
