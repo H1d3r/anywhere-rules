@@ -1,7 +1,7 @@
 # NAME: CDN
 # GENERATED-FOR: Anywhere Routing Rule Set
 # DESCRIPTION: SukkaW CDN 直连辅助
-# RULES: 4681
+# RULES: 4687
 # SKIPPED: 58
 # SKIPPED-TYPES: DOMAIN-WILDCARD=58
 # SOURCES:
@@ -601,6 +601,7 @@ routing = 1
 2, aimg.fc2.com
 2, ajax.cat.net
 2, apperoni.top
+2, axiom-cdn.io
 2, axis-cdn.net
 2, b.peatio.com
 2, b.sf-syn.com
@@ -1061,6 +1062,7 @@ routing = 1
 2, static.dw.com
 2, static.ffx.io
 2, static.iyf.tv
+2, static.jup.ag
 2, static.k2s.cc
 2, static.nrk.no
 2, static.ui.com
@@ -3080,6 +3082,7 @@ routing = 1
 2, tag.unifyintent.com
 2, tags.nationwide.com
 2, thumb.wikimedia.org
+2, thumbnails.padre.gg
 2, thumbs.onlyfans.com
 2, thumbs2.sendvid.com
 2, tile2.intervals.icu
@@ -4130,6 +4133,7 @@ routing = 1
 2, tools-static.wmflabs.org
 2, typescript.azureedge.net
 2, ubistatic2-a.ubisoft.com
+2, ugc.production.linktr.ee
 2, viu-static.akamaized.net
 2, web-assets.zendesk.co.jp
 2, wl-apps.yourwebsite.life
@@ -4153,6 +4157,7 @@ routing = 1
 2, cdn.registerdisney.go.com
 2, changelog-widget.canny.io
 2, chunk-composing.canva.com
+2, coin-images.coingecko.com
 2, components.justanswer.com
 2, cors-proxy.htmldriven.com
 2, crashlytics2.l.google.com
@@ -4325,6 +4330,7 @@ routing = 1
 2, app-static-prod.posthog.com
 2, article-image-ix.nikkei.com
 2, assets.braintreegateway.com
+2, assets.production.linktr.ee
 2, assets.weather-forecast.com
 2, cdn-lfs-us-1.huggingface.co
 2, cdn-live.foreignaffairs.com
