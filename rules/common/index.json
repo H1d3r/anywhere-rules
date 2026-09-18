@@ -1,6 +1,6 @@
 {
   "total_files": 41,
-  "total_rules": 152892,
+  "total_rules": 152893,
   "total_skipped": 75,
   "files": [
     {
@@ -370,7 +370,7 @@
       "name": "ChinaDomain",
       "description": "中国大陆常见域名直连",
       "output_path": "common/ChinaDomain.arrs",
-      "rule_count": 865,
+      "rule_count": 866,
       "skipped_count": 4,
       "unsupported_types": {
         "DOMAIN-WILDCARD": 1,

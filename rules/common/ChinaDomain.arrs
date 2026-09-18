@@ -1,7 +1,7 @@
 # NAME: ChinaDomain
 # GENERATED-FOR: Anywhere Routing Rule Set
 # DESCRIPTION: 中国大陆常见域名直连
-# RULES: 865
+# RULES: 866
 # SKIPPED: 4
 # SKIPPED-TYPES: DOMAIN-WILDCARD=1, USER-AGENT=3
 # SOURCES:
@@ -783,6 +783,7 @@ routing = 1
 2, openinstall.io
 2, oppomobile.com
 2, qyerstatic.com
+2, rednotecdn.com
 2, res.viayoo.com
 2, steamchina.com
 2, tianyancha.com
