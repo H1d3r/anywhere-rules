@@ -1,6 +1,6 @@
 {
   "total_files": 40,
-  "total_rules": 97388,
+  "total_rules": 97392,
   "total_skipped": 125,
   "files": [
     {
@@ -356,7 +356,7 @@
       "name": "ChinaDomain",
       "description": "中国大陆常见域名直连",
       "output_path": "common/ChinaDomain.arrs",
-      "rule_count": 865,
+      "rule_count": 866,
       "skipped_count": 4,
       "unsupported_types": {
         "DOMAIN-WILDCARD": 1,
@@ -449,7 +449,7 @@
       "name": "CDN",
       "description": "SukkaW CDN 直连辅助",
       "output_path": "common/CDN.arrs",
-      "rule_count": 4687,
+      "rule_count": 4690,
       "skipped_count": 58,
       "unsupported_types": {
         "DOMAIN-WILDCARD": 58
