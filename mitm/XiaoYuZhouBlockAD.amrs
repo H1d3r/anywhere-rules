@@ -6,4 +6,5 @@ icon-light = iVBORw0KGgoAAAANSUhEUgAAAJAAAACQCAIAAABoJHXvAAAAAXNSR0IArs4c6QAAAAl
 hostname = api.xiaoyuzhoufm.com
 
 1, 5, ^https?://api\.xiaoyuzhoufm\.com/v1/discovery-feed/list(?:[/?#]|$), remove-where-field-in, $.data, type, "[""DISCOVERY_HEADER"",""DISCOVERY_BANNER""]"
+1, 5, ^https?://api\.xiaoyuzhoufm\.com/v1/(?:related-episode|operation-resource)/list(?:[/?#]|$), replace, $.data, []
 0, 0, ^https?://api\.xiaoyuzhoufm\.com/v\d+/(?:flash(?:-screen)?(?:/list)?|search/(?:get-express|get-preset)|category/list-daily-suggestion)(?:[/?#]|$), 2, {}
