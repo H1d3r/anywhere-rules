@@ -1,7 +1,7 @@
 # NAME: CDN
 # GENERATED-FOR: Anywhere Routing Rule Set
 # DESCRIPTION: SukkaW CDN 直连辅助
-# RULES: 4691
+# RULES: 4697
 # SKIPPED: 58
 # SKIPPED-TYPES: DOMAIN-WILDCARD=58
 # SOURCES:
@@ -2198,6 +2198,7 @@ routing = 1
 2, cdn.growthbook.io
 2, cdn.headwayapp.co
 2, cdn.himetrica.com
+2, cdn.infrawire.net
 2, cdn.ipregistry.co
 2, cdn.jetphotos.com
 2, cdn.joinhoney.com
@@ -2610,6 +2611,7 @@ routing = 1
 2, icons.ferndocs.com
 2, icons.veryicon.com
 2, iframe.nbcnews.com
+2, image-tc.galaxy.tf
 2, image.jnislniv.xyz
 2, image.yuntu.com.tw
 2, image.yymanhua.com
@@ -3090,6 +3092,7 @@ routing = 1
 2, thumbs2.sendvid.com
 2, tile2.intervals.icu
 2, tiles.mapillary.com
+2, tileserver.b10s.net
 2, time.cloudflare.com
 2, tuf-repo.github.com
 2, ui.contentstack.com
@@ -3610,6 +3613,7 @@ routing = 1
 2, themes.fourthwall.com
 2, tile.openstreetmap.de
 2, tile.openstreetmap.fr
+2, tiles.flightaware.com
 2, tiles.openfreemap.org
 2, uploads.bikeindex.org
 2, uploads.sitepoint.com
@@ -3758,6 +3762,7 @@ routing = 1
 2, packd.liuxingbaoyu.xyz
 2, parts.blog.livedoor.jp
 2, patreonusercontent.com
+2, photos.flightaware.com
 2, pic.onlinewebfonts.com
 2, pkg-cdn.jetbrains.team
 2, platform.instagram.com
@@ -3895,6 +3900,7 @@ routing = 1
 2, cdn.ready-market.com.tw
 2, cdn.survey.medallia.com
 2, cdn.worldvectorlogo.com
+2, cdn1.singteldigital.com
 2, cdnstatic.porno-cum.com
 2, cdnstatic.tencentcs.com
 2, cms.worldpokerdeals.com

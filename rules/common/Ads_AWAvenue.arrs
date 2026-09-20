@@ -1,7 +1,7 @@
 # NAME: Ads_AWAvenue
 # GENERATED-FOR: Anywhere Routing Rule Set
 # DESCRIPTION: 秋风广告规则 AWAvenue
-# RULES: 945
+# RULES: 956
 # SKIPPED: 0
 # SOURCES:
 # - https://raw.githubusercontent.com/TG-Twilight/AWAvenue-Ads-Rule/main/Filters/AWAvenue-Ads-Rule-Surge.list
@@ -82,6 +82,7 @@ routing = 2
 2, adlink-api.huan.tv
 2, adlog.vivo.com.cn
 2, adm.funshion.com
+2, adm.zhangyuyidong.cn
 2, admarketing.yahoo.net
 2, admobile.top
 2, adreq.vivo.com.cn
@@ -146,6 +147,7 @@ routing = 2
 2, adsfs.oppomobile.com
 2, adslvfile.qq.com
 2, adsmart.konka.com
+2, adsmartget.datads.cn
 2, adsmind.gdtimg.com
 2, adsmind.ugdtimg.com
 2, adsmoloco.com
@@ -362,6 +364,7 @@ routing = 2
 2, data.mistat.xiaomi.com
 2, datacollection.uve.weibo.com
 2, dc.sigmob.cn
+2, de.ad.gameley.com
 2, de.tynt.com
 2, diagnosis.ad.xiaomi.com
 2, dlogs.bwton.com
@@ -489,6 +492,7 @@ routing = 2
 2, iyfbodn.com
 2, janapi.jd.com
 2, jiguang.cn
+2, jp.ad.gameley.com
 2, jpush.cn
 2, jpush.html5.qq.com
 2, jpush.io
@@ -602,6 +606,7 @@ routing = 2
 2, monitor.uu.qq.com
 2, monsetting.toutiao.com
 2, mores.toponad.com
+2, mpcfg.fancydsp.com
 2, ms.applovin.com
 2, ms.applvn.com
 2, ms4.applovin.com
@@ -716,16 +721,20 @@ routing = 2
 2, scs.openspeech.cn
 2, sdk-ab-config.qquanquan.com
 2, sdk-cache.video.ptqy.gitv.tv
+2, sdk-track.66mobi.com
 2, sdk.1rtb.net
 2, sdk.ad.smaato.net
+2, sdk.adhuanxiao.com
 2, sdk.adx.adwangmai.com
 2, sdk.aqyad.com
 2, sdk.beizi.biz
 2, sdk.cferw.com
 2, sdk.e.qq.com
 2, sdk.hzsanjiaomao.com
+2, sdk.hzzfcm.com
 2, sdk.markmedia.com.cn
 2, sdk.mobads.adwangmai.com
+2, sdk.zhangyuyidong.cn
 2, sdkapi.cloooud.com
 2, sdkapp.uve.weibo.com
 2, sdkauth.hpplay.cn
@@ -734,6 +743,7 @@ routing = 2
 2, sdkconfig.ad.xiaomi.com
 2, sdkconfig.play.aiseet.atianqi.com
 2, sdkconfig.video.qq.com
+2, sdklog.zhangyuyidong.cn
 2, sdkoptedge.chinanetcenter.com
 2, sdkreport.e.qq.com
 2, sdktmp.hubcloud.com.cn
@@ -926,6 +936,7 @@ routing = 2
 2, wxsnsdy.tc.qq.com
 2, wxsnsdy.wxs.qq.com
 2, wxsnsdythumb.wxs.qq.com
+2, xadsmartget.adgain.cn
 2, xc.gdt.qq.com
 2, xcx.dcad01.com
 2, xiaomi-dtv.m.cn.miaozhen.com
