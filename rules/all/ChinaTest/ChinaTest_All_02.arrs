@@ -3,12 +3,18 @@
 # SOURCE: https://github.com/blackmatrix7/ios_rule_script/blob/master/rule/Surge/ChinaTest/ChinaTest_All.list
 # GENERATED-FOR: Anywhere Routing Rule Set
 # NOTE: DOMAIN rules are mapped to Anywhere domain suffix rules.
-# RULES: 10965
+# RULES: 10974
 # SKIPPED: 0
-# SOURCE-RULES: 110965
-# UPSTREAM-UPDATED: 2026-09-10 04:21:03
+# SOURCE-RULES: 110974
+# UPSTREAM-UPDATED: 2026-09-22 05:33:26
 
 name = ChinaTest_02
+2, xmseaview.com
+2, xmseeyouyima.com
+2, xmsgame.com
+2, xmsixian.com
+2, xmsiyb.com
+2, xmsj.org
 2, xmsme.com
 2, xmsmjk.com
 2, xmsoft.com
@@ -4148,6 +4154,7 @@ name = ChinaTest_02
 2, youbangyun.com
 2, youbbs.org
 2, youbian.com
+2, youbianku.com
 2, youbibi.com
 2, youbike.me
 2, youbikecn.com
@@ -8136,6 +8143,7 @@ name = ChinaTest_02
 2, zhonglianhuashu.com
 2, zhonglianhuaxin.com
 2, zhonglianyx.com
+2, zhongliujie.com
 2, zhongliusp.com
 2, zhongliuyiyuan.com
 2, zhonglue-consulting.com
@@ -10310,6 +10318,7 @@ name = ChinaTest_02
 2, zuixu.com
 2, zuiyanke.com
 2, zuiyou.com
+2, zuiyou.tv
 2, zuiyouxi.com
 2, zuizhifu.com
 2, zuji360.com

@@ -3,9 +3,9 @@
 # SOURCE: https://github.com/blackmatrix7/ios_rule_script/blob/master/rule/Surge/Global/Global_All.list
 # GENERATED-FOR: Anywhere Routing Rule Set
 # NOTE: DOMAIN rules are mapped to Anywhere domain suffix rules.
-# RULES: 35047
+# RULES: 35052
 # SKIPPED: 47
-# UPSTREAM-UPDATED: 2026-09-18 04:53:34
+# UPSTREAM-UPDATED: 2026-09-22 05:32:45
 # SKIPPED-TYPES: PROCESS-NAME=1, USER-AGENT=46
 
 name = Global
@@ -6157,6 +6157,7 @@ name = Global
 2, code.org
 2, codeberg.org
 2, codeberg.page
+2, codebuff.com
 2, codecademy.com
 2, codeforaliving.io
 2, codeforces.com
@@ -9667,11 +9668,13 @@ name = Global
 2, fire-emblem-heroes.com
 2, firebase-settings.crashlytics.com
 2, firebase.com
+2, firebase.dev
 2, firebase.io
 2, firebaseapp.com
 2, firech.at
 2, fireemblemawakening.com
 2, fireflyresearch.ac.uk
+2, firefox-portal-detection.com
 2, firefox.hu
 2, firefoxtweetmachine.com
 2, firefoxusercontent.com
@@ -10067,6 +10070,7 @@ name = Global
 2, freebigmovies.com
 2, freebs.com
 2, freebsd.org
+2, freebuff.com
 2, freecamsfan.com
 2, freecamstars.com
 2, freecartoons.biz
@@ -23967,6 +23971,7 @@ name = Global
 2, textminingcentre.ac.uk
 2, texttobuy.org
 2, texture.com
+2, tfbnw.net
 2, tferwq.com
 2, tfsallin.net
 2, tgac.ac.uk

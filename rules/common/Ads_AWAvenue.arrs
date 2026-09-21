@@ -1,7 +1,7 @@
 # NAME: Ads_AWAvenue
 # GENERATED-FOR: Anywhere Routing Rule Set
 # DESCRIPTION: 秋风广告规则 AWAvenue
-# RULES: 956
+# RULES: 958
 # SKIPPED: 0
 # SOURCES:
 # - https://raw.githubusercontent.com/TG-Twilight/AWAvenue-Ads-Rule/main/Filters/AWAvenue-Ads-Rule-Surge.list
@@ -669,6 +669,8 @@ routing = 2
 2, pgdt.gtimg.cn
 2, pgdt.ugdtimg.com
 2, pglstatp-toutiao.com
+2, pica-a-display.diwodiwo.xyz
+2, pica-ad-api.diwodiwo.xyz
 2, pig.pupuapi.com
 2, pin.hpplay.cn
 2, pixon.ads-pixiv.net
