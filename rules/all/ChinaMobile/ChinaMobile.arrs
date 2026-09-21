@@ -3,9 +3,9 @@
 # SOURCE: https://github.com/blackmatrix7/ios_rule_script/blob/master/rule/Surge/ChinaMobile/ChinaMobile.list
 # GENERATED-FOR: Anywhere Routing Rule Set
 # NOTE: DOMAIN rules are mapped to Anywhere domain suffix rules.
-# RULES: 36
+# RULES: 38
 # SKIPPED: 0
-# UPSTREAM-UPDATED: 2025-06-06 09:17:32
+# UPSTREAM-UPDATED: 2026-09-22 05:33:45
 
 name = ChinaMobile
 2, 10086.cn
@@ -20,10 +20,12 @@ name = ChinaMobile
 2, cmccb2b.com
 2, cmdcl.cn
 2, cmdcxls.com
+2, cmecloud.cn
 2, cmicrwx.cn
 2, cmpassport.com
 2, cmvideo.cn
 2, cxzx10086.cn
+2, ecpan.cn
 2, fetion-portal.com
 2, fetionpic.com
 2, fxltsbl.com

@@ -5,8 +5,8 @@
 # NOTE: DOMAIN rules are mapped to Anywhere domain suffix rules.
 # RULES: 100000
 # SKIPPED: 31
-# SOURCE-RULES: 110965
-# UPSTREAM-UPDATED: 2026-09-10 04:21:03
+# SOURCE-RULES: 110974
+# UPSTREAM-UPDATED: 2026-09-22 05:33:26
 # SKIPPED-TYPES: USER-AGENT=31
 
 name = ChinaTest_01
@@ -37331,6 +37331,7 @@ name = ChinaTest_01
 2, fnos.net
 2, fnrcw.com
 2, fnrczp.com
+2, fnrrc.com
 2, fnsbqvz.com
 2, fnscore.com
 2, fnwlzz.com
@@ -40769,6 +40770,7 @@ name = ChinaTest_01
 2, gongkongsaas.com
 2, gonglf.com
 2, gonglve.net
+2, gongniukaiguan.net
 2, gongnou.com
 2, gongpin.net
 2, gongpingjia.com
@@ -65516,6 +65518,7 @@ name = ChinaTest_01
 2, mdbchina.com
 2, mdbimg.com
 2, mdclub.org
+2, mddclass.com
 2, mdddg.com
 2, mddj.com
 2, mddlsa.com
@@ -76218,6 +76221,7 @@ name = ChinaTest_01
 2, qudao168.com
 2, qudaowuyou.com
 2, qudayun.com
+2, qudian.com
 2, qudingshui.com
 2, qudong51.net
 2, qudong9.com
@@ -91281,6 +91285,7 @@ name = ChinaTest_01
 2, uboat100.com
 2, uborn.net
 2, uboxol.com
+2, uboxs.com
 2, ubs001.com
 2, ubtrobot.com
 2, ubuant.com
@@ -93279,6 +93284,7 @@ name = ChinaTest_01
 2, vx.com
 2, vx56.com
 2, vxe.com
+2, vxhcm.com
 2, vxia.net
 2, vxiaocheng.com
 2, vxinyou.com
@@ -100004,9 +100010,3 @@ name = ChinaTest_01
 2, xmrdtx.com
 2, xmruanci.com
 2, xmruiyou.com
-2, xmseaview.com
-2, xmseeyouyima.com
-2, xmsgame.com
-2, xmsixian.com
-2, xmsiyb.com
-2, xmsj.org

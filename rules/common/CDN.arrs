@@ -1,7 +1,7 @@
 # NAME: CDN
 # GENERATED-FOR: Anywhere Routing Rule Set
 # DESCRIPTION: SukkaW CDN 直连辅助
-# RULES: 4697
+# RULES: 4699
 # SKIPPED: 58
 # SKIPPED-TYPES: DOMAIN-WILDCARD=58
 # SOURCES:
@@ -1929,6 +1929,7 @@ routing = 1
 2, images.axios.com
 2, images.bfmtv.com
 2, images.drata.com
+2, images.hibob.com
 2, images.nebula.tv
 2, images.pling.com
 2, images.plurk.com
@@ -3950,6 +3951,7 @@ routing = 1
 2, media-cdn.atlassian.com
 2, media-cdn.epicgames.com
 2, media-cms.onesignal.com
+2, media-process.hibob.com
 2, media.contentapi.ea.com
 2, media.geeksforgeeks.org
 2, media.nbclosangeles.com
