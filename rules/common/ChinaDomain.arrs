@@ -1,7 +1,7 @@
 # NAME: ChinaDomain
 # GENERATED-FOR: Anywhere Routing Rule Set
 # DESCRIPTION: 中国大陆常见域名直连
-# RULES: 866
+# RULES: 867
 # SKIPPED: 4
 # SKIPPED-TYPES: DOMAIN-WILDCARD=1, USER-AGENT=3
 # SOURCES:
@@ -289,6 +289,7 @@ routing = 1
 2, qiniu.com
 2, qixin.com
 2, qzone.com
+2, rnote.com
 2, roblox.cn
 2, sifou.com
 2, sinajs.cn
