@@ -1,7 +1,7 @@
 # NAME: GFW
 # GENERATED-FOR: Anywhere Routing Rule Set
 # DESCRIPTION: GFW 域名列表
-# RULES: 4384
+# RULES: 4386
 # SKIPPED: 0
 # SOURCES:
 # - https://raw.githubusercontent.com/Loyalsoldier/v2ray-rules-dat/release/gfw.txt
@@ -763,6 +763,7 @@ name = GFW
 2, chinesegay.org
 2, chinesen.de
 2, chinesenews.net.au
+2, chineseposters.net
 2, chineseradioseattle.com
 2, chineseupress.com
 2, chingcheong.com
@@ -2685,6 +2686,7 @@ name = GFW
 2, nordstromrack.com
 2, nordvpn.com
 2, nos.nl
+2, note.com
 2, notepad-plus-plus.org
 2, nottinghampost.com
 2, now.com
