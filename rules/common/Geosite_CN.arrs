@@ -2,8 +2,8 @@
 # GENERATED-FOR: Anywhere Routing Rule Set
 # DESCRIPTION: Geosite 中国大陆域名规则
 # GEOSITE-CODE: GEOLOCATION-CN
-# RULES: 5383
-# SOURCE-RULES: 5386
+# RULES: 5384
+# SOURCE-RULES: 5387
 # SKIPPED: 3
 # SKIPPED-TYPES: Regex=3
 # SOURCES:
@@ -4067,6 +4067,7 @@ routing = 1
 2, sinopecnews.com.cn
 2, sinopecsales.com
 2, sipeed.com
+2, sjfls6.com
 2, sjwyx.com
 2, skillhub.cn
 2, skimit.net
