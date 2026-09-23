@@ -5,8 +5,8 @@
 # NOTE: DOMAIN rules are mapped to Anywhere domain suffix rules.
 # RULES: 100000
 # SKIPPED: 31
-# SOURCE-RULES: 110974
-# UPSTREAM-UPDATED: 2026-09-22 05:33:26
+# SOURCE-RULES: 110975
+# UPSTREAM-UPDATED: 2026-09-24 04:59:34
 # SKIPPED-TYPES: USER-AGENT=31
 
 name = ChinaTest_01
@@ -83249,6 +83249,7 @@ name = ChinaTest_01
 2, sjf029.com
 2, sjfcdn.com
 2, sjfh168.com
+2, sjfls6.com
 2, sjfpro.com
 2, sjfzxm.com
 2, sjg8.com
@@ -100009,4 +100010,3 @@ name = ChinaTest_01
 2, xmrbi.com
 2, xmrdtx.com
 2, xmruanci.com
-2, xmruiyou.com

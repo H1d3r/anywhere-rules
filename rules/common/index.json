@@ -1,6 +1,6 @@
 {
   "total_files": 40,
-  "total_rules": 97504,
+  "total_rules": 97506,
   "total_skipped": 125,
   "files": [
     {
@@ -449,7 +449,7 @@
       "name": "CDN",
       "description": "SukkaW CDN 直连辅助",
       "output_path": "common/CDN.arrs",
-      "rule_count": 4699,
+      "rule_count": 4700,
       "skipped_count": 58,
       "unsupported_types": {
         "DOMAIN-WILDCARD": 58
@@ -488,7 +488,7 @@
       "name": "Geosite_CN",
       "description": "Geosite 中国大陆域名规则",
       "output_path": "common/Geosite_CN.arrs",
-      "rule_count": 5383,
+      "rule_count": 5384,
       "skipped_count": 3,
       "unsupported_types": {
         "Regex": 3

@@ -3,9 +3,9 @@
 # SOURCE: https://github.com/blackmatrix7/ios_rule_script/blob/master/rule/Surge/Proxy/Proxy_All.list
 # GENERATED-FOR: Anywhere Routing Rule Set
 # NOTE: DOMAIN rules are mapped to Anywhere domain suffix rules.
-# RULES: 6916
+# RULES: 6918
 # SKIPPED: 8
-# UPSTREAM-UPDATED: 2026-09-14 04:08:54
+# UPSTREAM-UPDATED: 2026-09-24 04:59:17
 # SKIPPED-TYPES: USER-AGENT=8
 
 name = Proxy
@@ -1105,6 +1105,7 @@ name = Proxy
 2, chinesen.de
 2, chinesenews.net.au
 2, chinesepen.org
+2, chineseposters.net
 2, chineseradioseattle.com
 2, chinesetalks.net
 2, chineseupress.com
@@ -4046,6 +4047,7 @@ name = Proxy
 2, nordstromrack.com
 2, nordvpn.com
 2, nos.nl
+2, note.com
 2, notepad-plus-plus.org
 2, notion.so
 2, nottinghampost.com

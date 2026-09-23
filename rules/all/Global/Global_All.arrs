@@ -3,9 +3,9 @@
 # SOURCE: https://github.com/blackmatrix7/ios_rule_script/blob/master/rule/Surge/Global/Global_All.list
 # GENERATED-FOR: Anywhere Routing Rule Set
 # NOTE: DOMAIN rules are mapped to Anywhere domain suffix rules.
-# RULES: 35052
+# RULES: 35054
 # SKIPPED: 47
-# UPSTREAM-UPDATED: 2026-09-22 05:32:45
+# UPSTREAM-UPDATED: 2026-09-24 04:58:55
 # SKIPPED-TYPES: PROCESS-NAME=1, USER-AGENT=46
 
 name = Global
@@ -29259,6 +29259,7 @@ name = Global
 2, chinesen.de
 2, chinesenews.net.au
 2, chinesepen.org
+2, chineseposters.net
 2, chineseradioseattle.com
 2, chinesetalks.net
 2, chineseupress.com
@@ -32179,6 +32180,7 @@ name = Global
 2, nordstromrack.com
 2, nordvpn.com
 2, nos.nl
+2, note.com
 2, notepad-plus-plus.org
 2, notion.so
 2, nottinghampost.com
