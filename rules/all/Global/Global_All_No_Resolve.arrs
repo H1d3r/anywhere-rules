@@ -3,9 +3,9 @@
 # SOURCE: https://github.com/blackmatrix7/ios_rule_script/blob/master/rule/Surge/Global/Global_All_No_Resolve.list
 # GENERATED-FOR: Anywhere Routing Rule Set
 # NOTE: DOMAIN rules are mapped to Anywhere domain suffix rules.
-# RULES: 35054
+# RULES: 35053
 # SKIPPED: 47
-# UPSTREAM-UPDATED: 2026-09-24 04:58:55
+# UPSTREAM-UPDATED: 2026-09-26 04:58:34
 # SKIPPED-TYPES: PROCESS-NAME=1, USER-AGENT=46
 
 name = Global
@@ -15015,7 +15015,6 @@ name = Global
 2, likee.com
 2, likeeapp.ru
 2, likeevideo.com
-2, likeevideo.ru
 2, likeseiyu.com
 2, liketruyen.net
 2, liketwice.com
