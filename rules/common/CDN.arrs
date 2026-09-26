@@ -1,7 +1,7 @@
 # NAME: CDN
 # GENERATED-FOR: Anywhere Routing Rule Set
 # DESCRIPTION: SukkaW CDN 直连辅助
-# RULES: 4700
+# RULES: 4701
 # SKIPPED: 58
 # SKIPPED-TYPES: DOMAIN-WILDCARD=58
 # SOURCES:
@@ -1209,6 +1209,7 @@ routing = 1
 2, d.newsweek.com
 2, dc-cdn.cdw.com
 2, descopecdn.com
+2, dma.canyon.com
 2, doppiocdn.live
 2, dummyimage.com
 2, ebaystatic.com
@@ -2335,7 +2336,6 @@ routing = 1
 2, img4.airdroid.com
 2, img6.airdroid.com
 2, imgcdn.cna.com.tw
-2, ipfs.ecolatam.com
 2, js.chilipiper.com
 2, js.convertflow.co
 2, js1.chargebee.com
@@ -2999,6 +2999,7 @@ routing = 1
 2, media.breitbart.com
 2, media.crazyshit.com
 2, media.glassdoor.com
+2, media.karousell.com
 2, media.newyorker.com
 2, media.shopimind.com
 2, media.strapiapp.com
