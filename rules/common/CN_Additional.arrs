@@ -1,7 +1,7 @@
 # NAME: CN_Additional
 # GENERATED-FOR: Anywhere Routing Rule Set
 # DESCRIPTION: 中国大陆域名补充
-# RULES: 43869
+# RULES: 44351
 # SKIPPED: 0
 # SOURCES:
 # - https://static-file-global.353355.xyz/rules/cn-additional-list.txt
@@ -99,6 +99,7 @@ routing = 1
 2, 05sjk.com
 2, 05wang.com
 2, 070675.cn
+2, 07073.net.cn
 2, 076pk.com
 2, 089896566.com.cn
 2, 08c6.com
@@ -238,6 +239,7 @@ routing = 1
 2, 114credit.com
 2, 114ct.cn
 2, 114dns.com
+2, 114gt.cn
 2, 114mall.cn
 2, 114menhu.com
 2, 114menhu.net
@@ -625,6 +627,7 @@ routing = 1
 2, 1mdoutian.com
 2, 1mmf.cn
 2, 1panel.cn
+2, 1pdd.cc
 2, 1qbdj.cn
 2, 1qbdj.com
 2, 1qdp.cn
@@ -787,12 +790,14 @@ routing = 1
 2, 2ems.cn
 2, 2fc5.com
 2, 2fishes.com
+2, 2fkc.cn
 2, 2g0es.com
 2, 2gkjr.cn
 2, 2h4wq.cn
 2, 2hdd3.com
 2, 2htzr.com
 2, 2idxk.com
+2, 2jnw.cn
 2, 2k68z.cn
 2, 2kma.cn
 2, 2kml.cn
@@ -802,6 +807,7 @@ routing = 1
 2, 2men4.top
 2, 2mjob.com
 2, 2op9.net
+2, 2pdd.cc
 2, 2pgxv.com
 2, 2pirq.com
 2, 2q10.com
@@ -1128,6 +1134,7 @@ routing = 1
 2, 3pwg.com
 2, 3qtt.cn
 2, 3qxy.com
+2, 3sd.cc
 2, 3songshu.com
 2, 3sou7b.com
 2, 3uair.cn
@@ -1142,6 +1149,7 @@ routing = 1
 2, 4000-000-000.com
 2, 4000044400.com
 2, 4000066666.com
+2, 4000702717.com
 2, 4000888000.com
 2, 4001112233.cn
 2, 4001112233.com
@@ -1235,6 +1243,7 @@ routing = 1
 2, 4399zmxy.com
 2, 43i0l.cn
 2, 44hier.com
+2, 44ink.cn
 2, 453e.com
 2, 4567mh.com
 2, 4585.com
@@ -1266,6 +1275,7 @@ routing = 1
 2, 4ems.cn
 2, 4enovel.cn
 2, 4everdns.com
+2, 4ez.cn
 2, 4f89.com
 2, 4fk26.top
 2, 4fnovel.cn
@@ -1279,6 +1289,7 @@ routing = 1
 2, 4gsuzhou1.speedtest.jsinfo.net
 2, 4gx.me
 2, 4hnovel.cn
+2, 4ie.cn
 2, 4inovel.cn
 2, 4ivyrmej.com
 2, 4j40jd.com
@@ -1445,6 +1456,7 @@ routing = 1
 2, 51midodo.com
 2, 51miduoduo.com
 2, 51moba.com
+2, 51mrz.com
 2, 51mw.cn
 2, 51mypc.cn
 2, 51mypc.net
@@ -1552,6 +1564,7 @@ routing = 1
 2, 52d5d.com
 2, 52dian.com
 2, 52dianshi.com
+2, 52dwz.cn
 2, 52guihua.cn
 2, 52hani.com
 2, 52hello.com
@@ -1559,6 +1572,8 @@ routing = 1
 2, 52http.com
 2, 52http.tech
 2, 52hxw.com
+2, 52ink.cn
+2, 52jiawei.com
 2, 52leiqu.com
 2, 52lida.cn
 2, 52ml.net
@@ -1744,6 +1759,7 @@ routing = 1
 2, 5minutes.com.cn
 2, 5ooq.com
 2, 5oxf6vj7v4.cn
+2, 5pdd.cn
 2, 5q.com
 2, 5qa.co
 2, 5qtt.cn
@@ -1752,6 +1768,7 @@ routing = 1
 2, 5s.com.cn
 2, 5singmusic.com
 2, 5sk.cn
+2, 5sku.cn
 2, 5star.cn
 2, 5star.net.cn
 2, 5tiao.cc
@@ -1803,6 +1820,7 @@ routing = 1
 2, 6688jz.com
 2, 66flowers.com
 2, 66gog.com
+2, 66ink.cn
 2, 66law.cn
 2, 66mobi.com
 2, 66ring.cn
@@ -1835,6 +1853,7 @@ routing = 1
 2, 6maisoft.com
 2, 6mnm.cn
 2, 6mv0.cn
+2, 6n2q.cn
 2, 6nf.cn
 2, 6o1.cn
 2, 6pilot.cn
@@ -1916,6 +1935,7 @@ routing = 1
 2, 7881lm.com
 2, 7888.com
 2, 78day.com
+2, 78yy.cn
 2, 793pk.com
 2, 7979u.com
 2, 7a2.cn
@@ -1994,6 +2014,7 @@ routing = 1
 2, 81.cn
 2, 8163.net.cn
 2, 816798.net
+2, 818.work
 2, 823pk.com
 2, 8377game.com
 2, 838413.cn
@@ -2227,6 +2248,7 @@ routing = 1
 2, 94j0r5.com
 2, 94kuai.com
 2, 94nure.com
+2, 94xsm.com
 2, 95015.cn
 2, 95015.com
 2, 95040.net
@@ -2301,6 +2323,7 @@ routing = 1
 2, 962600.cn
 2, 962600.com
 2, 962600.com.cn
+2, 962828.cn
 2, 96311.tv
 2, 96333v.cn
 2, 96459.com
@@ -3014,6 +3037,7 @@ routing = 1
 2, aibello.cn
 2, aibianma.cn
 2, aibiao.com
+2, aibiying.com
 2, aibizu.com
 2, aibns.com
 2, aibrandy.com
@@ -3073,7 +3097,9 @@ routing = 1
 2, aifind.com
 2, aiflag.net
 2, aifneg.com
+2, aiforce.com.cn
 2, aiforceagent.com
+2, aigameonline.com
 2, aiganggu.com
 2, aigc-cloud.com
 2, aigcarena.com
@@ -3189,6 +3215,10 @@ routing = 1
 2, air-film.cn
 2, air-spring.com
 2, airange.cn
+2, airbnb.cn
+2, airbnb.com.cn
+2, airbnbchina.cn
+2, airbnblive.cn
 2, airbrandlab.com
 2, aircas.ac.cn
 2, aircas.cn
@@ -3205,6 +3235,7 @@ routing = 1
 2, airchinalimited.com.cn
 2, airdutyfree.cn
 2, aireading.cn
+2, airgc.cn
 2, airinf.cn
 2, airiskeys.com
 2, airkm.cn
@@ -3216,6 +3247,7 @@ routing = 1
 2, airnut.com
 2, airpointshop.com
 2, airportal.cn
+2, airportshopping.com.cn
 2, airsavvi.com
 2, airstar.com
 2, airstarcfc.com
@@ -3293,6 +3325,7 @@ routing = 1
 2, aizhurong.com
 2, aizools.com
 2, aizpyxrxc.com
+2, aizsw.com
 2, aiztou.com
 2, aizuoye100.cn
 2, aizuoye100.com
@@ -4047,6 +4080,7 @@ routing = 1
 2, api1024.cn
 2, api6711.com
 2, apicat.com
+2, apicraft.cn
 2, apiduck.cn
 2, apiexpress.com.cn
 2, apifox.cn
@@ -4055,6 +4089,7 @@ routing = 1
 2, apigateway.info
 2, apigwtencent.com
 2, apihub.cn
+2, apimaster.cn
 2, apipark.cn
 2, apipost.cn
 2, apipost.com.cn
@@ -4162,6 +4197,7 @@ routing = 1
 2, aquaterra.cn
 2, aquaterra.com.cn
 2, aquaterramail.com
+2, aqv3.cn
 2, aqvsoakha.com
 2, aqys.cn
 2, aqyun.com
@@ -4371,6 +4407,8 @@ routing = 1
 2, avatr.net
 2, avc-ott.com
 2, avgroft.com
+2, aviationit.cn
+2, avinex.com
 2, avlinsight.com
 2, avlsec.com
 2, avlyun.cn
@@ -4458,11 +4496,13 @@ routing = 1
 2, b2m.cn
 2, b2m.com.cn
 2, b2m.net.cn
+2, b52.cn
 2, b612kada.cn
 2, b612kada.com
 2, b612kaji.com
 2, b7u.cn
 2, b8zey.cn
+2, bab.com.cn
 2, babaketang.com
 2, babassl.cn
 2, babassl.com
@@ -4497,6 +4537,7 @@ routing = 1
 2, baetyl.tech
 2, bafce.cn
 2, bafenshu.net
+2, bafm6459.com
 2, bagervper.com
 2, bagfd.cn
 2, baghm.top
@@ -4650,6 +4691,13 @@ routing = 1
 2, baixing.net
 2, baiying.cn
 2, baiying.com.cn
+2, baiyunairport.cn
+2, baiyunairport.com
+2, baiyunairport.com.cn
+2, baiyunport.cn
+2, baiyunport.com
+2, baiyunport.com.cn
+2, baiyunxinxi.com
 2, baizhanlive.com
 2, baizheng100.com
 2, bajiedp.com
@@ -4688,6 +4736,7 @@ routing = 1
 2, bangrunkj.com
 2, bangshou.cc
 2, bangxue100.com
+2, bangzhumai.com
 2, banji01.com
 2, banjixiaoguanjia.com
 2, bank-of-china.com
@@ -4808,6 +4857,7 @@ routing = 1
 2, batu.com
 2, bawfer.com
 2, bawish.com
+2, bayarea.cn
 2, baydn.com
 2, bayork.com
 2, bayread.com
@@ -4883,6 +4933,7 @@ routing = 1
 2, bcewaf.com
 2, bcfmglobal.com
 2, bchdemo.site
+2, bcia.com.cn
 2, bcknp.top
 2, bclinux.org
 2, bcmcdn.cn
@@ -4927,6 +4978,7 @@ routing = 1
 2, bdfeg.cn
 2, bdgp.cc
 2, bdgslb.com
+2, bdia.com.cn
 2, bdimg.com
 2, bdispatch.com
 2, bdispatch.net
@@ -4981,6 +5033,7 @@ routing = 1
 2, bdywaf.com
 2, bdzjdsagslb.com
 2, beabingtech.com
+2, beaconty.cn
 2, beanpai.cn
 2, beansview.com
 2, bearcollapse.com
@@ -5189,6 +5242,8 @@ routing = 1
 2, bgfta.top
 2, bgim6.com
 2, bgrwgglz.com
+2, bgs.com.cn
+2, bgscargo.com.cn
 2, bgskwai.com
 2, bgsub.cn
 2, bgvkh.cn
@@ -5320,12 +5375,15 @@ routing = 1
 2, binfotech.net
 2, binfunbox.com
 2, bingbingnet.com
+2, bingbot.cn
 2, bingdianhuanyuan.cn
 2, bingdianhuanyuan.com.cn
 2, bingex.cn
 2, bingex.com
 2, bingex.com.cn
+2, bingfree.cn
 2, binglianhuajianzhan.com
+2, bio-x.cn
 2, biomart.cn
 2, biot-apps.com
 2, biqugogo.com
@@ -5354,6 +5412,7 @@ routing = 1
 2, bittsnaas.com
 2, biubiu001.com
 2, biusq.com
+2, biweicloud.com
 2, bixiayoule.com
 2, bixin.cn
 2, bixinapp.net
@@ -5398,6 +5457,7 @@ routing = 1
 2, bjctyiptv.cn
 2, bjczht.cn
 2, bjd.com.cn
+2, bjdaic.com
 2, bjdcsp.com
 2, bjdcsp.com.cn
 2, bjdtv.com
@@ -5430,6 +5490,7 @@ routing = 1
 2, bjhttp.cn
 2, bjhxak.com
 2, bjicme.com
+2, bjingling.com
 2, bjiptv.tv
 2, bjitv.tv
 2, bjjingdong.com
@@ -5625,6 +5686,8 @@ routing = 1
 2, bmv9.cn
 2, bmw-rmi.com.cn
 2, bmxskyy.com
+2, bnah.com.cn
+2, bnb.com.cn
 2, bnchina.com
 2, bnchina.net
 2, bncloud.cn
@@ -5941,6 +6004,10 @@ routing = 1
 2, bushpai.com
 2, businessinchina.com.cn
 2, businessvalue.com.cn
+2, busybootin.cn
+2, busybootin.com
+2, busyming.com
+2, busysnack.com
 2, but.cn
 2, butel.com
 2, butelcloud.com
@@ -6252,6 +6319,9 @@ routing = 1
 2, caf.so
 2, cafiu.org.cn
 2, cafuwu.com
+2, cah.com.cn
+2, cahm.cn
+2, cahs.com.cn
 2, cahwaethusae.com
 2, cai-inc.com
 2, caicp.org.cn
@@ -6339,6 +6409,7 @@ routing = 1
 2, canglongjie.com
 2, cangpin.space
 2, caniculab.com
+2, cantonfair.org.cn
 2, canva-apps-staging.cn
 2, canva-apps.cn
 2, canva-cdn-email-staging.cn
@@ -6473,6 +6544,7 @@ routing = 1
 2, catarc-adc.com
 2, catarc.info
 2, catarcads.com
+2, catcloud.com.cn
 2, catl.org.cn
 2, catpawai.cn
 2, catsclawapp.com
@@ -6522,6 +6594,8 @@ routing = 1
 2, cbobserver.cn
 2, cbobserver.com
 2, cbpmgt.com
+2, cbqq.cn
+2, cbqq.com.cn
 2, cbread.cn
 2, cbsik.cn
 2, cbskr.com
@@ -6563,6 +6637,7 @@ routing = 1
 2, ccinn.cn
 2, ccint.com
 2, ccinvoice.com
+2, ccjrsjl.top
 2, ccjtrcw.com
 2, ccjuju.com
 2, cckawzfmk.com
@@ -7064,6 +7139,7 @@ routing = 1
 2, cfpat.top
 2, cfpnm.top
 2, cfpo.cn
+2, cftc.org.cn
 2, cftsupport.com
 2, cftxd.cn
 2, cfupipai.cn
@@ -7191,6 +7267,7 @@ routing = 1
 2, chanying.art
 2, chaoaixuexi.cn
 2, chaoaixuexi.com
+2, chaocanshu.cn
 2, chaoduogeng.com
 2, chaogaoqingfuwu.cn
 2, chaojiheji.cn
@@ -7201,6 +7278,7 @@ routing = 1
 2, chaojizhiyuan.com
 2, chaoliao.net
 2, chaolu.com.cn
+2, chaonengdou.com
 2, chaonengoffice.com
 2, chaonengwork.com
 2, chaorunxx.cn
@@ -7462,6 +7540,7 @@ routing = 1
 2, chinadsp.com.cn
 2, chinaduo.com
 2, chinadzfp.com
+2, chinaebiz.biz
 2, chinaedst.cn
 2, chinaedu.cn
 2, chinaemail.cn
@@ -7763,6 +7842,7 @@ routing = 1
 2, cidian.com
 2, ciedu.org.cn
 2, cieet.com
+2, ciefc.com
 2, ciepe.cn
 2, ciepe.com
 2, cignacmb-ipmi.com
@@ -8495,6 +8575,7 @@ routing = 1
 2, cnwza.cn
 2, cnx.cn
 2, cnxcvd.org.cn
+2, cnxuntu.com
 2, cnz.cn
 2, cnza71v5.com
 2, cnzsqh.com
@@ -8509,6 +8590,8 @@ routing = 1
 2, coachbond.cn
 2, cobiz.cn
 2, cobook.cn
+2, coboot.cn
+2, coboot.com
 2, cobp.net.cn
 2, coc-app.cn
 2, cocdn.cn
@@ -8700,6 +8783,8 @@ routing = 1
 2, coreldrawchina.com
 2, coresuite.cn
 2, corlactech.com
+2, corlexi.cn
+2, corlexi.com
 2, cormirtech.com
 2, cornpai.cn
 2, corp3g.cn
@@ -8724,6 +8809,7 @@ routing = 1
 2, cosypaipai.cn
 2, cosypaipai.com
 2, cotticoffee.com
+2, cottongame.com
 2, countsheep.cn
 2, course.net.cn
 2, coursein.cn
@@ -9400,7 +9486,9 @@ routing = 1
 2, d9ehv.com
 2, d9wnd.com
 2, da2.cn
+2, da4.cc
 2, da4bt.cn
+2, da7.cc
 2, dabiantalk.com
 2, dacbingtech.com
 2, dachanet.com
@@ -9606,6 +9694,7 @@ routing = 1
 2, daotudashi.com
 2, daovoice.io
 2, daoyoudao.com
+2, daoyu8.com
 2, dapaizhizao.com
 2, dapingwang.cn
 2, dapingzhishu.com
@@ -9661,6 +9750,7 @@ routing = 1
 2, dataease.cn
 2, dataflux.cn
 2, dataflyapps.cn
+2, datafox.cn
 2, datafujian.com
 2, datagjp.com
 2, datagrid.cn
@@ -9916,6 +10006,7 @@ routing = 1
 2, deepseek.cn
 2, deepseek.com
 2, deepseeksvc.com
+2, deeptel.com.cn
 2, deeptrip.com
 2, deepzero.com
 2, deepzero.com.cn
@@ -10007,6 +10098,7 @@ routing = 1
 2, dewvut.com
 2, dewx.net
 2, deyouhui.com.cn
+2, deypt.cn
 2, dezhimao.com
 2, df9377.com
 2, dfbea.cn
@@ -10611,6 +10703,7 @@ routing = 1
 2, dondonwenda.com
 2, dongbaosoft.com
 2, dongbu.cn
+2, dongche.com.cn
 2, dongchedi.com
 2, dongchediapp.com
 2, dongchehui.net
@@ -10986,6 +11079,20 @@ routing = 1
 2, duoduoxie.cn
 2, duoerehospital.cn
 2, duoerehospital.com
+2, duofee.com
+2, duofenai.com
+2, duofenar.com
+2, duofencar.com
+2, duofencat.com
+2, duofendoctor.com
+2, duofenhome.com
+2, duofenhotel.com
+2, duofenlook.com
+2, duofenstore.com
+2, duofenvr.com
+2, duofriend.com
+2, duofriend.net
+2, duofriendai.com
 2, duogeetech.com
 2, duogekeji.com
 2, duojicloud.com
@@ -11330,6 +11437,7 @@ routing = 1
 2, easttone.com
 2, eastwinn.cn
 2, eastwinn.com
+2, easy-boarding.com
 2, easy4ip.com
 2, easyblend.cn
 2, easyclean.fun
@@ -11931,6 +12039,7 @@ routing = 1
 2, enmonster.net
 2, eno.cn
 2, enpmb.top
+2, ens5.cn
 2, ensipa.cn
 2, enterclaw.cloud
 2, entermore.cn
@@ -12273,6 +12382,8 @@ routing = 1
 2, exba.top
 2, exbu.top
 2, excasv.com
+2, excean.cn
+2, excean.com
 2, excellent-ent.cn
 2, excelliance.cn
 2, excitontech.cn
@@ -12283,11 +12394,13 @@ routing = 1
 2, exiao.tech
 2, exitpai.cn
 2, exitpai.com
+2, exjadmin.top
 2, exmailgz.com
 2, exmetis.com
 2, exmgovhev.com
 2, exploringtianjin.com
 2, expo31.com
+2, expressup.com
 2, externalcoop.com
 2, extqq.com
 2, extscreen.com
@@ -12351,6 +12464,7 @@ routing = 1
 2, f1c4.com
 2, f2e.tech
 2, f2ecdn.com
+2, f2v4.cn
 2, f3322.net
 2, f3n0k.cn
 2, f61a.com
@@ -12385,6 +12499,7 @@ routing = 1
 2, factpaper.cn
 2, fadada.com
 2, fadada.link
+2, fadongxi.com
 2, faeryone.com
 2, fafabook.cn
 2, fagdb.cn
@@ -12396,6 +12511,10 @@ routing = 1
 2, faipay.cn
 2, faipod.com
 2, fairstack.cn
+2, fairyclass.cn
+2, fairyland2.cn
+2, fairyproduct.cn
+2, fairytest.com
 2, faisco.biz
 2, faisco.cn
 2, faisco.com
@@ -12457,6 +12576,8 @@ routing = 1
 2, fangxincai.net.cn
 2, fangxinjiefxj.com
 2, fangxinrou.net.cn
+2, fangxueba.cn
+2, fangxueba.com
 2, fangyi.cn
 2, fangyuan.art
 2, fangyun.net.cn
@@ -12508,6 +12629,11 @@ routing = 1
 2, fapiaoer.cn
 2, fariycloud.cn
 2, fariycloud.com
+2, farlight84game.cn
+2, farlight84game.com
+2, farlight84game.net
+2, farlight84games.cn
+2, farlight84games.com
 2, farmland.cn
 2, farmpai.cn
 2, faseng.com
@@ -12816,6 +12942,7 @@ routing = 1
 2, fhldns.com.cn
 2, fhldns.net
 2, fhmgn.top
+2, fhorse.net
 2, fhpnt.top
 2, fhss.com.cn
 2, fhweather.com
@@ -12886,6 +13013,7 @@ routing = 1
 2, fintechjiayin.com
 2, fintopia.cc
 2, fintopia.tech
+2, finxy.cn
 2, finzfin.com
 2, finzjr.com
 2, fio.com.cn
@@ -12996,6 +13124,9 @@ routing = 1
 2, flamous.fit
 2, flash.cn
 2, flash16.com
+2, flashcat.cloud
+2, flashcat.com
+2, flashduty.com
 2, flashex.com
 2, flashoffice.cn
 2, flbwm.com
@@ -13172,6 +13303,7 @@ routing = 1
 2, foundereagle.com.cn
 2, founderit-bn.com
 2, founderpku.com
+2, founq.com
 2, four111.com
 2, fourpai.cn
 2, foxit.cn
@@ -13196,6 +13328,8 @@ routing = 1
 2, fpdx.cn
 2, fphsg.top
 2, fpillh.cn
+2, fpsops.cn
+2, fpsops.net
 2, fpxyo.cn
 2, fq6b.cn
 2, fq926.cn
@@ -13275,6 +13409,7 @@ routing = 1
 2, fu81q.cn
 2, fuanbang.cn
 2, fuanbang.net.cn
+2, fucegaoshou.com
 2, fudanpress.com
 2, fudanpress.com.cn
 2, fudanpresserp.com
@@ -13291,6 +13426,7 @@ routing = 1
 2, fukunsoft.cn
 2, fukunsoft.com
 2, fukunsoft.net
+2, fulan.com.cn
 2, fulanjoy.com
 2, fulantv.com
 2, fuligold.com
@@ -13330,6 +13466,8 @@ routing = 1
 2, funo.com.cn
 2, funowechat.com
 2, funpaipai.cn
+2, funqgame.com
+2, funqgame.net
 2, funqie.cn
 2, funshion.tv
 2, funshiontv.com.cn
@@ -13564,6 +13702,7 @@ routing = 1
 2, gaguoiadi.com
 2, gaict.ac.cn
 2, gaidaiche.com
+2, gaigetu.com
 2, gainet.cn
 2, gainet.com
 2, gainet.com.cn
@@ -13572,6 +13711,7 @@ routing = 1
 2, gainetbd.com
 2, gainpai.cn
 2, gainpai.com
+2, gaitupian.com
 2, gakbc.top
 2, galacean.com
 2, galileo.work
@@ -13756,6 +13896,7 @@ routing = 1
 2, gbdydns.com
 2, gbham.top
 2, gbhfd.top
+2, gbiac.net
 2, gbimg.cn
 2, gblhgk.com
 2, gboss.tech
@@ -13775,6 +13916,7 @@ routing = 1
 2, gcemf.top
 2, gcetszzhp.com
 2, gckmidg.com
+2, gcloud.com.cn
 2, gcloudcs.com
 2, gcloudcstest.com
 2, gcloudcstestonly.com
@@ -13808,6 +13950,7 @@ routing = 1
 2, gd30off.com
 2, gd4kcloud.com
 2, gd8tb.top
+2, gdairport.com
 2, gdalpha.cn
 2, gdalpha.com
 2, gdb.com.cn
@@ -13844,6 +13987,7 @@ routing = 1
 2, gdmeihua.com
 2, gdmgvmpfh.cn
 2, gdmhzy.com
+2, gdmyj.com.cn
 2, gdmzzpw.com
 2, gdnkt.top
 2, gdns.tech
@@ -13871,6 +14015,8 @@ routing = 1
 2, gdxkc.net
 2, gdydszxc.com
 2, gdyjrcw.com
+2, gdyueyun.cn
+2, gdyueyun.com
 2, gdz.co
 2, gdzcbks.cn
 2, gdzhsq.cn
@@ -13982,6 +14128,7 @@ routing = 1
 2, gfdwsx.com
 2, gfeel.com.cn
 2, gffund.cn
+2, gflf.org.cn
 2, gfntk.top
 2, gfs.cn
 2, gfsdw.cn
@@ -14021,6 +14168,7 @@ routing = 1
 2, gh513.com
 2, ghidc.net
 2, ghmbk.top
+2, ghmyj.com
 2, ghoa.com.cn
 2, ghpms.com
 2, ghsmpwalmart.com
@@ -14057,6 +14205,7 @@ routing = 1
 2, gip100.cn
 2, gip100.com
 2, gipeowhes.com
+2, girobot.com
 2, git-repo.info
 2, gitbanana.com
 2, gitbook.cn
@@ -14122,6 +14271,7 @@ routing = 1
 2, gk64.com
 2, gkao.cc
 2, gkfanzai.com.cn
+2, gkfhq.cn
 2, gkfz.net
 2, gkgtcrrvm.com
 2, gkhaxzmkfjj.cn
@@ -14185,6 +14335,7 @@ routing = 1
 2, gm119.life
 2, gm119.org.cn
 2, gm119.vip
+2, gmailes.com
 2, gmbec.top
 2, gmcc.shop
 2, gmcchealth.com
@@ -14330,6 +14481,7 @@ routing = 1
 2, goodnotesapp.com.cn
 2, goodpaipai.cn
 2, goodpaipai.com
+2, goodpk.cn
 2, goodsone101.top
 2, goodspai.cn
 2, goodssp.cn
@@ -14406,6 +14558,8 @@ routing = 1
 2, gpeth.top
 2, gpic-sslvpn.com
 2, gpivymaxs.com
+2, gplayspace.cn
+2, gplayspace.com
 2, gplus-lab.com
 2, gpmhb.top
 2, gpsbc.top
@@ -14736,6 +14890,7 @@ routing = 1
 2, guancha.cn
 2, guanchaoforum.cn
 2, guandan.com.cn
+2, guandian.cn
 2, guang.com
 2, guangchang.com
 2, guangchengapp.com
@@ -14998,6 +15153,7 @@ routing = 1
 2, gz-tencentclb.net
 2, gz-tencentclb.work
 2, gz11g.com
+2, gz12301.com
 2, gz263xmail.com
 2, gz51la.com
 2, gzads.com
@@ -15027,6 +15183,7 @@ routing = 1
 2, gzhttp.cn
 2, gzhuake.cc
 2, gzixy.cn
+2, gzjcjtoa.cn
 2, gzjianzhijiaoyu.com
 2, gzkso.cn
 2, gzlichee.com
@@ -15063,8 +15220,10 @@ routing = 1
 2, gzrkqmdac.com
 2, gzsjht.com
 2, gzstgzebv.com
+2, gzsuihe.com
 2, gzswiftondt.com
 2, gzsywlkj.cn
+2, gzsz.com.cn
 2, gzszxy.cn
 2, gztups.com
 2, gztuyoo.cn
@@ -15164,6 +15323,7 @@ routing = 1
 2, h5video.xyz
 2, h5youxi.com
 2, h6me.cn
+2, h6ri.cn
 2, h7fpuyk8.com
 2, h88.cn
 2, h9377.com
@@ -15261,6 +15421,7 @@ routing = 1
 2, haiwaiminsukezhan.com
 2, haiwaioo.com
 2, haiwaiyoujia.com
+2, haixingguanjia.cn
 2, haixj.com
 2, haixue.com
 2, haixue.net.cn
@@ -15521,6 +15682,10 @@ routing = 1
 2, hdf.cn
 2, hdfimg.com
 2, hdfunmore.com
+2, hdgg1.cn
+2, hdgg2.cn
+2, hdgg3.cn
+2, hdgg4.cn
 2, hdkbt.top
 2, hdlapis.com
 2, hdlcdns.com
@@ -15843,6 +16008,7 @@ routing = 1
 2, hhyyy.cn
 2, hi-butterfly.cn
 2, hi-walle.com
+2, hi114.cn
 2, hi9377.com
 2, hiaiabc.com
 2, hiapk.com
@@ -15852,6 +16018,7 @@ routing = 1
 2, hiaso.com
 2, hibixin.com
 2, hiboos.com
+2, hibusiness.com
 2, hicann.cn
 2, hichina.cn
 2, hichina.com
@@ -15876,10 +16043,12 @@ routing = 1
 2, hiecheimaetu.com
 2, hielu.cn
 2, hielu.com
+2, hiencode.com
 2, hifengli.com
 2, hifigpt.com
 2, hifingtech.com
 2, hifly.cc
+2, hifortune.net
 2, hifox.cn
 2, hifreefiction.com
 2, hifun.tv
@@ -16052,6 +16221,8 @@ routing = 1
 2, hjurl.cn
 2, hjword.cn
 2, hjwxcps.com
+2, hjy1314.com
+2, hjy1314.net
 2, hjygzh.top
 2, hjymedia.com
 2, hjytaoke.com
@@ -16166,6 +16337,7 @@ routing = 1
 2, hnjiechengtech.com
 2, hnjrfw.com.cn
 2, hnjuaq.cn
+2, hnlshm.com
 2, hnmsmall.com
 2, hnng.com
 2, hnnrtv.com
@@ -16394,6 +16566,7 @@ routing = 1
 2, hqgwy.com
 2, hqgwy.mobi
 2, hqhl.org.cn
+2, hqjcjt.com
 2, hqjiaoshi.cn
 2, hqjiaoshi.com
 2, hqjiaoshi.com.cn
@@ -16433,6 +16606,7 @@ routing = 1
 2, hqsishu.com
 2, hqsishu.com.cn
 2, hqsishu.net
+2, hqterminal.com
 2, hqwb.mobi
 2, hqwx.art
 2, hqwx.biz
@@ -16851,6 +17025,7 @@ routing = 1
 2, huduntech.com
 2, hugecore.net
 2, hui-lai.cn
+2, huichongzhi.com
 2, huicloud.com
 2, huidaiche.com
 2, huifudashi.com
@@ -16959,7 +17134,19 @@ routing = 1
 2, huodongxing.com
 2, huoffcn.com
 2, huohetech.com
+2, huohua.asia
+2, huohua.cn
+2, huohua.ink
+2, huohua.online
+2, huohuaabc.cn
+2, huohuachess.com
 2, huohuahudong.com
+2, huohuajiaoxue.cn
+2, huohuajiaoyu.cn
+2, huohuaketang.cn
+2, huohuashuxue.cn
+2, huohuaxuexi.cn
+2, huohuazongheng.com
 2, huojiangui.cn
 2, huojianjiasu.com
 2, huojitui.com
@@ -17005,6 +17192,7 @@ routing = 1
 2, huoxiaoliu.com
 2, huoxing.com
 2, huoxingmayi.com
+2, huoyanshuju.cn
 2, huoyanyunying.com
 2, huoyingcangbaoge.cn
 2, huoziyin.cn
@@ -17280,6 +17468,7 @@ routing = 1
 2, i5z.cc
 2, i6sy.cn
 2, i6sy.com
+2, i7q.cn
 2, i7sy.cn
 2, i8.cn
 2, i8g8u0.cn
@@ -17344,6 +17533,7 @@ routing = 1
 2, ibosc.com
 2, iboss8.com
 2, ibossmail.com
+2, ibot.ai
 2, ibreader.com
 2, ibreed.cn
 2, ibreeno.com
@@ -17426,6 +17616,7 @@ routing = 1
 2, icbkus.com
 2, icbtlive.com
 2, iccconf.cn
+2, iccs.com.cn
 2, iccsp.cn
 2, iccvlog.com
 2, iccywkhcv.com
@@ -17737,6 +17928,7 @@ routing = 1
 2, igkzuwbdo.com
 2, ign.com.cn
 2, igo5q36ivt234.com
+2, igongju.com
 2, igongwu.com
 2, igooi.com
 2, igovcar.cn
@@ -18043,6 +18235,7 @@ routing = 1
 2, in66.cc
 2, in66.co
 2, in66.com
+2, in8.ink
 2, inanguapi.cn
 2, inanguapi.com
 2, inanning.net
@@ -18358,6 +18551,7 @@ routing = 1
 2, ipwuxi.cn
 2, ipwvteteo.com
 2, ipxwroari.com
+2, iq1k.cn
 2, iqaposzke.com
 2, iqd.cn
 2, iqd40bsn.com
@@ -18539,6 +18733,8 @@ routing = 1
 2, itaoo.com
 2, itaotuo.com
 2, itaxyun.com
+2, itboy.cn
+2, itboy.com
 2, itc.cn
 2, itc.com.cn
 2, itcloudlab.com
@@ -18557,6 +18753,9 @@ routing = 1
 2, itmanager.club
 2, itobsnssdk.com
 2, itongbanjie.com
+2, itongshi.cn
+2, itongshi.com
+2, itongshi.net
 2, itopay.cn
 2, itopplay.com
 2, itopsdk.com
@@ -18969,6 +19168,8 @@ routing = 1
 2, jegotrip.com
 2, jegotrip.com.cn
 2, jeit.ac.cn
+2, jenius.chat
+2, jenius.cn
 2, jerpx.com
 2, jet-ego.com
 2, jet-logistics.com
@@ -19215,6 +19416,7 @@ routing = 1
 2, jijiaban.net
 2, jijiaban.net.cn
 2, jijiaban.org
+2, jijiagames.com
 2, jijiancode.com
 2, jijinhao.com
 2, jijinhao.net
@@ -19239,6 +19441,7 @@ routing = 1
 2, jimfuture.com
 2, jimingdan.cn
 2, jimingdan.com
+2, jimugem.com
 2, jimuhorizon.com
 2, jin10.com
 2, jin99.net
@@ -19306,6 +19509,7 @@ routing = 1
 2, jingzhunocr.com
 2, jinhongjy.com
 2, jinhuang.net
+2, jinjiaopei.com
 2, jinliyu.vip
 2, jinluos.com
 2, jinmi.com
@@ -19360,8 +19564,19 @@ routing = 1
 2, jishanhealth.com
 2, jishitailai.com
 2, jishouka.com
+2, jisuapi.cn
+2, jisuapi.com
+2, jisuapi.net
+2, jisuapi.vip
 2, jisuapp.cn
 2, jisuapp.net
+2, jisucar.cn
+2, jisucourse.com
+2, jisudev.cn
+2, jisudev.com
+2, jisustudy.com
+2, jisututorial.cn
+2, jisututorial.com
 2, jit-group.com
 2, jitianqi.com
 2, jitianqiapp.com
@@ -19397,6 +19612,7 @@ routing = 1
 2, jiuzixin.cn
 2, jixiaocpa.com
 2, jixiaotui.com
+2, jixing.net
 2, jiyi.biz
 2, jiyi.top
 2, jiyinbao.cn
@@ -19695,6 +19911,9 @@ routing = 1
 2, jrdaimao.cn
 2, jrdaimao.com
 2, jrdaimao.net
+2, jrdaojia.cn
+2, jrdaojia.com
+2, jrdaojia.com.cn
 2, jrdingceng.com
 2, jrexam.com
 2, jrhlah.cn
@@ -19706,6 +19925,7 @@ routing = 1
 2, jrjiekuan.com
 2, jrjimg.cn
 2, jrlewu.com
+2, jrlog.cn
 2, jrurl.cn
 2, jrxbt.cn
 2, jryghq.cn
@@ -19762,6 +19982,7 @@ routing = 1
 2, jsmmp.com
 2, jsocr.com
 2, jsoffcn.com
+2, json.run
 2, jsplayground.net
 2, jspp.cn
 2, jspp.com
@@ -19771,6 +19992,8 @@ routing = 1
 2, jssims.cn
 2, jst-app.cn
 2, jstarcloud.com
+2, jstopay.cn
+2, jstopay.com
 2, jstti.com
 2, jstv.com
 2, jstxb.com
@@ -19814,6 +20037,7 @@ routing = 1
 2, juandou.com
 2, juangua.com
 2, juanlaoda.cn
+2, juapi.cn
 2, jucailin.com
 2, jucha.com
 2, juchang360.com
@@ -19840,9 +20064,13 @@ routing = 1
 2, juhaokan.org
 2, juhaokanxr.cn
 2, juhaokanxr.com
+2, juhe.cn
+2, juheapi.com
 2, juhedxm.com
+2, juhekeji.com
 2, juherui.top
 2, juhesaas.com
+2, juhewin.com
 2, juhezhenyuan.cn
 2, juhezhenyuan.com
 2, juhsgame.com
@@ -19851,6 +20079,7 @@ routing = 1
 2, juhuimai.com
 2, juhuipie.com
 2, juhuiwan.com
+2, jujiabao.com.cn
 2, jujiatong.com
 2, jukefeng.com
 2, julangshixian.com
@@ -19896,6 +20125,9 @@ routing = 1
 2, juooo.net.cn
 2, juooot.cn
 2, juooot.net
+2, jurandaojia.com
+2, jurandaojia.com.cn
+2, jurandaojia.net
 2, juranzhijia.com.cn
 2, jurlawtech.com
 2, jurypai.cn
@@ -19968,6 +20200,9 @@ routing = 1
 2, jxsggzy.cn
 2, jxsmx.cn
 2, jxsww.com.cn
+2, jxuspt.com
+2, jxusptpay.com
+2, jxvus.net
 2, jxwhjz.cn
 2, jxwmw.cn
 2, jxxw.com.cn
@@ -20195,6 +20430,7 @@ routing = 1
 2, kaolacdn.com
 2, kaolafm.com
 2, kaolafm.net
+2, kaolahui.cn
 2, kaopu001.cn
 2, kaopu001.com
 2, kaopu001.net
@@ -20312,6 +20548,7 @@ routing = 1
 2, keetadelivery.com.cn
 2, keevx.cn
 2, kefu01.com
+2, kefu8.cn
 2, kefutoutiao.com
 2, kegeda.cn
 2, kegeda.com
@@ -20325,6 +20562,7 @@ routing = 1
 2, kei1v6.cn
 2, kejinshou.com
 2, kejinxia.com
+2, kejixia.cn
 2, kejiya.cn
 2, keke.cn
 2, kele.cn
@@ -21301,11 +21539,13 @@ routing = 1
 2, lackvc.cn
 2, lahuashanbx.com
 2, lai-sheji.cn
+2, laibafile.cn
 2, laidan.com
 2, laidianshow.com
 2, laidianx.com
 2, laidingba.com
 2, laifengmi.com
+2, laifenqi.com
 2, laikan.com
 2, laikemap.com
 2, laiqlwye.com
@@ -21822,6 +22062,7 @@ routing = 1
 2, leyoumall.com
 2, leyuansu.cn
 2, leyuansu.com
+2, leyunxiao.com
 2, lezhifuture.com
 2, lezhiyou.org
 2, lezhiyun.com
@@ -21975,7 +22216,9 @@ routing = 1
 2, lilithcdn.com
 2, lilithgame.com
 2, lilithgames.com
+2, lilithgamestest.com
 2, lilithtech.com
+2, lilithtest.com
 2, lilun.cn
 2, lilystrip.cn
 2, limengkeji.co
@@ -22088,6 +22331,7 @@ routing = 1
 2, linkedcarechina.com
 2, linkedmalls.com
 2, linkedone.cn
+2, linkekey.com
 2, linkeye.net
 2, linkgaia.com
 2, linkjg.cn
@@ -22116,6 +22360,8 @@ routing = 1
 2, litchifm.com
 2, litenews.cn
 2, litepress.cn
+2, litessl.cn
+2, litessl.com
 2, litevote.com
 2, litisheng.net
 2, litongcx.cn
@@ -22436,6 +22682,7 @@ routing = 1
 2, lusobank.com.cn
 2, lusobank.com.mo
 2, lutuankeji.com
+2, luxiaochanlingshi.com
 2, luxurystage.cn
 2, luxurystage.com.cn
 2, luxurystage.net
@@ -22552,6 +22799,7 @@ routing = 1
 2, lyybao.cn
 2, lyybao.com
 2, lyycrc.com
+2, lyzaix.com
 2, lz-redeem.com
 2, lz183.com
 2, lz225.com
@@ -22595,12 +22843,14 @@ routing = 1
 2, m55fast.com
 2, m6.run
 2, m6a.cn
+2, m6ar.cn
 2, m6c.co
 2, m6o.cn
 2, m6t.cn
 2, m8en.com
 2, m9.run
 2, m9en.com
+2, m9lb.cn
 2, ma.run
 2, maasdk.com
 2, mabps.top
@@ -22999,8 +23249,10 @@ routing = 1
 2, meavon.com
 2, mec.net.cn
 2, mechabreak.cn
+2, mechanobiology.cn
 2, mechatim.com
 2, mecheck.net.cn
+2, medbiomechanics.com
 2, medejob.com
 2, medhelper.cn
 2, media-zhiyue.com
@@ -23168,6 +23420,8 @@ routing = 1
 2, meitidanao.com
 2, meitie.com
 2, meitiyun.com
+2, meitongka.cn
+2, meitongka.com
 2, meitu-int.com
 2, meitu-mobile.com
 2, meitu.com
@@ -23246,6 +23500,8 @@ routing = 1
 2, meixuego.com
 2, meiyan.com
 2, meiyanstatic.com
+2, meiyijia.cn
+2, meiyijia.com.cn
 2, meiyin.cn
 2, meiyou.com
 2, meiyoucloud.com
@@ -23375,6 +23631,7 @@ routing = 1
 2, mgslb.org
 2, mgsnnm.cn
 2, mgsr.org.cn
+2, mgtool.cn
 2, mgtv.com
 2, mgvuyvda.com
 2, mgwancan.com
@@ -23396,6 +23653,7 @@ routing = 1
 2, mhxk.com
 2, mhystatic.com
 2, mhyurl.cn
+2, mhyyxz.com
 2, mhzx.com.cn
 2, mhzx2.com.cn
 2, mi-ae.com
@@ -23832,6 +24090,10 @@ routing = 1
 2, mmarket.com
 2, mmatch.tech
 2, mmbizurl.cn
+2, mmbusy.com
+2, mmbusyhy.com
+2, mmbusysy.com
+2, mmbusyyx.com
 2, mmcdn.cn
 2, mmcops.com
 2, mmear.cn
@@ -24006,6 +24268,7 @@ routing = 1
 2, moly.org.cn
 2, momagi.com
 2, momaxsmartapp.net
+2, momoapi.com
 2, momocdn.com
 2, momodesign.team
 2, momopics.com
@@ -24187,6 +24450,7 @@ routing = 1
 2, mrsta.com
 2, mrts.com
 2, mrwjy.top
+2, mrwso.cn
 2, ms.show
 2, ms2tg.cn
 2, msa-alliance.cn
@@ -24333,6 +24597,8 @@ routing = 1
 2, multimodalmatch.com
 2, multiopen.cn
 2, mumbuy365.com
+2, mun-u.cn
+2, mun-u.com
 2, mununtech.com
 2, muoo.cn
 2, muqingmedia.cn
@@ -24342,12 +24608,14 @@ routing = 1
 2, murl.cn
 2, murl.tv
 2, murluntech.com
+2, muscache.cn
 2, muse-ai.cn
 2, music-z.com
 2, music100.cn
 2, musicd.cc
 2, musicplusradio.cn
 2, musicway.cn
+2, musta.net.cn
 2, mutone.net
 2, mutongkj.com
 2, muurl.cn
@@ -24498,6 +24766,8 @@ routing = 1
 2, mycossurvery.net
 2, mycossurvey.com
 2, mycossurvey.net
+2, mycourse.cn
+2, mycourse.com.cn
 2, mydaoai.com
 2, mydcs.com
 2, mydevice.net.cn
@@ -24556,6 +24826,12 @@ routing = 1
 2, myicourt.com
 2, myid.cn
 2, myimis.com
+2, myj.com.cn
+2, myj123.com.cn
+2, myjdigit.com
+2, myjdt.com
+2, myjhealth.com.cn
+2, myjjk.com.cn
 2, myjyrc.com
 2, mykeeta.cn
 2, mykeeta.com.cn
@@ -24969,6 +25245,8 @@ routing = 1
 2, netstatic.net
 2, netuwang.cn
 2, network5.cn
+2, networkbench.cn
+2, networkbench.com
 2, networkcard123.com
 2, networksim123.com
 2, netyu.com.cn
@@ -25153,6 +25431,7 @@ routing = 1
 2, nikaixinjiuhao.com
 2, nilowtech.com
 2, nim.ac.cn
+2, nimaapi.com
 2, nimbleos.com
 2, ninebot.com
 2, ninebot.net.cn
@@ -25264,6 +25543,7 @@ routing = 1
 2, nnsmk.com
 2, nntccfwpt.com
 2, nnzcdx.com.cn
+2, no7.club
 2, noahsdk.com
 2, nock24.com
 2, nocnoc.team
@@ -25478,6 +25758,7 @@ routing = 1
 2, nzwjr.top
 2, nzxcloud.cn
 2, o09.cn
+2, o11yty.com
 2, o13214.com
 2, o1uif.cn
 2, o2cam.cn
@@ -25921,6 +26202,7 @@ routing = 1
 2, oppopay.com
 2, opposhop.cn
 2, oppowork.com
+2, opr6.cn
 2, opsai.cn
 2, opssee.cn
 2, opssee.com.cn
@@ -26005,6 +26287,8 @@ routing = 1
 2, osa-tencentclb.com.cn
 2, osa-tencentclb.net
 2, osa-tencentclb.work
+2, osase.cloud
+2, osase.net
 2, osbtztalk.cn
 2, osc.cool
 2, oschina.cn
@@ -26113,6 +26397,7 @@ routing = 1
 2, ourltc.com
 2, ourpix.com
 2, ourplat.net
+2, ourplay.net
 2, ourschool.cc
 2, oursec1.com
 2, oursec2.com
@@ -26192,6 +26477,7 @@ routing = 1
 2, p2cdn.com
 2, p2e04.cn
 2, p382g.cn
+2, p3b7.cn
 2, p4w.cn
 2, p6f9r8.cn
 2, p85h4.cn
@@ -26273,6 +26559,7 @@ routing = 1
 2, panelindex.cn
 2, panelindex.com
 2, panewang.cn
+2, pangbuding.com.cn
 2, pangdh.cn
 2, panghai.com
 2, pangle.cn
@@ -26319,6 +26606,7 @@ routing = 1
 2, papiwang.cn
 2, paquapp.com
 2, paqugame.com
+2, parametrix.cn
 2, parasec.cn
 2, parasec.com.cn
 2, parent720.com
@@ -27027,6 +27315,7 @@ routing = 1
 2, pptgo.cn
 2, ppthouse.com
 2, pptinpage.top
+2, pptool.cn
 2, ppttuku.com
 2, pptv.com
 2, pptvdata.com
@@ -27170,6 +27459,7 @@ routing = 1
 2, pubyun.com
 2, pubyun.net
 2, pucsymidq.com
+2, pudongairport.cn
 2, pugonganxin.com
 2, pugutotcp.com
 2, puh3.net.cn
@@ -27206,6 +27496,8 @@ routing = 1
 2, putonghuaxuexi.com
 2, putty.wang
 2, pv07wl.cn
+2, pvgaerodrome.com
+2, pvgairport.com
 2, pvgykxbc.com
 2, pvpgmrrmp.com
 2, pvpworldwide.com
@@ -27269,6 +27561,7 @@ routing = 1
 2, pzzh.com
 2, q-mt.cn
 2, q0j48z1k.com
+2, q1b9.cn
 2, q2cdn.com
 2, q3663.cn
 2, q3665.cn
@@ -27518,6 +27811,7 @@ routing = 1
 2, qhmsg.cn
 2, qhmsg.com
 2, qhoffcn.com
+2, qhpzls.com
 2, qhres2.com
 2, qhrry.top
 2, qhsetup.cn
@@ -27639,6 +27933,7 @@ routing = 1
 2, qifuma365.com
 2, qifun.com
 2, qifuso.com
+2, qihangyun.top
 2, qihedream.com
 2, qihegame.com
 2, qihoo.cn
@@ -28116,6 +28411,7 @@ routing = 1
 2, qrvmuorxw.com
 2, qrvzt.top
 2, qryaezvtv.com
+2, qryun.cn
 2, qs.online
 2, qs3136.com
 2, qs9.cn
@@ -28222,6 +28518,7 @@ routing = 1
 2, qu07.cn
 2, quality-ad.com
 2, qualitycloud.top
+2, quanbeixiaodai.com
 2, quangao.com
 2, quanma51.cn
 2, quanma51.com
@@ -28277,6 +28574,10 @@ routing = 1
 2, quchongzhi.cn
 2, quchongzhi.com
 2, quchongzhi.net
+2, qudian.com
+2, qudian.com.cn
+2, qudian.net
+2, qudian.online
 2, qudongtianshi.com
 2, qudu.cn
 2, quduopai.cn
@@ -28654,6 +28955,8 @@ routing = 1
 2, quntuantuan.cn
 2, qunxiaoguan.com
 2, quocptxt.com
+2, quplusplus.com
+2, quplusplus.net
 2, quqi.com
 2, qurampczu.com
 2, qurl.pub
@@ -28791,6 +29094,7 @@ routing = 1
 2, qzzumogie.com
 2, r11qs.cn
 2, r1q0q.com
+2, r25.cn
 2, r27iv.com
 2, r302.cc
 2, r3062.com
@@ -29237,6 +29541,7 @@ routing = 1
 2, ro.com
 2, roampaipai.cn
 2, roampaipai.com
+2, roarpanda.com
 2, roay.cn
 2, robam.com
 2, robam.com.cn
@@ -29297,6 +29602,7 @@ routing = 1
 2, rongyiji.com.cn
 2, ronshen.cn
 2, ronshen.com.cn
+2, roommaster.cn
 2, rootcloud.com
 2, ropaytech.com
 2, rosestory.net
@@ -29390,6 +29696,7 @@ routing = 1
 2, rtx.com.cn
 2, rtxapp.com
 2, rtxonline.com
+2, rty1.cn
 2, rtyhfg.com
 2, ru618.com
 2, ruanjiancha.com
@@ -29523,6 +29830,7 @@ routing = 1
 2, s169.net
 2, s1l0k.com
 2, s1t.cc
+2, s23u.cn
 2, s299yy.com
 2, s3down.com
 2, s5k.cn
@@ -29538,6 +29846,7 @@ routing = 1
 2, s76f.com
 2, s77f.com
 2, s78c.com
+2, s90.cn
 2, s9377.com
 2, sa-tencentclb.cloud
 2, sa-tencentclb.com
@@ -29629,6 +29938,7 @@ routing = 1
 2, sankuai.com
 2, sankuai.info
 2, sankuaiyun.com
+2, sanlisukeji.asia
 2, sanmaotrip.com
 2, sanmaoyou.cn
 2, sanmaoyou.com
@@ -30215,6 +30525,9 @@ routing = 1
 2, scienceape.com
 2, sciencedb.cn
 2, scienceone.cn
+2, sciener.cn
+2, sciener.com
+2, sciener.tech
 2, scihorizon.cn
 2, scimatrix.cn
 2, scipeak.com
@@ -30257,6 +30570,7 @@ routing = 1
 2, scsd.cn
 2, scsemicon.com
 2, scsentry.cn
+2, scsgxc.com
 2, scsjb.cn
 2, scsjsd.com
 2, scsnrcw.com
@@ -30313,6 +30627,8 @@ routing = 1
 2, sdffqaz.com
 2, sdfscx.com
 2, sdfvcx854.com
+2, sdg-china.com
+2, sdgame.com
 2, sdgdmg.cn
 2, sdgdmg.com
 2, sdgdxt.com
@@ -30336,7 +30652,9 @@ routing = 1
 2, sdk-96fun.cn
 2, sdk-96fun.com
 2, sdk-98fun.com
+2, sdk.cn
 2, sdkanbing.com
+2, sdkbus.com
 2, sdkrzzjng.com
 2, sdkzjng.cn
 2, sdlinkgo.com
@@ -30347,6 +30665,7 @@ routing = 1
 2, sdndi.cn
 2, sdns.cn
 2, sdnxs.net
+2, sdo.com
 2, sdoffcn.com
 2, sdome.cn
 2, sdpaygroup.com
@@ -30358,6 +30677,7 @@ routing = 1
 2, sdrongdan.com
 2, sdrongmei.com
 2, sdsjyy.cn
+2, sdsp.cc
 2, sdtarcw.com
 2, sdtv.cn
 2, sdtv.com.cn
@@ -30636,6 +30956,7 @@ routing = 1
 2, shafauto.com
 2, shaguaji.cn
 2, shaipower.com
+2, shairport.com
 2, shalou.net
 2, shan-yu-tech.com
 2, shan-yu.cn
@@ -30655,6 +30976,7 @@ routing = 1
 2, shanbay.cn
 2, shanbay.com
 2, shanbay.com.cn
+2, shandagames.com
 2, shandian365.com
 2, shandiansiwei.com
 2, shandong2009.com
@@ -30690,6 +31012,7 @@ routing = 1
 2, shanghai-disneyland.com
 2, shanghai-disneyland.com.cn
 2, shanghai.com.cn
+2, shanghaiairport.com
 2, shanghaidisney.cn
 2, shanghaidisney.com
 2, shanghaidisney.com.cn
@@ -30751,6 +31074,7 @@ routing = 1
 2, shanximinglei.com
 2, shanxiuxia.com
 2, shanyancloud.work
+2, shaonianzongheng.com
 2, shaoyinmusic.cn
 2, share-books.com
 2, share-mine.com
@@ -30807,6 +31131,7 @@ routing = 1
 2, shejibaopay.com
 2, shejiben.com
 2, shejili.cn
+2, shejiyixia.com
 2, shekejiangtan.cn
 2, shekejiangtan.net
 2, shelfpai.cn
@@ -30826,6 +31151,8 @@ routing = 1
 2, shengqianke.com
 2, shengqiankuaibao.com
 2, shengqianlianmeng.com.cn
+2, shengqu.com
+2, shengqugames.com
 2, shengrongxx.cn
 2, shengshu-ai.com
 2, shengshu.com
@@ -31264,7 +31591,10 @@ routing = 1
 2, shzxkeji.cn
 2, shzy.cc
 2, shzyfl.cn
+2, si-mate.cn
+2, si-mate.com
 2, si9377.com
+2, sias-sha.com
 2, sibaide.com
 2, sichuanair.com
 2, sichuanbank.com
@@ -31274,6 +31604,7 @@ routing = 1
 2, sidstvfmbj.cn
 2, sieg68.com
 2, siele.org.cn
+2, siensa.cn
 2, sifachain.cn
 2, sifalu.com
 2, sifayun.cn
@@ -31447,6 +31778,7 @@ routing = 1
 2, sjjxvpai.cn
 2, sjmwsw.com
 2, sjoy.com
+2, sjtu.cn
 2, sjwec-tencentclb.cloud
 2, sjwec-tencentclb.com
 2, sjwec-tencentclb.net
@@ -31528,6 +31860,8 @@ routing = 1
 2, slappai.cn
 2, slappai.com
 2, slbauto.com
+2, slfps.cn
+2, slfps.com
 2, sliansoft.com
 2, slide02world.top
 2, slide03world.top
@@ -31569,6 +31903,7 @@ routing = 1
 2, smartbuilding.top
 2, smartcom.cc
 2, smartcz.cn
+2, smartdoc.top
 2, smartedu.cn
 2, smarterapps.cn
 2, smartereye.com
@@ -31764,6 +32099,8 @@ routing = 1
 2, soilbd.com
 2, sojiang.com
 2, sojiang.net
+2, sojson.com
+2, sojson.net
 2, sojump.cn
 2, sojump.com
 2, soku.com
@@ -31823,6 +32160,7 @@ routing = 1
 2, sortime.com
 2, soso.com
 2, soso.com.cn
+2, soso.pub
 2, sosocode.cn
 2, sososnap.com
 2, sou.cn
@@ -31902,6 +32240,7 @@ routing = 1
 2, spark-page8.com
 2, spark-page9.com
 2, sparkcul.com
+2, sparkedtch.com
 2, sparknexa.com
 2, sparknexa.com.cn
 2, sparktransfer.com
@@ -31963,6 +32302,7 @@ routing = 1
 2, sportsdt.cn
 2, sportsdt.com
 2, sportsleader.cn
+2, sportsmonster.cn
 2, sportsol.com.cn
 2, sportsonline.com.cn
 2, sportsphoto.cn
@@ -32061,10 +32401,12 @@ routing = 1
 2, ssgxmj.top
 2, ssgxmj.xin
 2, ssimg.cn
+2, sslask.com
 2, sslauto.cn
 2, sslawy.com
 2, sslcer.com
 2, ssldemo.cn
+2, ssleye.com
 2, sslibrary.com
 2, ssltest.cn
 2, ssltrus.cn
@@ -32346,7 +32688,11 @@ routing = 1
 2, sunshineinsurance.cc
 2, sunshineinsure.com.cn
 2, sunwoda-evb.com
+2, suo.run
+2, suoim.cn
+2, suolink.cn
 2, suopingbao.com
+2, suowo.net.cn
 2, super-charge.cn
 2, super-fanli.com
 2, super.cn
@@ -32402,6 +32748,7 @@ routing = 1
 2, suremail.cn
 2, suremail.com.cn
 2, surepush.cn
+2, surfreader.com
 2, surmortech.com
 2, surveylink.cn
 2, surveymars.cn
@@ -32503,6 +32850,7 @@ routing = 1
 2, sxxchat.com.cn
 2, sxxcrcw.com
 2, sxxkeji.cn
+2, sxxwd.com
 2, sxxxjy.cn
 2, sxydzq.cn
 2, sxyj.com
@@ -32561,7 +32909,10 @@ routing = 1
 2, sz315.org
 2, sz765.com
 2, sz800.com
+2, szaccord.org.cn
 2, szacq.cn
+2, szairport.com
+2, szairportvip.com
 2, szbdyd.com
 2, szbpkj.cn
 2, szbpkj.com
@@ -32583,6 +32934,8 @@ routing = 1
 2, szhn.cn
 2, szhtp.com
 2, szjc.com
+2, szjchkc.com
+2, szjcmt.cn
 2, szjiaodu.com
 2, szjr-tencentclb.cloud
 2, szjr-tencentclb.com
@@ -32663,6 +33016,8 @@ routing = 1
 2, t4m.cn
 2, t51.cn
 2, t6.pub
+2, t7xm.cn
+2, t7zw.cn
 2, t8.pub
 2, t86ha.com
 2, t8tcdn.com
@@ -32742,6 +33097,9 @@ routing = 1
 2, takitaki.cn
 2, takuad.com
 2, takumediation.com
+2, takung.cn
+2, takungpao.cn
+2, takungpao.com
 2, tal.com
 2, talbrain.com
 2, talcampus.com
@@ -33653,6 +34011,7 @@ routing = 1
 2, tencentgy.com
 2, tencenthangjia.cn
 2, tencenthangjia.com
+2, tencenthst.com
 2, tencenthttpdns.cn
 2, tencentiam.com
 2, tencenticp.cn
@@ -34034,6 +34393,7 @@ routing = 1
 2, tianehui.cn
 2, tianehui.net
 2, tianfucup.com
+2, tianfugreenroad.com
 2, tiangeltd.com
 2, tiangong.cloud
 2, tiangong.cn
@@ -34048,6 +34408,8 @@ routing = 1
 2, tianjinweimiao.com.cn
 2, tianjinweimiao.top
 2, tianjinyouliang.com
+2, tianjurenhe.cn
+2, tianjurenhe.com
 2, tianlala.cn
 2, tianlala.com
 2, tianmai.cn
@@ -34082,11 +34444,15 @@ routing = 1
 2, tianxiao123.com
 2, tianxiawuzei.org
 2, tianxue100.com
+2, tianya.cn
+2, tianya.com.cn
+2, tianyablog.com
 2, tianyancam.cn
 2, tianyancam.com
 2, tianyancha.cn
 2, tianyancha.com
 2, tianyancha.pro
+2, tianyaui.com
 2, tianyicaifu.com.cn
 2, tianyiiot.com
 2, tianyutest.com
@@ -34180,6 +34546,7 @@ routing = 1
 2, tingshuo51.com
 2, tingwl.com
 2, tingwu.cn
+2, tingyun.com
 2, tinman.cn
 2, tinnove.cn
 2, tinnove.com.cn
@@ -34188,6 +34555,7 @@ routing = 1
 2, tinya1.cn
 2, tinyap2.cn
 2, tinypap.cn
+2, tinypng.cn
 2, tinyppa.cn
 2, tinyvoice.net
 2, tinyzs.com
@@ -34903,6 +35271,7 @@ routing = 1
 2, trustasia.com
 2, trustasia.com.cn
 2, trustasia.net
+2, trustca.net
 2, trustcourier.cn
 2, trustdo.cn
 2, trustdta.com
@@ -35007,6 +35376,8 @@ routing = 1
 2, ttcms.com.cn
 2, ttd27.com
 2, ttdlk.cn
+2, ttdorm.com
+2, ttekey.com
 2, ttfunshion.com
 2, ttgo.cn
 2, ttgslb.com
@@ -35015,10 +35386,14 @@ routing = 1
 2, tth5.com
 2, tth5.com.cn
 2, tth5.net
+2, tthotelpms.com
 2, ttjisu.com
 2, ttk.cn
 2, ttkd.cn
 2, ttkdex.com
+2, ttlock.com
+2, ttlock.com.cn
+2, ttlock.tech
 2, ttm.com.cn
 2, ttmall.cn
 2, ttmnq.cn
@@ -35032,6 +35407,7 @@ routing = 1
 2, ttplus.cn
 2, ttpyaqefm.com
 2, ttqwgf.com
+2, ttrenting.com
 2, ttrmiykhc.com
 2, tts0.cn
 2, ttsim.cn
@@ -35330,6 +35706,7 @@ routing = 1
 2, txyscdn.com
 2, txyscdn.net
 2, txyunos.com
+2, txzedu.cn
 2, txztc1.cn
 2, txztc1.com
 2, txztc2.cn
@@ -35370,6 +35747,7 @@ routing = 1
 2, tyjt-ai.com
 2, tym0.cn
 2, tyn0.cn
+2, tyo11y.com
 2, tyoug.cn
 2, tyoug.co
 2, tyoug.com
@@ -35380,6 +35758,7 @@ routing = 1
 2, typhoonweather.cn
 2, typistgame.com
 2, tyshow.cn
+2, tysurl.com
 2, tytuyoo.cn
 2, tytuyoo.com
 2, tytuyoo.net
@@ -35972,6 +36351,7 @@ routing = 1
 2, uudeck.com
 2, uudui.com
 2, uuewa.com
+2, uugame.com
 2, uugtv.com
 2, uuhdedu.com
 2, uuhimalayanqm.com
@@ -36112,6 +36492,7 @@ routing = 1
 2, valvepai.cn
 2, valvepai.com
 2, vanapi.cn
+2, vanchen.com
 2, vanguardd-tech.com.cn
 2, vanishys.com
 2, vanke.com
@@ -36254,6 +36635,8 @@ routing = 1
 2, vezitokxu.com
 2, vf6lr9.cn
 2, vfad5msw.com
+2, vfan.cn
+2, vfan.top
 2, vfcdnrd.com
 2, vfvdf.com
 2, vfxforce.net.cn
@@ -36422,6 +36805,7 @@ routing = 1
 2, visionhb.top
 2, visionwuxi.com.cn
 2, visionwx.com
+2, vispark.cn
 2, vista123.com
 2, visualchina.com
 2, visvice.com.cn
@@ -36872,6 +37256,8 @@ routing = 1
 2, w7.cn
 2, w7.com
 2, w72xw.com
+2, w7h3.cn
+2, w7z.cn
 2, w8.com.cn
 2, w89v16.com
 2, w9uzvq7ti3c8.com
@@ -36935,6 +37321,7 @@ routing = 1
 2, wandoujia.com
 2, wandouyoung.com
 2, wandu.cn
+2, wanduoduo.com
 2, wanfang.com.cn
 2, wanfangdata.ac.cn
 2, wanfangdata.bj.cn
@@ -36995,6 +37382,9 @@ routing = 1
 2, wanlianma.com
 2, wanlianma.net
 2, wanlianwang.net
+2, wanlimu.com
+2, wanlimu.net
+2, wanlimuapp.com
 2, wanmei-cd.com
 2, wanmei-sh.com
 2, wanmei-sjs.com
@@ -37004,6 +37394,7 @@ routing = 1
 2, wanmeiyuyan.com
 2, wanmi.cc
 2, wanmotime.cn
+2, wannengdian.com
 2, wannengxiezuo.com
 2, wannianqingjianzhan.com
 2, wanread.cn
@@ -37101,6 +37492,7 @@ routing = 1
 2, wcsapi.com
 2, wcsapi.net
 2, wcsk.cn
+2, wcswkj.com
 2, wcwan.cn
 2, wd-dl.cn
 2, wd-gw.cn
@@ -37278,8 +37670,10 @@ routing = 1
 2, weiaixiaoshuo.com
 2, weiapp.com
 2, weiban.cn
+2, weiban99.cn
 2, weibanio.cn
 2, weibanzhushou.com
+2, weibanzs.cn
 2, weibo.cn
 2, weibo.com
 2, weibo.com.cn
@@ -37289,6 +37683,7 @@ routing = 1
 2, weibopay.com
 2, weiboums.com
 2, weibowallet.com
+2, weibzs.cn
 2, weicai.com.cn
 2, weicaifintech.com
 2, weicaitech.cn
@@ -37437,16 +37832,29 @@ routing = 1
 2, weixinkd.com
 2, weixinsxy.com
 2, weixintong365.com
+2, weixinyunduan.com
+2, weixinyunduan.com.cn
+2, weixinyunduan.net
 2, weixiu.cn
 2, weixiuinfo.cn
 2, weixiuinfo.com
 2, weixiuinfo.com.cn
 2, weixiule.com
 2, weixuncloud.com
+2, weixunxcx.cn
+2, weixunxcx.com
+2, weixunyunduan.cn
+2, weixunyunduan.com
+2, weixunyunduan.com.cn
+2, weixunyunduan.net
 2, weiye.me
 2, weiyouxi.com
 2, weiyun.com
+2, weiyun7.com
 2, weiyuntop.com
+2, weiyunxiu.cn
+2, weiyunxiu.com
+2, weiyunxiu.net
 2, weizhi-inc.net
 2, weizhipin.com
 2, wekey.cn
@@ -37550,6 +37958,8 @@ routing = 1
 2, wenshuding.com
 2, wenshushu.cn
 2, wenshushu.com
+2, wentiku.com
+2, wentiku.com.cn
 2, wenwo.com
 2, wenxiaobai.com
 2, wenxiaoyan.com
@@ -37622,6 +38032,8 @@ routing = 1
 2, weyunydsd56.cn
 2, wezhibo.net
 2, wezhibo.tv
+2, wezhuiyi.com
+2, wezhuiyi.top
 2, wf-art.cn
 2, wfaqrcw.com
 2, wfcffd.com
@@ -37706,6 +38118,7 @@ routing = 1
 2, whyenjoy.com.cn
 2, whylab.com
 2, whyrtc.com
+2, whzscs.com
 2, wia.pub
 2, wicp.io
 2, wicp.net
@@ -37852,6 +38265,9 @@ routing = 1
 2, wlei1.cn
 2, wlei32.cn
 2, wlei34.cn
+2, wlm.cn
+2, wlm.net
+2, wlmkids.work
 2, wlread.cn
 2, wlstedu.com
 2, wlstkspt.com
@@ -37980,6 +38396,7 @@ routing = 1
 2, woodm.cn
 2, woodpeckermaintenance.com
 2, woolpai.cn
+2, woool.com
 2, woowpollee.com
 2, woowtcprc.com
 2, woozooo.com
@@ -38028,6 +38445,7 @@ routing = 1
 2, wotgame.cn
 2, wotrus.com
 2, wotrust.com
+2, wow-frame.com
 2, wow.fun
 2, wowchina.com
 2, wowkaka.cn
@@ -38267,6 +38685,7 @@ routing = 1
 2, wtzpacecx.com
 2, wtzpvmvu.com
 2, wtzw.com
+2, wu-mart.com
 2, wuaijd.com
 2, wuanfun.com
 2, wubafc.com
@@ -38317,6 +38736,10 @@ routing = 1
 2, wulwz.com.cn
 2, wumaer.cn
 2, wumaer.com
+2, wumart.cn
+2, wumart.com
+2, wumart.com.cn
+2, wumarttech.com
 2, wumingyingshi.cn
 2, wunitu.com
 2, wuog.cn
@@ -38499,6 +38922,7 @@ routing = 1
 2, wzeh.com
 2, wzhibo.net
 2, wzhibo.tv
+2, wzink.cn
 2, wzlgrc.com
 2, wzmama.com
 2, wzmcevlx.com
@@ -38527,6 +38951,7 @@ routing = 1
 2, wzxu31.cn
 2, wzxu43.cn
 2, wzxu432.cn
+2, wzykf.com
 2, x-aipet.com
 2, x-design.com
 2, x-dhr.com
@@ -38578,6 +39003,7 @@ routing = 1
 2, xbec-tencentclb.com
 2, xbec-tencentclb.net
 2, xbec-tencentclb.work
+2, xbeian.com
 2, xbmail.com.cn
 2, xbspochat.cn
 2, xbstatic.com
@@ -38618,6 +39044,7 @@ routing = 1
 2, xcloudbase.com
 2, xcmwqdvc.com
 2, xcmxisfpe.com
+2, xcollection.cn
 2, xcommon.com
 2, xconsole.cloud
 2, xcook.cn
@@ -38633,6 +39060,7 @@ routing = 1
 2, xcxwsh.com
 2, xcxxiaochengxu.com
 2, xcylrc.com
+2, xcyouda.com
 2, xczgu.top
 2, xczxb.com
 2, xd.cn
@@ -38720,6 +39148,7 @@ routing = 1
 2, xfclouds.cn
 2, xfclouds.com
 2, xfdwz.com
+2, xfin.cn
 2, xfinfr.com
 2, xfkapp.cn
 2, xfke1y1j.com
@@ -39078,7 +39507,11 @@ routing = 1
 2, xiaomiyoupin.com
 2, xiaomo.cn
 2, xiaomowork.com
+2, xiaomucapital.cn
+2, xiaomucapital.com
 2, xiaomuji.info
+2, xiaomuvc.cn
+2, xiaomuvc.com
 2, xiaonei.com
 2, xiaoneiwai.com
 2, xiaoniangao.cn
@@ -39130,6 +39563,7 @@ routing = 1
 2, xiaoxiaapi.com
 2, xiaoxiangbc.com
 2, xiaoxiangbiancheng.com
+2, xiaoxiangjianli.com
 2, xiaoxiangyoupin.cn
 2, xiaoxiangyoupin.com
 2, xiaoxiangyoupin.net
@@ -39143,11 +39577,17 @@ routing = 1
 2, xiaoyangzhenxuan.cc
 2, xiaoyangzhenxuan.vip
 2, xiaoyaoyou.com
+2, xiaoyf.cn
 2, xiaoyibang.com
+2, xiaoying.cn
 2, xiaoying.co
+2, xiaoying.com
 2, xiaoying.tv
 2, xiaoyingfudao.com
+2, xiaoyinggroup.cn
+2, xiaoyinggroup.com
 2, xiaoyingji.com
+2, xiaoyingxiaodai.com
 2, xiaoyisk.com
 2, xiaoyixing.shop
 2, xiaoyixing.top
@@ -39306,6 +39746,8 @@ routing = 1
 2, xinghuohui.com.cn
 2, xinghuoketang.com
 2, xinghuolegal.com
+2, xinghuosuda.cn
+2, xinghuosuda.com
 2, xingin.cn
 2, xingin.net
 2, xingji-mall.com
@@ -39338,6 +39780,8 @@ routing = 1
 2, xingyouba.com
 2, xingyouc.com
 2, xingyouyun.com
+2, xingyu-lighting.com
+2, xingyu.com
 2, xingyunka.com
 2, xingyunshuju.com
 2, xingzuo777.com
@@ -39913,6 +40357,7 @@ routing = 1
 2, xlcx.work
 2, xlddz.top
 2, xlddz.xin
+2, xldwz.cn
 2, xlfuyu.cn
 2, xlfuzhou.cn
 2, xlgame.top
@@ -40116,7 +40561,9 @@ routing = 1
 2, xnxarcw.com
 2, xnzkj.cn
 2, xnzpw8.com
+2, xo35.cn
 2, xo87s.com
+2, xo9z.cn
 2, xoecikik.com
 2, xogysazbq.com
 2, xoimwcv.com
@@ -40267,6 +40714,7 @@ routing = 1
 2, xueanquan.com
 2, xuebao100.cn
 2, xuebaozaixian.cn
+2, xuebatiantuan.cn
 2, xueche.com
 2, xuechewuyou.com
 2, xuechong.com.cn
@@ -40432,6 +40880,7 @@ routing = 1
 2, xunleizhichui.com
 2, xunmengtu.com
 2, xunrui.com
+2, xuntu365.com
 2, xunxi.com
 2, xunxujianjinxes.com
 2, xunyou.com
@@ -40470,6 +40919,7 @@ routing = 1
 2, xwtemgkg.com
 2, xwwrj.top
 2, xwxeaopzg.com
+2, xwyag.cn
 2, xx-sapce.com
 2, xx.cn
 2, xx186.com
@@ -40512,12 +40962,14 @@ routing = 1
 2, xyf61.cn
 2, xyf83.com
 2, xyfd.vip
+2, xyfin.cn
 2, xyfutures.cn
 2, xyfutures.com.cn
 2, xygsrc.com
 2, xyhbrcw.com
 2, xyhui.com
 2, xyhvip.cn
+2, xyl.cn
 2, xylive.tv
 2, xympg.com
 2, xynzrcw.com
@@ -40529,6 +40981,8 @@ routing = 1
 2, xyshulu.com
 2, xysmuc.com
 2, xysparetime.com
+2, xystatic.cn
+2, xystatic.com
 2, xytedu.com
 2, xyujingji.com
 2, xywy.cn
@@ -40614,6 +41068,7 @@ routing = 1
 2, xzxyun.com
 2, y-shijie.com
 2, y-world.com
+2, y.js.cn
 2, y139.net
 2, y2.fit
 2, y2g.cn
@@ -40638,6 +41093,7 @@ routing = 1
 2, y82sj.com
 2, y8r.cn
 2, y8t.cn
+2, y9er.cn
 2, yaca.cn
 2, yaca.com.cn
 2, yachtpai.cn
@@ -40733,6 +41189,7 @@ routing = 1
 2, yaofang.cn
 2, yaofang.com
 2, yaogo.com.cn
+2, yaoqianshu.wang
 2, yaosha.com.cn
 2, yaoshifenxiang.com
 2, yaoshifx.com
@@ -41041,6 +41498,7 @@ routing = 1
 2, yibao.com
 2, yibaogao.com
 2, yibiaoda.com
+2, yibot.ai
 2, yicai.com
 2, yicai.vip
 2, yicaidata.cn
@@ -41209,6 +41667,8 @@ routing = 1
 2, yingyu.com
 2, yingyuzhouhainan.cn
 2, yingzhankc.com
+2, yingzhongtong.com
+2, yingzt.com
 2, yinhe.top
 2, yiniucapital.com
 2, yinliyan.com
@@ -41219,6 +41679,7 @@ routing = 1
 2, yinxuanli.com
 2, yinyuetai.com
 2, yinzhaowang.com
+2, yinzhong.cc
 2, yipai360.com
 2, yipaiban.com
 2, yipaijichuan.com
@@ -41570,6 +42031,7 @@ routing = 1
 2, youchao.cn
 2, youchengdudu.com
 2, youcheyihou.com
+2, youciju.com
 2, youdao.com
 2, youdaoads.com
 2, youdaobowen.com
@@ -41973,6 +42435,7 @@ routing = 1
 2, yuewen.cn
 2, yuewen.com
 2, yuewen.site
+2, yuexindanbao.com
 2, yueyouxs.com
 2, yueyuanzhiye.com
 2, yufuid.com
@@ -42116,6 +42579,7 @@ routing = 1
 2, yunjuli.net
 2, yunjuli.org
 2, yunkandian.com
+2, yunkemai.com
 2, yunlanling.com
 2, yunluepro.com
 2, yunmai.pro
@@ -42428,6 +42892,7 @@ routing = 1
 2, yyzhuiwan.com
 2, yyzu.net
 2, yz2500.cn
+2, yz7w.cn
 2, yz9377.com
 2, yzapp.com.cn
 2, yzarkj.cn
@@ -42547,6 +43012,14 @@ routing = 1
 2, zaodaoxgd.com
 2, zaodian.com
 2, zaogoods.com
+2, zaohua.studio
+2, zaohua.top
+2, zaohua.xyz
+2, zaohuabox.studio
+2, zaohuabox.top
+2, zaohuaboxcdn.cn
+2, zaohuaboxcdn.com
+2, zaohuacdn.cn
 2, zaonline.com
 2, zaoqidaka.com
 2, zapapa.cn
@@ -42776,6 +43249,7 @@ routing = 1
 2, zhangmenyouke.com
 2, zhangshangyoule.com
 2, zhangsheng888.com
+2, zhangtiandi.cn
 2, zhangxiaobao.net
 2, zhangyu.com
 2, zhangyue-inc.cn
@@ -43046,6 +43520,7 @@ routing = 1
 2, zhongrenbang.cc
 2, zhongrentong.com
 2, zhongrongxd.com
+2, zhongshang.com.cn
 2, zhongshelian.com
 2, zhongtieyintong.com
 2, zhongxiananxing.cn
@@ -43070,6 +43545,7 @@ routing = 1
 2, zhread.cn
 2, zhrongyun.com
 2, zhrtc.com
+2, zhs.hk
 2, zhsq.xyz
 2, zhsrcw.com
 2, zhtnqi.com
@@ -43104,6 +43580,7 @@ routing = 1
 2, zhuiguang.top
 2, zhuishushenqi.cn
 2, zhuishushenqi.com
+2, zhuiyi.ai
 2, zhujiangyun.cn
 2, zhujie100.com
 2, zhuketong.com
@@ -43319,8 +43796,10 @@ routing = 1
 2, zktsoft.com
 2, zkvocxbkm.com
 2, zkxfmall.cn
+2, zkzkxd.cn
 2, zkzrpizag.com
 2, zl-hj.com
+2, zlb.ink
 2, zldaas.com
 2, zleme.cn
 2, zlfservice.com
@@ -43453,6 +43932,7 @@ routing = 1
 2, zmzqmrdag.com
 2, znas.cn
 2, zncall.cc
+2, zncg.com.cn
 2, zncspt.com
 2, zndls.com
 2, zndwz.com
@@ -43792,6 +44272,8 @@ routing = 1
 2, zymcn.com
 2, zymk.cn
 2, zymkcdn.com
+2, zymls.com
+2, zymls.net
 2, zymutual.com
 2, zyn.cn
 2, zyprevxg.com
