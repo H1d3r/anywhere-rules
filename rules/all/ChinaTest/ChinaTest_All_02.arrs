@@ -3,61 +3,12 @@
 # SOURCE: https://github.com/blackmatrix7/ios_rule_script/blob/master/rule/Surge/ChinaTest/ChinaTest_All.list
 # GENERATED-FOR: Anywhere Routing Rule Set
 # NOTE: DOMAIN rules are mapped to Anywhere domain suffix rules.
-# RULES: 11212
+# RULES: 11158
 # SKIPPED: 0
-# SOURCE-RULES: 111212
-# UPSTREAM-UPDATED: 2026-09-26 04:59:00
+# SOURCE-RULES: 111158
+# UPSTREAM-UPDATED: 2026-09-28 04:43:16
 
 name = ChinaTest_02
-2, xkjt.net
-2, xkjxcon.com
-2, xknow.net
-2, xkonglong.com
-2, xkpx.com
-2, xksafe.com
-2, xksast.com
-2, xktech.com
-2, xktsz.com
-2, xkunyi.com
-2, xkw.com
-2, xkwe.com
-2, xkxs.org
-2, xkyl.vip
-2, xkyn.com
-2, xkyn.net
-2, xkyy.com
-2, xkzzz.com
-2, xl-ai.com
-2, xl-edu.net
-2, xl-ele.com
-2, xl-soft.com
-2, xl-vip.com
-2, xl18z.com
-2, xl5bb.com
-2, xl5dd.com
-2, xl5du.com
-2, xl5dw.com
-2, xl699.com
-2, xlaidudu.info
-2, xlaidudu.net
-2, xlaomi.net
-2, xlbsoft.com
-2, xlcai.com
-2, xlcidc.com
-2, xlcjzx.com
-2, xlctyd.com
-2, xlczg.com
-2, xldlive.com
-2, xldz.com
-2, xlewen5.com
-2, xlfred.com
-2, xlgao.com
-2, xlgjg.net
-2, xlgogo.com
-2, xlgtx.com
-2, xlgxapp.com
-2, xlhb.com
-2, xlhbgroup.com
 2, xlhfmj.xin
 2, xlhhy.com
 2, xlhk.net
@@ -1947,7 +1898,6 @@ name = ChinaTest_02
 2, yangyongquan.com
 2, yangyq.net
 2, yangzhe1991.org
-2, yangzhi777.com
 2, yangzhihb.com
 2, yangzhiriji.com
 2, yangzhongchao.com
@@ -2764,6 +2714,7 @@ name = ChinaTest_02
 2, ygfengshui.com
 2, yggk.net
 2, yghsh.com
+2, yghy123.com
 2, ygibao.com
 2, yginsight.com
 2, ygjctech.com
@@ -6764,7 +6715,6 @@ name = ChinaTest_02
 2, zbyz.net
 2, zbz.com
 2, zbzb.org
-2, zbzdm.com
 2, zbzw.la
 2, zc-gs100.com
 2, zc-ha.com
@@ -6999,7 +6949,6 @@ name = ChinaTest_02
 2, zenha.net
 2, zenhotspring.com
 2, zenith-group.net
-2, zenithmining.com
 2, zenithspace.net
 2, zenixauto.com
 2, zenkungforging.com
@@ -7462,6 +7411,7 @@ name = ChinaTest_02
 2, zhangbj.com
 2, zhangchangfa.com
 2, zhangchi.art
+2, zhangdkl.asia
 2, zhangdongxuan.com
 2, zhangdu.com
 2, zhangdu520.com
@@ -7501,7 +7451,6 @@ name = ChinaTest_02
 2, zhangrunnan.com
 2, zhangsenhao.com
 2, zhangshangtong.com
-2, zhangshengcw.com
 2, zhangshengrong.com
 2, zhangshi.org
 2, zhangshuchang.com
@@ -7940,7 +7889,6 @@ name = ChinaTest_02
 2, zhidejian.com
 2, zhidemai.com
 2, zhidesoft.com
-2, zhidi66.com
 2, zhidianfan.com
 2, zhidianlife.com
 2, zhidieyun.com
@@ -8926,7 +8874,6 @@ name = ChinaTest_02
 2, zigeer.com
 2, zigonggroup.com
 2, ziguhonglan.com
-2, zihai0351.com
 2, zihai24.com
 2, zihaixiaochengxu.com
 2, zihexin.com
@@ -10181,7 +10128,6 @@ name = ChinaTest_02
 2, zqcloudgame.com
 2, zqcyzg.com
 2, zqedu.net
-2, zqfdc.net
 2, zqgame.com
 2, zqgjz1312.com
 2, zqgreen.com

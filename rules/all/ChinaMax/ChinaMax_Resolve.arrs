@@ -5,23 +5,22 @@
 # NOTE: DOMAIN rules are mapped to Anywhere domain suffix rules.
 # RULES: 12520
 # SKIPPED: 78
-# UPSTREAM-UPDATED: 2026-09-26 04:59:36
+# UPSTREAM-UPDATED: 2026-09-28 04:43:58
 # SKIPPED-TYPES: IP-ASN=1, PROCESS-NAME=12, USER-AGENT=65
 
 name = ChinaMax
+2, alipay
+2, alibaba
+2, taobao
+2, tmall
 2, cn
 2, ms
-2, alibaba
-2, alipay
 2, anquan
 2, baidu
 2, citic
-2, icbc
 2, shouji
 2, sina
 2, sohu
-2, taobao
-2, tmall
 2, unicom
 2, wang
 2, weibo
@@ -60,6 +59,7 @@ name = ChinaMax
 2, xn--xhq521b
 2, xn--zfr164b
 2, yun
+2, icbc
 3, .tmall.com
 3, alicdn
 3, alipay
