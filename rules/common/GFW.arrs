@@ -1,7 +1,7 @@
 # NAME: GFW
 # GENERATED-FOR: Anywhere Routing Rule Set
 # DESCRIPTION: GFW 域名列表
-# RULES: 4386
+# RULES: 4389
 # SKIPPED: 0
 # SOURCES:
 # - https://raw.githubusercontent.com/Loyalsoldier/v2ray-rules-dat/release/gfw.txt
@@ -620,6 +620,7 @@ icon-light = iVBORw0KGgoAAAANSUhEUgAAAJAAAACQCAYAAADnRuK4AAAAAXNSR0IArs4c6QAAAAl
 2, c-est-simple.com
 2, c-span.org
 2, c-spanvideo.org
+2, c.go-mpulse.net
 2, c.mi.com
 2, c2cx.com
 2, c3pool.com
@@ -3033,6 +3034,7 @@ icon-light = iVBORw0KGgoAAAANSUhEUgAAAJAAAACQCAYAAADnRuK4AAAAAXNSR0IArs4c6QAAAAl
 2, qianmo.tw
 2, qiwen.lu
 2, qmp4.com
+2, qobuz.com
 2, qoos.com
 2, qq.co.za
 2, qstatus.com
@@ -3911,6 +3913,7 @@ icon-light = iVBORw0KGgoAAAANSUhEUgAAAJAAAACQCAYAAADnRuK4AAAAAXNSR0IArs4c6QAAAAl
 2, vansky.com
 2, vaticannews.va
 2, vatn.org
+2, vava8.com
 2, vcf-online.org
 2, vcfbuilder.org
 2, veed.io
