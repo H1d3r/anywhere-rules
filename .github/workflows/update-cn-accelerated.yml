@@ -16,6 +16,8 @@ jobs:
     steps:
       - name: Checkout
         uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
 
       - name: Set up Python
         uses: actions/setup-python@v5
@@ -32,12 +34,13 @@ jobs:
           PYTHONUNBUFFERED: "1"
         run: |
           python scripts/build_cn_accelerated.py --workers 128 --timeout 2
+          python scripts/build_hub_catalog.py
 
       - name: Commit CN accelerated rules
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add rules/common/CN_Accelerated.arrs rules/common/index.json rules/common/catalog.md
+          git add rules/common/CN_Accelerated.arrs rules/common/index.json rules/common/catalog.md hub
           if git diff --cached --quiet; then
             echo "No CN accelerated updates."
           else

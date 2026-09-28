@@ -15,6 +15,8 @@ jobs:
     steps:
       - name: Checkout
         uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
 
       - name: Set up Python
         uses: actions/setup-python@v5
@@ -34,12 +36,13 @@ jobs:
           python scripts/build_common_rules.py
           python scripts/build_geoip_cn.py
           python scripts/build_geosite_cn.py
+          python scripts/build_hub_catalog.py
 
       - name: Commit generated rules
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add rules
+          git add rules hub
           if git diff --cached --quiet; then
             echo "No rule updates."
           else
