@@ -2,8 +2,8 @@
 # GENERATED-FOR: Anywhere Routing Rule Set
 # DESCRIPTION: Geosite 中国大陆域名规则
 # GEOSITE-CODE: GEOLOCATION-CN
-# RULES: 5384
-# SOURCE-RULES: 5387
+# RULES: 5385
+# SOURCE-RULES: 5388
 # SKIPPED: 3
 # SKIPPED-TYPES: Regex=3
 # SOURCES:
@@ -1117,6 +1117,7 @@ routing = 1
 2, cn.pool.ntp.org
 2, cnanzhi.com
 2, cnb.cool
+2, cnb.space
 2, cnbksy.com
 2, cnblogs.com
 2, cnblogs.vip
