@@ -1,7 +1,7 @@
 # NAME: ChinaDomain
 # GENERATED-FOR: Anywhere Routing Rule Set
 # DESCRIPTION: 中国大陆常见域名直连
-# RULES: 867
+# RULES: 868
 # SKIPPED: 4
 # SKIPPED-TYPES: DOMAIN-WILDCARD=1, USER-AGENT=3
 # SOURCES:
@@ -861,6 +861,7 @@ routing = 1
 2, dl.pinyuncloud.com
 2, heytapdownload.com
 2, samsungcloudcn.com
+2, time.xtracloud.net
 2, alibabachengdun.com
 2, anticheatexpert.com
 2, assets1.xboxlive.cn

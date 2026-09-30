@@ -1,7 +1,7 @@
 # NAME: CDN
 # GENERATED-FOR: Anywhere Routing Rule Set
 # DESCRIPTION: SukkaW CDN 直连辅助
-# RULES: 4702
+# RULES: 4704
 # SKIPPED: 58
 # SKIPPED-TYPES: DOMAIN-WILDCARD=58
 # SOURCES:
@@ -3930,6 +3930,7 @@ routing = 1
 2, imagecdn.clips4sale.com
 2, imagizer.imageshack.com
 2, img.api.tryprofound.com
+2, img.helpnetsecurity.com
 2, img0.socialshopwave.com
 2, img1.ak.crunchyroll.com
 2, img1.socialshopwave.com
@@ -4098,6 +4099,7 @@ routing = 1
 2, images.indianexpress.com
 2, images.purevpn-tools.com
 2, images.spectrumnews1.com
+2, img2.helpnetsecurity.com
 2, integrations.gitbook.com
 2, ipfs0.sjc.cloudsigma.com
 2, keyframe-cdn.abcnews.com
