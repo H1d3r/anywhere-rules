@@ -1,7 +1,7 @@
 # NAME: ProxyGFW
 # GENERATED-FOR: Anywhere Routing Rule Set
 # DESCRIPTION: GFW 代理集合
-# RULES: 7605
+# RULES: 7606
 # SKIPPED: 1
 # SKIPPED-TYPES: USER-AGENT=1
 # SOURCES:
@@ -7126,6 +7126,7 @@ icon-light = iVBORw0KGgoAAAANSUhEUgAAAJAAAACQCAYAAADnRuK4AAAAAXNSR0IArs4c6QAAAAl
 2, slack.com
 2, tesco.com
 2, tfbnw.net
+2, tokens.ci
 2, umblr.com
 2, upjav.org
 2, whoer.com

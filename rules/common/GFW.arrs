@@ -1,7 +1,7 @@
 # NAME: GFW
 # GENERATED-FOR: Anywhere Routing Rule Set
 # DESCRIPTION: GFW 域名列表
-# RULES: 4389
+# RULES: 4391
 # SKIPPED: 0
 # SOURCES:
 # - https://raw.githubusercontent.com/Loyalsoldier/v2ray-rules-dat/release/gfw.txt
@@ -1405,6 +1405,7 @@ icon-light = iVBORw0KGgoAAAANSUhEUgAAAJAAAACQCAYAAADnRuK4AAAAAXNSR0IArs4c6QAAAAl
 2, futustatic.com
 2, fututrade.com
 2, fututrustee.com
+2, fuyin116.com
 2, fw.cm
 2, fxcm-chinese.com
 2, fxnetworks.com
@@ -2559,6 +2560,7 @@ icon-light = iVBORw0KGgoAAAANSUhEUgAAAJAAAACQCAYAAADnRuK4AAAAAXNSR0IArs4c6QAAAAl
 2, mubi.com
 2, mullvad.net
 2, multiply.com
+2, muse.ai
 2, music.amazon.com
 2, musixmatch.com
 2, muzi.com
