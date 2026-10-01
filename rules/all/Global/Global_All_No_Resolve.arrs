@@ -3,9 +3,9 @@
 # SOURCE: https://github.com/blackmatrix7/ios_rule_script/blob/master/rule/Surge/Global/Global_All_No_Resolve.list
 # GENERATED-FOR: Anywhere Routing Rule Set
 # NOTE: DOMAIN rules are mapped to Anywhere domain suffix rules.
-# RULES: 35058
+# RULES: 35063
 # SKIPPED: 47
-# UPSTREAM-UPDATED: 2026-09-28 04:42:42
+# UPSTREAM-UPDATED: 2026-10-02 06:15:52
 # SKIPPED-TYPES: PROCESS-NAME=1, USER-AGENT=46
 
 name = Global
@@ -12481,6 +12481,7 @@ name = Global
 2, huanyuju.com
 2, huarenav.com
 2, huarenporn.com
+2, huarun.win
 2, huashundg.com
 2, huawen.ac.uk
 2, huaxin-lls.xyz
@@ -16092,6 +16093,7 @@ name = Global
 2, messytube.com
 2, met-nude.com
 2, meta.ai
+2, metaaivm.com
 2, metabolomics.ac.uk
 2, metabora.io
 2, metabrainz.org
@@ -18820,6 +18822,7 @@ name = Global
 2, openbook.org.tw
 2, opencas.io
 2, openclaw.ai
+2, opencode.ai
 2, opencollective.com
 2, opencreate.org
 2, opendesktop.org
@@ -30318,6 +30321,7 @@ name = Global
 2, fututrustee.com
 2, fux.com
 2, fuyin.net
+2, fuyin116.com
 2, fuyindiantai.org
 2, fuyu.org.tw
 2, fw.cm
@@ -31927,6 +31931,7 @@ name = Global
 2, mummysgold.com
 2, murmur.tw
 2, muscdn.com
+2, muse.ai
 2, musicade.net
 2, musical.ly
 2, musixmatch.com
