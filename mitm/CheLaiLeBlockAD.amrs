@@ -1,4 +1,4 @@
-# 车来了净化（墨鱼+本地适配） - Anywhere MITM RuleSet
+# 车来了去广告 - Anywhere MITM RuleSet
 # 上游: ddgksf2013/Rewrite、ddgksf2013/Scripts、本地HAR支持的车来了App适配。
 
 name = 车来了净化（墨鱼+本地适配）
