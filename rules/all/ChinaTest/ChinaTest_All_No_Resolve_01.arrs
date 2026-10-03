@@ -6,7 +6,7 @@
 # RULES: 100000
 # SKIPPED: 31
 # SOURCE-RULES: 111158
-# UPSTREAM-UPDATED: 2026-09-28 04:43:16
+# UPSTREAM-UPDATED: 2026-10-04 04:29:50
 # SKIPPED-TYPES: USER-AGENT=31
 
 name = ChinaTest_01
@@ -418,6 +418,7 @@ name = ChinaTest_01
 2, aip.org
 2, aipage.com
 2, aipai.com
+2, aiqicha.com
 2, air-matters.com
 2, air-matters.io
 2, airchangan.com
@@ -552,6 +553,7 @@ name = ChinaTest_01
 2, atatech.org
 2, autonavi.com
 2, avicsec.com
+2, aweray.com
 2, awesome-hd.me
 2, b23.tv
 2, b2byao.com
@@ -2549,6 +2551,7 @@ name = ChinaTest_01
 2, oracle-tencent.net
 2, oracle.com
 2, oray.com
+2, oray.net
 2, orient-fund.com
 2, osapublishing.org
 2, oschina.net
@@ -2749,6 +2752,7 @@ name = ChinaTest_01
 2, rainclassroom.com
 2, rarbg.to
 2, raychase.net
+2, raylink.live
 2, rdfybk.com
 2, readnovel.com
 2, realcybertron.com
@@ -2756,12 +2760,14 @@ name = ChinaTest_01
 2, realmebbs.com
 2, realmemobile.com
 2, redacted.ch
+2, rednotecdn.com
 2, renren-inc.com
 2, renren.com
 2, resset.com
 2, rfchost.com
 2, rj.m.taobao.co
 2, rmwxgame.com
+2, rnote.com
 2, rockyenglish.com
 2, rong360.com
 2, rongechain.com
@@ -2953,6 +2959,7 @@ name = ChinaTest_01
 2, suningestate.com
 2, suningholdings.com
 2, sunlife-everbright.com
+2, sunlogin.net
 2, sunrtb.com
 2, supercell.com
 2, superlib.com
@@ -3127,6 +3134,7 @@ name = ChinaTest_01
 2, tmtsmartrun.com
 2, tmzvps.com
 2, tobosu.com
+2, todesk.com
 2, tom.com
 2, tongdun.net
 2, tongtaiamc.com
@@ -14322,7 +14330,6 @@ name = ChinaTest_01
 2, aiqiangua.com
 2, aiqianxq.com
 2, aiqibaba.com
-2, aiqicha.com
 2, aiqiche.com
 2, aiqin.com
 2, aiqisoft.com
@@ -16526,7 +16533,6 @@ name = ChinaTest_01
 2, awemeuglang.com
 2, awemeugsoul.com
 2, awemeugwave.com
-2, aweray.com
 2, awfggc.com
 2, awhouse.art
 2, awi-intl.com
@@ -71925,7 +71931,6 @@ name = ChinaTest_01
 2, orangevip.com
 2, oraper.com
 2, orasos.com
-2, oray.net
 2, oraybox.com
 2, oraycn.com
 2, orayer.com
@@ -77236,7 +77241,6 @@ name = ChinaTest_01
 2, raykite.vip
 2, raykite.xyz
 2, rayli.com
-2, raylink.live
 2, raymage.com
 2, raymx-micro.com
 2, raynext.info
@@ -77456,7 +77460,6 @@ name = ChinaTest_01
 2, rednetdns.com
 2, rednote.com
 2, rednote.life
-2, rednotecdn.com
 2, redocn.com
 2, redodopower.com
 2, redoop.com
@@ -77979,7 +77982,6 @@ name = ChinaTest_01
 2, rnhospital.com
 2, rnhy.net
 2, rnmachine.com
-2, rnote.com
 2, ro50.com
 2, road-group.com
 2, roaderp.com
@@ -85437,7 +85439,6 @@ name = ChinaTest_01
 2, sunlight-tech.com
 2, sunlogging.com
 2, sunlogin.com
-2, sunlogin.net
 2, sunlons.com
 2, sunlordinc.com
 2, sunlune.com
@@ -89656,7 +89657,6 @@ name = ChinaTest_01
 2, todaymedtech.com
 2, todaynic.com
 2, todayyj.com
-2, todesk.com
 2, todgo.com
 2, todocdn.com
 2, todoen.com

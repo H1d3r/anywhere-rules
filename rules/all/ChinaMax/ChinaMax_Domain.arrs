@@ -5,7 +5,7 @@
 # NOTE: DOMAIN rules are mapped to Anywhere domain suffix rules.
 # RULES: 0
 # SKIPPED: 111471
-# UPSTREAM-UPDATED: 2026-10-02 06:17:28
+# UPSTREAM-UPDATED: 2026-10-04 04:30:44
 # SKIPPED-TYPES: UNKNOWN=111471
 
 name = ChinaMax

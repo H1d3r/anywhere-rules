@@ -3,9 +3,9 @@
 # SOURCE: https://github.com/blackmatrix7/ios_rule_script/blob/master/rule/Surge/Proxy/Proxy_All.list
 # GENERATED-FOR: Anywhere Routing Rule Set
 # NOTE: DOMAIN rules are mapped to Anywhere domain suffix rules.
-# RULES: 6926
+# RULES: 6930
 # SKIPPED: 8
-# UPSTREAM-UPDATED: 2026-10-02 06:16:16
+# UPSTREAM-UPDATED: 2026-10-04 04:29:34
 # SKIPPED-TYPES: USER-AGENT=8
 
 name = Proxy
@@ -6257,6 +6257,7 @@ name = Proxy
 2, waiwaier.com
 2, walletconnect.com
 2, walletconnect.org
+2, wallhaven.cc
 2, wallmama.com
 2, wallornot.org
 2, wallpapercasa.com
@@ -6378,6 +6379,7 @@ name = Proxy
 2, wikia.com
 2, wikibooks.org
 2, wikidata.org
+2, wikifunctions.org
 2, wikileaks-forum.com
 2, wikileaks.ch
 2, wikileaks.com
@@ -6390,12 +6392,14 @@ name = Proxy
 2, wikilivres.info
 2, wikimapia.org
 2, wikimedia.org
+2, wikimediafoundation.org
 2, wikinews.org
 2, wikipedia.com
 2, wikipedia.org
 2, wikiquote.org
 2, wikis.tw
 2, wikisource.org
+2, wikispecies.org
 2, wikiunblocked.org
 2, wikiversity.org
 2, wikivoyage.org
