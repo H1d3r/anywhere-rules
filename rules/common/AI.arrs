@@ -1,7 +1,7 @@
 # NAME: AI
 # GENERATED-FOR: Anywhere Routing Rule Set
 # DESCRIPTION: 常见 AI 服务
-# RULES: 55
+# RULES: 56
 # SKIPPED: 1
 # SKIPPED-TYPES: URL-REGEX=1
 # SOURCES:
@@ -16,6 +16,7 @@ icon-light = iVBORw0KGgoAAAANSUhEUgAAAJAAAACQCAYAAADnRuK4AAAAAXNSR0IArs4c6QAAAAl
 2, g.ai
 2, x.ai
 2, ai.com
+2, clau.de
 2, dify.ai
 2, meta.ai
 2, poe.com

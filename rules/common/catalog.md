@@ -7,7 +7,7 @@
 | Reject | 6197 | 1 | 广告、恶意站点和跟踪拦截基础集合 | [common/Reject.arrs](./Reject.arrs) |
 | Ads_AWAvenue | 958 | 0 | 秋风广告规则 AWAvenue | [common/Ads_AWAvenue.arrs](./Ads_AWAvenue.arrs) |
 | PCDN | 37 | 7 | PCDN 拦截 | [common/PCDN.arrs](./PCDN.arrs) |
-| AI | 55 | 1 | 常见 AI 服务 | [common/AI.arrs](./AI.arrs) |
+| AI | 56 | 1 | 常见 AI 服务 | [common/AI.arrs](./AI.arrs) |
 | Proxy | 1568 | 2 | 常用代理域名集合 | [common/Proxy.arrs](./Proxy.arrs) |
 | ProxyGFW | 7606 | 1 | GFW 代理集合 | [common/ProxyGFW.arrs](./ProxyGFW.arrs) |
 | GFW | 4393 | 0 | GFW 域名列表 | [common/GFW.arrs](./GFW.arrs) |

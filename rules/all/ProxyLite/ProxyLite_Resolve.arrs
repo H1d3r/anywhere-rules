@@ -3,9 +3,9 @@
 # SOURCE: https://github.com/blackmatrix7/ios_rule_script/blob/master/rule/Surge/ProxyLite/ProxyLite_Resolve.list
 # GENERATED-FOR: Anywhere Routing Rule Set
 # NOTE: DOMAIN rules are mapped to Anywhere domain suffix rules.
-# RULES: 985
+# RULES: 987
 # SKIPPED: 6
-# UPSTREAM-UPDATED: 2026-09-28 04:43:46
+# UPSTREAM-UPDATED: 2026-10-04 04:30:29
 # SKIPPED-TYPES: USER-AGENT=6
 
 name = ProxyLite
@@ -807,6 +807,7 @@ name = ProxyLite
 2, whoer.net
 2, wikibooks.org
 2, wikidata.org
+2, wikifunctions.org
 2, wikileaks-forum.com
 2, wikileaks.info
 2, wikileaks.org
@@ -818,6 +819,7 @@ name = ProxyLite
 2, wikipedia.org
 2, wikiquote.org
 2, wikisource.org
+2, wikispecies.org
 2, wikiversity.org
 2, wikivoyage.org
 2, wikiwand.com

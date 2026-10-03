@@ -3,9 +3,9 @@
 # SOURCE: https://github.com/blackmatrix7/ios_rule_script/blob/master/rule/Surge/ByteDance/ByteDance_Resolve.list
 # GENERATED-FOR: Anywhere Routing Rule Set
 # NOTE: DOMAIN rules are mapped to Anywhere domain suffix rules.
-# RULES: 370
+# RULES: 371
 # SKIPPED: 2
-# UPSTREAM-UPDATED: 2025-09-28 02:08:33
+# UPSTREAM-UPDATED: 2026-10-04 04:29:43
 # SKIPPED-TYPES: PROCESS-NAME=1, USER-AGENT=1
 
 name = ByteDance
@@ -54,14 +54,10 @@ name = ByteDance
 2, byteeffecttos.com
 2, bytefcdn.com
 2, bytefcdnrd.com
-2, bytegecko.com
-2, bytegoofy.com
 2, bytegslb.com
-2, byteimg.com
 2, bytelb.net
 2, bytelove.cn
 2, bytemaimg.com
-2, bytescm.com
 2, bytesfield.com
 2, bytesmanager.com
 2, bytesyscdn.com
@@ -168,7 +164,6 @@ name = ByteDance
 2, huoshanzhibo.cn
 2, huoshanzhibo.com
 2, huoshanzhibo.net
-2, ibytedapm.com
 2, icphoto.cn
 2, idouyinpic.com
 2, idouyinstatic.com
@@ -345,7 +340,6 @@ name = ByteDance
 2, yhgfb-cn-static.com
 2, youdianyisi.com
 2, yueantech.com.cn
-2, zijieapi.com
 2, zijiecdn.cn
 2, zijiecdn.com
 2, zijiecdn.net
@@ -369,13 +363,20 @@ name = ByteDance
 2, zlinkurl.cn
 2, zlinkurl.com
 2, amemv.com
+2, bytegecko.com
+2, bytegoofy.com
+2, bytehwm.com
+2, byteimg.com
+2, bytescm.com
 2, douyincdn.com
 2, douyinpic.com
 2, douyinstatic.com
 2, douyinvod.com
+2, ibytedapm.com
 2, idouyinvod.com
 2, ixigua.com
 2, ixiguavideo.com
 2, pstatp.com
 2, toutiao.com
+2, zijieapi.com
 0, 114.246.10.65/32
