@@ -1,7 +1,7 @@
 # NAME: GFW
 # GENERATED-FOR: Anywhere Routing Rule Set
 # DESCRIPTION: GFW 域名列表
-# RULES: 4393
+# RULES: 4429
 # SKIPPED: 0
 # SOURCES:
 # - https://raw.githubusercontent.com/Loyalsoldier/v2ray-rules-dat/release/gfw.txt
@@ -139,6 +139,7 @@ name = GFW
 2, agro.hk
 2, ai.dev
 2, ai.studio
+2, aidc.com.tw
 2, aihub.top
 2, aiosearch.com
 2, aiph.net
@@ -537,6 +538,7 @@ name = GFW
 2, bloombergview.com
 2, bloomfortune.com
 2, blubrry.com
+2, blue-plus.net
 2, bmdru.com
 2, bnbstatic.com
 2, bnext.com.tw
@@ -559,6 +561,7 @@ name = GFW
 2, boxpn.com
 2, boxun.com
 2, boxun.tv
+2, boylove.cc
 2, boysmaster.com
 2, br.st
 2, braumeister.org
@@ -635,6 +638,7 @@ name = GFW
 2, campaign-archive.com
 2, campaignforuyghurs.org
 2, cams.com
+2, cangku.moe
 2, canva.com
 2, canyu.org
 2, caobian.info
@@ -878,6 +882,7 @@ name = GFW
 2, coursehero.com
 2, covenantswatch.org.tw
 2, coze.com
+2, cpc.com.tw
 2, cpj.org
 2, cpu-monkey.com
 2, cq99.us
@@ -900,6 +905,7 @@ name = GFW
 2, crucial.com
 2, crunchyroll.com
 2, cruxpool.com
+2, csc.com.tw
 2, csdparty.com
 2, csis.org
 2, csmonitor.com
@@ -989,6 +995,7 @@ name = GFW
 2, devio.us
 2, devpn.com
 2, devv.ai
+2, dh.net
 2, diaoyuislands.org
 2, digiland.tw
 2, digisfera.com
@@ -1175,6 +1182,7 @@ name = GFW
 2, evschool.net
 2, exchristian.hk
 2, exhentai.org
+2, eximbank.com.tw
 2, exmo.com
 2, exmormon.org
 2, expatshield.com
@@ -1828,7 +1836,9 @@ name = GFW
 2, hakkatv.org.tw
 2, halktv.com.tr
 2, hanime.tv
+2, hanime1.com
 2, hanime1.me
+2, hanimeone.me
 2, hardsextube.com
 2, hautelook.com
 2, hautelookcdn.com
@@ -1851,6 +1861,7 @@ name = GFW
 2, helpster.de
 2, hembed.com
 2, hentai.tv
+2, hentaiclub.net
 2, heqinglian.net
 2, heritage.org
 2, herokuapp.com
@@ -1996,6 +2007,7 @@ name = GFW
 2, iask.ca
 2, iavian.net
 2, ibvpn.com
+2, icdf.org.tw
 2, icedrive.net
 2, icij.org
 2, icl-fi.org
@@ -2053,6 +2065,7 @@ name = GFW
 2, indiandefensenews.in
 2, indiatoday.in
 2, indiemerch.com
+2, indsr.org.tw
 2, inews-api.tvb.com
 2, info-graf.fr
 2, infosec.exchange
@@ -2079,6 +2092,7 @@ name = GFW
 2, investing.com
 2, invidio.us
 2, inxian.com
+2, ipac.global
 2, ipdefenseforum.com
 2, ipfire.org
 2, ipfs.4everland.io
@@ -2137,9 +2151,11 @@ name = GFW
 2, jav321.com
 2, javakiba.org
 2, javbus.com
+2, javchu.com
 2, javdb.com
 2, javfinder.ai
 2, javfor.me
+2, javfree.me
 2, javhub.net
 2, javhuge.com
 2, javlibrary.com
@@ -2161,6 +2177,7 @@ name = GFW
 2, jinx.com
 2, jitouch.com
 2, jkb.cc
+2, jkforum.net
 2, jma.go.jp
 2, jmsc.hku.hk
 2, jmscult.com
@@ -2208,6 +2225,7 @@ name = GFW
 2, keycdn.com
 2, kfor.com
 2, khatrimaza.org
+2, khc.edu.tw
 2, kichiku-doujinko.com
 2, kik.com
 2, killwall.com
@@ -2253,6 +2271,7 @@ name = GFW
 2, lama.com.tw
 2, lamayeshe.com
 2, lamnia.co.uk
+2, landbank.com.tw
 2, landofhope.tv
 2, lantern.io
 2, laogai.org
@@ -2406,6 +2425,7 @@ name = GFW
 2, mastodon.xyz
 2, matainja.com
 2, material.io
+2, matichon.co.th
 2, matome-plus.com
 2, matome-plus.net
 2, matrix.org
@@ -2491,11 +2511,14 @@ name = GFW
 2, ministrybooks.org
 2, minzhuzhongguo.org
 2, miraheze.org
+2, mirdc.org.tw
 2, miroguide.com
 2, mirror.xyz
 2, mirrorbooks.com
 2, mirrormedia.mg
+2, missav.ai
 2, missav.com
+2, missav.live
 2, missav.ws
 2, mistral.ai
 2, mitbbs.com
@@ -2519,6 +2542,7 @@ name = GFW
 2, mod.io
 2, modernchinastudies.org
 2, moeerolibrary.com
+2, moeli-desu.com
 2, moeshare.cc
 2, mog.com
 2, mohu.club
@@ -2598,6 +2622,7 @@ name = GFW
 2, nationalawakening.org
 2, nationalinterest.org
 2, nationalreview.com
+2, nationthailand.com
 2, nationwide.com
 2, naughtyamerica.com
 2, naver.com
@@ -2609,6 +2634,7 @@ name = GFW
 2, nchrd.org
 2, ncn.org
 2, ndi.org
+2, ned.org
 2, nekoslovakia.net
 2, neo-miracle.com
 2, neodb.social
@@ -2700,6 +2726,7 @@ name = GFW
 2, npsboost.com
 2, nradio.me
 2, nrk.no
+2, nstc.org.tw
 2, ntd.tv
 2, ntdtv.com
 2, ntdtv.com.tw
@@ -2938,6 +2965,7 @@ name = GFW
 2, points-media.com
 2, pokerstars.com
 2, pokerstars.net
+2, poland.tw
 2, politicalchina.org
 2, poloniex.com
 2, polymarket.com
@@ -3033,6 +3061,7 @@ name = GFW
 2, qiangwaikan.com
 2, qiangyou.org
 2, qianmo.tw
+2, qingse.one
 2, qiwen.lu
 2, qmp4.com
 2, qobuz.com
@@ -3135,6 +3164,7 @@ name = GFW
 2, rocket-inc.net
 2, rocket.chat
 2, rocksdb.org
+2, rocmgov.org
 2, rojo.com
 2, rolfoundation.org
 2, rolia.net
@@ -3533,6 +3563,7 @@ name = GFW
 2, textnow.com
 2, textnow.me
 2, tfc-taiwan.org.tw
+2, tfd.org.tw
 2, tfhub.dev
 2, tfiflve.com
 2, tg-me.com
@@ -3726,6 +3757,7 @@ name = GFW
 2, tryheart.jp
 2, tsdr.uspto.gov
 2, tt1069.com
+2, ttl.com.tw
 2, tttan.com
 2, ttv.com.tw
 2, ttvnw.net
@@ -3778,6 +3810,7 @@ name = GFW
 2, tweez.net
 2, twelve.today
 2, twerkingbutt.com
+2, twfhcsec.com.tw
 2, twftp.org
 2, twgov.tw
 2, twgreatdaily.com
@@ -3820,6 +3853,7 @@ name = GFW
 2, twtkr.com
 2, twttr.com
 2, tx.me
+2, tybio.com.tw
 2, tycool.com
 2, typepad.com
 2, typeset.io
@@ -4009,6 +4043,7 @@ name = GFW
 2, vrchat.com
 2, vrporn.com
 2, vrsmash.com
+2, vscc.org.tw
 2, vtunnel.com
 2, vultryhw.com
 2, w-pool.com
@@ -4268,6 +4303,7 @@ name = GFW
 2, xvideos.com
 2, xvideos.es
 2, xvinlink.com
+2, xx.net
 2, xxx.com
 2, xxx.xxx
 2, xxxx.com.au
