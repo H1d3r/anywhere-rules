@@ -1,6 +1,6 @@
 # Anywhere Rules Catalog
 
-Generated from upstream: `blackmatrix7/ios_rule_script@master (5a61490ab88ddaff4e9dbd7740b881d75157a49f)`
+Generated from upstream: `blackmatrix7/ios_rule_script@master (124a5ab5504726bad72915baf3a6ca7e2c92ffcd)`
 
 | Name | Rules | Skipped | File |
 | --- | ---: | ---: | --- |
@@ -51,11 +51,11 @@ Generated from upstream: `blackmatrix7/ios_rule_script@master (5a61490ab88ddaff4
 | Advertising | 767 | 15 | [all/Advertising/Advertising.arrs](./all/Advertising/Advertising.arrs) |
 | Advertising_01 | 100000 | 15 | [all/Advertising/Advertising_All_01.arrs](./all/Advertising/Advertising_All_01.arrs) |
 | Advertising_02 | 100000 | 0 | [all/Advertising/Advertising_All_02.arrs](./all/Advertising/Advertising_All_02.arrs) |
-| Advertising_03 | 82499 | 0 | [all/Advertising/Advertising_All_03.arrs](./all/Advertising/Advertising_All_03.arrs) |
+| Advertising_03 | 83445 | 0 | [all/Advertising/Advertising_All_03.arrs](./all/Advertising/Advertising_All_03.arrs) |
 | Advertising_01 | 100000 | 15 | [all/Advertising/Advertising_All_No_Resolve_01.arrs](./all/Advertising/Advertising_All_No_Resolve_01.arrs) |
 | Advertising_02 | 100000 | 0 | [all/Advertising/Advertising_All_No_Resolve_02.arrs](./all/Advertising/Advertising_All_No_Resolve_02.arrs) |
-| Advertising_03 | 82499 | 0 | [all/Advertising/Advertising_All_No_Resolve_03.arrs](./all/Advertising/Advertising_All_No_Resolve_03.arrs) |
-| Advertising | 0 | 281732 | [all/Advertising/Advertising_Domain.arrs](./all/Advertising/Advertising_Domain.arrs) |
+| Advertising_03 | 83445 | 0 | [all/Advertising/Advertising_All_No_Resolve_03.arrs](./all/Advertising/Advertising_All_No_Resolve_03.arrs) |
+| Advertising | 0 | 282678 | [all/Advertising/Advertising_Domain.arrs](./all/Advertising/Advertising_Domain.arrs) |
 | Advertising | 767 | 15 | [all/Advertising/Advertising_Resolve.arrs](./all/Advertising/Advertising_Resolve.arrs) |
 | AdvertisingLite | 374 | 3 | [all/AdvertisingLite/AdvertisingLite.arrs](./all/AdvertisingLite/AdvertisingLite.arrs) |
 | AdvertisingLite | 38066 | 3 | [all/AdvertisingLite/AdvertisingLite_All.arrs](./all/AdvertisingLite/AdvertisingLite_All.arrs) |
@@ -67,12 +67,12 @@ Generated from upstream: `blackmatrix7/ios_rule_script@master (5a61490ab88ddaff4
 | AdvertisingTest_01 | 100000 | 15 | [all/AdvertisingTest/AdvertisingTest_All_01.arrs](./all/AdvertisingTest/AdvertisingTest_All_01.arrs) |
 | AdvertisingTest_02 | 100000 | 0 | [all/AdvertisingTest/AdvertisingTest_All_02.arrs](./all/AdvertisingTest/AdvertisingTest_All_02.arrs) |
 | AdvertisingTest_03 | 100000 | 0 | [all/AdvertisingTest/AdvertisingTest_All_03.arrs](./all/AdvertisingTest/AdvertisingTest_All_03.arrs) |
-| AdvertisingTest_04 | 7119 | 0 | [all/AdvertisingTest/AdvertisingTest_All_04.arrs](./all/AdvertisingTest/AdvertisingTest_All_04.arrs) |
+| AdvertisingTest_04 | 7781 | 0 | [all/AdvertisingTest/AdvertisingTest_All_04.arrs](./all/AdvertisingTest/AdvertisingTest_All_04.arrs) |
 | AdvertisingTest_01 | 100000 | 15 | [all/AdvertisingTest/AdvertisingTest_All_No_Resolve_01.arrs](./all/AdvertisingTest/AdvertisingTest_All_No_Resolve_01.arrs) |
 | AdvertisingTest_02 | 100000 | 0 | [all/AdvertisingTest/AdvertisingTest_All_No_Resolve_02.arrs](./all/AdvertisingTest/AdvertisingTest_All_No_Resolve_02.arrs) |
 | AdvertisingTest_03 | 100000 | 0 | [all/AdvertisingTest/AdvertisingTest_All_No_Resolve_03.arrs](./all/AdvertisingTest/AdvertisingTest_All_No_Resolve_03.arrs) |
-| AdvertisingTest_04 | 7119 | 0 | [all/AdvertisingTest/AdvertisingTest_All_No_Resolve_04.arrs](./all/AdvertisingTest/AdvertisingTest_All_No_Resolve_04.arrs) |
-| AdvertisingTest | 0 | 306328 | [all/AdvertisingTest/AdvertisingTest_Domain.arrs](./all/AdvertisingTest/AdvertisingTest_Domain.arrs) |
+| AdvertisingTest_04 | 7781 | 0 | [all/AdvertisingTest/AdvertisingTest_All_No_Resolve_04.arrs](./all/AdvertisingTest/AdvertisingTest_All_No_Resolve_04.arrs) |
+| AdvertisingTest | 0 | 306990 | [all/AdvertisingTest/AdvertisingTest_Domain.arrs](./all/AdvertisingTest/AdvertisingTest_Domain.arrs) |
 | AdvertisingTest | 791 | 15 | [all/AdvertisingTest/AdvertisingTest_Resolve.arrs](./all/AdvertisingTest/AdvertisingTest_Resolve.arrs) |
 | Aerogard | 3 | 0 | [all/Aerogard/Aerogard.arrs](./all/Aerogard/Aerogard.arrs) |
 | Afdian | 2 | 0 | [all/Afdian/Afdian.arrs](./all/Afdian/Afdian.arrs) |
@@ -206,10 +206,10 @@ Generated from upstream: `blackmatrix7/ios_rule_script@master (5a61490ab88ddaff4
 | ChinaIPs | 13631 | 0 | [all/ChinaIPs/ChinaIPs_No_IPv6.arrs](./all/ChinaIPs/ChinaIPs_No_IPv6.arrs) |
 | ChinaIPs | 13631 | 0 | [all/ChinaIPs/ChinaIPs_No_IPv6_Resolve.arrs](./all/ChinaIPs/ChinaIPs_No_IPv6_Resolve.arrs) |
 | ChinaIPs | 19258 | 0 | [all/ChinaIPs/ChinaIPs_Resolve.arrs](./all/ChinaIPs/ChinaIPs_Resolve.arrs) |
-| ChinaIPsTest | 22776 | 0 | [all/ChinaIPs/ChinaIPsTest/ChinaIPsTest.arrs](./all/ChinaIPs/ChinaIPsTest/ChinaIPsTest.arrs) |
+| ChinaIPsTest | 22778 | 0 | [all/ChinaIPs/ChinaIPsTest/ChinaIPsTest.arrs](./all/ChinaIPs/ChinaIPsTest/ChinaIPsTest.arrs) |
 | ChinaIPsTest | 15982 | 0 | [all/ChinaIPs/ChinaIPsTest/ChinaIPsTest_No_IPv6.arrs](./all/ChinaIPs/ChinaIPsTest/ChinaIPsTest_No_IPv6.arrs) |
 | ChinaIPsTest | 15982 | 0 | [all/ChinaIPs/ChinaIPsTest/ChinaIPsTest_No_IPv6_Resolve.arrs](./all/ChinaIPs/ChinaIPsTest/ChinaIPsTest_No_IPv6_Resolve.arrs) |
-| ChinaIPsTest | 22776 | 0 | [all/ChinaIPs/ChinaIPsTest/ChinaIPsTest_Resolve.arrs](./all/ChinaIPs/ChinaIPsTest/ChinaIPsTest_Resolve.arrs) |
+| ChinaIPsTest | 22778 | 0 | [all/ChinaIPs/ChinaIPsTest/ChinaIPsTest_Resolve.arrs](./all/ChinaIPs/ChinaIPsTest/ChinaIPsTest_Resolve.arrs) |
 | ChinaIPsBGP | 3916 | 0 | [all/ChinaIPsBGP/ChinaIPsBGP.arrs](./all/ChinaIPsBGP/ChinaIPsBGP.arrs) |
 | ChinaIPsBGP | 3916 | 0 | [all/ChinaIPsBGP/ChinaIPsBGP_Resolve.arrs](./all/ChinaIPsBGP/ChinaIPsBGP_Resolve.arrs) |
 | ChinaMax | 12578 | 78 | [all/ChinaMax/ChinaMax.arrs](./all/ChinaMax/ChinaMax.arrs) |
@@ -417,9 +417,9 @@ Generated from upstream: `blackmatrix7/ios_rule_script@master (5a61490ab88ddaff4
 | GitHub | 31 | 0 | [all/GitHub/GitHub.arrs](./all/GitHub/GitHub.arrs) |
 | GitLab | 6 | 0 | [all/GitLab/GitLab.arrs](./all/GitLab/GitLab.arrs) |
 | Global | 155 | 47 | [all/Global/Global.arrs](./all/Global/Global.arrs) |
-| Global | 35066 | 47 | [all/Global/Global_All.arrs](./all/Global/Global_All.arrs) |
-| Global | 35066 | 47 | [all/Global/Global_All_No_Resolve.arrs](./all/Global/Global_All_No_Resolve.arrs) |
-| Global | 0 | 34911 | [all/Global/Global_Domain.arrs](./all/Global/Global_Domain.arrs) |
+| Global | 35067 | 47 | [all/Global/Global_All.arrs](./all/Global/Global_All.arrs) |
+| Global | 35067 | 47 | [all/Global/Global_All_No_Resolve.arrs](./all/Global/Global_All_No_Resolve.arrs) |
+| Global | 0 | 34912 | [all/Global/Global_Domain.arrs](./all/Global/Global_Domain.arrs) |
 | Global | 155 | 47 | [all/Global/Global_Resolve.arrs](./all/Global/Global_Resolve.arrs) |
 | GlobalMedia | 951 | 73 | [all/GlobalMedia/GlobalMedia.arrs](./all/GlobalMedia/GlobalMedia.arrs) |
 | GlobalMedia | 2262 | 73 | [all/GlobalMedia/GlobalMedia_All.arrs](./all/GlobalMedia/GlobalMedia_All.arrs) |
