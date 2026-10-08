@@ -3,9 +3,9 @@
 # SOURCE: https://github.com/blackmatrix7/ios_rule_script/blob/master/rule/Surge/Proxy/Proxy_All.list
 # GENERATED-FOR: Anywhere Routing Rule Set
 # NOTE: DOMAIN rules are mapped to Anywhere domain suffix rules.
-# RULES: 6930
+# RULES: 6962
 # SKIPPED: 8
-# UPSTREAM-UPDATED: 2026-10-04 04:29:34
+# UPSTREAM-UPDATED: 2026-10-08 06:31:59
 # SKIPPED-TYPES: USER-AGENT=8
 
 name = Proxy
@@ -243,6 +243,7 @@ name = Proxy
 2, ai-wen.net
 2, ai.dev
 2, ai.studio
+2, aidc.com.tw
 2, aihub.top
 2, aiosearch.com
 2, aiph.net
@@ -753,6 +754,7 @@ name = Proxy
 2, bloombergview.com
 2, bloomfortune.com
 2, blubrry.com
+2, blue-plus.net
 2, blueangellive.com
 2, bmdru.com
 2, bmfinn.com
@@ -790,6 +792,7 @@ name = Proxy
 2, boxunclub.com
 2, boyangu.com
 2, boyfriendtv.com
+2, boylove.cc
 2, boysfood.com
 2, boysmaster.com
 2, br.st
@@ -911,6 +914,7 @@ name = Proxy
 2, cams.com
 2, cams.org.sg
 2, canadameet.com
+2, cangku.moe
 2, cantonese.asia
 2, canva.com
 2, canyu.org
@@ -1279,6 +1283,7 @@ name = Proxy
 2, coursehero.com
 2, covenantswatch.org.tw
 2, coze.com
+2, cpc.com.tw
 2, cpj.org
 2, cpu-monkey.com
 2, cq99.us
@@ -1308,6 +1313,7 @@ name = Proxy
 2, crunchyroll.com
 2, cruxpool.com
 2, cryptographyengineering.com
+2, csc.com.tw
 2, csdparty.com
 2, csis.org
 2, csmonitor.com
@@ -1459,6 +1465,7 @@ name = Proxy
 2, devv.ai
 2, dfas.mil
 2, dfn.org
+2, dh.net
 2, dharamsalanet.com
 2, dharmakara.net
 2, dhcp.biz
@@ -1797,6 +1804,7 @@ name = Proxy
 2, exchristian.hk
 2, excite.co.jp
 2, exhentai.org
+2, eximbank.com.tw
 2, exmo.com
 2, exmormon.org
 2, expatshield.com
@@ -2515,7 +2523,9 @@ name = Proxy
 2, halktv.com.tr
 2, handcraftedsoftware.org
 2, hanime.tv
+2, hanime1.com
 2, hanime1.me
+2, hanimeone.me
 2, hanminzu.org
 2, hanunyi.com
 2, hao.news
@@ -2561,6 +2571,7 @@ name = Proxy
 2, hembed.com
 2, hentai.to
 2, hentai.tv
+2, hentaiclub.net
 2, hentaitube.tv
 2, hentaivideoworld.com
 2, heqinglian.net
@@ -2819,6 +2830,7 @@ name = Proxy
 2, ibvpn.com
 2, ibytedtos.com
 2, icams.com
+2, icdf.org.tw
 2, icedrive.net
 2, icerocket.com
 2, icfcdn.com
@@ -2947,6 +2959,7 @@ name = Proxy
 2, iownyour.biz
 2, iownyour.org
 2, ip.sb
+2, ipac.global
 2, ipaddress.com
 2, ipalter.com
 2, ipdefenseforum.com
@@ -3055,6 +3068,7 @@ name = Proxy
 2, javakiba.org
 2, javbus.co
 2, javbus.com
+2, javchu.com
 2, javdb.com
 2, javfinder.ai
 2, javfor.me
@@ -3206,6 +3220,7 @@ name = Proxy
 2, kfor.com
 2, khabdha.org
 2, khatrimaza.org
+2, khc.edu.tw
 2, khmusic.com.tw
 2, kichiku-doujinko.com
 2, kik.com
@@ -3278,6 +3293,7 @@ name = Proxy
 2, lamayeshe.com
 2, lamnia.co.uk
 2, lamrim.com
+2, landbank.com.tw
 2, landofhope.tv
 2, lantern.io
 2, lantosfoundation.org
@@ -3542,6 +3558,7 @@ name = Proxy
 2, mathable.io
 2, mathiew-badimon.com
 2, mathjax.org
+2, matichon.co.th
 2, matome-plus.com
 2, matome-plus.net
 2, matrix.org
@@ -3677,12 +3694,15 @@ name = Proxy
 2, minzhuzhanxian.com
 2, minzhuzhongguo.org
 2, miraheze.org
+2, mirdc.org.tw
 2, miroguide.com
 2, mirror.xyz
 2, mirrorbooks.com
 2, mirrormedia.com.tw
 2, mirrormedia.mg
+2, missav.ai
 2, missav.com
+2, missav.live
 2, missav.ws
 2, mist.vip
 2, mistral.ai
@@ -3718,6 +3738,7 @@ name = Proxy
 2, modmyi.com
 2, moeerolibrary.com
 2, moegirl.org
+2, moeli-desu.com
 2, moeshare.cc
 2, mofaxiehui.com
 2, mofos.com
@@ -3897,6 +3918,7 @@ name = Proxy
 2, nationalinterest.org
 2, nationalreview.com
 2, nationsonline.org
+2, nationthailand.com
 2, nationwide.com
 2, naughtyamerica.com
 2, naver.com
@@ -4079,6 +4101,7 @@ name = Proxy
 2, ns2.name
 2, ns3.name
 2, nssurge.com
+2, nstc.org.tw
 2, ntd.tv
 2, ntdtv.ca
 2, ntdtv.co.kr
@@ -4476,6 +4499,7 @@ name = Proxy
 2, pokerstars.com
 2, pokerstars.net
 2, pokerstrategy.com
+2, poland.tw
 2, politicalchina.org
 2, politicalconsultation.org
 2, politiscales.net
@@ -4616,6 +4640,7 @@ name = Proxy
 2, qianmo.tw
 2, qidian.ca
 2, qienkuen.org
+2, qingse.one
 2, qiwen.lu
 2, qkshare.com
 2, qmp4.com
@@ -4781,6 +4806,7 @@ name = Proxy
 2, rocketbbs.com
 2, rocketcdn.me
 2, rocksdb.org
+2, rocmgov.org
 2, rojo.com
 2, rolfoundation.org
 2, rolia.net
@@ -5475,6 +5501,7 @@ name = Proxy
 2, textnow.com
 2, textnow.me
 2, tfc-taiwan.org.tw
+2, tfd.org.tw
 2, tfhub.dev
 2, tfiflve.com
 2, tg-me.com
@@ -5783,6 +5810,7 @@ name = Proxy
 2, tsunagarumon.com
 2, tt-rss.org
 2, tt1069.com
+2, ttl.com.tw
 2, tttan.com
 2, ttv.com.tw
 2, ttwstatic.com
@@ -5875,6 +5903,7 @@ name = Proxy
 2, tweez.net
 2, twelve.today
 2, twerkingbutt.com
+2, twfhcsec.com.tw
 2, twftp.org
 2, twgov.tw
 2, twgreatdaily.com
@@ -5940,6 +5969,7 @@ name = Proxy
 2, tx.me
 2, txmblr.com
 2, txxx.com
+2, tybio.com.tw
 2, tycool.com
 2, typcn.com
 2, typekit.net
@@ -6235,6 +6265,7 @@ name = Proxy
 2, vrchat.com
 2, vrmtr.com
 2, vrsmash.com
+2, vscc.org.tw
 2, vsco.co
 2, vtunnel.com
 2, vuku.cc
@@ -6606,6 +6637,7 @@ name = Proxy
 2, xvideos.com
 2, xvideos.es
 2, xvinlink.com
+2, xx.net
 2, xxbbx.com
 2, xxlmovies.com
 2, xxuz.com
