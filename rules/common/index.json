@@ -1,6 +1,6 @@
 {
   "total_files": 40,
-  "total_rules": 97856,
+  "total_rules": 98051,
   "total_skipped": 125,
   "files": [
     {
@@ -370,7 +370,7 @@
       "name": "CN_Additional",
       "description": "中国大陆域名补充",
       "output_path": "common/CN_Additional.arrs",
-      "rule_count": 44351,
+      "rule_count": 44546,
       "skipped_count": 0,
       "unsupported_types": {},
       "sources": [

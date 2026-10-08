@@ -33,7 +33,7 @@
 | Bilibili | 20 | 0 | Bilibili | [common/Bilibili.arrs](./Bilibili.arrs) |
 | WeChat | 339 | 2 | WeChat | [common/WeChat.arrs](./WeChat.arrs) |
 | ChinaDomain | 868 | 4 | 中国大陆常见域名直连 | [common/ChinaDomain.arrs](./ChinaDomain.arrs) |
-| CN_Additional | 44351 | 0 | 中国大陆域名补充 | [common/CN_Additional.arrs](./CN_Additional.arrs) |
+| CN_Additional | 44546 | 0 | 中国大陆域名补充 | [common/CN_Additional.arrs](./CN_Additional.arrs) |
 | ChinaIP | 9648 | 0 | 中国大陆 IP CIDR | [common/ChinaIP.arrs](./ChinaIP.arrs) |
 | Lan | 14 | 0 | 局域网和私有地址 | [common/Lan.arrs](./Lan.arrs) |
 | Game | 597 | 0 | 游戏平台集合 | [common/Game.arrs](./Game.arrs) |
