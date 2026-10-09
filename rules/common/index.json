@@ -1,7 +1,7 @@
 {
   "total_files": 40,
-  "total_rules": 98051,
-  "total_skipped": 125,
+  "total_rules": 97983,
+  "total_skipped": 126,
   "files": [
     {
       "name": "Reject",
@@ -50,7 +50,7 @@
       "name": "Proxy",
       "description": "常用代理域名集合",
       "output_path": "common/Proxy.arrs",
-      "rule_count": 1568,
+      "rule_count": 1571,
       "skipped_count": 2,
       "unsupported_types": {
         "USER-AGENT": 2
@@ -64,7 +64,7 @@
       "name": "ProxyGFW",
       "description": "GFW 代理集合",
       "output_path": "common/ProxyGFW.arrs",
-      "rule_count": 7606,
+      "rule_count": 7609,
       "skipped_count": 1,
       "unsupported_types": {
         "USER-AGENT": 1
@@ -381,7 +381,7 @@
       "name": "ChinaIP",
       "description": "中国大陆 IP CIDR",
       "output_path": "common/ChinaIP.arrs",
-      "rule_count": 9648,
+      "rule_count": 9609,
       "skipped_count": 0,
       "unsupported_types": {},
       "sources": [
@@ -449,10 +449,10 @@
       "name": "CDN",
       "description": "SukkaW CDN 直连辅助",
       "output_path": "common/CDN.arrs",
-      "rule_count": 4706,
-      "skipped_count": 58,
+      "rule_count": 4710,
+      "skipped_count": 59,
       "unsupported_types": {
-        "DOMAIN-WILDCARD": 58
+        "DOMAIN-WILDCARD": 59
       },
       "sources": [
         "https://ruleset.skk.moe/List/domainset/cdn.conf",
@@ -477,7 +477,7 @@
       "name": "GeoIP_CN",
       "description": "GeoIP 中国大陆 IP CIDR",
       "output_path": "common/GeoIP_CN.arrs",
-      "rule_count": 9847,
+      "rule_count": 9808,
       "skipped_count": 0,
       "unsupported_types": {},
       "sources": [

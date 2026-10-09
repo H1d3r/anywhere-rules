@@ -1,7 +1,7 @@
 # NAME: ProxyGFW
 # GENERATED-FOR: Anywhere Routing Rule Set
 # DESCRIPTION: GFW 代理集合
-# RULES: 7606
+# RULES: 7609
 # SKIPPED: 1
 # SKIPPED-TYPES: USER-AGENT=1
 # SOURCES:
@@ -7128,6 +7128,7 @@ name = ProxyGFW
 2, tokens.ci
 2, umblr.com
 2, upjav.org
+2, vanta.com
 2, whoer.com
 2, wiki2.org
 2, windy.com
@@ -7482,6 +7483,7 @@ name = ProxyGFW
 2, trustpilot.com
 2, trustpilot.net
 2, vanityfair.com
+2, approveit.today
 2, ccmdl.adobe.com
 2, cosplay-jav.com
 2, crashlytics.com
@@ -7541,6 +7543,7 @@ name = ProxyGFW
 2, ovpnleaktest.com
 2, privacytest.info
 2, surfsharkdns.com
+2, surveymonkey.com
 2, tokto-motion.net
 2, vesselfinder.com
 2, vesselfinder.net

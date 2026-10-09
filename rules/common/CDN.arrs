@@ -1,9 +1,9 @@
 # NAME: CDN
 # GENERATED-FOR: Anywhere Routing Rule Set
 # DESCRIPTION: SukkaW CDN 直连辅助
-# RULES: 4706
-# SKIPPED: 58
-# SKIPPED-TYPES: DOMAIN-WILDCARD=58
+# RULES: 4710
+# SKIPPED: 59
+# SKIPPED-TYPES: DOMAIN-WILDCARD=59
 # SOURCES:
 # - https://ruleset.skk.moe/List/domainset/cdn.conf
 # - https://ruleset.skk.moe/List/non_ip/cdn.conf
@@ -1789,6 +1789,7 @@ routing = 1
 2, assets.toot.cafe
 2, assets.twitch.tv
 2, assets.upload.io
+2, assets.vanta.com
 2, assets.vogue.com
 2, assets.volvo.com
 2, assets.xmind.net
@@ -2360,6 +2361,7 @@ routing = 1
 2, media.zestyio.com
 2, mediadelivery.net
 2, monitor.azure.com
+2, n.approveit.today
 2, netlify.apollo.io
 2, notion-static.com
 2, ocsp.comodoca.com
@@ -4400,6 +4402,7 @@ routing = 1
 2, prego-cache.prod.sketch.com
 2, public-pages.cbinsights.com
 2, resources-live.sketch.cloud
+2, rum-ingest.us1.signalfx.com
 2, safebrowsing.googleapis.com
 2, sessions-bugsnag.docker.com
 2, siteintercept.qualtrics.com
@@ -4409,6 +4412,7 @@ routing = 1
 2, static-mh.content.disney.io
 2, static-production.npmjs.com
 2, static-webfonts.myfonts.com
+2, static.acm.account.sony.com
 2, static.captcha-delivery.com
 2, sts.online.visualstudio.com
 2, tvdownloaddw-a.akamaihd.net
